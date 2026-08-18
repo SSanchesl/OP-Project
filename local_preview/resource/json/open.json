@@ -791,5 +791,14 @@
     "dependOn": 1,
     "dependOnPara": 220,
     "name": "open_name_63"
+  },
+  "999": {
+    "id": 999,
+    "type": "功能",
+    "nameNew": "openGenki",
+    "level": 1,
+    "dependOn": 1,
+    "dependOnPara": 1,
+    "name": "openGenki"
   }
 }

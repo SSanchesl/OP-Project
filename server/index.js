@@ -76,6 +76,9 @@ function buildTeamMember(heroDisplayId, position, stats) {
     _attrs: attrs,
     _baseAttrs: attrs,
     _exAttrs: attrs,
+    _heroBaseAttr: { _level: 1, _evolveLevel: 0 },
+    _level: 1,
+    _heroStar: 1,
   };
 }
 
@@ -414,6 +417,12 @@ on("hero", "getExtraAttr", (payload) => {
     extraAttrs[index] = zeroAttrs;
   });
   return ok({ _extraAttrs: extraAttrs });
+});
+on("hero", "splitHero", (payload) => {
+  return ok({
+    _items: [],
+    _delHeroIds: (payload && (payload.heros || (payload.clientData && payload.clientData.heroIds))) || [],
+  });
 });
 on("heroImage", "getAll", () => ok({}));
 on("userMsg", "getMsgList", () => ok({ _brief: [] }));
