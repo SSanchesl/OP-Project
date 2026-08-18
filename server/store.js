@@ -103,6 +103,9 @@ function getOrCreateUser(userId) {
       createdAt: Date.now(),
       progress: { curLess: 10101, maxPassLesson: 0, maxPassChapter: 0 },
       heroes: defaultHeroes(),
+      guideSteps: { "1": 2101 },
+      headImage: 1,
+      nickName: userId,
     };
     saveAll(all);
   }
@@ -112,6 +115,10 @@ function getOrCreateUser(userId) {
   }
   if (!all[userId].heroes) {
     all[userId].heroes = defaultHeroes();
+    saveAll(all);
+  }
+  if (!all[userId].guideSteps) {
+    all[userId].guideSteps = { "1": 2101 };
     saveAll(all);
   }
   return all[userId];
@@ -145,8 +152,8 @@ function buildEnterGamePayload(save) {
     user: {
       _id: save.userId,
       _pwd: "",
-      _nickName: save.userId,
-      _headImage: 1,
+      _nickName: save.nickName || save.userId,
+      _headImage: save.headImage || 1,
       _lastLoginTime: Date.now(),
       _createTime: save.createdAt,
       _bulletinVersions: {},
@@ -195,6 +202,10 @@ function buildEnterGamePayload(save) {
     // setMianTask so roda se houver pelo menos 1 chave). 6001 = 1a missao
     // principal (task.json).
     curMainTask: { task1: { _id: 6001, _state: 1 } },
+    guide: {
+      _id: save.userId,
+      _steps: save.guideSteps || { "1": 2101 },
+    },
     // Campos lidos sem guarda de undefined em saveUserData/initData -
     // precisam existir (mesmo vazios) para nao lancar excecao.
     scheduleInfo: {},
