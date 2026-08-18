@@ -108,9 +108,16 @@ window.addEventListener('unhandledrejection', function(e){
     egret.runEgret({renderMode:"webgl", audioType:0, antialias:true});
 </script>
 <script>
-// Corrige bugs no sistema de dialogos/tutorial guiado (TSGuideNode)
+// Corrige bugs no sistema de dialogos/tutorial guiado e destrava batalha
 (function () {
     var iv = setInterval(function () {
+        if (window.OnHookSingleton && OnHookSingleton.prototype && !OnHookSingleton.prototype.__safePowerPatched) {
+            OnHookSingleton.prototype.__safePowerPatched = true;
+            OnHookSingleton.prototype.getNeedPower = function () {
+                return 0; // Garante que poder minimo nunca impeça de iniciar a batalha
+            };
+        }
+
         if (window.TSGuideNode && TSGuideNode.prototype && !TSGuideNode.prototype.__tapFixApplied) {
             TSGuideNode.prototype.__tapFixApplied = true;
 
@@ -118,8 +125,7 @@ window.addEventListener('unhandledrejection', function(e){
             TSGuideNode.prototype.buttonGuideTap = function () {
                 var node = this;
                 origButtonGuideTap.apply(node, arguments);
-                // bug original: toque antes do delayTime deixa isClick travado em
-                // false pra sempre - reabilita o proximo toque.
+                // reabilita o proximo toque mesmo se tiver delay pendente
                 if (!node.isClick) node.isClick = true;
             };
 
@@ -129,20 +135,15 @@ window.addEventListener('unhandledrejection', function(e){
                 var wasClickable = node.isClick;
                 origPlayHeroAnimation.apply(node, arguments);
                 if (wasClickable) {
-                    // watchdog: se a animacao de troca nunca completar (evento
-                    // COMPLETE do DragonBones nunca dispara), destrava o toque
-                    // mesmo assim depois de alguns segundos.
                     setTimeout(function () {
                         if (!node.isClick) {
-                            console.warn("[guide-fix] animacao de troca nao completou a tempo, destravando toque");
-                            try { GuideInfoManager.getInstance().triggerGuide(); } catch (e) { /* ja deve ter avancado por outro caminho */ }
+                            console.warn("[guide-fix] destravando toque do tutorial");
+                            try { GuideInfoManager.getInstance().triggerGuide(); } catch (e) { }
                             node.isClick = true;
                         }
-                    }, 4000);
+                    }, 2000);
                 }
             };
-
-            clearInterval(iv);
         }
     }, 200);
 })();
