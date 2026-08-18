@@ -57,8 +57,13 @@
      data-content-width="720" data-content-height="1280"
      data-multi-fingered="2" data-show-fps="true" data-show-log="true" data-show-fps-style="x:0,y:0,size:12,textColor:0xffffff,bgAlpha:0.9">
 </div>
-<script>window.__errors = [];
+<script>
+window.__errors = [];
 window.addEventListener('error', function(e){ window.__errors.push((e.message||'')+' @ '+(e.filename||'')+':'+(e.lineno||'')); });
+window.addEventListener('unhandledrejection', function(e){ 
+    e.preventDefault && e.preventDefault();
+    console.warn('[handled-rejection]', e.reason); 
+});
 </script>
 <script src="js/promise.min_83a6a5d.js"></script>
 <script src="js/lz-string.min_29cb8e16.js"></script>
@@ -76,25 +81,34 @@ window.addEventListener('error', function(e){ window.__errors.push((e.message||'
 <script src="js/game.min_16249d0f.js"></script>
 <script src="js/main.min_21f8f348.js"></script>
 <script>
+    (function () {
+        var checkLogger = function() {
+            if (window.Logger && !window.Logger.__safePatched) {
+                window.Logger.__safePatched = true;
+                var origLog = window.Logger.serverDebugLog;
+                window.Logger.serverDebugLog = function() {
+                    try {
+                        var safeArgs = [];
+                        for (var i = 0; i < arguments.length; i++) {
+                            var item = arguments[i];
+                            if (item === null || item === undefined) safeArgs.push(String(item));
+                            else if (typeof item === 'object') safeArgs.push(item.message || item.msg || item.toString() || "[Object]");
+                            else safeArgs.push(item);
+                        }
+                        if (origLog) origLog.apply(window.Logger, safeArgs);
+                        else console.log.apply(console, ["[Logger]"].concat(safeArgs));
+                    } catch(err) {
+                        console.log("[LoggerSafeCatch]", arguments);
+                    }
+                };
+            }
+        };
+        setInterval(checkLogger, 100);
+    })();
     egret.runEgret({renderMode:"webgl", audioType:0, antialias:true});
 </script>
 <script>
-// Corrige dois bugs REAIS do proprio jogo original (jogo compilado,
-// nao e coisa nossa) no sistema de dialogos/tutorial guiado (TSGuideNode)
-// que trava o toque na tela PARA SEMPRE em certas condicoes - e exatamente
-// o "as vezes clico e nao sai" relatado: se voce toca ANTES do
-// "delayTime" configurado pra aquela tela terminar, o jogo original marca
-// "isClick=false" e NUNCA volta a marcar "true" de novo (bug de origem,
-// visivel no codigo minificado: buttonGuideTap so reseta isClick dentro
-// do "if" de sucesso). A partir dai nenhum toque seguinte funciona ate
-// recarregar a pagina. O mesmo padrao existe em playHeroAnimation (usado
-// no efeito de "troca de posicao" antes de uma batalha): se a animacao
-// DragonBones nunca disparar o evento COMPLETE (por qualquer motivo -
-// asset ausente, travamento do WebGL, etc), o toque tambem fica travado
-// pra sempre. Aqui a gente so GARANTE que, depois de cada toque, o estado
-// volta a permitir o proximo toque - sem mudar nenhum outro comportamento
-// (o jogo original ja reseta sozinho quando da certo; so cobrimos os
-// casos em que ele esquece de resetar).
+// Corrige bugs no sistema de dialogos/tutorial guiado (TSGuideNode)
 (function () {
     var iv = setInterval(function () {
         if (window.TSGuideNode && TSGuideNode.prototype && !TSGuideNode.prototype.__tapFixApplied) {

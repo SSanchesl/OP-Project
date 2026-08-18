@@ -138,7 +138,35 @@ app.post("/api/login", (req, res) => {
   res.json(result);
 });
 
+// 1x1 transparent PNG buffer (preenche imagens ausentes sem quebrar o loader)
+const DUMMY_PNG = Buffer.from("iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=", "base64");
+
+// Silent MP3 frame buffer (evita erro de decodificacao de audio quando faltar mp3)
+const DUMMY_MP3 = Buffer.from("//uQxAAAAANIAAAAAExBTUUzLjk4LjIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA", "base64");
+
 app.use(express.static(CLIENT_DIR));
+
+// Fallback para recursos de midia e fontes que o jogo tentar carregar e nao existirem em disco
+app.use((req, res, next) => {
+  const url = req.path.toLowerCase();
+  if (url.endsWith(".png") || url.endsWith(".jpg") || url.endsWith(".jpeg") || url.includes("_png") || url.includes("_jpg")) {
+    res.setHeader("Content-Type", "image/png");
+    return res.status(200).send(DUMMY_PNG);
+  }
+  if (url.endsWith(".mp3") || url.endsWith(".ogg") || url.endsWith(".wav")) {
+    res.setHeader("Content-Type", "audio/mpeg");
+    return res.status(200).send(DUMMY_MP3);
+  }
+  if (url.endsWith(".fnt")) {
+    res.setHeader("Content-Type", "text/plain");
+    return res.status(200).send('{"file":"dummy.png","frames":{}}');
+  }
+  if (url.endsWith(".json")) {
+    res.setHeader("Content-Type", "application/json");
+    return res.status(200).send("{}");
+  }
+  next();
+});
 
 const httpServer = http.createServer(app);
 const io = new Server(httpServer, {
