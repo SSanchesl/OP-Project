@@ -94,13 +94,12 @@ function buildEnemyTeam(enemyListStr) {
 const app = express();
 app.use(express.json());
 
-// resource/properties/serversetting.json e onde o cliente descobre o
-// endereco do login-server (ver main.min.js: connectToLogin). Esse
-// arquivo nao existe no pacote original extraido (era servido pelo
-// backend morto) - geramos aqui apontando pra este mesmo servidor.
 app.get("/resource/properties/serversetting.json", (req, res) => {
+  const host = req.get("host") || `${HOST}:${PORT}`;
+  const protocol = req.headers["x-forwarded-proto"] || req.protocol || "http";
+  const currentBaseUrl = `${protocol}://${host}`;
   res.json({
-    loginserver: BASE_URL,
+    loginserver: currentBaseUrl,
     serverList: {},
   });
 });
