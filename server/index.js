@@ -91,13 +91,30 @@ function buildEnemyTeam(enemyListStr) {
     .filter(Boolean);
 }
 
+function getBaseUrl(reqOrSocket) {
+  if (process.env.RENDER_EXTERNAL_URL) {
+    return process.env.RENDER_EXTERNAL_URL;
+  }
+  if (reqOrSocket && reqOrSocket.get) {
+    const host = reqOrSocket.get("host") || `${HOST}:${PORT}`;
+    const protocol = reqOrSocket.headers["x-forwarded-proto"] || reqOrSocket.protocol || "http";
+    return `${protocol}://${host}`;
+  }
+  if (reqOrSocket && reqOrSocket.handshake) {
+    const host = (reqOrSocket.handshake.headers && reqOrSocket.handshake.headers.host) || `${HOST}:${PORT}`;
+    const protocol = (reqOrSocket.handshake.headers && reqOrSocket.handshake.headers["x-forwarded-proto"]) || "http";
+    return `${protocol}://${host}`;
+  }
+  return BASE_URL;
+}
+
 const app = express();
 app.use(express.json());
 
+app.get("/favicon.ico", (req, res) => res.status(204).end());
+
 app.get("/resource/properties/serversetting.json", (req, res) => {
-  const host = req.get("host") || `${HOST}:${PORT}`;
-  const protocol = req.headers["x-forwarded-proto"] || req.protocol || "http";
-  const currentBaseUrl = `${protocol}://${host}`;
+  const currentBaseUrl = getBaseUrl(req);
   res.json({
     loginserver: currentBaseUrl,
     serverList: {},
@@ -145,14 +162,15 @@ function on(type, action, fn) {
 
 // ---- login-server ----------------------------------------------------
 
-on("User", "GetServerList", (payload) => {
+on("User", "GetServerList", (payload, socket) => {
+  const url = getBaseUrl(socket);
   const list = [
     {
       serverId: 1,
-      url: BASE_URL,
-      chaturl: BASE_URL,
-      dungeonurl: BASE_URL,
-      name: "Servidor Local",
+      url: url,
+      chaturl: url,
+      dungeonurl: url,
+      name: "Servidor Principal",
       hot: false,
       new: false,
       online: true,
@@ -182,9 +200,10 @@ on("user", "enterGame", (payload) => {
   return ok(response);
 });
 
-on("user", "registChat", (payload) => {
+on("user", "registChat", (payload, socket) => {
+  const url = getBaseUrl(socket);
   return ok({
-    _chatServerUrl: BASE_URL,
+    _chatServerUrl: url,
     _worldRoomId: 1,
     _guildRoomId: 1,
     _teamDungeonChatRoom: 1,
