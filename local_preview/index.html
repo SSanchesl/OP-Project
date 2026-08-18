@@ -53,23 +53,6 @@
         <div id="loginHint">Servidor local — só você tem acesso a esse jogo.</div>
     </div>
 </div>
-<button id="skipTutorialBtn" onclick="window.skipAllTutorial()" style="
-    position: fixed;
-    top: 14px;
-    right: 14px;
-    z-index: 999999;
-    background: linear-gradient(135deg, #e65c00, #f9d423);
-    color: #111;
-    border: 2px solid #fff;
-    border-radius: 24px;
-    padding: 10px 18px;
-    font-size: 13px;
-    font-weight: 900;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.5);
-    cursor: pointer;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-">⚡ Liberar Menus / Pular Tutorial</button>
 <div id="gameDiv" class="egret-player" data-entry-class="Main" data-orientation="auto" data-scale-mode="showAll" data-frame-rate="30"
      data-content-width="720" data-content-height="1280"
      data-multi-fingered="2" data-show-fps="true" data-show-log="true" data-show-fps-style="x:0,y:0,size:12,textColor:0xffffff,bgAlpha:0.9">
@@ -123,86 +106,6 @@ window.addEventListener('unhandledrejection', function(e){
         setInterval(checkLogger, 100);
     })();
     egret.runEgret({renderMode:"webgl", audioType:0, antialias:true});
-</script>
-<script>
-// Corrige bugs no sistema de dialogos/tutorial guiado e destrava batalha
-(function () {
-    window.skipAllTutorial = function () {
-        try {
-            if (window.GuideInfoManager && GuideInfoManager.getInstance()) {
-                var gm = GuideInfoManager.getInstance();
-                gm.isOPenGuide = false;
-                if (gm.guideInfo) {
-                    gm.guideInfo._steps = gm.guideInfo._steps || {};
-                    for (var k = 1; k <= 20; k++) gm.guideInfo._steps[k] = 99999;
-                }
-            }
-            if (window.ts && ts.guideLayer) {
-                ts.guideLayer.removeChildren();
-                ts.guideLayer.touchEnabled = false;
-            }
-            if (window.UIWindowManager) {
-                try { UIWindowManager.closeWindow("TSGuideNode"); } catch(e){}
-            }
-            console.log("[Tutorial] Modo livre ativado! Todos os botões e menus desbloqueados.");
-            var btn = document.getElementById("skipTutorialBtn");
-            if (btn) btn.innerText = "✓ Menus Liberados";
-        } catch (e) {
-            console.error("[skipAllTutorial]", e);
-        }
-    };
-
-    var iv = setInterval(function () {
-        if (window.OnHookSingleton && OnHookSingleton.prototype && !OnHookSingleton.prototype.__safePowerPatched) {
-            OnHookSingleton.prototype.__safePowerPatched = true;
-            OnHookSingleton.prototype.getNeedPower = function () {
-                return 0; // Garante que poder minimo nunca impeça de iniciar a batalha
-            };
-        }
-
-        if (window.TSGuideNode && TSGuideNode.prototype && !TSGuideNode.prototype.__tapFixApplied) {
-            TSGuideNode.prototype.__tapFixApplied = true;
-
-            var origButtonGuideTap = TSGuideNode.prototype.buttonGuideTap;
-            TSGuideNode.prototype.buttonGuideTap = function () {
-                var node = this;
-                origButtonGuideTap.apply(node, arguments);
-                if (!node.isClick) node.isClick = true;
-            };
-
-            var origShowGuideUI = TSGuideNode.prototype.showGuideUI;
-            TSGuideNode.prototype.showGuideUI = function () {
-                var node = this;
-                origShowGuideUI.apply(node, arguments);
-                // Permite clicar em qualquer lugar da tela caso o tutorial fique esperando toque fora de foco
-                if (node.maskGroup && !node.maskGroup.__tapListener) {
-                    node.maskGroup.__tapListener = true;
-                    node.maskGroup.touchEnabled = true;
-                    node.maskGroup.addEventListener(egret.TouchEvent.TOUCH_TAP, function () {
-                        console.log("[guide] Toque na tela detectado, avancando passo do tutorial");
-                        try { GuideInfoManager.getInstance().triggerGuide(); } catch (e) {}
-                    }, node);
-                }
-            };
-
-            var origPlayHeroAnimation = TSGuideNode.prototype.playHeroAnimation;
-            TSGuideNode.prototype.playHeroAnimation = function () {
-                var node = this;
-                var wasClickable = node.isClick;
-                origPlayHeroAnimation.apply(node, arguments);
-                if (wasClickable) {
-                    setTimeout(function () {
-                        if (!node.isClick) {
-                            console.warn("[guide-fix] destravando toque do tutorial");
-                            try { GuideInfoManager.getInstance().triggerGuide(); } catch (e) { }
-                            node.isClick = true;
-                        }
-                    }, 1500);
-                }
-            };
-        }
-    }, 200);
-})();
 </script>
 <script>
 // Gatilho de login local: no app original quem chama isso e um SDK
