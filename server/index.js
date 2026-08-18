@@ -293,6 +293,30 @@ on("hangup", "checkBattleResult", (payload) => {
 on("user", "exitGame", () => ok({}));
 on("user", "getGameTime", () => ok({ serverTime: Date.now() }));
 on("user", "getBulletinBrief", () => ok({ _brief: {} }));
+on("user", "modifyHeadImage", (payload) => {
+  if (payload && payload.userId && payload.headImage) {
+    store.updateUser(payload.userId, { headImage: payload.headImage });
+  }
+  return ok({});
+});
+on("user", "modifyNickName", (payload) => {
+  if (payload && payload.userId && payload.nickName) {
+    store.updateUser(payload.userId, { nickName: payload.nickName });
+  }
+  return ok({});
+});
+
+on("guide", "saveGuide", (payload) => {
+  if (payload && payload.userId && payload.step) {
+    const save = store.getOrCreateUser(payload.userId);
+    save.guideSteps = save.guideSteps || {};
+    const line = String(payload.guideType || 1);
+    save.guideSteps[line] = payload.step;
+    store.updateUser(payload.userId, { guideSteps: save.guideSteps });
+    console.log(`[guide:saveGuide] Passo salvo para ${payload.userId}: Linha ${line} -> Passo ${payload.step}`);
+  }
+  return ok({});
+});
 
 // Ao terminar todas as fases de um capitulo, a tela de "abrir proximo
 // capitulo" chama isso e guarda a resposta em
