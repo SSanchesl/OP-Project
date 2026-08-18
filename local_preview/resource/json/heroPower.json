@@ -1,0 +1,4070 @@
+{
+  "1": {
+    "id": 1,
+    "heroType": "body",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "资质",
+    "critical": 3.45
+  },
+  "2": {
+    "id": 2,
+    "heroType": "body",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "基础生命",
+    "critical": 1326236,
+    "神秘悟饭": 200
+  },
+  "3": {
+    "id": 3,
+    "heroType": "body",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "基础攻击",
+    "critical": 129182
+  },
+  "4": {
+    "id": 4,
+    "heroType": "body",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "基础防御",
+    "critical": 11659
+  },
+  "5": {
+    "id": 5,
+    "heroType": "body",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "生命百分比",
+    "critical": 4.96
+  },
+  "6": {
+    "id": 6,
+    "heroType": "body",
+    "attName": "armor",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "攻击百分比",
+    "critical": 6.36
+  },
+  "7": {
+    "id": 7,
+    "heroType": "body",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "防御百分比",
+    "critical": 1.2
+  },
+  "8": {
+    "id": 8,
+    "heroType": "body",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "额外生命",
+    "critical": 857175.4400000004,
+    "神秘悟饭": 8761542
+  },
+  "9": {
+    "id": 9,
+    "heroType": "body",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "额外攻击",
+    "critical": 83070.47999999998,
+    "神秘悟饭": 1033850
+  },
+  "10": {
+    "id": 10,
+    "heroType": "body",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "额外防御",
+    "critical": 0,
+    "神秘悟饭": 25649
+  },
+  "11": {
+    "id": 11,
+    "heroType": "body",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "速度",
+    "critical": 479
+  },
+  "12": {
+    "id": 12,
+    "heroType": "body",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "护甲",
+    "critical": 18006
+  },
+  "13": {
+    "id": 13,
+    "heroType": "body",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "命中率",
+    "critical": 0.209
+  },
+  "14": {
+    "id": 14,
+    "heroType": "body",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "闪避率",
+    "critical": 0.02
+  },
+  "15": {
+    "id": 15,
+    "heroType": "body",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "格挡率",
+    "critical": 0.012
+  },
+  "16": {
+    "id": 16,
+    "heroType": "body",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "增加格挡效果",
+    "critical": 0
+  },
+  "17": {
+    "id": 17,
+    "heroType": "body",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.1
+  },
+  "18": {
+    "id": 18,
+    "heroType": "body",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "19": {
+    "id": 19,
+    "heroType": "body",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "暴击率",
+    "critical": 0.9
+  },
+  "20": {
+    "id": 20,
+    "heroType": "body",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "免暴率",
+    "critical": 0.09
+  },
+  "21": {
+    "id": 21,
+    "heroType": "body",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "增加暴击伤害",
+    "critical": 1.37
+  },
+  "22": {
+    "id": 22,
+    "heroType": "body",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "破防率",
+    "critical": 0
+  },
+  "23": {
+    "id": 23,
+    "heroType": "body",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "减伤率",
+    "critical": 0
+  },
+  "24": {
+    "id": 24,
+    "heroType": "body",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "25": {
+    "id": 25,
+    "heroType": "body",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "26": {
+    "id": 26,
+    "heroType": "body",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "受到治疗加成",
+    "critical": 0
+  },
+  "27": {
+    "id": 27,
+    "heroType": "body",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "28": {
+    "id": 28,
+    "heroType": "body",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "29": {
+    "id": 29,
+    "heroType": "body",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "英雄类型": "伤害增加",
+    "critical": 0.3
+  },
+  "30": {
+    "id": 30,
+    "heroType": "body",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "伤害减少",
+    "critical": 0
+  },
+  "31": {
+    "id": 31,
+    "heroType": "body",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0.15
+  },
+  "32": {
+    "id": 32,
+    "heroType": "body",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "流血伤害",
+    "critical": 0
+  },
+  "33": {
+    "id": 33,
+    "heroType": "body",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "34": {
+    "id": 34,
+    "heroType": "bodyDamage",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "35": {
+    "id": 35,
+    "heroType": "bodyDamage",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "36": {
+    "id": 36,
+    "heroType": "bodyDamage",
+    "attName": "armorPercent",
+    "powerParam": 0.85
+  },
+  "37": {
+    "id": 37,
+    "heroType": "bodyDamage",
+    "attName": "hp",
+    "powerParam": 1,
+    "powerExtraParam": 1
+  },
+  "38": {
+    "id": 38,
+    "heroType": "bodyDamage",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "战斗力验证用字段",
+    "critical": "填英雄属性",
+    "神秘悟饭": "填英雄等级"
+  },
+  "39": {
+    "id": 39,
+    "heroType": "bodyDamage",
+    "attName": "armor",
+    "powerParam": 1,
+    "powerExtraParam": 1
+  },
+  "40": {
+    "id": 40,
+    "heroType": "bodyDamage",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "英雄类型",
+    "critical": "skill",
+    "神秘悟饭": "超三克斯"
+  },
+  "41": {
+    "id": 41,
+    "heroType": "bodyDamage",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "资质",
+    "critical": 3.45
+  },
+  "42": {
+    "id": 42,
+    "heroType": "bodyDamage",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "基础生命",
+    "critical": 1510155,
+    "神秘悟饭": 200
+  },
+  "43": {
+    "id": 43,
+    "heroType": "bodyDamage",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "基础攻击",
+    "critical": 98715
+  },
+  "44": {
+    "id": 44,
+    "heroType": "bodyDamage",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "基础防御",
+    "critical": 16655
+  },
+  "45": {
+    "id": 45,
+    "heroType": "bodyDamage",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "生命百分比",
+    "critical": 5.4
+  },
+  "46": {
+    "id": 46,
+    "heroType": "bodyDamage",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "攻击百分比",
+    "critical": 6.77
+  },
+  "47": {
+    "id": 47,
+    "heroType": "bodyDamage",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "防御百分比",
+    "critical": 1.81
+  },
+  "48": {
+    "id": 48,
+    "heroType": "bodyDamage",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "额外生命",
+    "critical": 846854,
+    "神秘悟饭": 10511846
+  },
+  "49": {
+    "id": 49,
+    "heroType": "bodyDamage",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "额外攻击",
+    "critical": 81674.45000000007,
+    "神秘悟饭": 848690
+  },
+  "50": {
+    "id": 50,
+    "heroType": "bodyDamage",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "英雄类型": "额外防御",
+    "critical": 0.4499999999970896,
+    "神秘悟饭": 46801
+  },
+  "51": {
+    "id": 51,
+    "heroType": "bodyDamage",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "速度",
+    "critical": 614
+  },
+  "52": {
+    "id": 52,
+    "heroType": "bodyDamage",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "护甲",
+    "critical": 18756
+  },
+  "53": {
+    "id": 53,
+    "heroType": "bodyDamage",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "命中率",
+    "critical": 0.472
+  },
+  "54": {
+    "id": 54,
+    "heroType": "bodyDamage",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "闪避率",
+    "critical": 0.119
+  },
+  "55": {
+    "id": 55,
+    "heroType": "bodyDamage",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "格挡率",
+    "critical": 0.114
+  },
+  "56": {
+    "id": 56,
+    "heroType": "bodyDamage",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "增加格挡效果",
+    "critical": 0
+  },
+  "57": {
+    "id": 57,
+    "heroType": "bodyDamage",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.1
+  },
+  "58": {
+    "id": 58,
+    "heroType": "bodyDamage",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "59": {
+    "id": 59,
+    "heroType": "bodyDamage",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "暴击率",
+    "critical": 0.12
+  },
+  "60": {
+    "id": 60,
+    "heroType": "bodyDamage",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "英雄类型": "免暴率",
+    "critical": 0.242
+  },
+  "61": {
+    "id": 61,
+    "heroType": "bodyDamage",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "增加暴击伤害",
+    "critical": 0.095
+  },
+  "62": {
+    "id": 62,
+    "heroType": "bodyDamage",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "英雄类型": "破防率",
+    "critical": 0.2
+  },
+  "63": {
+    "id": 63,
+    "heroType": "bodyDamage",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "减伤率",
+    "critical": 0
+  },
+  "64": {
+    "id": 64,
+    "heroType": "bodyDamage",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "65": {
+    "id": 65,
+    "heroType": "bodyDamage",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "66": {
+    "id": 66,
+    "heroType": "bodyDamage",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "英雄类型": "受到治疗加成",
+    "critical": 0
+  },
+  "67": {
+    "id": 67,
+    "heroType": "block",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "68": {
+    "id": 68,
+    "heroType": "block",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "69": {
+    "id": 69,
+    "heroType": "block",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "伤害增加",
+    "critical": 0.3
+  },
+  "70": {
+    "id": 70,
+    "heroType": "block",
+    "attName": "hp",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "伤害减少",
+    "critical": 0
+  },
+  "71": {
+    "id": 71,
+    "heroType": "block",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0.15
+  },
+  "72": {
+    "id": 72,
+    "heroType": "block",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "流血伤害",
+    "critical": 0
+  },
+  "73": {
+    "id": 73,
+    "heroType": "block",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "74": {
+    "id": 74,
+    "heroType": "block",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "75": {
+    "id": 75,
+    "heroType": "block",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "76": {
+    "id": 76,
+    "heroType": "block",
+    "attName": "dodge",
+    "powerParam": 0.6
+  },
+  "77": {
+    "id": 77,
+    "heroType": "block",
+    "attName": "block",
+    "powerParam": 0.75
+  },
+  "78": {
+    "id": 78,
+    "heroType": "block",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "战斗力验证用字段",
+    "critical": "填英雄属性",
+    "神秘悟饭": "填英雄等级"
+  },
+  "79": {
+    "id": 79,
+    "heroType": "block",
+    "attName": "skillDamage",
+    "powerParam": 0.6
+  },
+  "80": {
+    "id": 80,
+    "heroType": "block",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "英雄类型",
+    "critical": "bodyDamage",
+    "神秘悟饭": "超三悟空"
+  },
+  "81": {
+    "id": 81,
+    "heroType": "block",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "资质",
+    "critical": 3.45
+  },
+  "82": {
+    "id": 82,
+    "heroType": "block",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "基础生命",
+    "critical": 1732783,
+    "神秘悟饭": 200
+  },
+  "83": {
+    "id": 83,
+    "heroType": "block",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "英雄类型": "基础攻击",
+    "critical": 76063
+  },
+  "84": {
+    "id": 84,
+    "heroType": "block",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "基础防御",
+    "critical": 13324
+  },
+  "85": {
+    "id": 85,
+    "heroType": "block",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "生命百分比",
+    "critical": 6.99
+  },
+  "86": {
+    "id": 86,
+    "heroType": "block",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "攻击百分比",
+    "critical": 5.22
+  },
+  "87": {
+    "id": 87,
+    "heroType": "block",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "防御百分比",
+    "critical": 1.66
+  },
+  "88": {
+    "id": 88,
+    "heroType": "block",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "额外生命",
+    "critical": 859751.8300000001,
+    "神秘悟饭": 14704688
+  },
+  "89": {
+    "id": 89,
+    "heroType": "block",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "额外攻击",
+    "critical": 82947.14000000001,
+    "神秘悟饭": 556059
+  },
+  "90": {
+    "id": 90,
+    "heroType": "block",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "额外防御",
+    "critical": 0.1599999999962165,
+    "神秘悟饭": 35442
+  },
+  "91": {
+    "id": 91,
+    "heroType": "block",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "英雄类型": "速度",
+    "critical": 461
+  },
+  "92": {
+    "id": 92,
+    "heroType": "block",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "护甲",
+    "critical": 19312
+  },
+  "93": {
+    "id": 93,
+    "heroType": "block",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "英雄类型": "命中率",
+    "critical": 0.221
+  },
+  "94": {
+    "id": 94,
+    "heroType": "block",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "闪避率",
+    "critical": 0.127
+  },
+  "95": {
+    "id": 95,
+    "heroType": "block",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "英雄类型": "格挡率",
+    "critical": 0.178
+  },
+  "96": {
+    "id": 96,
+    "heroType": "block",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "增加格挡效果",
+    "critical": 0
+  },
+  "97": {
+    "id": 97,
+    "heroType": "block",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.1
+  },
+  "98": {
+    "id": 98,
+    "heroType": "block",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "99": {
+    "id": 99,
+    "heroType": "block",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "powerExtraParam": 1,
+    "英雄类型": "暴击率",
+    "critical": 0.83
+  },
+  "100": {
+    "id": 100,
+    "heroType": "criticalDot",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "免暴率",
+    "critical": 0.1
+  },
+  "101": {
+    "id": 101,
+    "heroType": "criticalDot",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "增加暴击伤害",
+    "critical": 0.465
+  },
+  "102": {
+    "id": 102,
+    "heroType": "criticalDot",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "破防率",
+    "critical": 0
+  },
+  "103": {
+    "id": 103,
+    "heroType": "criticalDot",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "减伤率",
+    "critical": 0
+  },
+  "104": {
+    "id": 104,
+    "heroType": "criticalDot",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "105": {
+    "id": 105,
+    "heroType": "criticalDot",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "106": {
+    "id": 106,
+    "heroType": "criticalDot",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "受到治疗加成",
+    "critical": 0.15
+  },
+  "107": {
+    "id": 107,
+    "heroType": "criticalDot",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "108": {
+    "id": 108,
+    "heroType": "criticalDot",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "109": {
+    "id": 109,
+    "heroType": "criticalDot",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "伤害增加",
+    "critical": 0
+  },
+  "110": {
+    "id": 110,
+    "heroType": "criticalDot",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "伤害减少",
+    "critical": 0.3
+  },
+  "111": {
+    "id": 111,
+    "heroType": "criticalDot",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0
+  },
+  "112": {
+    "id": 112,
+    "heroType": "criticalDot",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "流血伤害",
+    "critical": 0
+  },
+  "113": {
+    "id": 113,
+    "heroType": "criticalDot",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "114": {
+    "id": 114,
+    "heroType": "criticalDot",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "115": {
+    "id": 115,
+    "heroType": "criticalDot",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "116": {
+    "id": 116,
+    "heroType": "criticalDot",
+    "attName": "criticalDamage",
+    "powerParam": 0.75
+  },
+  "117": {
+    "id": 117,
+    "heroType": "criticalDot",
+    "attName": "armorBreak",
+    "powerParam": 1.75
+  },
+  "118": {
+    "id": 118,
+    "heroType": "criticalDot",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "战斗力验证用字段",
+    "critical": "填英雄属性",
+    "神秘悟饭": "填英雄等级"
+  },
+  "119": {
+    "id": 119,
+    "heroType": "criticalDot",
+    "attName": "controlResist",
+    "powerParam": 1
+  },
+  "120": {
+    "id": 120,
+    "heroType": "criticalDot",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "英雄类型",
+    "critical": "block",
+    "神秘悟饭": "邪恶布欧"
+  },
+  "121": {
+    "id": 121,
+    "heroType": "criticalDot",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "资质",
+    "critical": 3.45
+  },
+  "122": {
+    "id": 122,
+    "heroType": "criticalDot",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "基础生命",
+    "critical": 1605837,
+    "神秘悟饭": 200
+  },
+  "123": {
+    "id": 123,
+    "heroType": "criticalDot",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "基础攻击",
+    "critical": 86131
+  },
+  "124": {
+    "id": 124,
+    "heroType": "criticalDot",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "英雄类型": "基础防御",
+    "critical": 12491
+  },
+  "125": {
+    "id": 125,
+    "heroType": "criticalDot",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "生命百分比",
+    "critical": 6.54
+  },
+  "126": {
+    "id": 126,
+    "heroType": "criticalDot",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "英雄类型": "攻击百分比",
+    "critical": 5.1
+  },
+  "127": {
+    "id": 127,
+    "heroType": "criticalDot",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "防御百分比",
+    "critical": 1.34
+  },
+  "128": {
+    "id": 128,
+    "heroType": "criticalDot",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "英雄类型": "额外生命",
+    "critical": 855453.0199999996,
+    "神秘悟饭": 12963464
+  },
+  "129": {
+    "id": 129,
+    "heroType": "criticalDot",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "额外攻击",
+    "critical": 81865.90000000002,
+    "神秘悟饭": 607265
+  },
+  "130": {
+    "id": 130,
+    "heroType": "criticalDot",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "powerExtraParam": 1,
+    "英雄类型": "额外防御",
+    "critical": 1.0600000000013097,
+    "神秘悟饭": 29230
+  },
+  "131": {
+    "id": 131,
+    "heroType": "criticalDot",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "速度",
+    "critical": 503
+  },
+  "132": {
+    "id": 132,
+    "heroType": "criticalDot",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "powerExtraParam": 1,
+    "英雄类型": "护甲",
+    "critical": 22752
+  },
+  "133": {
+    "id": 133,
+    "heroType": "armorS",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "命中率",
+    "critical": 0.189
+  },
+  "134": {
+    "id": 134,
+    "heroType": "armorS",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "闪避率",
+    "critical": 0.109
+  },
+  "135": {
+    "id": 135,
+    "heroType": "armorS",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "格挡率",
+    "critical": 1.08
+  },
+  "136": {
+    "id": 136,
+    "heroType": "armorS",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "增加格挡效果",
+    "critical": 0.15
+  },
+  "137": {
+    "id": 137,
+    "heroType": "armorS",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.1
+  },
+  "138": {
+    "id": 138,
+    "heroType": "armorS",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "139": {
+    "id": 139,
+    "heroType": "armorS",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "暴击率",
+    "critical": 0.07
+  },
+  "140": {
+    "id": 140,
+    "heroType": "armorS",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "免暴率",
+    "critical": 0.522
+  },
+  "141": {
+    "id": 141,
+    "heroType": "armorS",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "增加暴击伤害",
+    "critical": 0.14
+  },
+  "142": {
+    "id": 142,
+    "heroType": "armorS",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "破防率",
+    "critical": 0
+  },
+  "143": {
+    "id": 143,
+    "heroType": "armorS",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "减伤率",
+    "critical": 0
+  },
+  "144": {
+    "id": 144,
+    "heroType": "armorS",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "145": {
+    "id": 145,
+    "heroType": "armorS",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "146": {
+    "id": 146,
+    "heroType": "armorS",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "受到治疗加成",
+    "critical": 0.15
+  },
+  "147": {
+    "id": 147,
+    "heroType": "armorS",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "148": {
+    "id": 148,
+    "heroType": "armorS",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "149": {
+    "id": 149,
+    "heroType": "armorS",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "英雄类型": "伤害增加",
+    "critical": 0
+  },
+  "150": {
+    "id": 150,
+    "heroType": "armorS",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "伤害减少",
+    "critical": 0.3
+  },
+  "151": {
+    "id": 151,
+    "heroType": "armorS",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0
+  },
+  "152": {
+    "id": 152,
+    "heroType": "armorS",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "流血伤害",
+    "critical": 0
+  },
+  "153": {
+    "id": 153,
+    "heroType": "armorS",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "154": {
+    "id": 154,
+    "heroType": "armorS",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "155": {
+    "id": 155,
+    "heroType": "armorS",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "156": {
+    "id": 156,
+    "heroType": "armorS",
+    "attName": "shielderPlus",
+    "powerParam": 0.8
+  },
+  "157": {
+    "id": 157,
+    "heroType": "armorS",
+    "attName": "damageUp",
+    "powerParam": 1
+  },
+  "158": {
+    "id": 158,
+    "heroType": "armorS",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "战斗力验证用字段",
+    "critical": "填英雄属性",
+    "神秘悟饭": "填英雄等级"
+  },
+  "159": {
+    "id": 159,
+    "heroType": "armorS",
+    "attName": "superDamageResist",
+    "powerParam": 0.8
+  },
+  "160": {
+    "id": 160,
+    "heroType": "armorS",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "英雄类型",
+    "critical": "body",
+    "神秘悟饭": "善良布欧"
+  },
+  "161": {
+    "id": 161,
+    "heroType": "armorS",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "资质",
+    "critical": 3.45
+  },
+  "162": {
+    "id": 162,
+    "heroType": "armorS",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "基础生命",
+    "critical": 1882743,
+    "神秘悟饭": 200
+  },
+  "163": {
+    "id": 163,
+    "heroType": "armorS",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "powerExtraParam": 1,
+    "英雄类型": "基础攻击",
+    "critical": 83126
+  },
+  "164": {
+    "id": 164,
+    "heroType": "armorS",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "基础防御",
+    "critical": 12491
+  },
+  "165": {
+    "id": 165,
+    "heroType": "armorS",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "英雄类型": "生命百分比",
+    "critical": 7.15
+  },
+  "166": {
+    "id": 166,
+    "heroType": "armorDamage",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "攻击百分比",
+    "critical": 4.82
+  },
+  "167": {
+    "id": 167,
+    "heroType": "armorDamage",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "防御百分比",
+    "critical": 1.59
+  },
+  "168": {
+    "id": 168,
+    "heroType": "armorDamage",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "额外生命",
+    "critical": 849435.5499999989,
+    "神秘悟饭": 16193791
+  },
+  "169": {
+    "id": 169,
+    "heroType": "armorDamage",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "额外攻击",
+    "critical": 81799.68,
+    "神秘悟饭": 565593
+  },
+  "170": {
+    "id": 170,
+    "heroType": "armorDamage",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "额外防御",
+    "critical": 0.3100000000013097,
+    "神秘悟饭": 32352
+  },
+  "171": {
+    "id": 171,
+    "heroType": "armorDamage",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "速度",
+    "critical": 499
+  },
+  "172": {
+    "id": 172,
+    "heroType": "armorDamage",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "护甲",
+    "critical": 19312
+  },
+  "173": {
+    "id": 173,
+    "heroType": "armorDamage",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "命中率",
+    "critical": 0.212
+  },
+  "174": {
+    "id": 174,
+    "heroType": "armorDamage",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "闪避率",
+    "critical": 0.1
+  },
+  "175": {
+    "id": 175,
+    "heroType": "armorDamage",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "格挡率",
+    "critical": 0.512
+  },
+  "176": {
+    "id": 176,
+    "heroType": "armorDamage",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "增加格挡效果",
+    "critical": 0
+  },
+  "177": {
+    "id": 177,
+    "heroType": "armorDamage",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.19
+  },
+  "178": {
+    "id": 178,
+    "heroType": "armorDamage",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "179": {
+    "id": 179,
+    "heroType": "armorDamage",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "暴击率",
+    "critical": 0.08
+  },
+  "180": {
+    "id": 180,
+    "heroType": "armorDamage",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "免暴率",
+    "critical": 0.69
+  },
+  "181": {
+    "id": 181,
+    "heroType": "armorDamage",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "增加暴击伤害",
+    "critical": 0
+  },
+  "182": {
+    "id": 182,
+    "heroType": "armorDamage",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "英雄类型": "破防率",
+    "critical": 0
+  },
+  "183": {
+    "id": 183,
+    "heroType": "armorDamage",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "减伤率",
+    "critical": 0
+  },
+  "184": {
+    "id": 184,
+    "heroType": "armorDamage",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "185": {
+    "id": 185,
+    "heroType": "armorDamage",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "186": {
+    "id": 186,
+    "heroType": "armorDamage",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "受到治疗加成",
+    "critical": 0.15
+  },
+  "187": {
+    "id": 187,
+    "heroType": "armorDamage",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "188": {
+    "id": 188,
+    "heroType": "armorDamage",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "189": {
+    "id": 189,
+    "heroType": "armorDamage",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "伤害增加",
+    "critical": 0
+  },
+  "190": {
+    "id": 190,
+    "heroType": "armorDamage",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "英雄类型": "伤害减少",
+    "critical": 0.3
+  },
+  "191": {
+    "id": 191,
+    "heroType": "armorDamage",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0
+  },
+  "192": {
+    "id": 192,
+    "heroType": "armorDamage",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "powerExtraParam": 1,
+    "英雄类型": "流血伤害",
+    "critical": 0
+  },
+  "193": {
+    "id": 193,
+    "heroType": "armorDamage",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "194": {
+    "id": 194,
+    "heroType": "armorDamage",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "195": {
+    "id": 195,
+    "heroType": "armorDamage",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "196": {
+    "id": 196,
+    "heroType": "armorDamage",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7
+  },
+  "197": {
+    "id": 197,
+    "heroType": "armorDamage",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75
+  },
+  "198": {
+    "id": 198,
+    "heroType": "armorDamage",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "英雄类型": "战斗力验证用字段",
+    "critical": "填英雄属性",
+    "神秘悟饭": "填英雄等级"
+  },
+  "199": {
+    "id": 199,
+    "heroType": "dodge",
+    "attName": "hpPercent",
+    "powerParam": 1
+  },
+  "200": {
+    "id": 200,
+    "heroType": "dodge",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "英雄类型",
+    "critical": "skill",
+    "神秘悟饭": "超一克斯"
+  },
+  "201": {
+    "id": 201,
+    "heroType": "dodge",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "资质",
+    "critical": 2.3
+  },
+  "202": {
+    "id": 202,
+    "heroType": "dodge",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "基础生命",
+    "critical": 951303,
+    "神秘悟饭": 200
+  },
+  "203": {
+    "id": 203,
+    "heroType": "dodge",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "基础攻击",
+    "critical": 62171
+  },
+  "204": {
+    "id": 204,
+    "heroType": "dodge",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "基础防御",
+    "critical": 16655
+  },
+  "205": {
+    "id": 205,
+    "heroType": "dodge",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "生命百分比",
+    "critical": 5.72
+  },
+  "206": {
+    "id": 206,
+    "heroType": "dodge",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "攻击百分比",
+    "critical": 6.18
+  },
+  "207": {
+    "id": 207,
+    "heroType": "dodge",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "防御百分比",
+    "critical": 2.12
+  },
+  "208": {
+    "id": 208,
+    "heroType": "dodge",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "额外生命",
+    "critical": 849435.8399999999,
+    "神秘悟饭": 7242192
+  },
+  "209": {
+    "id": 209,
+    "heroType": "dodge",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "额外攻击",
+    "critical": 82310.22000000003,
+    "神秘悟饭": 528698
+  },
+  "210": {
+    "id": 210,
+    "heroType": "dodge",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "额外防御",
+    "critical": 0.4000000000014552,
+    "神秘悟饭": 51964
+  },
+  "211": {
+    "id": 211,
+    "heroType": "dodge",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "速度",
+    "critical": 596
+  },
+  "212": {
+    "id": 212,
+    "heroType": "dodge",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "护甲",
+    "critical": 18756
+  },
+  "213": {
+    "id": 213,
+    "heroType": "dodge",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "命中率",
+    "critical": 0.512
+  },
+  "214": {
+    "id": 214,
+    "heroType": "dodge",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "闪避率",
+    "critical": 0
+  },
+  "215": {
+    "id": 215,
+    "heroType": "dodge",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "英雄类型": "格挡率",
+    "critical": 0.012
+  },
+  "216": {
+    "id": 216,
+    "heroType": "dodge",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "增加格挡效果",
+    "critical": 0
+  },
+  "217": {
+    "id": 217,
+    "heroType": "dodge",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.19
+  },
+  "218": {
+    "id": 218,
+    "heroType": "dodge",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "219": {
+    "id": 219,
+    "heroType": "dodge",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "暴击率",
+    "critical": 0.142
+  },
+  "220": {
+    "id": 220,
+    "heroType": "dodge",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "免暴率",
+    "critical": 0.324
+  },
+  "221": {
+    "id": 221,
+    "heroType": "dodge",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "增加暴击伤害",
+    "critical": 0.165
+  },
+  "222": {
+    "id": 222,
+    "heroType": "dodge",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "破防率",
+    "critical": 0
+  },
+  "223": {
+    "id": 223,
+    "heroType": "dodge",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "减伤率",
+    "critical": 0
+  },
+  "224": {
+    "id": 224,
+    "heroType": "dodge",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "225": {
+    "id": 225,
+    "heroType": "dodge",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "powerExtraParam": 1,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "226": {
+    "id": 226,
+    "heroType": "dodge",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "受到治疗加成",
+    "critical": 0
+  },
+  "227": {
+    "id": 227,
+    "heroType": "dodge",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "228": {
+    "id": 228,
+    "heroType": "dodge",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "229": {
+    "id": 229,
+    "heroType": "dodge",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "英雄类型": "伤害增加",
+    "critical": 0.3
+  },
+  "230": {
+    "id": 230,
+    "heroType": "dodge",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "伤害减少",
+    "critical": 0
+  },
+  "231": {
+    "id": 231,
+    "heroType": "dodge",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0.15
+  },
+  "232": {
+    "id": 232,
+    "heroType": "strength",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "流血伤害",
+    "critical": 0
+  },
+  "233": {
+    "id": 233,
+    "heroType": "strength",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "234": {
+    "id": 234,
+    "heroType": "strength",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "235": {
+    "id": 235,
+    "heroType": "strength",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "236": {
+    "id": 236,
+    "heroType": "strength",
+    "attName": "attack",
+    "powerParam": 1
+  },
+  "237": {
+    "id": 237,
+    "heroType": "strength",
+    "attName": "armor",
+    "powerParam": 1
+  },
+  "238": {
+    "id": 238,
+    "heroType": "strength",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "战斗力验证用字段",
+    "critical": "填英雄属性",
+    "神秘悟饭": "填英雄等级"
+  },
+  "239": {
+    "id": 239,
+    "heroType": "strength",
+    "attName": "extraArmor",
+    "powerParam": 1
+  },
+  "240": {
+    "id": 240,
+    "heroType": "strength",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "英雄类型",
+    "critical": "critical",
+    "神秘悟饭": "魔贝"
+  },
+  "241": {
+    "id": 241,
+    "heroType": "strength",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "资质",
+    "critical": 2.3
+  },
+  "242": {
+    "id": 242,
+    "heroType": "strength",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "基础生命",
+    "critical": 839783,
+    "神秘悟饭": 200
+  },
+  "243": {
+    "id": 243,
+    "heroType": "strength",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "基础攻击",
+    "critical": 80661
+  },
+  "244": {
+    "id": 244,
+    "heroType": "strength",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "基础防御",
+    "critical": 11659
+  },
+  "245": {
+    "id": 245,
+    "heroType": "strength",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "生命百分比",
+    "critical": 4.68
+  },
+  "246": {
+    "id": 246,
+    "heroType": "strength",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "攻击百分比",
+    "critical": 6.14
+  },
+  "247": {
+    "id": 247,
+    "heroType": "strength",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "防御百分比",
+    "critical": 1.31
+  },
+  "248": {
+    "id": 248,
+    "heroType": "strength",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "英雄类型": "额外生命",
+    "critical": 843417.5600000005,
+    "神秘悟饭": 5613385
+  },
+  "249": {
+    "id": 249,
+    "heroType": "strength",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "额外攻击",
+    "critical": 81732.46000000008,
+    "神秘悟饭": 657652
+  },
+  "250": {
+    "id": 250,
+    "heroType": "strength",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "额外防御",
+    "critical": 0,
+    "神秘悟饭": 26931
+  },
+  "251": {
+    "id": 251,
+    "heroType": "strength",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "速度",
+    "critical": 477
+  },
+  "252": {
+    "id": 252,
+    "heroType": "strength",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "护甲",
+    "critical": 22028
+  },
+  "253": {
+    "id": 253,
+    "heroType": "strength",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "命中率",
+    "critical": 0.272
+  },
+  "254": {
+    "id": 254,
+    "heroType": "strength",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "powerExtraParam": 1,
+    "英雄类型": "闪避率",
+    "critical": 0.152
+  },
+  "255": {
+    "id": 255,
+    "heroType": "strength",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "格挡率",
+    "critical": 0.012
+  },
+  "256": {
+    "id": 256,
+    "heroType": "strength",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "增加格挡效果",
+    "critical": 0
+  },
+  "257": {
+    "id": 257,
+    "heroType": "strength",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.1
+  },
+  "258": {
+    "id": 258,
+    "heroType": "strength",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "259": {
+    "id": 259,
+    "heroType": "strength",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "暴击率",
+    "critical": 0.77
+  },
+  "260": {
+    "id": 260,
+    "heroType": "strength",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "英雄类型": "免暴率",
+    "critical": 0.132
+  },
+  "261": {
+    "id": 261,
+    "heroType": "strength",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "增加暴击伤害",
+    "critical": 0.995
+  },
+  "262": {
+    "id": 262,
+    "heroType": "strength",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "英雄类型": "破防率",
+    "critical": 0
+  },
+  "263": {
+    "id": 263,
+    "heroType": "strength",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "减伤率",
+    "critical": 0
+  },
+  "264": {
+    "id": 264,
+    "heroType": "strength",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "265": {
+    "id": 265,
+    "heroType": "critical",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "266": {
+    "id": 266,
+    "heroType": "critical",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "受到治疗加成",
+    "critical": 0
+  },
+  "267": {
+    "id": 267,
+    "heroType": "critical",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "268": {
+    "id": 268,
+    "heroType": "critical",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "269": {
+    "id": 269,
+    "heroType": "critical",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "伤害增加",
+    "critical": 0.3
+  },
+  "270": {
+    "id": 270,
+    "heroType": "critical",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "伤害减少",
+    "critical": 0
+  },
+  "271": {
+    "id": 271,
+    "heroType": "critical",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0.15
+  },
+  "272": {
+    "id": 272,
+    "heroType": "critical",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "流血伤害",
+    "critical": 0.09
+  },
+  "273": {
+    "id": 273,
+    "heroType": "critical",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "274": {
+    "id": 274,
+    "heroType": "critical",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "275": {
+    "id": 275,
+    "heroType": "critical",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "276": {
+    "id": 276,
+    "heroType": "critical",
+    "attName": "blockEffect",
+    "powerParam": 1
+  },
+  "277": {
+    "id": 277,
+    "heroType": "critical",
+    "attName": "skillDamage",
+    "powerParam": 0.6
+  },
+  "278": {
+    "id": 278,
+    "heroType": "critical",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "战斗力验证用字段",
+    "critical": "填英雄属性",
+    "神秘悟饭": "填英雄等级"
+  },
+  "279": {
+    "id": 279,
+    "heroType": "critical",
+    "attName": "critical",
+    "powerParam": 0.75
+  },
+  "280": {
+    "id": 280,
+    "heroType": "critical",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "英雄类型",
+    "critical": "block",
+    "神秘悟饭": "邪恶布欧"
+  },
+  "281": {
+    "id": 281,
+    "heroType": "critical",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "英雄类型": "资质",
+    "critical": 2.3
+  },
+  "282": {
+    "id": 282,
+    "heroType": "critical",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "基础生命",
+    "critical": 1009546,
+    "神秘悟饭": 200
+  },
+  "283": {
+    "id": 283,
+    "heroType": "critical",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "基础攻击",
+    "critical": 54509
+  },
+  "284": {
+    "id": 284,
+    "heroType": "critical",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "基础防御",
+    "critical": 12491
+  },
+  "285": {
+    "id": 285,
+    "heroType": "critical",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "生命百分比",
+    "critical": 6.74
+  },
+  "286": {
+    "id": 286,
+    "heroType": "critical",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "攻击百分比",
+    "critical": 4.96
+  },
+  "287": {
+    "id": 287,
+    "heroType": "critical",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "powerExtraParam": 1,
+    "英雄类型": "防御百分比",
+    "critical": 1.57
+  },
+  "288": {
+    "id": 288,
+    "heroType": "critical",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "额外生命",
+    "critical": 857172.96,
+    "神秘悟饭": 8671059
+  },
+  "289": {
+    "id": 289,
+    "heroType": "critical",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "英雄类型": "额外攻击",
+    "critical": 81100.35999999999,
+    "神秘悟饭": 405974
+  },
+  "290": {
+    "id": 290,
+    "heroType": "critical",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "额外防御",
+    "critical": 1.1299999999973807,
+    "神秘悟饭": 32103
+  },
+  "291": {
+    "id": 291,
+    "heroType": "critical",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "英雄类型": "速度",
+    "critical": 521
+  },
+  "292": {
+    "id": 292,
+    "heroType": "critical",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "护甲",
+    "critical": 19312
+  },
+  "293": {
+    "id": 293,
+    "heroType": "critical",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "英雄类型": "命中率",
+    "critical": 0.189
+  },
+  "294": {
+    "id": 294,
+    "heroType": "critical",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "闪避率",
+    "critical": 0.12
+  },
+  "295": {
+    "id": 295,
+    "heroType": "critical",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "英雄类型": "格挡率",
+    "critical": 1.076
+  },
+  "296": {
+    "id": 296,
+    "heroType": "critical",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "增加格挡效果",
+    "critical": 0.15
+  },
+  "297": {
+    "id": 297,
+    "heroType": "critical",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.19
+  },
+  "298": {
+    "id": 298,
+    "heroType": "criticalSingle",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "299": {
+    "id": 299,
+    "heroType": "criticalSingle",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "暴击率",
+    "critical": 0.022
+  },
+  "300": {
+    "id": 300,
+    "heroType": "criticalSingle",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "免暴率",
+    "critical": 0.522
+  },
+  "301": {
+    "id": 301,
+    "heroType": "criticalSingle",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "增加暴击伤害",
+    "critical": 0
+  },
+  "302": {
+    "id": 302,
+    "heroType": "criticalSingle",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "破防率",
+    "critical": 0
+  },
+  "303": {
+    "id": 303,
+    "heroType": "criticalSingle",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "减伤率",
+    "critical": 0
+  },
+  "304": {
+    "id": 304,
+    "heroType": "criticalSingle",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "305": {
+    "id": 305,
+    "heroType": "criticalSingle",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "306": {
+    "id": 306,
+    "heroType": "criticalSingle",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "受到治疗加成",
+    "critical": 0.15
+  },
+  "307": {
+    "id": 307,
+    "heroType": "criticalSingle",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "308": {
+    "id": 308,
+    "heroType": "criticalSingle",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "309": {
+    "id": 309,
+    "heroType": "criticalSingle",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "伤害增加",
+    "critical": 0
+  },
+  "310": {
+    "id": 310,
+    "heroType": "criticalSingle",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "伤害减少",
+    "critical": 0.3
+  },
+  "311": {
+    "id": 311,
+    "heroType": "criticalSingle",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0
+  },
+  "312": {
+    "id": 312,
+    "heroType": "criticalSingle",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "流血伤害",
+    "critical": 0
+  },
+  "313": {
+    "id": 313,
+    "heroType": "criticalSingle",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "314": {
+    "id": 314,
+    "heroType": "criticalSingle",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "315": {
+    "id": 315,
+    "heroType": "criticalSingle",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "316": {
+    "id": 316,
+    "heroType": "criticalSingle",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "powerExtraParam": 1
+  },
+  "317": {
+    "id": 317,
+    "heroType": "criticalSingle",
+    "attName": "controlResist",
+    "powerParam": 1
+  },
+  "318": {
+    "id": 318,
+    "heroType": "criticalSingle",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "战斗力验证用字段",
+    "critical": "填英雄属性",
+    "神秘悟饭": "填英雄等级"
+  },
+  "319": {
+    "id": 319,
+    "heroType": "criticalSingle",
+    "attName": "healPlus",
+    "powerParam": 1
+  },
+  "320": {
+    "id": 320,
+    "heroType": "criticalSingle",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "英雄类型",
+    "critical": "dodge",
+    "神秘悟饭": "沙鲁"
+  },
+  "321": {
+    "id": 321,
+    "heroType": "criticalSingle",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "资质",
+    "critical": 2.3
+  },
+  "322": {
+    "id": 322,
+    "heroType": "criticalSingle",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "英雄类型": "基础生命",
+    "critical": 1065537,
+    "神秘悟饭": 200
+  },
+  "323": {
+    "id": 323,
+    "heroType": "criticalSingle",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "基础攻击",
+    "critical": 54509
+  },
+  "324": {
+    "id": 324,
+    "heroType": "criticalSingle",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "英雄类型": "基础防御",
+    "critical": 13324
+  },
+  "325": {
+    "id": 325,
+    "heroType": "criticalSingle",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "生命百分比",
+    "critical": 6.09
+  },
+  "326": {
+    "id": 326,
+    "heroType": "criticalSingle",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "英雄类型": "攻击百分比",
+    "critical": 5.55
+  },
+  "327": {
+    "id": 327,
+    "heroType": "criticalSingle",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "防御百分比",
+    "critical": 1.59
+  },
+  "328": {
+    "id": 328,
+    "heroType": "criticalSingle",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "英雄类型": "额外生命",
+    "critical": 852013.6699999999,
+    "神秘悟饭": 8406671
+  },
+  "329": {
+    "id": 329,
+    "heroType": "criticalSingle",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "额外攻击",
+    "critical": 82436.04999999999,
+    "神秘悟饭": 439470
+  },
+  "330": {
+    "id": 330,
+    "heroType": "criticalSingle",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "英雄类型": "额外防御",
+    "critical": 0,
+    "神秘悟饭": 34509
+  },
+  "331": {
+    "id": 331,
+    "heroType": "hit",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "速度",
+    "critical": 508
+  },
+  "332": {
+    "id": 332,
+    "heroType": "hit",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "护甲",
+    "critical": 22196
+  },
+  "333": {
+    "id": 333,
+    "heroType": "hit",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "命中率",
+    "critical": 0.132
+  },
+  "334": {
+    "id": 334,
+    "heroType": "hit",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "闪避率",
+    "critical": 0.529
+  },
+  "335": {
+    "id": 335,
+    "heroType": "hit",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "格挡率",
+    "critical": 0.312
+  },
+  "336": {
+    "id": 336,
+    "heroType": "hit",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "增加格挡效果",
+    "critical": 0
+  },
+  "337": {
+    "id": 337,
+    "heroType": "hit",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.24
+  },
+  "338": {
+    "id": 338,
+    "heroType": "hit",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "339": {
+    "id": 339,
+    "heroType": "hit",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "暴击率",
+    "critical": 0
+  },
+  "340": {
+    "id": 340,
+    "heroType": "hit",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "免暴率",
+    "critical": 0.45
+  },
+  "341": {
+    "id": 341,
+    "heroType": "hit",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "增加暴击伤害",
+    "critical": 0.02
+  },
+  "342": {
+    "id": 342,
+    "heroType": "hit",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "破防率",
+    "critical": 0
+  },
+  "343": {
+    "id": 343,
+    "heroType": "hit",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "减伤率",
+    "critical": 0
+  },
+  "344": {
+    "id": 344,
+    "heroType": "hit",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "345": {
+    "id": 345,
+    "heroType": "hit",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "346": {
+    "id": 346,
+    "heroType": "hit",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "受到治疗加成",
+    "critical": 0.15
+  },
+  "347": {
+    "id": 347,
+    "heroType": "hit",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "powerExtraParam": 1,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "348": {
+    "id": 348,
+    "heroType": "hit",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "349": {
+    "id": 349,
+    "heroType": "hit",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "powerExtraParam": 1,
+    "英雄类型": "伤害增加",
+    "critical": 0
+  },
+  "350": {
+    "id": 350,
+    "heroType": "hit",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "伤害减少",
+    "critical": 0.3
+  },
+  "351": {
+    "id": 351,
+    "heroType": "hit",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0
+  },
+  "352": {
+    "id": 352,
+    "heroType": "hit",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "流血伤害",
+    "critical": 0
+  },
+  "353": {
+    "id": 353,
+    "heroType": "hit",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "354": {
+    "id": 354,
+    "heroType": "hit",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "355": {
+    "id": 355,
+    "heroType": "hit",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "356": {
+    "id": 356,
+    "heroType": "hit",
+    "attName": "damageDown",
+    "powerParam": 1
+  },
+  "357": {
+    "id": 357,
+    "heroType": "hit",
+    "attName": "superDamageResist",
+    "powerParam": 0.8
+  },
+  "358": {
+    "id": 358,
+    "heroType": "hit",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "战斗力验证用字段",
+    "critical": "填英雄属性",
+    "神秘悟饭": "填英雄等级"
+  },
+  "359": {
+    "id": 359,
+    "heroType": "hit",
+    "attName": "normalAttack",
+    "powerParam": 1
+  },
+  "360": {
+    "id": 360,
+    "heroType": "hit",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "英雄类型",
+    "critical": "armor",
+    "神秘悟饭": "达普拉"
+  },
+  "361": {
+    "id": 361,
+    "heroType": "hit",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "英雄类型": "资质",
+    "critical": 2.3
+  },
+  "362": {
+    "id": 362,
+    "heroType": "hit",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "基础生命",
+    "critical": 869573,
+    "神秘悟饭": 200
+  },
+  "363": {
+    "id": 363,
+    "heroType": "hit",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "英雄类型": "基础攻击",
+    "critical": 52687
+  },
+  "364": {
+    "id": 364,
+    "heroType": "skill",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "基础防御",
+    "critical": 22207
+  },
+  "365": {
+    "id": 365,
+    "heroType": "skill",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "生命百分比",
+    "critical": 5.64
+  },
+  "366": {
+    "id": 366,
+    "heroType": "skill",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "攻击百分比",
+    "critical": 4.79
+  },
+  "367": {
+    "id": 367,
+    "heroType": "skill",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "防御百分比",
+    "critical": 3.67
+  },
+  "368": {
+    "id": 368,
+    "heroType": "skill",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "额外生命",
+    "critical": 861475.2800000003,
+    "神秘悟饭": 6635440
+  },
+  "369": {
+    "id": 369,
+    "heroType": "skill",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "额外攻击",
+    "critical": 81289.27000000002,
+    "神秘悟饭": 386347
+  },
+  "370": {
+    "id": 370,
+    "heroType": "skill",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "额外防御",
+    "critical": 0,
+    "神秘悟饭": 103706
+  },
+  "371": {
+    "id": 371,
+    "heroType": "skill",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "速度",
+    "critical": 491
+  },
+  "372": {
+    "id": 372,
+    "heroType": "skill",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "护甲",
+    "critical": 17786
+  },
+  "373": {
+    "id": 373,
+    "heroType": "skill",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "命中率",
+    "critical": 0.109
+  },
+  "374": {
+    "id": 374,
+    "heroType": "skill",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "闪避率",
+    "critical": 0.1
+  },
+  "375": {
+    "id": 375,
+    "heroType": "skill",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "格挡率",
+    "critical": 0.174
+  },
+  "376": {
+    "id": 376,
+    "heroType": "skill",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "增加格挡效果",
+    "critical": 0
+  },
+  "377": {
+    "id": 377,
+    "heroType": "skill",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.19
+  },
+  "378": {
+    "id": 378,
+    "heroType": "skill",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "powerExtraParam": 1,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "379": {
+    "id": 379,
+    "heroType": "skill",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "暴击率",
+    "critical": 0
+  },
+  "380": {
+    "id": 380,
+    "heroType": "skill",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "powerExtraParam": 1,
+    "英雄类型": "免暴率",
+    "critical": 0.244
+  },
+  "381": {
+    "id": 381,
+    "heroType": "skill",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "增加暴击伤害",
+    "critical": 0.185
+  },
+  "382": {
+    "id": 382,
+    "heroType": "skill",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "破防率",
+    "critical": 0
+  },
+  "383": {
+    "id": 383,
+    "heroType": "skill",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "减伤率",
+    "critical": 0.1
+  },
+  "384": {
+    "id": 384,
+    "heroType": "skill",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "385": {
+    "id": 385,
+    "heroType": "skill",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "386": {
+    "id": 386,
+    "heroType": "skill",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "受到治疗加成",
+    "critical": 0.4
+  },
+  "387": {
+    "id": 387,
+    "heroType": "skill",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "388": {
+    "id": 388,
+    "heroType": "skill",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "389": {
+    "id": 389,
+    "heroType": "skill",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "伤害增加",
+    "critical": 0
+  },
+  "390": {
+    "id": 390,
+    "heroType": "skill",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "英雄类型": "伤害减少",
+    "critical": 0.3
+  },
+  "391": {
+    "id": 391,
+    "heroType": "skill",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0
+  },
+  "392": {
+    "id": 392,
+    "heroType": "skill",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "英雄类型": "流血伤害",
+    "critical": 0.14
+  },
+  "393": {
+    "id": 393,
+    "heroType": "skill",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "394": {
+    "id": 394,
+    "heroType": "skill",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "395": {
+    "id": 395,
+    "heroType": "skill",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "396": {
+    "id": 396,
+    "heroType": "skill",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75
+  },
+  "397": {
+    "id": 397,
+    "heroType": "dot",
+    "attName": "hpPercent",
+    "powerParam": 1
+  },
+  "398": {
+    "id": 398,
+    "heroType": "dot",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "战斗力验证用字段",
+    "critical": "填英雄属性",
+    "神秘悟饭": "填英雄等级"
+  },
+  "399": {
+    "id": 399,
+    "heroType": "dot",
+    "attName": "armorPercent",
+    "powerParam": 0.85
+  },
+  "400": {
+    "id": 400,
+    "heroType": "dot",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "英雄类型",
+    "critical": "armorS",
+    "神秘悟饭": "16号"
+  },
+  "401": {
+    "id": 401,
+    "heroType": "dot",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "资质",
+    "critical": 2.3
+  },
+  "402": {
+    "id": 402,
+    "heroType": "dot",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "基础生命",
+    "critical": 514580,
+    "神秘悟饭": 200
+  },
+  "403": {
+    "id": 403,
+    "heroType": "dot",
+    "attName": "speed",
+    "powerParam": 1,
+    "英雄类型": "基础攻击",
+    "critical": 27268
+  },
+  "404": {
+    "id": 404,
+    "heroType": "dot",
+    "attName": "extraArmor",
+    "powerParam": 1,
+    "英雄类型": "基础防御",
+    "critical": 28314
+  },
+  "405": {
+    "id": 405,
+    "heroType": "dot",
+    "attName": "hit",
+    "powerParam": 0.5,
+    "英雄类型": "生命百分比",
+    "critical": 5.3
+  },
+  "406": {
+    "id": 406,
+    "heroType": "dot",
+    "attName": "dodge",
+    "powerParam": 0.6,
+    "英雄类型": "攻击百分比",
+    "critical": 4.71
+  },
+  "407": {
+    "id": 407,
+    "heroType": "dot",
+    "attName": "block",
+    "powerParam": 0.75,
+    "英雄类型": "防御百分比",
+    "critical": 4
+  },
+  "408": {
+    "id": 408,
+    "heroType": "dot",
+    "attName": "blockEffect",
+    "powerParam": 1,
+    "英雄类型": "额外生命",
+    "critical": 852016,
+    "神秘悟饭": 4093870
+  },
+  "409": {
+    "id": 409,
+    "heroType": "dot",
+    "attName": "skillDamage",
+    "powerParam": 0.6,
+    "英雄类型": "额外攻击",
+    "critical": 81798.72,
+    "神秘悟饭": 237499
+  },
+  "410": {
+    "id": 410,
+    "heroType": "dot",
+    "attName": "superDamage",
+    "powerParam": 1,
+    "英雄类型": "额外防御",
+    "critical": 0,
+    "神秘悟饭": 141568
+  },
+  "411": {
+    "id": 411,
+    "heroType": "dot",
+    "attName": "critical",
+    "powerParam": 0.75,
+    "英雄类型": "速度",
+    "critical": 466
+  },
+  "412": {
+    "id": 412,
+    "heroType": "dot",
+    "attName": "criticalResist",
+    "powerParam": 0.5,
+    "英雄类型": "护甲",
+    "critical": 22364
+  },
+  "413": {
+    "id": 413,
+    "heroType": "dot",
+    "attName": "criticalDamage",
+    "powerParam": 0.75,
+    "英雄类型": "命中率",
+    "critical": 0.161
+  },
+  "414": {
+    "id": 414,
+    "heroType": "dot",
+    "attName": "armorBreak",
+    "powerParam": 1.75,
+    "英雄类型": "闪避率",
+    "critical": 0.1
+  },
+  "415": {
+    "id": 415,
+    "heroType": "dot",
+    "attName": "damageReduce",
+    "powerParam": 1,
+    "英雄类型": "格挡率",
+    "critical": 0.15
+  },
+  "416": {
+    "id": 416,
+    "heroType": "dot",
+    "attName": "controlResist",
+    "powerParam": 1,
+    "英雄类型": "增加格挡效果",
+    "critical": 0
+  },
+  "417": {
+    "id": 417,
+    "heroType": "dot",
+    "attName": "trueDamage",
+    "powerParam": 1,
+    "英雄类型": "增加技能伤害",
+    "critical": 0.19
+  },
+  "418": {
+    "id": 418,
+    "heroType": "dot",
+    "attName": "healPlus",
+    "powerParam": 1,
+    "英雄类型": "增加超必杀伤害",
+    "critical": 0
+  },
+  "419": {
+    "id": 419,
+    "heroType": "dot",
+    "attName": "healerPlus",
+    "powerParam": 0.8,
+    "英雄类型": "暴击率",
+    "critical": 0
+  },
+  "420": {
+    "id": 420,
+    "heroType": "dot",
+    "attName": "shielderPlus",
+    "powerParam": 0.8,
+    "英雄类型": "免暴率",
+    "critical": 0.11
+  },
+  "421": {
+    "id": 421,
+    "heroType": "dot",
+    "attName": "damageUp",
+    "powerParam": 1,
+    "英雄类型": "增加暴击伤害",
+    "critical": 0.14
+  },
+  "422": {
+    "id": 422,
+    "heroType": "dot",
+    "attName": "damageDown",
+    "powerParam": 1,
+    "英雄类型": "破防率",
+    "critical": 0
+  },
+  "423": {
+    "id": 423,
+    "heroType": "dot",
+    "attName": "superDamageResist",
+    "powerParam": 0.8,
+    "英雄类型": "减伤率",
+    "critical": 0
+  },
+  "424": {
+    "id": 424,
+    "heroType": "dot",
+    "attName": "bloodDamage",
+    "powerParam": 1,
+    "英雄类型": "免控率",
+    "critical": 0
+  },
+  "425": {
+    "id": 425,
+    "heroType": "dot",
+    "attName": "normalAttack",
+    "powerParam": 1,
+    "英雄类型": "真实伤害",
+    "critical": 0
+  },
+  "426": {
+    "id": 426,
+    "heroType": "dot",
+    "attName": "blockThrough",
+    "powerParam": 0.65,
+    "英雄类型": "受到治疗加成",
+    "critical": 0.4
+  },
+  "427": {
+    "id": 427,
+    "heroType": "dot",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7,
+    "英雄类型": "造成治疗加成",
+    "critical": 0
+  },
+  "428": {
+    "id": 428,
+    "heroType": "dot",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75,
+    "英雄类型": "治疗/护盾效果加成",
+    "critical": 0
+  },
+  "429": {
+    "id": 429,
+    "heroType": "dot",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75,
+    "英雄类型": "伤害增加",
+    "critical": 0
+  },
+  "430": {
+    "id": 430,
+    "heroType": "doubleHit",
+    "attName": "hpPercent",
+    "powerParam": 1,
+    "英雄类型": "伤害减少",
+    "critical": 0.3
+  },
+  "431": {
+    "id": 431,
+    "heroType": "doubleHit",
+    "attName": "attackPercent",
+    "powerParam": 1,
+    "英雄类型": "超必杀伤害减少",
+    "critical": 0
+  },
+  "432": {
+    "id": 432,
+    "heroType": "doubleHit",
+    "attName": "armorPercent",
+    "powerParam": 0.85,
+    "英雄类型": "流血伤害",
+    "critical": 0.07
+  },
+  "433": {
+    "id": 433,
+    "heroType": "doubleHit",
+    "attName": "hp",
+    "powerParam": 1,
+    "英雄类型": "普攻伤害",
+    "critical": 0
+  },
+  "434": {
+    "id": 434,
+    "heroType": "doubleHit",
+    "attName": "attack",
+    "powerParam": 1,
+    "英雄类型": "穿透",
+    "critical": 0
+  },
+  "435": {
+    "id": 435,
+    "heroType": "doubleHit",
+    "attName": "armor",
+    "powerParam": 1,
+    "英雄类型": "韧性",
+    "critical": 0
+  },
+  "436": {
+    "id": 436,
+    "heroType": "doubleHit",
+    "attName": "speed",
+    "powerParam": 1
+  },
+  "437": {
+    "id": 437,
+    "heroType": "doubleHit",
+    "attName": "extraArmor",
+    "powerParam": 1
+  },
+  "438": {
+    "id": 438,
+    "heroType": "doubleHit",
+    "attName": "hit",
+    "powerParam": 0.5
+  },
+  "439": {
+    "id": 439,
+    "heroType": "doubleHit",
+    "attName": "dodge",
+    "powerParam": 0.6
+  },
+  "440": {
+    "id": 440,
+    "heroType": "doubleHit",
+    "attName": "block",
+    "powerParam": 0.75
+  },
+  "441": {
+    "id": 441,
+    "heroType": "doubleHit",
+    "attName": "blockEffect",
+    "powerParam": 1
+  },
+  "442": {
+    "id": 442,
+    "heroType": "doubleHit",
+    "attName": "skillDamage",
+    "powerParam": 0.6
+  },
+  "443": {
+    "id": 443,
+    "heroType": "doubleHit",
+    "attName": "superDamage",
+    "powerParam": 1
+  },
+  "444": {
+    "id": 444,
+    "heroType": "doubleHit",
+    "attName": "critical",
+    "powerParam": 0.75
+  },
+  "445": {
+    "id": 445,
+    "heroType": "doubleHit",
+    "attName": "criticalResist",
+    "powerParam": 0.5
+  },
+  "446": {
+    "id": 446,
+    "heroType": "doubleHit",
+    "attName": "criticalDamage",
+    "powerParam": 0.75
+  },
+  "447": {
+    "id": 447,
+    "heroType": "doubleHit",
+    "attName": "armorBreak",
+    "powerParam": 1.75
+  },
+  "448": {
+    "id": 448,
+    "heroType": "doubleHit",
+    "attName": "damageReduce",
+    "powerParam": 1
+  },
+  "449": {
+    "id": 449,
+    "heroType": "doubleHit",
+    "attName": "controlResist",
+    "powerParam": 1
+  },
+  "450": {
+    "id": 450,
+    "heroType": "doubleHit",
+    "attName": "trueDamage",
+    "powerParam": 1
+  },
+  "451": {
+    "id": 451,
+    "heroType": "doubleHit",
+    "attName": "healPlus",
+    "powerParam": 1
+  },
+  "452": {
+    "id": 452,
+    "heroType": "doubleHit",
+    "attName": "healerPlus",
+    "powerParam": 0.8
+  },
+  "453": {
+    "id": 453,
+    "heroType": "doubleHit",
+    "attName": "shielderPlus",
+    "powerParam": 0.8
+  },
+  "454": {
+    "id": 454,
+    "heroType": "doubleHit",
+    "attName": "damageUp",
+    "powerParam": 1
+  },
+  "455": {
+    "id": 455,
+    "heroType": "doubleHit",
+    "attName": "damageDown",
+    "powerParam": 1
+  },
+  "456": {
+    "id": 456,
+    "heroType": "doubleHit",
+    "attName": "superDamageResist",
+    "powerParam": 0.8
+  },
+  "457": {
+    "id": 457,
+    "heroType": "doubleHit",
+    "attName": "bloodDamage",
+    "powerParam": 1
+  },
+  "458": {
+    "id": 458,
+    "heroType": "doubleHit",
+    "attName": "normalAttack",
+    "powerParam": 1
+  },
+  "459": {
+    "id": 459,
+    "heroType": "doubleHit",
+    "attName": "blockThrough",
+    "powerParam": 0.65
+  },
+  "460": {
+    "id": 460,
+    "heroType": "doubleHit",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7
+  },
+  "461": {
+    "id": 461,
+    "heroType": "doubleHit",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75
+  },
+  "462": {
+    "id": 462,
+    "heroType": "doubleHit",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75
+  },
+  "463": {
+    "id": 463,
+    "heroType": "treat",
+    "attName": "hpPercent",
+    "powerParam": 1
+  },
+  "464": {
+    "id": 464,
+    "heroType": "treat",
+    "attName": "attackPercent",
+    "powerParam": 1
+  },
+  "465": {
+    "id": 465,
+    "heroType": "treat",
+    "attName": "armorPercent",
+    "powerParam": 0.85
+  },
+  "466": {
+    "id": 466,
+    "heroType": "treat",
+    "attName": "hp",
+    "powerParam": 1
+  },
+  "467": {
+    "id": 467,
+    "heroType": "treat",
+    "attName": "attack",
+    "powerParam": 1
+  },
+  "468": {
+    "id": 468,
+    "heroType": "treat",
+    "attName": "armor",
+    "powerParam": 1
+  },
+  "469": {
+    "id": 469,
+    "heroType": "treat",
+    "attName": "speed",
+    "powerParam": 1
+  },
+  "470": {
+    "id": 470,
+    "heroType": "treat",
+    "attName": "extraArmor",
+    "powerParam": 1
+  },
+  "471": {
+    "id": 471,
+    "heroType": "treat",
+    "attName": "hit",
+    "powerParam": 0.5
+  },
+  "472": {
+    "id": 472,
+    "heroType": "treat",
+    "attName": "dodge",
+    "powerParam": 0.6
+  },
+  "473": {
+    "id": 473,
+    "heroType": "treat",
+    "attName": "block",
+    "powerParam": 0.75
+  },
+  "474": {
+    "id": 474,
+    "heroType": "treat",
+    "attName": "blockEffect",
+    "powerParam": 1
+  },
+  "475": {
+    "id": 475,
+    "heroType": "treat",
+    "attName": "skillDamage",
+    "powerParam": 0.6
+  },
+  "476": {
+    "id": 476,
+    "heroType": "treat",
+    "attName": "superDamage",
+    "powerParam": 1
+  },
+  "477": {
+    "id": 477,
+    "heroType": "treat",
+    "attName": "critical",
+    "powerParam": 0.75
+  },
+  "478": {
+    "id": 478,
+    "heroType": "treat",
+    "attName": "criticalResist",
+    "powerParam": 0.5
+  },
+  "479": {
+    "id": 479,
+    "heroType": "treat",
+    "attName": "criticalDamage",
+    "powerParam": 0.75
+  },
+  "480": {
+    "id": 480,
+    "heroType": "treat",
+    "attName": "armorBreak",
+    "powerParam": 1.75
+  },
+  "481": {
+    "id": 481,
+    "heroType": "treat",
+    "attName": "damageReduce",
+    "powerParam": 1
+  },
+  "482": {
+    "id": 482,
+    "heroType": "treat",
+    "attName": "controlResist",
+    "powerParam": 1
+  },
+  "483": {
+    "id": 483,
+    "heroType": "treat",
+    "attName": "trueDamage",
+    "powerParam": 1
+  },
+  "484": {
+    "id": 484,
+    "heroType": "treat",
+    "attName": "healPlus",
+    "powerParam": 1
+  },
+  "485": {
+    "id": 485,
+    "heroType": "treat",
+    "attName": "healerPlus",
+    "powerParam": 0.8
+  },
+  "486": {
+    "id": 486,
+    "heroType": "treat",
+    "attName": "shielderPlus",
+    "powerParam": 0.8
+  },
+  "487": {
+    "id": 487,
+    "heroType": "treat",
+    "attName": "damageUp",
+    "powerParam": 1
+  },
+  "488": {
+    "id": 488,
+    "heroType": "treat",
+    "attName": "damageDown",
+    "powerParam": 1
+  },
+  "489": {
+    "id": 489,
+    "heroType": "treat",
+    "attName": "superDamageResist",
+    "powerParam": 0.8
+  },
+  "490": {
+    "id": 490,
+    "heroType": "treat",
+    "attName": "bloodDamage",
+    "powerParam": 1
+  },
+  "491": {
+    "id": 491,
+    "heroType": "treat",
+    "attName": "normalAttack",
+    "powerParam": 1
+  },
+  "492": {
+    "id": 492,
+    "heroType": "treat",
+    "attName": "blockThrough",
+    "powerParam": 0.65
+  },
+  "493": {
+    "id": 493,
+    "heroType": "treat",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7
+  },
+  "494": {
+    "id": 494,
+    "heroType": "treat",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75
+  },
+  "495": {
+    "id": 495,
+    "heroType": "treat",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75
+  },
+  "496": {
+    "id": 496,
+    "heroType": "support",
+    "attName": "hpPercent",
+    "powerParam": 1
+  },
+  "497": {
+    "id": 497,
+    "heroType": "support",
+    "attName": "attackPercent",
+    "powerParam": 1
+  },
+  "498": {
+    "id": 498,
+    "heroType": "support",
+    "attName": "armorPercent",
+    "powerParam": 0.85
+  },
+  "499": {
+    "id": 499,
+    "heroType": "support",
+    "attName": "hp",
+    "powerParam": 1
+  },
+  "500": {
+    "id": 500,
+    "heroType": "support",
+    "attName": "attack",
+    "powerParam": 1
+  },
+  "501": {
+    "id": 501,
+    "heroType": "support",
+    "attName": "armor",
+    "powerParam": 1
+  },
+  "502": {
+    "id": 502,
+    "heroType": "support",
+    "attName": "speed",
+    "powerParam": 1
+  },
+  "503": {
+    "id": 503,
+    "heroType": "support",
+    "attName": "extraArmor",
+    "powerParam": 1
+  },
+  "504": {
+    "id": 504,
+    "heroType": "support",
+    "attName": "hit",
+    "powerParam": 0.5
+  },
+  "505": {
+    "id": 505,
+    "heroType": "support",
+    "attName": "dodge",
+    "powerParam": 0.6
+  },
+  "506": {
+    "id": 506,
+    "heroType": "support",
+    "attName": "block",
+    "powerParam": 0.75
+  },
+  "507": {
+    "id": 507,
+    "heroType": "support",
+    "attName": "blockEffect",
+    "powerParam": 1
+  },
+  "508": {
+    "id": 508,
+    "heroType": "support",
+    "attName": "skillDamage",
+    "powerParam": 0.6
+  },
+  "509": {
+    "id": 509,
+    "heroType": "support",
+    "attName": "superDamage",
+    "powerParam": 1
+  },
+  "510": {
+    "id": 510,
+    "heroType": "support",
+    "attName": "critical",
+    "powerParam": 0.75
+  },
+  "511": {
+    "id": 511,
+    "heroType": "support",
+    "attName": "criticalResist",
+    "powerParam": 0.5
+  },
+  "512": {
+    "id": 512,
+    "heroType": "support",
+    "attName": "criticalDamage",
+    "powerParam": 0.75
+  },
+  "513": {
+    "id": 513,
+    "heroType": "support",
+    "attName": "armorBreak",
+    "powerParam": 1.75
+  },
+  "514": {
+    "id": 514,
+    "heroType": "support",
+    "attName": "damageReduce",
+    "powerParam": 1
+  },
+  "515": {
+    "id": 515,
+    "heroType": "support",
+    "attName": "controlResist",
+    "powerParam": 1
+  },
+  "516": {
+    "id": 516,
+    "heroType": "support",
+    "attName": "trueDamage",
+    "powerParam": 1
+  },
+  "517": {
+    "id": 517,
+    "heroType": "support",
+    "attName": "healPlus",
+    "powerParam": 1
+  },
+  "518": {
+    "id": 518,
+    "heroType": "support",
+    "attName": "healerPlus",
+    "powerParam": 0.8
+  },
+  "519": {
+    "id": 519,
+    "heroType": "support",
+    "attName": "shielderPlus",
+    "powerParam": 0.8
+  },
+  "520": {
+    "id": 520,
+    "heroType": "support",
+    "attName": "damageUp",
+    "powerParam": 1
+  },
+  "521": {
+    "id": 521,
+    "heroType": "support",
+    "attName": "damageDown",
+    "powerParam": 1
+  },
+  "522": {
+    "id": 522,
+    "heroType": "support",
+    "attName": "superDamageResist",
+    "powerParam": 0.8
+  },
+  "523": {
+    "id": 523,
+    "heroType": "support",
+    "attName": "bloodDamage",
+    "powerParam": 1
+  },
+  "524": {
+    "id": 524,
+    "heroType": "support",
+    "attName": "normalAttack",
+    "powerParam": 1
+  },
+  "525": {
+    "id": 525,
+    "heroType": "support",
+    "attName": "blockThrough",
+    "powerParam": 0.65
+  },
+  "526": {
+    "id": 526,
+    "heroType": "support",
+    "attName": "criticalDamageResist",
+    "powerParam": 0.7
+  },
+  "527": {
+    "id": 527,
+    "heroType": "support",
+    "attName": "doubleHitNormalChance",
+    "powerParam": 0.75
+  },
+  "528": {
+    "id": 528,
+    "heroType": "support",
+    "attName": "doubleHitNormalValue",
+    "powerParam": 0.75
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "1": {
+    "id": 1,
+    "quality": "purple",
+    "topLimit": 6,
+    "topSubLimit": 10
+  },
+  "2": {
+    "id": 2,
+    "quality": "orange",
+    "topLimit": 11,
+    "topSubLimit": 0
+  },
+  "3": {
+    "id": 3,
+    "quality": "flickerOrange",
+    "topLimit": 21,
+    "topSubLimit": 0
+  },
+  "4": {
+    "id": 4,
+    "quality": "superOrange",
+    "topLimit": 21,
+    "topSubLimit": 0
+  }
+}

@@ -1,0 +1,15 @@
+{"file":"arena_cross_server2.png","frames":{
+"0":{"x":105,"y":55,"w":53,"h":52,"offX":2,"offY":2,"sourceW":57,"sourceH":55},
+"1":{"x":50,"y":108,"w":35,"h":52,"offX":2,"offY":2,"sourceW":39,"sourceH":55},
+"2":{"x":0,"y":107,"w":50,"h":53,"offX":2,"offY":1,"sourceW":54,"sourceH":55},
+"3":{"x":158,"y":106,"w":52,"h":52,"offX":2,"offY":2,"sourceW":56,"sourceH":55},
+"4":{"x":105,"y":107,"w":50,"h":52,"offX":2,"offY":2,"sourceW":54,"sourceH":55},
+"5":{"x":179,"y":0,"w":53,"h":53,"offX":2,"offY":1,"sourceW":57,"sourceH":55},
+"6":{"x":53,"y":55,"w":52,"h":53,"offX":2,"offY":1,"sourceW":56,"sourceH":55},
+"7":{"x":210,"y":106,"w":43,"h":53,"offX":2,"offY":1,"sourceW":47,"sourceH":55},
+"8":{"x":179,"y":53,"w":52,"h":53,"offX":2,"offY":1,"sourceW":56,"sourceH":55},
+"9":{"x":0,"y":55,"w":53,"h":52,"offX":2,"offY":2,"sourceW":57,"sourceH":55},
+"进":{"x":61,"y":0,"w":59,"h":55,"offX":2,"offY":0,"sourceW":63,"sourceH":55},
+"赛":{"x":0,"y":0,"w":61,"h":55,"offX":2,"offY":0,"sourceW":65,"sourceH":55},
+"场":{"x":120,"y":0,"w":59,"h":55,"offX":2,"offY":0,"sourceW":63,"sourceH":55},
+" ":{"x":232,"y":0,"w":5,"h":5,"offX":0,"offY":0,"sourceW":17,"sourceH":55}}}

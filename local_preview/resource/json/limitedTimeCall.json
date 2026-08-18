@@ -1,0 +1,74 @@
+{
+  "1": {
+    "id": 1,
+    "thingsId": 1501,
+    "heroPic": "limited_1501_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "2": {
+    "id": 2,
+    "thingsId": 1502,
+    "heroPic": "limited_1502_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "3": {
+    "id": 3,
+    "thingsId": 1503,
+    "heroPic": "limited_1503_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "4": {
+    "id": 4,
+    "thingsId": 1504,
+    "heroPic": "limited_1504_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "5": {
+    "id": 5,
+    "thingsId": 1505,
+    "heroPic": "limited_1505_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "6": {
+    "id": 6,
+    "thingsId": 1506,
+    "heroPic": "limited_1506_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "7": {
+    "id": 7,
+    "thingsId": 1507,
+    "heroPic": "limited_1507_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "8": {
+    "id": 8,
+    "thingsId": 1508,
+    "heroPic": "limited_1508_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "9": {
+    "id": 9,
+    "thingsId": 1510,
+    "heroPic": "limited_1510_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "10": {
+    "id": 10,
+    "thingsId": 1513,
+    "heroPic": "limited_1513_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "11": {
+    "id": 11,
+    "thingsId": 1514,
+    "heroPic": "limited_1514_jpg",
+    "limitedCallRandom": 0.8
+  },
+  "12": {
+    "id": 12,
+    "thingsId": 1512,
+    "heroPic": "limited_1512_jpg",
+    "limitedCallRandom": 0.8
+  }
+}

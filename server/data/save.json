@@ -1,0 +1,114 @@
+{
+  "jogador1": {
+    "userId": "jogador1",
+    "loginToken": "local-jogador1",
+    "serverId": 1,
+    "createdAt": 1786764863146,
+    "progress": {
+      "curLess": 10102,
+      "maxPassLesson": 10101,
+      "maxPassChapter": 801
+    },
+    "heroes": {
+      "hero_1": {
+        "_heroId": "hero_1",
+        "_heroDisplayId": 1315,
+        "_heroStar": 1,
+        "_connectStar": 0,
+        "_expeditionMaxLevel": 0,
+        "_heroTag": [],
+        "_fragment": 0,
+        "_superSkillResetCount": 0,
+        "_potentialResetCount": 0,
+        "_heroBaseAttr": {
+          "_level": 1,
+          "_evolveLevel": 0
+        },
+        "_superSkillLevel": {},
+        "_potentialLevel": {},
+        "_qigong": {},
+        "_qigongTmp": {},
+        "_qigongStage": 1
+      },
+      "hero_1786764955921_960": {
+        "_heroId": "hero_1786764955921_960",
+        "_heroDisplayId": 1316,
+        "_heroStar": 1,
+        "_connectStar": 0,
+        "_expeditionMaxLevel": 0,
+        "_heroTag": [],
+        "_fragment": 0,
+        "_superSkillResetCount": 0,
+        "_potentialResetCount": 0,
+        "_heroBaseAttr": {
+          "_level": 1,
+          "_evolveLevel": 0
+        },
+        "_superSkillLevel": {},
+        "_potentialLevel": {},
+        "_qigong": {},
+        "_qigongTmp": {},
+        "_qigongStage": 1
+      },
+      "hero_1786764961116_391": {
+        "_heroId": "hero_1786764961116_391",
+        "_heroDisplayId": 1208,
+        "_heroStar": 1,
+        "_connectStar": 0,
+        "_expeditionMaxLevel": 0,
+        "_heroTag": [],
+        "_fragment": 0,
+        "_superSkillResetCount": 0,
+        "_potentialResetCount": 0,
+        "_heroBaseAttr": {
+          "_level": 1,
+          "_evolveLevel": 0
+        },
+        "_superSkillLevel": {},
+        "_potentialLevel": {},
+        "_qigong": {},
+        "_qigongTmp": {},
+        "_qigongStage": 1
+      }
+    },
+    "hasEnteredGame": true,
+    "auth": {
+      "salt": "829da7372477b901",
+      "hash": "1be2f652877401be6df3910d5a779e93f9d8033bc33faaecb8832c88f3ed8392"
+    }
+  },
+  "guest": {
+    "userId": "guest",
+    "loginToken": "local-guest",
+    "serverId": 1,
+    "createdAt": 1786777071268,
+    "progress": {
+      "curLess": 10101,
+      "maxPassLesson": 0,
+      "maxPassChapter": 0
+    },
+    "heroes": {
+      "hero_1": {
+        "_heroId": "hero_1",
+        "_heroDisplayId": 1315,
+        "_heroStar": 1,
+        "_connectStar": 0,
+        "_expeditionMaxLevel": 0,
+        "_heroTag": [],
+        "_fragment": 0,
+        "_superSkillResetCount": 0,
+        "_potentialResetCount": 0,
+        "_heroBaseAttr": {
+          "_level": 1,
+          "_evolveLevel": 0
+        },
+        "_superSkillLevel": {},
+        "_potentialLevel": {},
+        "_qigong": {},
+        "_qigongTmp": {},
+        "_qigongStage": 1
+      }
+    },
+    "hasEnteredGame": true
+  }
+}

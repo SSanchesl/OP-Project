@@ -1,0 +1,89 @@
+{
+  "1501001": {
+    "skinID": 1501001,
+    "namePicture": "juebanzhanlingpifu9_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21501001
+  },
+  "1503001": {
+    "skinID": 1503001,
+    "namePicture": "juebanzhanlingpifu12_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21503001
+  },
+  "1505001": {
+    "skinID": 1505001,
+    "namePicture": "juebanzhanlingpifu7_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21505001
+  },
+  "1510001": {
+    "skinID": 1510001,
+    "namePicture": "juebanzhanlingpifu6_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21510001
+  },
+  "1512001": {
+    "skinID": 1512001,
+    "namePicture": "juebanzhanlingpifu5_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21512001
+  },
+  "1522001": {
+    "skinID": 1522001,
+    "namePicture": "juebanzhanlingpifu8_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21522001
+  },
+  "1523001": {
+    "skinID": 1523001,
+    "namePicture": "juebanzhanlingpifu13_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21523001
+  },
+  "1524001": {
+    "skinID": 1524001,
+    "namePicture": "juebanzhanlingpifu10_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21524001
+  },
+  "1525001": {
+    "skinID": 1525001,
+    "namePicture": "juebanzhanlingpifu11_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21525001
+  },
+  "1527001": {
+    "skinID": 1527001,
+    "namePicture": "juebanzhanlingpifu16_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21527001
+  },
+  "1528001": {
+    "skinID": 1528001,
+    "namePicture": "juebanzhanlingpifu15_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21528001
+  },
+  "1529001": {
+    "skinID": 1529001,
+    "namePicture": "juebanzhanlingpifu14_png",
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21529001
+  },
+  "1603001": {
+    "skinID": 1603001,
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21603001
+  },
+  "1604001": {
+    "skinID": 1604001,
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21604001
+  },
+  "1613001": {
+    "skinID": 1613001,
+    "effectPicture": "juebanzhanlingpifu4_png",
+    "skinPieceID1": 21613001
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "0": {
+    "proficiencyLevel": 0,
+    "levelUpNum": 10,
+    "baseWeight": 30,
+    "proficiencyWeight": 30
+  },
+  "1": {
+    "proficiencyLevel": 1,
+    "levelUpNum": 20,
+    "baseWeight": 30,
+    "proficiencyWeight": 33
+  },
+  "2": {
+    "proficiencyLevel": 2,
+    "levelUpNum": 50,
+    "baseWeight": 30,
+    "proficiencyWeight": 36
+  },
+  "3": {
+    "proficiencyLevel": 3,
+    "levelUpNum": 100,
+    "baseWeight": 30,
+    "proficiencyWeight": 40
+  },
+  "4": {
+    "proficiencyLevel": 4,
+    "levelUpNum": 200,
+    "baseWeight": 30,
+    "proficiencyWeight": 44
+  },
+  "5": {
+    "proficiencyLevel": 5,
+    "levelUpNum": 350,
+    "baseWeight": 30,
+    "proficiencyWeight": 49
+  },
+  "6": {
+    "proficiencyLevel": 6,
+    "levelUpNum": 600,
+    "baseWeight": 30,
+    "proficiencyWeight": 54
+  },
+  "7": {
+    "proficiencyLevel": 7,
+    "levelUpNum": 900,
+    "baseWeight": 30,
+    "proficiencyWeight": 61
+  },
+  "8": {
+    "proficiencyLevel": 8,
+    "levelUpNum": 1400,
+    "baseWeight": 30,
+    "proficiencyWeight": 69
+  },
+  "9": {
+    "proficiencyLevel": 9,
+    "levelUpNum": 2000,
+    "baseWeight": 30,
+    "proficiencyWeight": 78
+  },
+  "10": {
+    "proficiencyLevel": 10,
+    "baseWeight": 30,
+    "proficiencyWeight": 90
+  }
+}

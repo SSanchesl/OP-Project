@@ -1,0 +1,23 @@
+{
+  "1001": {
+    "id": 1001,
+    "system": "pubg",
+    "name": "海岛求生",
+    "mailTitle": "pubgMailContent_mailTitle_1",
+    "content": "pubgMailContent_content_2"
+  },
+  "1002": {
+    "id": 1002,
+    "system": "pubg",
+    "name": "海岛求生",
+    "mailTitle": "pubgMailContent_mailTitle_1",
+    "content": "pubgMailContent_content_3"
+  },
+  "1003": {
+    "id": 1003,
+    "system": "pubg",
+    "name": "海岛求生",
+    "mailTitle": "pubgMailContent_mailTitle_1",
+    "content": "pubgMailContent_content_4"
+  }
+}

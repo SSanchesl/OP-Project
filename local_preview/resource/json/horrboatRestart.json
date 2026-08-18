@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": 1,
+    "horrboatRestartCostID": 101,
+    "horrboatRestartPrice": 200,
+    "vipNeeded": 3
+  },
+  "2": {
+    "id": 2,
+    "horrboatRestartCostID": 101,
+    "horrboatRestartPrice": 240,
+    "vipNeeded": 6
+  },
+  "3": {
+    "id": 3,
+    "horrboatRestartCostID": 101,
+    "horrboatRestartPrice": 280,
+    "vipNeeded": 9
+  },
+  "4": {
+    "id": 4,
+    "horrboatRestartCostID": 101,
+    "horrboatRestartPrice": 320,
+    "vipNeeded": 12
+  },
+  "5": {
+    "id": 5,
+    "horrboatRestartCostID": 101,
+    "horrboatRestartPrice": 360,
+    "vipNeeded": 15
+  },
+  "6": {
+    "id": 6,
+    "horrboatRestartCostID": 101,
+    "horrboatRestartPrice": 400,
+    "vipNeeded": 18
+  }
+}

@@ -1,0 +1,2522 @@
+{
+  "1": {
+    "id": 1,
+    "Levelid": 1,
+    "playerLevel": 220,
+    "enemyLevel": "240,240,240,240,240"
+  },
+  "2": {
+    "id": 2,
+    "Levelid": 2,
+    "playerLevel": 220,
+    "enemyLevel": "241,241,241,241,241"
+  },
+  "3": {
+    "id": 3,
+    "Levelid": 3,
+    "playerLevel": 220,
+    "enemyLevel": "242,242,242,242,242"
+  },
+  "4": {
+    "id": 4,
+    "Levelid": 4,
+    "playerLevel": 220,
+    "enemyLevel": "243,243,243,243,243"
+  },
+  "5": {
+    "id": 5,
+    "Levelid": 5,
+    "playerLevel": 220,
+    "enemyLevel": "244,244,244,244,244"
+  },
+  "6": {
+    "id": 6,
+    "Levelid": 6,
+    "playerLevel": 220,
+    "enemyLevel": "245,245,245,245,245"
+  },
+  "7": {
+    "id": 7,
+    "Levelid": 7,
+    "playerLevel": 220,
+    "enemyLevel": "246,246,246,246,246"
+  },
+  "8": {
+    "id": 8,
+    "Levelid": 8,
+    "playerLevel": 220,
+    "enemyLevel": "247,247,247,247,247"
+  },
+  "9": {
+    "id": 9,
+    "Levelid": 9,
+    "playerLevel": 220,
+    "enemyLevel": "248,248,248,248,248"
+  },
+  "10": {
+    "id": 10,
+    "Levelid": 10,
+    "playerLevel": 220,
+    "enemyLevel": "249,249,249,249,249"
+  },
+  "11": {
+    "id": 11,
+    "Levelid": 11,
+    "playerLevel": 220,
+    "enemyLevel": "250,250,250,250,250"
+  },
+  "12": {
+    "id": 12,
+    "Levelid": 12,
+    "playerLevel": 220,
+    "enemyLevel": "251,251,251,251,251"
+  },
+  "13": {
+    "id": 13,
+    "Levelid": 13,
+    "playerLevel": 220,
+    "enemyLevel": "252,252,252,252,252"
+  },
+  "14": {
+    "id": 14,
+    "Levelid": 14,
+    "playerLevel": 220,
+    "enemyLevel": "253,253,253,253,253"
+  },
+  "15": {
+    "id": 15,
+    "Levelid": 15,
+    "playerLevel": 220,
+    "enemyLevel": "254,254,254,254,254"
+  },
+  "16": {
+    "id": 16,
+    "Levelid": 16,
+    "playerLevel": 220,
+    "enemyLevel": "255,255,255,255,255"
+  },
+  "17": {
+    "id": 17,
+    "Levelid": 17,
+    "playerLevel": 220,
+    "enemyLevel": "256,256,256,256,256"
+  },
+  "18": {
+    "id": 18,
+    "Levelid": 18,
+    "playerLevel": 220,
+    "enemyLevel": "257,257,257,257,257"
+  },
+  "19": {
+    "id": 19,
+    "Levelid": 19,
+    "playerLevel": 220,
+    "enemyLevel": "258,258,258,258,258"
+  },
+  "20": {
+    "id": 20,
+    "Levelid": 20,
+    "playerLevel": 220,
+    "enemyLevel": "259,259,259,259,259"
+  },
+  "21": {
+    "id": 21,
+    "Levelid": 21,
+    "playerLevel": 220,
+    "enemyLevel": "260,260,260,260,260"
+  },
+  "22": {
+    "id": 22,
+    "Levelid": 22,
+    "playerLevel": 220,
+    "enemyLevel": "261,261,261,261,261"
+  },
+  "23": {
+    "id": 23,
+    "Levelid": 23,
+    "playerLevel": 220,
+    "enemyLevel": "262,262,262,262,262"
+  },
+  "24": {
+    "id": 24,
+    "Levelid": 24,
+    "playerLevel": 220,
+    "enemyLevel": "263,263,263,263,263"
+  },
+  "25": {
+    "id": 25,
+    "Levelid": 25,
+    "playerLevel": 220,
+    "enemyLevel": "264,264,264,264,264"
+  },
+  "26": {
+    "id": 26,
+    "Levelid": 26,
+    "playerLevel": 220,
+    "enemyLevel": "265,265,265,265,265"
+  },
+  "27": {
+    "id": 27,
+    "Levelid": 27,
+    "playerLevel": 220,
+    "enemyLevel": "266,266,266,266,266"
+  },
+  "28": {
+    "id": 28,
+    "Levelid": 28,
+    "playerLevel": 220,
+    "enemyLevel": "267,267,267,267,267"
+  },
+  "29": {
+    "id": 29,
+    "Levelid": 29,
+    "playerLevel": 220,
+    "enemyLevel": "268,268,268,268,268"
+  },
+  "30": {
+    "id": 30,
+    "Levelid": 30,
+    "playerLevel": 220,
+    "enemyLevel": "269,269,269,269,269"
+  },
+  "31": {
+    "id": 31,
+    "Levelid": 31,
+    "playerLevel": 220,
+    "enemyLevel": "270,270,270,270,270"
+  },
+  "32": {
+    "id": 32,
+    "Levelid": 32,
+    "playerLevel": 220,
+    "enemyLevel": "271,271,271,271,271"
+  },
+  "33": {
+    "id": 33,
+    "Levelid": 33,
+    "playerLevel": 220,
+    "enemyLevel": "271,271,271,271,271"
+  },
+  "34": {
+    "id": 34,
+    "Levelid": 34,
+    "playerLevel": 220,
+    "enemyLevel": "272,272,272,272,272"
+  },
+  "35": {
+    "id": 35,
+    "Levelid": 35,
+    "playerLevel": 220,
+    "enemyLevel": "272,272,272,272,272"
+  },
+  "36": {
+    "id": 36,
+    "Levelid": 36,
+    "playerLevel": 220,
+    "enemyLevel": "273,273,273,273,273"
+  },
+  "37": {
+    "id": 37,
+    "Levelid": 37,
+    "playerLevel": 220,
+    "enemyLevel": "273,273,273,273,273"
+  },
+  "38": {
+    "id": 38,
+    "Levelid": 38,
+    "playerLevel": 220,
+    "enemyLevel": "274,274,274,274,274"
+  },
+  "39": {
+    "id": 39,
+    "Levelid": 39,
+    "playerLevel": 220,
+    "enemyLevel": "274,274,274,274,274"
+  },
+  "40": {
+    "id": 40,
+    "Levelid": 40,
+    "playerLevel": 220,
+    "enemyLevel": "275,275,275,275,275"
+  },
+  "41": {
+    "id": 41,
+    "Levelid": 41,
+    "playerLevel": 220,
+    "enemyLevel": "275,275,275,275,275"
+  },
+  "42": {
+    "id": 42,
+    "Levelid": 42,
+    "playerLevel": 220,
+    "enemyLevel": "276,276,276,276,276"
+  },
+  "43": {
+    "id": 43,
+    "Levelid": 43,
+    "playerLevel": 220,
+    "enemyLevel": "276,276,276,276,276"
+  },
+  "44": {
+    "id": 44,
+    "Levelid": 44,
+    "playerLevel": 220,
+    "enemyLevel": "277,277,277,277,277"
+  },
+  "45": {
+    "id": 45,
+    "Levelid": 45,
+    "playerLevel": 220,
+    "enemyLevel": "277,277,277,277,277"
+  },
+  "46": {
+    "id": 46,
+    "Levelid": 46,
+    "playerLevel": 220,
+    "enemyLevel": "278,278,278,278,278"
+  },
+  "47": {
+    "id": 47,
+    "Levelid": 47,
+    "playerLevel": 220,
+    "enemyLevel": "278,278,278,278,278"
+  },
+  "48": {
+    "id": 48,
+    "Levelid": 48,
+    "playerLevel": 220,
+    "enemyLevel": "279,279,279,279,279"
+  },
+  "49": {
+    "id": 49,
+    "Levelid": 49,
+    "playerLevel": 220,
+    "enemyLevel": "279,279,279,279,279"
+  },
+  "50": {
+    "id": 50,
+    "Levelid": 50,
+    "playerLevel": 220,
+    "enemyLevel": "280,280,280,280,280"
+  },
+  "51": {
+    "id": 51,
+    "Levelid": 51,
+    "playerLevel": 220,
+    "enemyLevel": "280,280,280,280,280"
+  },
+  "52": {
+    "id": 52,
+    "Levelid": 52,
+    "playerLevel": 220,
+    "enemyLevel": "281,281,281,281,281"
+  },
+  "53": {
+    "id": 53,
+    "Levelid": 53,
+    "playerLevel": 220,
+    "enemyLevel": "281,281,281,281,281"
+  },
+  "54": {
+    "id": 54,
+    "Levelid": 54,
+    "playerLevel": 220,
+    "enemyLevel": "282,282,282,282,282"
+  },
+  "55": {
+    "id": 55,
+    "Levelid": 55,
+    "playerLevel": 220,
+    "enemyLevel": "282,282,282,282,282"
+  },
+  "56": {
+    "id": 56,
+    "Levelid": 56,
+    "playerLevel": 220,
+    "enemyLevel": "283,283,283,283,283"
+  },
+  "57": {
+    "id": 57,
+    "Levelid": 57,
+    "playerLevel": 220,
+    "enemyLevel": "283,283,283,283,283"
+  },
+  "58": {
+    "id": 58,
+    "Levelid": 58,
+    "playerLevel": 220,
+    "enemyLevel": "284,284,284,284,284"
+  },
+  "59": {
+    "id": 59,
+    "Levelid": 59,
+    "playerLevel": 220,
+    "enemyLevel": "284,284,284,284,284"
+  },
+  "60": {
+    "id": 60,
+    "Levelid": 60,
+    "playerLevel": 220,
+    "enemyLevel": "285,285,285,285,285"
+  },
+  "61": {
+    "id": 61,
+    "Levelid": 1,
+    "playerLevel": 225,
+    "enemyLevel": "252,252,252,252,252"
+  },
+  "62": {
+    "id": 62,
+    "Levelid": 2,
+    "playerLevel": 225,
+    "enemyLevel": "253,253,253,253,253"
+  },
+  "63": {
+    "id": 63,
+    "Levelid": 3,
+    "playerLevel": 225,
+    "enemyLevel": "254,254,254,254,254"
+  },
+  "64": {
+    "id": 64,
+    "Levelid": 4,
+    "playerLevel": 225,
+    "enemyLevel": "255,255,255,255,255"
+  },
+  "65": {
+    "id": 65,
+    "Levelid": 5,
+    "playerLevel": 225,
+    "enemyLevel": "256,256,256,256,256"
+  },
+  "66": {
+    "id": 66,
+    "Levelid": 6,
+    "playerLevel": 225,
+    "enemyLevel": "257,257,257,257,257"
+  },
+  "67": {
+    "id": 67,
+    "Levelid": 7,
+    "playerLevel": 225,
+    "enemyLevel": "258,258,258,258,258"
+  },
+  "68": {
+    "id": 68,
+    "Levelid": 8,
+    "playerLevel": 225,
+    "enemyLevel": "259,259,259,259,259"
+  },
+  "69": {
+    "id": 69,
+    "Levelid": 9,
+    "playerLevel": 225,
+    "enemyLevel": "260,260,260,260,260"
+  },
+  "70": {
+    "id": 70,
+    "Levelid": 10,
+    "playerLevel": 225,
+    "enemyLevel": "261,261,261,261,261"
+  },
+  "71": {
+    "id": 71,
+    "Levelid": 11,
+    "playerLevel": 225,
+    "enemyLevel": "262,262,262,262,262"
+  },
+  "72": {
+    "id": 72,
+    "Levelid": 12,
+    "playerLevel": 225,
+    "enemyLevel": "263,263,263,263,263"
+  },
+  "73": {
+    "id": 73,
+    "Levelid": 13,
+    "playerLevel": 225,
+    "enemyLevel": "264,264,264,264,264"
+  },
+  "74": {
+    "id": 74,
+    "Levelid": 14,
+    "playerLevel": 225,
+    "enemyLevel": "265,265,265,265,265"
+  },
+  "75": {
+    "id": 75,
+    "Levelid": 15,
+    "playerLevel": 225,
+    "enemyLevel": "266,266,266,266,266"
+  },
+  "76": {
+    "id": 76,
+    "Levelid": 16,
+    "playerLevel": 225,
+    "enemyLevel": "267,267,267,267,267"
+  },
+  "77": {
+    "id": 77,
+    "Levelid": 17,
+    "playerLevel": 225,
+    "enemyLevel": "268,268,268,268,268"
+  },
+  "78": {
+    "id": 78,
+    "Levelid": 18,
+    "playerLevel": 225,
+    "enemyLevel": "269,269,269,269,269"
+  },
+  "79": {
+    "id": 79,
+    "Levelid": 19,
+    "playerLevel": 225,
+    "enemyLevel": "270,270,270,270,270"
+  },
+  "80": {
+    "id": 80,
+    "Levelid": 20,
+    "playerLevel": 225,
+    "enemyLevel": "271,271,271,271,271"
+  },
+  "81": {
+    "id": 81,
+    "Levelid": 21,
+    "playerLevel": 225,
+    "enemyLevel": "272,272,272,272,272"
+  },
+  "82": {
+    "id": 82,
+    "Levelid": 22,
+    "playerLevel": 225,
+    "enemyLevel": "273,273,273,273,273"
+  },
+  "83": {
+    "id": 83,
+    "Levelid": 23,
+    "playerLevel": 225,
+    "enemyLevel": "273,273,273,273,273"
+  },
+  "84": {
+    "id": 84,
+    "Levelid": 24,
+    "playerLevel": 225,
+    "enemyLevel": "273,273,273,273,273"
+  },
+  "85": {
+    "id": 85,
+    "Levelid": 25,
+    "playerLevel": 225,
+    "enemyLevel": "274,274,274,274,274"
+  },
+  "86": {
+    "id": 86,
+    "Levelid": 26,
+    "playerLevel": 225,
+    "enemyLevel": "274,274,274,274,274"
+  },
+  "87": {
+    "id": 87,
+    "Levelid": 27,
+    "playerLevel": 225,
+    "enemyLevel": "274,274,274,274,274"
+  },
+  "88": {
+    "id": 88,
+    "Levelid": 28,
+    "playerLevel": 225,
+    "enemyLevel": "275,275,275,275,275"
+  },
+  "89": {
+    "id": 89,
+    "Levelid": 29,
+    "playerLevel": 225,
+    "enemyLevel": "275,275,275,275,275"
+  },
+  "90": {
+    "id": 90,
+    "Levelid": 30,
+    "playerLevel": 225,
+    "enemyLevel": "276,276,276,276,276"
+  },
+  "91": {
+    "id": 91,
+    "Levelid": 31,
+    "playerLevel": 225,
+    "enemyLevel": "276,276,276,276,276"
+  },
+  "92": {
+    "id": 92,
+    "Levelid": 32,
+    "playerLevel": 225,
+    "enemyLevel": "277,277,277,277,277"
+  },
+  "93": {
+    "id": 93,
+    "Levelid": 33,
+    "playerLevel": 225,
+    "enemyLevel": "277,277,277,277,277"
+  },
+  "94": {
+    "id": 94,
+    "Levelid": 34,
+    "playerLevel": 225,
+    "enemyLevel": "278,278,278,278,278"
+  },
+  "95": {
+    "id": 95,
+    "Levelid": 35,
+    "playerLevel": 225,
+    "enemyLevel": "278,278,278,278,278"
+  },
+  "96": {
+    "id": 96,
+    "Levelid": 36,
+    "playerLevel": 225,
+    "enemyLevel": "279,279,279,279,279"
+  },
+  "97": {
+    "id": 97,
+    "Levelid": 37,
+    "playerLevel": 225,
+    "enemyLevel": "279,279,279,279,279"
+  },
+  "98": {
+    "id": 98,
+    "Levelid": 38,
+    "playerLevel": 225,
+    "enemyLevel": "280,280,280,280,280"
+  },
+  "99": {
+    "id": 99,
+    "Levelid": 39,
+    "playerLevel": 225,
+    "enemyLevel": "280,280,280,280,280"
+  },
+  "100": {
+    "id": 100,
+    "Levelid": 40,
+    "playerLevel": 225,
+    "enemyLevel": "281,281,281,281,281"
+  },
+  "101": {
+    "id": 101,
+    "Levelid": 41,
+    "playerLevel": 225,
+    "enemyLevel": "281,281,281,281,281"
+  },
+  "102": {
+    "id": 102,
+    "Levelid": 42,
+    "playerLevel": 225,
+    "enemyLevel": "282,282,282,282,282"
+  },
+  "103": {
+    "id": 103,
+    "Levelid": 43,
+    "playerLevel": 225,
+    "enemyLevel": "282,282,282,282,282"
+  },
+  "104": {
+    "id": 104,
+    "Levelid": 44,
+    "playerLevel": 225,
+    "enemyLevel": "283,283,283,283,283"
+  },
+  "105": {
+    "id": 105,
+    "Levelid": 45,
+    "playerLevel": 225,
+    "enemyLevel": "283,283,283,283,283"
+  },
+  "106": {
+    "id": 106,
+    "Levelid": 46,
+    "playerLevel": 225,
+    "enemyLevel": "284,284,284,284,284"
+  },
+  "107": {
+    "id": 107,
+    "Levelid": 47,
+    "playerLevel": 225,
+    "enemyLevel": "284,284,284,284,284"
+  },
+  "108": {
+    "id": 108,
+    "Levelid": 48,
+    "playerLevel": 225,
+    "enemyLevel": "285,285,285,285,285"
+  },
+  "109": {
+    "id": 109,
+    "Levelid": 49,
+    "playerLevel": 225,
+    "enemyLevel": "285,285,285,285,285"
+  },
+  "110": {
+    "id": 110,
+    "Levelid": 50,
+    "playerLevel": 225,
+    "enemyLevel": "286,286,286,286,286"
+  },
+  "111": {
+    "id": 111,
+    "Levelid": 51,
+    "playerLevel": 225,
+    "enemyLevel": "286,286,286,286,286"
+  },
+  "112": {
+    "id": 112,
+    "Levelid": 52,
+    "playerLevel": 225,
+    "enemyLevel": "287,287,287,287,287"
+  },
+  "113": {
+    "id": 113,
+    "Levelid": 53,
+    "playerLevel": 225,
+    "enemyLevel": "287,287,287,287,287"
+  },
+  "114": {
+    "id": 114,
+    "Levelid": 54,
+    "playerLevel": 225,
+    "enemyLevel": "288,288,288,288,288"
+  },
+  "115": {
+    "id": 115,
+    "Levelid": 55,
+    "playerLevel": 225,
+    "enemyLevel": "288,288,288,288,288"
+  },
+  "116": {
+    "id": 116,
+    "Levelid": 56,
+    "playerLevel": 225,
+    "enemyLevel": "289,289,289,289,289"
+  },
+  "117": {
+    "id": 117,
+    "Levelid": 57,
+    "playerLevel": 225,
+    "enemyLevel": "289,289,289,289,289"
+  },
+  "118": {
+    "id": 118,
+    "Levelid": 58,
+    "playerLevel": 225,
+    "enemyLevel": "290,290,290,290,290"
+  },
+  "119": {
+    "id": 119,
+    "Levelid": 59,
+    "playerLevel": 225,
+    "enemyLevel": "290,290,290,290,290"
+  },
+  "120": {
+    "id": 120,
+    "Levelid": 60,
+    "playerLevel": 225,
+    "enemyLevel": "291,291,291,291,291"
+  },
+  "121": {
+    "id": 121,
+    "Levelid": 1,
+    "playerLevel": 230,
+    "enemyLevel": "262,262,262,262,262"
+  },
+  "122": {
+    "id": 122,
+    "Levelid": 2,
+    "playerLevel": 230,
+    "enemyLevel": "263,263,263,263,263"
+  },
+  "123": {
+    "id": 123,
+    "Levelid": 3,
+    "playerLevel": 230,
+    "enemyLevel": "264,264,264,264,264"
+  },
+  "124": {
+    "id": 124,
+    "Levelid": 4,
+    "playerLevel": 230,
+    "enemyLevel": "265,265,265,265,265"
+  },
+  "125": {
+    "id": 125,
+    "Levelid": 5,
+    "playerLevel": 230,
+    "enemyLevel": "266,266,266,266,266"
+  },
+  "126": {
+    "id": 126,
+    "Levelid": 6,
+    "playerLevel": 230,
+    "enemyLevel": "267,267,267,267,267"
+  },
+  "127": {
+    "id": 127,
+    "Levelid": 7,
+    "playerLevel": 230,
+    "enemyLevel": "268,268,268,268,268"
+  },
+  "128": {
+    "id": 128,
+    "Levelid": 8,
+    "playerLevel": 230,
+    "enemyLevel": "269,269,269,269,269"
+  },
+  "129": {
+    "id": 129,
+    "Levelid": 9,
+    "playerLevel": 230,
+    "enemyLevel": "270,270,270,270,270"
+  },
+  "130": {
+    "id": 130,
+    "Levelid": 10,
+    "playerLevel": 230,
+    "enemyLevel": "271,271,271,271,271"
+  },
+  "131": {
+    "id": 131,
+    "Levelid": 11,
+    "playerLevel": 230,
+    "enemyLevel": "272,272,272,272,272"
+  },
+  "132": {
+    "id": 132,
+    "Levelid": 12,
+    "playerLevel": 230,
+    "enemyLevel": "273,273,273,273,273"
+  },
+  "133": {
+    "id": 133,
+    "Levelid": 13,
+    "playerLevel": 230,
+    "enemyLevel": "274,274,274,274,274"
+  },
+  "134": {
+    "id": 134,
+    "Levelid": 14,
+    "playerLevel": 230,
+    "enemyLevel": "275,275,275,275,275"
+  },
+  "135": {
+    "id": 135,
+    "Levelid": 15,
+    "playerLevel": 230,
+    "enemyLevel": "276,276,276,276,276"
+  },
+  "136": {
+    "id": 136,
+    "Levelid": 16,
+    "playerLevel": 230,
+    "enemyLevel": "277,277,277,277,277"
+  },
+  "137": {
+    "id": 137,
+    "Levelid": 17,
+    "playerLevel": 230,
+    "enemyLevel": "278,278,278,278,278"
+  },
+  "138": {
+    "id": 138,
+    "Levelid": 18,
+    "playerLevel": 230,
+    "enemyLevel": "279,279,279,279,279"
+  },
+  "139": {
+    "id": 139,
+    "Levelid": 19,
+    "playerLevel": 230,
+    "enemyLevel": "280,280,280,280,280"
+  },
+  "140": {
+    "id": 140,
+    "Levelid": 20,
+    "playerLevel": 230,
+    "enemyLevel": "280,280,280,280,280"
+  },
+  "141": {
+    "id": 141,
+    "Levelid": 21,
+    "playerLevel": 230,
+    "enemyLevel": "280,280,280,280,280"
+  },
+  "142": {
+    "id": 142,
+    "Levelid": 22,
+    "playerLevel": 230,
+    "enemyLevel": "281,281,281,281,281"
+  },
+  "143": {
+    "id": 143,
+    "Levelid": 23,
+    "playerLevel": 230,
+    "enemyLevel": "281,281,281,281,281"
+  },
+  "144": {
+    "id": 144,
+    "Levelid": 24,
+    "playerLevel": 230,
+    "enemyLevel": "281,281,281,281,281"
+  },
+  "145": {
+    "id": 145,
+    "Levelid": 25,
+    "playerLevel": 230,
+    "enemyLevel": "282,282,282,282,282"
+  },
+  "146": {
+    "id": 146,
+    "Levelid": 26,
+    "playerLevel": 230,
+    "enemyLevel": "282,282,282,282,282"
+  },
+  "147": {
+    "id": 147,
+    "Levelid": 27,
+    "playerLevel": 230,
+    "enemyLevel": "282,282,282,282,282"
+  },
+  "148": {
+    "id": 148,
+    "Levelid": 28,
+    "playerLevel": 230,
+    "enemyLevel": "283,283,283,283,283"
+  },
+  "149": {
+    "id": 149,
+    "Levelid": 29,
+    "playerLevel": 230,
+    "enemyLevel": "283,283,283,283,283"
+  },
+  "150": {
+    "id": 150,
+    "Levelid": 30,
+    "playerLevel": 230,
+    "enemyLevel": "283,283,283,283,283"
+  },
+  "151": {
+    "id": 151,
+    "Levelid": 31,
+    "playerLevel": 230,
+    "enemyLevel": "284,284,284,284,284"
+  },
+  "152": {
+    "id": 152,
+    "Levelid": 32,
+    "playerLevel": 230,
+    "enemyLevel": "284,284,284,284,284"
+  },
+  "153": {
+    "id": 153,
+    "Levelid": 33,
+    "playerLevel": 230,
+    "enemyLevel": "284,284,284,284,284"
+  },
+  "154": {
+    "id": 154,
+    "Levelid": 34,
+    "playerLevel": 230,
+    "enemyLevel": "285,285,285,285,285"
+  },
+  "155": {
+    "id": 155,
+    "Levelid": 35,
+    "playerLevel": 230,
+    "enemyLevel": "285,285,285,285,285"
+  },
+  "156": {
+    "id": 156,
+    "Levelid": 36,
+    "playerLevel": 230,
+    "enemyLevel": "285,285,285,285,285"
+  },
+  "157": {
+    "id": 157,
+    "Levelid": 37,
+    "playerLevel": 230,
+    "enemyLevel": "286,286,286,286,286"
+  },
+  "158": {
+    "id": 158,
+    "Levelid": 38,
+    "playerLevel": 230,
+    "enemyLevel": "286,286,286,286,286"
+  },
+  "159": {
+    "id": 159,
+    "Levelid": 39,
+    "playerLevel": 230,
+    "enemyLevel": "286,286,286,286,286"
+  },
+  "160": {
+    "id": 160,
+    "Levelid": 40,
+    "playerLevel": 230,
+    "enemyLevel": "287,287,287,287,287"
+  },
+  "161": {
+    "id": 161,
+    "Levelid": 41,
+    "playerLevel": 230,
+    "enemyLevel": "287,287,287,287,287"
+  },
+  "162": {
+    "id": 162,
+    "Levelid": 42,
+    "playerLevel": 230,
+    "enemyLevel": "288,288,288,288,288"
+  },
+  "163": {
+    "id": 163,
+    "Levelid": 43,
+    "playerLevel": 230,
+    "enemyLevel": "288,288,288,288,288"
+  },
+  "164": {
+    "id": 164,
+    "Levelid": 44,
+    "playerLevel": 230,
+    "enemyLevel": "289,289,289,289,289"
+  },
+  "165": {
+    "id": 165,
+    "Levelid": 45,
+    "playerLevel": 230,
+    "enemyLevel": "289,289,289,289,289"
+  },
+  "166": {
+    "id": 166,
+    "Levelid": 46,
+    "playerLevel": 230,
+    "enemyLevel": "290,290,290,290,290"
+  },
+  "167": {
+    "id": 167,
+    "Levelid": 47,
+    "playerLevel": 230,
+    "enemyLevel": "290,290,290,290,290"
+  },
+  "168": {
+    "id": 168,
+    "Levelid": 48,
+    "playerLevel": 230,
+    "enemyLevel": "291,291,291,291,291"
+  },
+  "169": {
+    "id": 169,
+    "Levelid": 49,
+    "playerLevel": 230,
+    "enemyLevel": "291,291,291,291,291"
+  },
+  "170": {
+    "id": 170,
+    "Levelid": 50,
+    "playerLevel": 230,
+    "enemyLevel": "292,292,292,292,292"
+  },
+  "171": {
+    "id": 171,
+    "Levelid": 51,
+    "playerLevel": 230,
+    "enemyLevel": "292,292,292,292,292"
+  },
+  "172": {
+    "id": 172,
+    "Levelid": 52,
+    "playerLevel": 230,
+    "enemyLevel": "293,293,293,293,293"
+  },
+  "173": {
+    "id": 173,
+    "Levelid": 53,
+    "playerLevel": 230,
+    "enemyLevel": "293,293,293,293,293"
+  },
+  "174": {
+    "id": 174,
+    "Levelid": 54,
+    "playerLevel": 230,
+    "enemyLevel": "294,294,294,294,294"
+  },
+  "175": {
+    "id": 175,
+    "Levelid": 55,
+    "playerLevel": 230,
+    "enemyLevel": "294,294,294,294,294"
+  },
+  "176": {
+    "id": 176,
+    "Levelid": 56,
+    "playerLevel": 230,
+    "enemyLevel": "295,295,295,295,295"
+  },
+  "177": {
+    "id": 177,
+    "Levelid": 57,
+    "playerLevel": 230,
+    "enemyLevel": "295,295,295,295,295"
+  },
+  "178": {
+    "id": 178,
+    "Levelid": 58,
+    "playerLevel": 230,
+    "enemyLevel": "296,296,296,296,296"
+  },
+  "179": {
+    "id": 179,
+    "Levelid": 59,
+    "playerLevel": 230,
+    "enemyLevel": "296,296,296,296,296"
+  },
+  "180": {
+    "id": 180,
+    "Levelid": 60,
+    "playerLevel": 230,
+    "enemyLevel": "297,297,297,297,297"
+  },
+  "181": {
+    "id": 181,
+    "Levelid": 1,
+    "playerLevel": 235,
+    "enemyLevel": "270,270,270,270,270"
+  },
+  "182": {
+    "id": 182,
+    "Levelid": 2,
+    "playerLevel": 235,
+    "enemyLevel": "271,271,271,271,271"
+  },
+  "183": {
+    "id": 183,
+    "Levelid": 3,
+    "playerLevel": 235,
+    "enemyLevel": "272,272,272,272,272"
+  },
+  "184": {
+    "id": 184,
+    "Levelid": 4,
+    "playerLevel": 235,
+    "enemyLevel": "273,273,273,273,273"
+  },
+  "185": {
+    "id": 185,
+    "Levelid": 5,
+    "playerLevel": 235,
+    "enemyLevel": "274,274,274,274,274"
+  },
+  "186": {
+    "id": 186,
+    "Levelid": 6,
+    "playerLevel": 235,
+    "enemyLevel": "275,275,275,275,275"
+  },
+  "187": {
+    "id": 187,
+    "Levelid": 7,
+    "playerLevel": 235,
+    "enemyLevel": "276,276,276,276,276"
+  },
+  "188": {
+    "id": 188,
+    "Levelid": 8,
+    "playerLevel": 235,
+    "enemyLevel": "277,277,277,277,277"
+  },
+  "189": {
+    "id": 189,
+    "Levelid": 9,
+    "playerLevel": 235,
+    "enemyLevel": "278,278,278,278,278"
+  },
+  "190": {
+    "id": 190,
+    "Levelid": 10,
+    "playerLevel": 235,
+    "enemyLevel": "279,279,279,279,279"
+  },
+  "191": {
+    "id": 191,
+    "Levelid": 11,
+    "playerLevel": 235,
+    "enemyLevel": "280,280,280,280,280"
+  },
+  "192": {
+    "id": 192,
+    "Levelid": 12,
+    "playerLevel": 235,
+    "enemyLevel": "281,281,281,281,281"
+  },
+  "193": {
+    "id": 193,
+    "Levelid": 13,
+    "playerLevel": 235,
+    "enemyLevel": "282,282,282,282,282"
+  },
+  "194": {
+    "id": 194,
+    "Levelid": 14,
+    "playerLevel": 235,
+    "enemyLevel": "283,283,283,283,283"
+  },
+  "195": {
+    "id": 195,
+    "Levelid": 15,
+    "playerLevel": 235,
+    "enemyLevel": "284,284,284,284,284"
+  },
+  "196": {
+    "id": 196,
+    "Levelid": 16,
+    "playerLevel": 235,
+    "enemyLevel": "285,285,285,285,285"
+  },
+  "197": {
+    "id": 197,
+    "Levelid": 17,
+    "playerLevel": 235,
+    "enemyLevel": "286,286,286,286,286"
+  },
+  "198": {
+    "id": 198,
+    "Levelid": 18,
+    "playerLevel": 235,
+    "enemyLevel": "286,286,286,286,286"
+  },
+  "199": {
+    "id": 199,
+    "Levelid": 19,
+    "playerLevel": 235,
+    "enemyLevel": "287,287,287,287,287"
+  },
+  "200": {
+    "id": 200,
+    "Levelid": 20,
+    "playerLevel": 235,
+    "enemyLevel": "287,287,287,287,287"
+  },
+  "201": {
+    "id": 201,
+    "Levelid": 21,
+    "playerLevel": 235,
+    "enemyLevel": "287,287,287,287,287"
+  },
+  "202": {
+    "id": 202,
+    "Levelid": 22,
+    "playerLevel": 235,
+    "enemyLevel": "288,288,288,288,288"
+  },
+  "203": {
+    "id": 203,
+    "Levelid": 23,
+    "playerLevel": 235,
+    "enemyLevel": "288,288,288,288,288"
+  },
+  "204": {
+    "id": 204,
+    "Levelid": 24,
+    "playerLevel": 235,
+    "enemyLevel": "288,288,288,288,288"
+  },
+  "205": {
+    "id": 205,
+    "Levelid": 25,
+    "playerLevel": 235,
+    "enemyLevel": "289,289,289,289,289"
+  },
+  "206": {
+    "id": 206,
+    "Levelid": 26,
+    "playerLevel": 235,
+    "enemyLevel": "289,289,289,289,289"
+  },
+  "207": {
+    "id": 207,
+    "Levelid": 27,
+    "playerLevel": 235,
+    "enemyLevel": "289,289,289,289,289"
+  },
+  "208": {
+    "id": 208,
+    "Levelid": 28,
+    "playerLevel": 235,
+    "enemyLevel": "290,290,290,290,290"
+  },
+  "209": {
+    "id": 209,
+    "Levelid": 29,
+    "playerLevel": 235,
+    "enemyLevel": "290,290,290,290,290"
+  },
+  "210": {
+    "id": 210,
+    "Levelid": 30,
+    "playerLevel": 235,
+    "enemyLevel": "290,290,290,290,290"
+  },
+  "211": {
+    "id": 211,
+    "Levelid": 31,
+    "playerLevel": 235,
+    "enemyLevel": "291,291,291,291,291"
+  },
+  "212": {
+    "id": 212,
+    "Levelid": 32,
+    "playerLevel": 235,
+    "enemyLevel": "291,291,291,291,291"
+  },
+  "213": {
+    "id": 213,
+    "Levelid": 33,
+    "playerLevel": 235,
+    "enemyLevel": "291,291,291,291,291"
+  },
+  "214": {
+    "id": 214,
+    "Levelid": 34,
+    "playerLevel": 235,
+    "enemyLevel": "292,292,292,292,292"
+  },
+  "215": {
+    "id": 215,
+    "Levelid": 35,
+    "playerLevel": 235,
+    "enemyLevel": "292,292,292,292,292"
+  },
+  "216": {
+    "id": 216,
+    "Levelid": 36,
+    "playerLevel": 235,
+    "enemyLevel": "292,292,292,292,292"
+  },
+  "217": {
+    "id": 217,
+    "Levelid": 37,
+    "playerLevel": 235,
+    "enemyLevel": "293,293,293,293,293"
+  },
+  "218": {
+    "id": 218,
+    "Levelid": 38,
+    "playerLevel": 235,
+    "enemyLevel": "293,293,293,293,293"
+  },
+  "219": {
+    "id": 219,
+    "Levelid": 39,
+    "playerLevel": 235,
+    "enemyLevel": "293,293,293,293,293"
+  },
+  "220": {
+    "id": 220,
+    "Levelid": 40,
+    "playerLevel": 235,
+    "enemyLevel": "294,294,294,294,294"
+  },
+  "221": {
+    "id": 221,
+    "Levelid": 41,
+    "playerLevel": 235,
+    "enemyLevel": "294,294,294,294,294"
+  },
+  "222": {
+    "id": 222,
+    "Levelid": 42,
+    "playerLevel": 235,
+    "enemyLevel": "294,294,294,294,294"
+  },
+  "223": {
+    "id": 223,
+    "Levelid": 43,
+    "playerLevel": 235,
+    "enemyLevel": "295,295,295,295,295"
+  },
+  "224": {
+    "id": 224,
+    "Levelid": 44,
+    "playerLevel": 235,
+    "enemyLevel": "295,295,295,295,295"
+  },
+  "225": {
+    "id": 225,
+    "Levelid": 45,
+    "playerLevel": 235,
+    "enemyLevel": "295,295,295,295,295"
+  },
+  "226": {
+    "id": 226,
+    "Levelid": 46,
+    "playerLevel": 235,
+    "enemyLevel": "296,296,296,296,296"
+  },
+  "227": {
+    "id": 227,
+    "Levelid": 47,
+    "playerLevel": 235,
+    "enemyLevel": "296,296,296,296,296"
+  },
+  "228": {
+    "id": 228,
+    "Levelid": 48,
+    "playerLevel": 235,
+    "enemyLevel": "297,297,297,297,297"
+  },
+  "229": {
+    "id": 229,
+    "Levelid": 49,
+    "playerLevel": 235,
+    "enemyLevel": "297,297,297,297,297"
+  },
+  "230": {
+    "id": 230,
+    "Levelid": 50,
+    "playerLevel": 235,
+    "enemyLevel": "298,298,298,298,298"
+  },
+  "231": {
+    "id": 231,
+    "Levelid": 51,
+    "playerLevel": 235,
+    "enemyLevel": "298,298,298,298,298"
+  },
+  "232": {
+    "id": 232,
+    "Levelid": 52,
+    "playerLevel": 235,
+    "enemyLevel": "299,299,299,299,299"
+  },
+  "233": {
+    "id": 233,
+    "Levelid": 53,
+    "playerLevel": 235,
+    "enemyLevel": "299,299,299,299,299"
+  },
+  "234": {
+    "id": 234,
+    "Levelid": 54,
+    "playerLevel": 235,
+    "enemyLevel": "300,300,300,300,300"
+  },
+  "235": {
+    "id": 235,
+    "Levelid": 55,
+    "playerLevel": 235,
+    "enemyLevel": "300,300,300,300,300"
+  },
+  "236": {
+    "id": 236,
+    "Levelid": 56,
+    "playerLevel": 235,
+    "enemyLevel": "301,301,301,301,301"
+  },
+  "237": {
+    "id": 237,
+    "Levelid": 57,
+    "playerLevel": 235,
+    "enemyLevel": "301,301,301,301,301"
+  },
+  "238": {
+    "id": 238,
+    "Levelid": 58,
+    "playerLevel": 235,
+    "enemyLevel": "302,302,302,302,302"
+  },
+  "239": {
+    "id": 239,
+    "Levelid": 59,
+    "playerLevel": 235,
+    "enemyLevel": "302,302,302,302,302"
+  },
+  "240": {
+    "id": 240,
+    "Levelid": 60,
+    "playerLevel": 235,
+    "enemyLevel": "303,303,303,303,303"
+  },
+  "241": {
+    "id": 241,
+    "Levelid": 1,
+    "playerLevel": 240,
+    "enemyLevel": "278,278,278,278,278"
+  },
+  "242": {
+    "id": 242,
+    "Levelid": 2,
+    "playerLevel": 240,
+    "enemyLevel": "279,279,279,279,279"
+  },
+  "243": {
+    "id": 243,
+    "Levelid": 3,
+    "playerLevel": 240,
+    "enemyLevel": "280,280,280,280,280"
+  },
+  "244": {
+    "id": 244,
+    "Levelid": 4,
+    "playerLevel": 240,
+    "enemyLevel": "281,281,281,281,281"
+  },
+  "245": {
+    "id": 245,
+    "Levelid": 5,
+    "playerLevel": 240,
+    "enemyLevel": "282,282,282,282,282"
+  },
+  "246": {
+    "id": 246,
+    "Levelid": 6,
+    "playerLevel": 240,
+    "enemyLevel": "283,283,283,283,283"
+  },
+  "247": {
+    "id": 247,
+    "Levelid": 7,
+    "playerLevel": 240,
+    "enemyLevel": "284,284,284,284,284"
+  },
+  "248": {
+    "id": 248,
+    "Levelid": 8,
+    "playerLevel": 240,
+    "enemyLevel": "285,285,285,285,285"
+  },
+  "249": {
+    "id": 249,
+    "Levelid": 9,
+    "playerLevel": 240,
+    "enemyLevel": "286,286,286,286,286"
+  },
+  "250": {
+    "id": 250,
+    "Levelid": 10,
+    "playerLevel": 240,
+    "enemyLevel": "287,287,287,287,287"
+  },
+  "251": {
+    "id": 251,
+    "Levelid": 11,
+    "playerLevel": 240,
+    "enemyLevel": "288,288,288,288,288"
+  },
+  "252": {
+    "id": 252,
+    "Levelid": 12,
+    "playerLevel": 240,
+    "enemyLevel": "289,289,289,289,289"
+  },
+  "253": {
+    "id": 253,
+    "Levelid": 13,
+    "playerLevel": 240,
+    "enemyLevel": "290,290,290,290,290"
+  },
+  "254": {
+    "id": 254,
+    "Levelid": 14,
+    "playerLevel": 240,
+    "enemyLevel": "291,291,291,291,291"
+  },
+  "255": {
+    "id": 255,
+    "Levelid": 15,
+    "playerLevel": 240,
+    "enemyLevel": "292,292,292,292,292"
+  },
+  "256": {
+    "id": 256,
+    "Levelid": 16,
+    "playerLevel": 240,
+    "enemyLevel": "293,293,293,293,293"
+  },
+  "257": {
+    "id": 257,
+    "Levelid": 17,
+    "playerLevel": 240,
+    "enemyLevel": "293,293,293,293,293"
+  },
+  "258": {
+    "id": 258,
+    "Levelid": 18,
+    "playerLevel": 240,
+    "enemyLevel": "293,293,293,293,293"
+  },
+  "259": {
+    "id": 259,
+    "Levelid": 19,
+    "playerLevel": 240,
+    "enemyLevel": "294,294,294,294,294"
+  },
+  "260": {
+    "id": 260,
+    "Levelid": 20,
+    "playerLevel": 240,
+    "enemyLevel": "294,294,294,294,294"
+  },
+  "261": {
+    "id": 261,
+    "Levelid": 21,
+    "playerLevel": 240,
+    "enemyLevel": "294,294,294,294,294"
+  },
+  "262": {
+    "id": 262,
+    "Levelid": 22,
+    "playerLevel": 240,
+    "enemyLevel": "295,295,295,295,295"
+  },
+  "263": {
+    "id": 263,
+    "Levelid": 23,
+    "playerLevel": 240,
+    "enemyLevel": "295,295,295,295,295"
+  },
+  "264": {
+    "id": 264,
+    "Levelid": 24,
+    "playerLevel": 240,
+    "enemyLevel": "295,295,295,295,295"
+  },
+  "265": {
+    "id": 265,
+    "Levelid": 25,
+    "playerLevel": 240,
+    "enemyLevel": "296,296,296,296,296"
+  },
+  "266": {
+    "id": 266,
+    "Levelid": 26,
+    "playerLevel": 240,
+    "enemyLevel": "296,296,296,296,296"
+  },
+  "267": {
+    "id": 267,
+    "Levelid": 27,
+    "playerLevel": 240,
+    "enemyLevel": "296,296,296,296,296"
+  },
+  "268": {
+    "id": 268,
+    "Levelid": 28,
+    "playerLevel": 240,
+    "enemyLevel": "297,297,297,297,297"
+  },
+  "269": {
+    "id": 269,
+    "Levelid": 29,
+    "playerLevel": 240,
+    "enemyLevel": "297,297,297,297,297"
+  },
+  "270": {
+    "id": 270,
+    "Levelid": 30,
+    "playerLevel": 240,
+    "enemyLevel": "297,297,297,297,297"
+  },
+  "271": {
+    "id": 271,
+    "Levelid": 31,
+    "playerLevel": 240,
+    "enemyLevel": "298,298,298,298,298"
+  },
+  "272": {
+    "id": 272,
+    "Levelid": 32,
+    "playerLevel": 240,
+    "enemyLevel": "298,298,298,298,298"
+  },
+  "273": {
+    "id": 273,
+    "Levelid": 33,
+    "playerLevel": 240,
+    "enemyLevel": "298,298,298,298,298"
+  },
+  "274": {
+    "id": 274,
+    "Levelid": 34,
+    "playerLevel": 240,
+    "enemyLevel": "299,299,299,299,299"
+  },
+  "275": {
+    "id": 275,
+    "Levelid": 35,
+    "playerLevel": 240,
+    "enemyLevel": "299,299,299,299,299"
+  },
+  "276": {
+    "id": 276,
+    "Levelid": 36,
+    "playerLevel": 240,
+    "enemyLevel": "299,299,299,299,299"
+  },
+  "277": {
+    "id": 277,
+    "Levelid": 37,
+    "playerLevel": 240,
+    "enemyLevel": "300,300,300,300,300"
+  },
+  "278": {
+    "id": 278,
+    "Levelid": 38,
+    "playerLevel": 240,
+    "enemyLevel": "300,300,300,300,300"
+  },
+  "279": {
+    "id": 279,
+    "Levelid": 39,
+    "playerLevel": 240,
+    "enemyLevel": "300,300,300,300,300"
+  },
+  "280": {
+    "id": 280,
+    "Levelid": 40,
+    "playerLevel": 240,
+    "enemyLevel": "301,301,301,301,301"
+  },
+  "281": {
+    "id": 281,
+    "Levelid": 41,
+    "playerLevel": 240,
+    "enemyLevel": "301,301,301,301,301"
+  },
+  "282": {
+    "id": 282,
+    "Levelid": 42,
+    "playerLevel": 240,
+    "enemyLevel": "301,301,301,301,301"
+  },
+  "283": {
+    "id": 283,
+    "Levelid": 43,
+    "playerLevel": 240,
+    "enemyLevel": "302,302,302,302,302"
+  },
+  "284": {
+    "id": 284,
+    "Levelid": 44,
+    "playerLevel": 240,
+    "enemyLevel": "302,302,302,302,302"
+  },
+  "285": {
+    "id": 285,
+    "Levelid": 45,
+    "playerLevel": 240,
+    "enemyLevel": "302,302,302,302,302"
+  },
+  "286": {
+    "id": 286,
+    "Levelid": 46,
+    "playerLevel": 240,
+    "enemyLevel": "303,303,303,303,303"
+  },
+  "287": {
+    "id": 287,
+    "Levelid": 47,
+    "playerLevel": 240,
+    "enemyLevel": "303,303,303,303,303"
+  },
+  "288": {
+    "id": 288,
+    "Levelid": 48,
+    "playerLevel": 240,
+    "enemyLevel": "303,303,303,303,303"
+  },
+  "289": {
+    "id": 289,
+    "Levelid": 49,
+    "playerLevel": 240,
+    "enemyLevel": "304,304,304,304,304"
+  },
+  "290": {
+    "id": 290,
+    "Levelid": 50,
+    "playerLevel": 240,
+    "enemyLevel": "304,304,304,304,304"
+  },
+  "291": {
+    "id": 291,
+    "Levelid": 51,
+    "playerLevel": 240,
+    "enemyLevel": "304,304,304,304,304"
+  },
+  "292": {
+    "id": 292,
+    "Levelid": 52,
+    "playerLevel": 240,
+    "enemyLevel": "305,305,305,305,305"
+  },
+  "293": {
+    "id": 293,
+    "Levelid": 53,
+    "playerLevel": 240,
+    "enemyLevel": "305,305,305,305,305"
+  },
+  "294": {
+    "id": 294,
+    "Levelid": 54,
+    "playerLevel": 240,
+    "enemyLevel": "306,306,306,306,306"
+  },
+  "295": {
+    "id": 295,
+    "Levelid": 55,
+    "playerLevel": 240,
+    "enemyLevel": "306,306,306,306,306"
+  },
+  "296": {
+    "id": 296,
+    "Levelid": 56,
+    "playerLevel": 240,
+    "enemyLevel": "307,307,307,307,307"
+  },
+  "297": {
+    "id": 297,
+    "Levelid": 57,
+    "playerLevel": 240,
+    "enemyLevel": "307,307,307,307,307"
+  },
+  "298": {
+    "id": 298,
+    "Levelid": 58,
+    "playerLevel": 240,
+    "enemyLevel": "308,308,308,308,308"
+  },
+  "299": {
+    "id": 299,
+    "Levelid": 59,
+    "playerLevel": 240,
+    "enemyLevel": "308,308,308,308,308"
+  },
+  "300": {
+    "id": 300,
+    "Levelid": 60,
+    "playerLevel": 240,
+    "enemyLevel": "309,309,309,309,309"
+  },
+  "301": {
+    "id": 301,
+    "Levelid": 1,
+    "playerLevel": 245,
+    "enemyLevel": "285,285,285,285,285"
+  },
+  "302": {
+    "id": 302,
+    "Levelid": 2,
+    "playerLevel": 245,
+    "enemyLevel": "286,286,286,286,286"
+  },
+  "303": {
+    "id": 303,
+    "Levelid": 3,
+    "playerLevel": 245,
+    "enemyLevel": "287,287,287,287,287"
+  },
+  "304": {
+    "id": 304,
+    "Levelid": 4,
+    "playerLevel": 245,
+    "enemyLevel": "288,288,288,288,288"
+  },
+  "305": {
+    "id": 305,
+    "Levelid": 5,
+    "playerLevel": 245,
+    "enemyLevel": "289,289,289,289,289"
+  },
+  "306": {
+    "id": 306,
+    "Levelid": 6,
+    "playerLevel": 245,
+    "enemyLevel": "290,290,290,290,290"
+  },
+  "307": {
+    "id": 307,
+    "Levelid": 7,
+    "playerLevel": 245,
+    "enemyLevel": "291,291,291,291,291"
+  },
+  "308": {
+    "id": 308,
+    "Levelid": 8,
+    "playerLevel": 245,
+    "enemyLevel": "292,292,292,292,292"
+  },
+  "309": {
+    "id": 309,
+    "Levelid": 9,
+    "playerLevel": 245,
+    "enemyLevel": "293,293,293,293,293"
+  },
+  "310": {
+    "id": 310,
+    "Levelid": 10,
+    "playerLevel": 245,
+    "enemyLevel": "294,294,294,294,294"
+  },
+  "311": {
+    "id": 311,
+    "Levelid": 11,
+    "playerLevel": 245,
+    "enemyLevel": "295,295,295,295,295"
+  },
+  "312": {
+    "id": 312,
+    "Levelid": 12,
+    "playerLevel": 245,
+    "enemyLevel": "296,296,296,296,296"
+  },
+  "313": {
+    "id": 313,
+    "Levelid": 13,
+    "playerLevel": 245,
+    "enemyLevel": "297,297,297,297,297"
+  },
+  "314": {
+    "id": 314,
+    "Levelid": 14,
+    "playerLevel": 245,
+    "enemyLevel": "298,298,298,298,298"
+  },
+  "315": {
+    "id": 315,
+    "Levelid": 15,
+    "playerLevel": 245,
+    "enemyLevel": "298,298,298,298,298"
+  },
+  "316": {
+    "id": 316,
+    "Levelid": 16,
+    "playerLevel": 245,
+    "enemyLevel": "299,299,299,299,299"
+  },
+  "317": {
+    "id": 317,
+    "Levelid": 17,
+    "playerLevel": 245,
+    "enemyLevel": "299,299,299,299,299"
+  },
+  "318": {
+    "id": 318,
+    "Levelid": 18,
+    "playerLevel": 245,
+    "enemyLevel": "299,299,299,299,299"
+  },
+  "319": {
+    "id": 319,
+    "Levelid": 19,
+    "playerLevel": 245,
+    "enemyLevel": "300,300,300,300,300"
+  },
+  "320": {
+    "id": 320,
+    "Levelid": 20,
+    "playerLevel": 245,
+    "enemyLevel": "300,300,300,300,300"
+  },
+  "321": {
+    "id": 321,
+    "Levelid": 21,
+    "playerLevel": 245,
+    "enemyLevel": "300,300,300,300,300"
+  },
+  "322": {
+    "id": 322,
+    "Levelid": 22,
+    "playerLevel": 245,
+    "enemyLevel": "301,301,301,301,301"
+  },
+  "323": {
+    "id": 323,
+    "Levelid": 23,
+    "playerLevel": 245,
+    "enemyLevel": "301,301,301,301,301"
+  },
+  "324": {
+    "id": 324,
+    "Levelid": 24,
+    "playerLevel": 245,
+    "enemyLevel": "301,301,301,301,301"
+  },
+  "325": {
+    "id": 325,
+    "Levelid": 25,
+    "playerLevel": 245,
+    "enemyLevel": "302,302,302,302,302"
+  },
+  "326": {
+    "id": 326,
+    "Levelid": 26,
+    "playerLevel": 245,
+    "enemyLevel": "302,302,302,302,302"
+  },
+  "327": {
+    "id": 327,
+    "Levelid": 27,
+    "playerLevel": 245,
+    "enemyLevel": "302,302,302,302,302"
+  },
+  "328": {
+    "id": 328,
+    "Levelid": 28,
+    "playerLevel": 245,
+    "enemyLevel": "303,303,303,303,303"
+  },
+  "329": {
+    "id": 329,
+    "Levelid": 29,
+    "playerLevel": 245,
+    "enemyLevel": "303,303,303,303,303"
+  },
+  "330": {
+    "id": 330,
+    "Levelid": 30,
+    "playerLevel": 245,
+    "enemyLevel": "303,303,303,303,303"
+  },
+  "331": {
+    "id": 331,
+    "Levelid": 31,
+    "playerLevel": 245,
+    "enemyLevel": "304,304,304,304,304"
+  },
+  "332": {
+    "id": 332,
+    "Levelid": 32,
+    "playerLevel": 245,
+    "enemyLevel": "304,304,304,304,304"
+  },
+  "333": {
+    "id": 333,
+    "Levelid": 33,
+    "playerLevel": 245,
+    "enemyLevel": "304,304,304,304,304"
+  },
+  "334": {
+    "id": 334,
+    "Levelid": 34,
+    "playerLevel": 245,
+    "enemyLevel": "305,305,305,305,305"
+  },
+  "335": {
+    "id": 335,
+    "Levelid": 35,
+    "playerLevel": 245,
+    "enemyLevel": "305,305,305,305,305"
+  },
+  "336": {
+    "id": 336,
+    "Levelid": 36,
+    "playerLevel": 245,
+    "enemyLevel": "305,305,305,305,305"
+  },
+  "337": {
+    "id": 337,
+    "Levelid": 37,
+    "playerLevel": 245,
+    "enemyLevel": "306,306,306,306,306"
+  },
+  "338": {
+    "id": 338,
+    "Levelid": 38,
+    "playerLevel": 245,
+    "enemyLevel": "306,306,306,306,306"
+  },
+  "339": {
+    "id": 339,
+    "Levelid": 39,
+    "playerLevel": 245,
+    "enemyLevel": "306,306,306,306,306"
+  },
+  "340": {
+    "id": 340,
+    "Levelid": 40,
+    "playerLevel": 245,
+    "enemyLevel": "307,307,307,307,307"
+  },
+  "341": {
+    "id": 341,
+    "Levelid": 41,
+    "playerLevel": 245,
+    "enemyLevel": "307,307,307,307,307"
+  },
+  "342": {
+    "id": 342,
+    "Levelid": 42,
+    "playerLevel": 245,
+    "enemyLevel": "307,307,307,307,307"
+  },
+  "343": {
+    "id": 343,
+    "Levelid": 43,
+    "playerLevel": 245,
+    "enemyLevel": "308,308,308,308,308"
+  },
+  "344": {
+    "id": 344,
+    "Levelid": 44,
+    "playerLevel": 245,
+    "enemyLevel": "308,308,308,308,308"
+  },
+  "345": {
+    "id": 345,
+    "Levelid": 45,
+    "playerLevel": 245,
+    "enemyLevel": "308,308,308,308,308"
+  },
+  "346": {
+    "id": 346,
+    "Levelid": 46,
+    "playerLevel": 245,
+    "enemyLevel": "309,309,309,309,309"
+  },
+  "347": {
+    "id": 347,
+    "Levelid": 47,
+    "playerLevel": 245,
+    "enemyLevel": "309,309,309,309,309"
+  },
+  "348": {
+    "id": 348,
+    "Levelid": 48,
+    "playerLevel": 245,
+    "enemyLevel": "309,309,309,309,309"
+  },
+  "349": {
+    "id": 349,
+    "Levelid": 49,
+    "playerLevel": 245,
+    "enemyLevel": "310,310,310,310,310"
+  },
+  "350": {
+    "id": 350,
+    "Levelid": 50,
+    "playerLevel": 245,
+    "enemyLevel": "310,310,310,310,310"
+  },
+  "351": {
+    "id": 351,
+    "Levelid": 51,
+    "playerLevel": 245,
+    "enemyLevel": "310,310,310,310,310"
+  },
+  "352": {
+    "id": 352,
+    "Levelid": 52,
+    "playerLevel": 245,
+    "enemyLevel": "311,311,311,311,311"
+  },
+  "353": {
+    "id": 353,
+    "Levelid": 53,
+    "playerLevel": 245,
+    "enemyLevel": "311,311,311,311,311"
+  },
+  "354": {
+    "id": 354,
+    "Levelid": 54,
+    "playerLevel": 245,
+    "enemyLevel": "311,311,311,311,311"
+  },
+  "355": {
+    "id": 355,
+    "Levelid": 55,
+    "playerLevel": 245,
+    "enemyLevel": "312,312,312,312,312"
+  },
+  "356": {
+    "id": 356,
+    "Levelid": 56,
+    "playerLevel": 245,
+    "enemyLevel": "312,312,312,312,312"
+  },
+  "357": {
+    "id": 357,
+    "Levelid": 57,
+    "playerLevel": 245,
+    "enemyLevel": "312,312,312,312,312"
+  },
+  "358": {
+    "id": 358,
+    "Levelid": 58,
+    "playerLevel": 245,
+    "enemyLevel": "313,313,313,313,313"
+  },
+  "359": {
+    "id": 359,
+    "Levelid": 59,
+    "playerLevel": 245,
+    "enemyLevel": "313,313,313,313,313"
+  },
+  "360": {
+    "id": 360,
+    "Levelid": 60,
+    "playerLevel": 245,
+    "enemyLevel": "314,314,314,314,314"
+  },
+  "361": {
+    "id": 361,
+    "Levelid": 1,
+    "playerLevel": 250,
+    "enemyLevel": "292,292,292,292,292"
+  },
+  "362": {
+    "id": 362,
+    "Levelid": 2,
+    "playerLevel": 250,
+    "enemyLevel": "293,293,293,293,293"
+  },
+  "363": {
+    "id": 363,
+    "Levelid": 3,
+    "playerLevel": 250,
+    "enemyLevel": "294,294,294,294,294"
+  },
+  "364": {
+    "id": 364,
+    "Levelid": 4,
+    "playerLevel": 250,
+    "enemyLevel": "295,295,295,295,295"
+  },
+  "365": {
+    "id": 365,
+    "Levelid": 5,
+    "playerLevel": 250,
+    "enemyLevel": "296,296,296,296,296"
+  },
+  "366": {
+    "id": 366,
+    "Levelid": 6,
+    "playerLevel": 250,
+    "enemyLevel": "297,297,297,297,297"
+  },
+  "367": {
+    "id": 367,
+    "Levelid": 7,
+    "playerLevel": 250,
+    "enemyLevel": "298,298,298,298,298"
+  },
+  "368": {
+    "id": 368,
+    "Levelid": 8,
+    "playerLevel": 250,
+    "enemyLevel": "299,299,299,299,299"
+  },
+  "369": {
+    "id": 369,
+    "Levelid": 9,
+    "playerLevel": 250,
+    "enemyLevel": "300,300,300,300,300"
+  },
+  "370": {
+    "id": 370,
+    "Levelid": 10,
+    "playerLevel": 250,
+    "enemyLevel": "301,301,301,301,301"
+  },
+  "371": {
+    "id": 371,
+    "Levelid": 11,
+    "playerLevel": 250,
+    "enemyLevel": "302,302,302,302,302"
+  },
+  "372": {
+    "id": 372,
+    "Levelid": 12,
+    "playerLevel": 250,
+    "enemyLevel": "303,303,303,303,303"
+  },
+  "373": {
+    "id": 373,
+    "Levelid": 13,
+    "playerLevel": 250,
+    "enemyLevel": "304,304,304,304,304"
+  },
+  "374": {
+    "id": 374,
+    "Levelid": 14,
+    "playerLevel": 250,
+    "enemyLevel": "304,304,304,304,304"
+  },
+  "375": {
+    "id": 375,
+    "Levelid": 15,
+    "playerLevel": 250,
+    "enemyLevel": "304,304,304,304,304"
+  },
+  "376": {
+    "id": 376,
+    "Levelid": 16,
+    "playerLevel": 250,
+    "enemyLevel": "305,305,305,305,305"
+  },
+  "377": {
+    "id": 377,
+    "Levelid": 17,
+    "playerLevel": 250,
+    "enemyLevel": "305,305,305,305,305"
+  },
+  "378": {
+    "id": 378,
+    "Levelid": 18,
+    "playerLevel": 250,
+    "enemyLevel": "305,305,305,305,305"
+  },
+  "379": {
+    "id": 379,
+    "Levelid": 19,
+    "playerLevel": 250,
+    "enemyLevel": "306,306,306,306,306"
+  },
+  "380": {
+    "id": 380,
+    "Levelid": 20,
+    "playerLevel": 250,
+    "enemyLevel": "306,306,306,306,306"
+  },
+  "381": {
+    "id": 381,
+    "Levelid": 21,
+    "playerLevel": 250,
+    "enemyLevel": "306,306,306,306,306"
+  },
+  "382": {
+    "id": 382,
+    "Levelid": 22,
+    "playerLevel": 250,
+    "enemyLevel": "307,307,307,307,307"
+  },
+  "383": {
+    "id": 383,
+    "Levelid": 23,
+    "playerLevel": 250,
+    "enemyLevel": "307,307,307,307,307"
+  },
+  "384": {
+    "id": 384,
+    "Levelid": 24,
+    "playerLevel": 250,
+    "enemyLevel": "307,307,307,307,307"
+  },
+  "385": {
+    "id": 385,
+    "Levelid": 25,
+    "playerLevel": 250,
+    "enemyLevel": "308,308,308,308,308"
+  },
+  "386": {
+    "id": 386,
+    "Levelid": 26,
+    "playerLevel": 250,
+    "enemyLevel": "308,308,308,308,308"
+  },
+  "387": {
+    "id": 387,
+    "Levelid": 27,
+    "playerLevel": 250,
+    "enemyLevel": "308,308,308,308,308"
+  },
+  "388": {
+    "id": 388,
+    "Levelid": 28,
+    "playerLevel": 250,
+    "enemyLevel": "309,309,309,309,309"
+  },
+  "389": {
+    "id": 389,
+    "Levelid": 29,
+    "playerLevel": 250,
+    "enemyLevel": "309,309,309,309,309"
+  },
+  "390": {
+    "id": 390,
+    "Levelid": 30,
+    "playerLevel": 250,
+    "enemyLevel": "309,309,309,309,309"
+  },
+  "391": {
+    "id": 391,
+    "Levelid": 31,
+    "playerLevel": 250,
+    "enemyLevel": "310,310,310,310,310"
+  },
+  "392": {
+    "id": 392,
+    "Levelid": 32,
+    "playerLevel": 250,
+    "enemyLevel": "310,310,310,310,310"
+  },
+  "393": {
+    "id": 393,
+    "Levelid": 33,
+    "playerLevel": 250,
+    "enemyLevel": "310,310,310,310,310"
+  },
+  "394": {
+    "id": 394,
+    "Levelid": 34,
+    "playerLevel": 250,
+    "enemyLevel": "311,311,311,311,311"
+  },
+  "395": {
+    "id": 395,
+    "Levelid": 35,
+    "playerLevel": 250,
+    "enemyLevel": "311,311,311,311,311"
+  },
+  "396": {
+    "id": 396,
+    "Levelid": 36,
+    "playerLevel": 250,
+    "enemyLevel": "311,311,311,311,311"
+  },
+  "397": {
+    "id": 397,
+    "Levelid": 37,
+    "playerLevel": 250,
+    "enemyLevel": "312,312,312,312,312"
+  },
+  "398": {
+    "id": 398,
+    "Levelid": 38,
+    "playerLevel": 250,
+    "enemyLevel": "312,312,312,312,312"
+  },
+  "399": {
+    "id": 399,
+    "Levelid": 39,
+    "playerLevel": 250,
+    "enemyLevel": "312,312,312,312,312"
+  },
+  "400": {
+    "id": 400,
+    "Levelid": 40,
+    "playerLevel": 250,
+    "enemyLevel": "313,313,313,313,313"
+  },
+  "401": {
+    "id": 401,
+    "Levelid": 41,
+    "playerLevel": 250,
+    "enemyLevel": "313,313,313,313,313"
+  },
+  "402": {
+    "id": 402,
+    "Levelid": 42,
+    "playerLevel": 250,
+    "enemyLevel": "313,313,313,313,313"
+  },
+  "403": {
+    "id": 403,
+    "Levelid": 43,
+    "playerLevel": 250,
+    "enemyLevel": "314,314,314,314,314"
+  },
+  "404": {
+    "id": 404,
+    "Levelid": 44,
+    "playerLevel": 250,
+    "enemyLevel": "314,314,314,314,314"
+  },
+  "405": {
+    "id": 405,
+    "Levelid": 45,
+    "playerLevel": 250,
+    "enemyLevel": "314,314,314,314,314"
+  },
+  "406": {
+    "id": 406,
+    "Levelid": 46,
+    "playerLevel": 250,
+    "enemyLevel": "315,315,315,315,315"
+  },
+  "407": {
+    "id": 407,
+    "Levelid": 47,
+    "playerLevel": 250,
+    "enemyLevel": "315,315,315,315,315"
+  },
+  "408": {
+    "id": 408,
+    "Levelid": 48,
+    "playerLevel": 250,
+    "enemyLevel": "315,315,315,315,315"
+  },
+  "409": {
+    "id": 409,
+    "Levelid": 49,
+    "playerLevel": 250,
+    "enemyLevel": "316,316,316,316,316"
+  },
+  "410": {
+    "id": 410,
+    "Levelid": 50,
+    "playerLevel": 250,
+    "enemyLevel": "316,316,316,316,316"
+  },
+  "411": {
+    "id": 411,
+    "Levelid": 51,
+    "playerLevel": 250,
+    "enemyLevel": "316,316,316,316,316"
+  },
+  "412": {
+    "id": 412,
+    "Levelid": 52,
+    "playerLevel": 250,
+    "enemyLevel": "317,317,317,317,317"
+  },
+  "413": {
+    "id": 413,
+    "Levelid": 53,
+    "playerLevel": 250,
+    "enemyLevel": "317,317,317,317,317"
+  },
+  "414": {
+    "id": 414,
+    "Levelid": 54,
+    "playerLevel": 250,
+    "enemyLevel": "317,317,317,317,317"
+  },
+  "415": {
+    "id": 415,
+    "Levelid": 55,
+    "playerLevel": 250,
+    "enemyLevel": "318,318,318,318,318"
+  },
+  "416": {
+    "id": 416,
+    "Levelid": 56,
+    "playerLevel": 250,
+    "enemyLevel": "318,318,318,318,318"
+  },
+  "417": {
+    "id": 417,
+    "Levelid": 57,
+    "playerLevel": 250,
+    "enemyLevel": "318,318,318,318,318"
+  },
+  "418": {
+    "id": 418,
+    "Levelid": 58,
+    "playerLevel": 250,
+    "enemyLevel": "319,319,319,319,319"
+  },
+  "419": {
+    "id": 419,
+    "Levelid": 59,
+    "playerLevel": 250,
+    "enemyLevel": "319,319,319,319,319"
+  },
+  "420": {
+    "id": 420,
+    "Levelid": 60,
+    "playerLevel": 250,
+    "enemyLevel": "320,320,320,320,320"
+  }
+}

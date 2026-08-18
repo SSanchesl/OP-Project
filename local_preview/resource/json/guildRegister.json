@@ -1,0 +1,32 @@
+{
+  "1": {
+    "id": 1,
+    "costID": 102,
+    "num": 40000,
+    "rewardID": 114,
+    "rewardNum": 1000,
+    "guildExp": 300,
+    "vipNeeded": 0,
+    "name": "guildRegister_name_1"
+  },
+  "2": {
+    "id": 2,
+    "costID": 101,
+    "num": 100,
+    "rewardID": 114,
+    "rewardNum": 2000,
+    "guildExp": 600,
+    "vipNeeded": 2,
+    "name": "guildRegister_name_2"
+  },
+  "3": {
+    "id": 3,
+    "costID": 101,
+    "num": 600,
+    "rewardID": 114,
+    "rewardNum": 8000,
+    "guildExp": 1200,
+    "vipNeeded": 4,
+    "name": "guildRegister_name_3"
+  }
+}

@@ -1,0 +1,2594 @@
+{
+  "7001": {
+    "id": 7001,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 1,
+    "quality": "green",
+    "name": "signEx_name_1"
+  },
+  "7002": {
+    "id": 7002,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 2,
+    "quality": "green",
+    "name": "signEx_name_2"
+  },
+  "7003": {
+    "id": 7003,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 3,
+    "quality": "green",
+    "name": "signEx_name_3"
+  },
+  "7004": {
+    "id": 7004,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 4,
+    "quality": "green",
+    "name": "signEx_name_4"
+  },
+  "7005": {
+    "id": 7005,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 5,
+    "quality": "green",
+    "name": "signEx_name_5"
+  },
+  "7006": {
+    "id": 7006,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 6,
+    "quality": "green",
+    "name": "signEx_name_6"
+  },
+  "7011": {
+    "id": 7011,
+    "version": 202103220956,
+    "type": "god",
+    "part": 1,
+    "quality": "green",
+    "name": "signEx_name_7"
+  },
+  "7012": {
+    "id": 7012,
+    "version": 202103220956,
+    "type": "god",
+    "part": 2,
+    "quality": "green",
+    "name": "signEx_name_8"
+  },
+  "7013": {
+    "id": 7013,
+    "version": 202103220956,
+    "type": "god",
+    "part": 3,
+    "quality": "green",
+    "name": "signEx_name_9"
+  },
+  "7014": {
+    "id": 7014,
+    "version": 202103220956,
+    "type": "god",
+    "part": 4,
+    "quality": "green",
+    "name": "signEx_name_10"
+  },
+  "7015": {
+    "id": 7015,
+    "version": 202103220956,
+    "type": "god",
+    "part": 5,
+    "quality": "green",
+    "name": "signEx_name_11"
+  },
+  "7016": {
+    "id": 7016,
+    "version": 202103220956,
+    "type": "god",
+    "part": 6,
+    "quality": "green",
+    "name": "signEx_name_12"
+  },
+  "7021": {
+    "id": 7021,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 1,
+    "quality": "green",
+    "name": "signEx_name_13"
+  },
+  "7022": {
+    "id": 7022,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 2,
+    "quality": "green",
+    "name": "signEx_name_14"
+  },
+  "7023": {
+    "id": 7023,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 3,
+    "quality": "green",
+    "name": "signEx_name_15"
+  },
+  "7024": {
+    "id": 7024,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 4,
+    "quality": "green",
+    "name": "signEx_name_16"
+  },
+  "7025": {
+    "id": 7025,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 5,
+    "quality": "green",
+    "name": "signEx_name_17"
+  },
+  "7026": {
+    "id": 7026,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 6,
+    "quality": "green",
+    "name": "signEx_name_18"
+  },
+  "7031": {
+    "id": 7031,
+    "version": 202103220956,
+    "type": "world",
+    "part": 1,
+    "quality": "green",
+    "name": "signEx_name_19"
+  },
+  "7032": {
+    "id": 7032,
+    "version": 202103220956,
+    "type": "world",
+    "part": 2,
+    "quality": "green",
+    "name": "signEx_name_20"
+  },
+  "7033": {
+    "id": 7033,
+    "version": 202103220956,
+    "type": "world",
+    "part": 3,
+    "quality": "green",
+    "name": "signEx_name_21"
+  },
+  "7034": {
+    "id": 7034,
+    "version": 202103220956,
+    "type": "world",
+    "part": 4,
+    "quality": "green",
+    "name": "signEx_name_22"
+  },
+  "7035": {
+    "id": 7035,
+    "version": 202103220956,
+    "type": "world",
+    "part": 5,
+    "quality": "green",
+    "name": "signEx_name_23"
+  },
+  "7036": {
+    "id": 7036,
+    "version": 202103220956,
+    "type": "world",
+    "part": 6,
+    "quality": "green",
+    "name": "signEx_name_24"
+  },
+  "7041": {
+    "id": 7041,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 1,
+    "quality": "green",
+    "name": "signEx_name_25"
+  },
+  "7042": {
+    "id": 7042,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 2,
+    "quality": "green",
+    "name": "signEx_name_26"
+  },
+  "7043": {
+    "id": 7043,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 3,
+    "quality": "green",
+    "name": "signEx_name_27"
+  },
+  "7044": {
+    "id": 7044,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 4,
+    "quality": "green",
+    "name": "signEx_name_28"
+  },
+  "7045": {
+    "id": 7045,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 5,
+    "quality": "green",
+    "name": "signEx_name_29"
+  },
+  "7046": {
+    "id": 7046,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 6,
+    "quality": "green",
+    "name": "signEx_name_30"
+  },
+  "7051": {
+    "id": 7051,
+    "version": 202103220956,
+    "type": "all",
+    "part": 1,
+    "quality": "green",
+    "name": "signEx_name_31"
+  },
+  "7052": {
+    "id": 7052,
+    "version": 202103220956,
+    "type": "all",
+    "part": 2,
+    "quality": "green",
+    "name": "signEx_name_32"
+  },
+  "7053": {
+    "id": 7053,
+    "version": 202103220956,
+    "type": "all",
+    "part": 3,
+    "quality": "green",
+    "name": "signEx_name_33"
+  },
+  "7054": {
+    "id": 7054,
+    "version": 202103220956,
+    "type": "all",
+    "part": 4,
+    "quality": "green",
+    "name": "signEx_name_34"
+  },
+  "7055": {
+    "id": 7055,
+    "version": 202103220956,
+    "type": "all",
+    "part": 5,
+    "quality": "green",
+    "name": "signEx_name_35"
+  },
+  "7056": {
+    "id": 7056,
+    "version": 202103220956,
+    "type": "all",
+    "part": 6,
+    "quality": "green",
+    "name": "signEx_name_36"
+  },
+  "7101": {
+    "id": 7101,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 1,
+    "quality": "blue",
+    "name": "signEx_name_1"
+  },
+  "7102": {
+    "id": 7102,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 2,
+    "quality": "blue",
+    "name": "signEx_name_2"
+  },
+  "7103": {
+    "id": 7103,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 3,
+    "quality": "blue",
+    "name": "signEx_name_3"
+  },
+  "7104": {
+    "id": 7104,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 4,
+    "quality": "blue",
+    "name": "signEx_name_4"
+  },
+  "7105": {
+    "id": 7105,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 5,
+    "quality": "blue",
+    "name": "signEx_name_5"
+  },
+  "7106": {
+    "id": 7106,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 6,
+    "quality": "blue",
+    "name": "signEx_name_6"
+  },
+  "7111": {
+    "id": 7111,
+    "version": 202103220956,
+    "type": "god",
+    "part": 1,
+    "quality": "blue",
+    "name": "signEx_name_7"
+  },
+  "7112": {
+    "id": 7112,
+    "version": 202103220956,
+    "type": "god",
+    "part": 2,
+    "quality": "blue",
+    "name": "signEx_name_8"
+  },
+  "7113": {
+    "id": 7113,
+    "version": 202103220956,
+    "type": "god",
+    "part": 3,
+    "quality": "blue",
+    "name": "signEx_name_9"
+  },
+  "7114": {
+    "id": 7114,
+    "version": 202103220956,
+    "type": "god",
+    "part": 4,
+    "quality": "blue",
+    "name": "signEx_name_10"
+  },
+  "7115": {
+    "id": 7115,
+    "version": 202103220956,
+    "type": "god",
+    "part": 5,
+    "quality": "blue",
+    "name": "signEx_name_11"
+  },
+  "7116": {
+    "id": 7116,
+    "version": 202103220956,
+    "type": "god",
+    "part": 6,
+    "quality": "blue",
+    "name": "signEx_name_12"
+  },
+  "7121": {
+    "id": 7121,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 1,
+    "quality": "blue",
+    "name": "signEx_name_13"
+  },
+  "7122": {
+    "id": 7122,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 2,
+    "quality": "blue",
+    "name": "signEx_name_14"
+  },
+  "7123": {
+    "id": 7123,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 3,
+    "quality": "blue",
+    "name": "signEx_name_15"
+  },
+  "7124": {
+    "id": 7124,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 4,
+    "quality": "blue",
+    "name": "signEx_name_16"
+  },
+  "7125": {
+    "id": 7125,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 5,
+    "quality": "blue",
+    "name": "signEx_name_17"
+  },
+  "7126": {
+    "id": 7126,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 6,
+    "quality": "blue",
+    "name": "signEx_name_18"
+  },
+  "7131": {
+    "id": 7131,
+    "version": 202103220956,
+    "type": "world",
+    "part": 1,
+    "quality": "blue",
+    "name": "signEx_name_19"
+  },
+  "7132": {
+    "id": 7132,
+    "version": 202103220956,
+    "type": "world",
+    "part": 2,
+    "quality": "blue",
+    "name": "signEx_name_20"
+  },
+  "7133": {
+    "id": 7133,
+    "version": 202103220956,
+    "type": "world",
+    "part": 3,
+    "quality": "blue",
+    "name": "signEx_name_21"
+  },
+  "7134": {
+    "id": 7134,
+    "version": 202103220956,
+    "type": "world",
+    "part": 4,
+    "quality": "blue",
+    "name": "signEx_name_22"
+  },
+  "7135": {
+    "id": 7135,
+    "version": 202103220956,
+    "type": "world",
+    "part": 5,
+    "quality": "blue",
+    "name": "signEx_name_23"
+  },
+  "7136": {
+    "id": 7136,
+    "version": 202103220956,
+    "type": "world",
+    "part": 6,
+    "quality": "blue",
+    "name": "signEx_name_24"
+  },
+  "7141": {
+    "id": 7141,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 1,
+    "quality": "blue",
+    "name": "signEx_name_25"
+  },
+  "7142": {
+    "id": 7142,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 2,
+    "quality": "blue",
+    "name": "signEx_name_26"
+  },
+  "7143": {
+    "id": 7143,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 3,
+    "quality": "blue",
+    "name": "signEx_name_27"
+  },
+  "7144": {
+    "id": 7144,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 4,
+    "quality": "blue",
+    "name": "signEx_name_28"
+  },
+  "7145": {
+    "id": 7145,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 5,
+    "quality": "blue",
+    "name": "signEx_name_29"
+  },
+  "7146": {
+    "id": 7146,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 6,
+    "quality": "blue",
+    "name": "signEx_name_30"
+  },
+  "7151": {
+    "id": 7151,
+    "version": 202103220956,
+    "type": "all",
+    "part": 1,
+    "quality": "blue",
+    "name": "signEx_name_31"
+  },
+  "7152": {
+    "id": 7152,
+    "version": 202103220956,
+    "type": "all",
+    "part": 2,
+    "quality": "blue",
+    "name": "signEx_name_32"
+  },
+  "7153": {
+    "id": 7153,
+    "version": 202103220956,
+    "type": "all",
+    "part": 3,
+    "quality": "blue",
+    "name": "signEx_name_33"
+  },
+  "7154": {
+    "id": 7154,
+    "version": 202103220956,
+    "type": "all",
+    "part": 4,
+    "quality": "blue",
+    "name": "signEx_name_34"
+  },
+  "7155": {
+    "id": 7155,
+    "version": 202103220956,
+    "type": "all",
+    "part": 5,
+    "quality": "blue",
+    "name": "signEx_name_35"
+  },
+  "7156": {
+    "id": 7156,
+    "version": 202103220956,
+    "type": "all",
+    "part": 6,
+    "quality": "blue",
+    "name": "signEx_name_36"
+  },
+  "7201": {
+    "id": 7201,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 1,
+    "quality": "purple",
+    "name": "signEx_name_1"
+  },
+  "7202": {
+    "id": 7202,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 2,
+    "quality": "purple",
+    "name": "signEx_name_2"
+  },
+  "7203": {
+    "id": 7203,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 3,
+    "quality": "purple",
+    "name": "signEx_name_3"
+  },
+  "7204": {
+    "id": 7204,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 4,
+    "quality": "purple",
+    "name": "signEx_name_4"
+  },
+  "7205": {
+    "id": 7205,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 5,
+    "quality": "purple",
+    "name": "signEx_name_5"
+  },
+  "7206": {
+    "id": 7206,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 6,
+    "quality": "purple",
+    "name": "signEx_name_6"
+  },
+  "7211": {
+    "id": 7211,
+    "version": 202103220956,
+    "type": "god",
+    "part": 1,
+    "quality": "purple",
+    "name": "signEx_name_7"
+  },
+  "7212": {
+    "id": 7212,
+    "version": 202103220956,
+    "type": "god",
+    "part": 2,
+    "quality": "purple",
+    "name": "signEx_name_8"
+  },
+  "7213": {
+    "id": 7213,
+    "version": 202103220956,
+    "type": "god",
+    "part": 3,
+    "quality": "purple",
+    "name": "signEx_name_9"
+  },
+  "7214": {
+    "id": 7214,
+    "version": 202103220956,
+    "type": "god",
+    "part": 4,
+    "quality": "purple",
+    "name": "signEx_name_10"
+  },
+  "7215": {
+    "id": 7215,
+    "version": 202103220956,
+    "type": "god",
+    "part": 5,
+    "quality": "purple",
+    "name": "signEx_name_11"
+  },
+  "7216": {
+    "id": 7216,
+    "version": 202103220956,
+    "type": "god",
+    "part": 6,
+    "quality": "purple",
+    "name": "signEx_name_12"
+  },
+  "7221": {
+    "id": 7221,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 1,
+    "quality": "purple",
+    "name": "signEx_name_13"
+  },
+  "7222": {
+    "id": 7222,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 2,
+    "quality": "purple",
+    "name": "signEx_name_14"
+  },
+  "7223": {
+    "id": 7223,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 3,
+    "quality": "purple",
+    "name": "signEx_name_15"
+  },
+  "7224": {
+    "id": 7224,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 4,
+    "quality": "purple",
+    "name": "signEx_name_16"
+  },
+  "7225": {
+    "id": 7225,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 5,
+    "quality": "purple",
+    "name": "signEx_name_17"
+  },
+  "7226": {
+    "id": 7226,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 6,
+    "quality": "purple",
+    "name": "signEx_name_18"
+  },
+  "7231": {
+    "id": 7231,
+    "version": 202103220956,
+    "type": "world",
+    "part": 1,
+    "quality": "purple",
+    "name": "signEx_name_19"
+  },
+  "7232": {
+    "id": 7232,
+    "version": 202103220956,
+    "type": "world",
+    "part": 2,
+    "quality": "purple",
+    "name": "signEx_name_20"
+  },
+  "7233": {
+    "id": 7233,
+    "version": 202103220956,
+    "type": "world",
+    "part": 3,
+    "quality": "purple",
+    "name": "signEx_name_21"
+  },
+  "7234": {
+    "id": 7234,
+    "version": 202103220956,
+    "type": "world",
+    "part": 4,
+    "quality": "purple",
+    "name": "signEx_name_22"
+  },
+  "7235": {
+    "id": 7235,
+    "version": 202103220956,
+    "type": "world",
+    "part": 5,
+    "quality": "purple",
+    "name": "signEx_name_23"
+  },
+  "7236": {
+    "id": 7236,
+    "version": 202103220956,
+    "type": "world",
+    "part": 6,
+    "quality": "purple",
+    "name": "signEx_name_24"
+  },
+  "7241": {
+    "id": 7241,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 1,
+    "quality": "purple",
+    "name": "signEx_name_25"
+  },
+  "7242": {
+    "id": 7242,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 2,
+    "quality": "purple",
+    "name": "signEx_name_26"
+  },
+  "7243": {
+    "id": 7243,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 3,
+    "quality": "purple",
+    "name": "signEx_name_27"
+  },
+  "7244": {
+    "id": 7244,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 4,
+    "quality": "purple",
+    "name": "signEx_name_28"
+  },
+  "7245": {
+    "id": 7245,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 5,
+    "quality": "purple",
+    "name": "signEx_name_29"
+  },
+  "7246": {
+    "id": 7246,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 6,
+    "quality": "purple",
+    "name": "signEx_name_30"
+  },
+  "7251": {
+    "id": 7251,
+    "version": 202103220956,
+    "type": "all",
+    "part": 1,
+    "quality": "purple",
+    "name": "signEx_name_31"
+  },
+  "7252": {
+    "id": 7252,
+    "version": 202103220956,
+    "type": "all",
+    "part": 2,
+    "quality": "purple",
+    "name": "signEx_name_32"
+  },
+  "7253": {
+    "id": 7253,
+    "version": 202103220956,
+    "type": "all",
+    "part": 3,
+    "quality": "purple",
+    "name": "signEx_name_33"
+  },
+  "7254": {
+    "id": 7254,
+    "version": 202103220956,
+    "type": "all",
+    "part": 4,
+    "quality": "purple",
+    "name": "signEx_name_34"
+  },
+  "7255": {
+    "id": 7255,
+    "version": 202103220956,
+    "type": "all",
+    "part": 5,
+    "quality": "purple",
+    "name": "signEx_name_35"
+  },
+  "7256": {
+    "id": 7256,
+    "version": 202103220956,
+    "type": "all",
+    "part": 6,
+    "quality": "purple",
+    "name": "signEx_name_36"
+  },
+  "7301": {
+    "id": 7301,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 1,
+    "quality": "orange",
+    "name": "signEx_name_1"
+  },
+  "7302": {
+    "id": 7302,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 2,
+    "quality": "orange",
+    "name": "signEx_name_2"
+  },
+  "7303": {
+    "id": 7303,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 3,
+    "quality": "orange",
+    "name": "signEx_name_3"
+  },
+  "7304": {
+    "id": 7304,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 4,
+    "quality": "orange",
+    "name": "signEx_name_4"
+  },
+  "7305": {
+    "id": 7305,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 5,
+    "quality": "orange",
+    "name": "signEx_name_5"
+  },
+  "7306": {
+    "id": 7306,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 6,
+    "quality": "orange",
+    "name": "signEx_name_6"
+  },
+  "7311": {
+    "id": 7311,
+    "version": 202103220956,
+    "type": "god",
+    "part": 1,
+    "quality": "orange",
+    "name": "signEx_name_7"
+  },
+  "7312": {
+    "id": 7312,
+    "version": 202103220956,
+    "type": "god",
+    "part": 2,
+    "quality": "orange",
+    "name": "signEx_name_8"
+  },
+  "7313": {
+    "id": 7313,
+    "version": 202103220956,
+    "type": "god",
+    "part": 3,
+    "quality": "orange",
+    "name": "signEx_name_9"
+  },
+  "7314": {
+    "id": 7314,
+    "version": 202103220956,
+    "type": "god",
+    "part": 4,
+    "quality": "orange",
+    "name": "signEx_name_10"
+  },
+  "7315": {
+    "id": 7315,
+    "version": 202103220956,
+    "type": "god",
+    "part": 5,
+    "quality": "orange",
+    "name": "signEx_name_11"
+  },
+  "7316": {
+    "id": 7316,
+    "version": 202103220956,
+    "type": "god",
+    "part": 6,
+    "quality": "orange",
+    "name": "signEx_name_12"
+  },
+  "7321": {
+    "id": 7321,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 1,
+    "quality": "orange",
+    "name": "signEx_name_13"
+  },
+  "7322": {
+    "id": 7322,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 2,
+    "quality": "orange",
+    "name": "signEx_name_14"
+  },
+  "7323": {
+    "id": 7323,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 3,
+    "quality": "orange",
+    "name": "signEx_name_15"
+  },
+  "7324": {
+    "id": 7324,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 4,
+    "quality": "orange",
+    "name": "signEx_name_16"
+  },
+  "7325": {
+    "id": 7325,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 5,
+    "quality": "orange",
+    "name": "signEx_name_17"
+  },
+  "7326": {
+    "id": 7326,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 6,
+    "quality": "orange",
+    "name": "signEx_name_18"
+  },
+  "7331": {
+    "id": 7331,
+    "version": 202103220956,
+    "type": "world",
+    "part": 1,
+    "quality": "orange",
+    "name": "signEx_name_19"
+  },
+  "7332": {
+    "id": 7332,
+    "version": 202103220956,
+    "type": "world",
+    "part": 2,
+    "quality": "orange",
+    "name": "signEx_name_20"
+  },
+  "7333": {
+    "id": 7333,
+    "version": 202103220956,
+    "type": "world",
+    "part": 3,
+    "quality": "orange",
+    "name": "signEx_name_21"
+  },
+  "7334": {
+    "id": 7334,
+    "version": 202103220956,
+    "type": "world",
+    "part": 4,
+    "quality": "orange",
+    "name": "signEx_name_22"
+  },
+  "7335": {
+    "id": 7335,
+    "version": 202103220956,
+    "type": "world",
+    "part": 5,
+    "quality": "orange",
+    "name": "signEx_name_23"
+  },
+  "7336": {
+    "id": 7336,
+    "version": 202103220956,
+    "type": "world",
+    "part": 6,
+    "quality": "orange",
+    "name": "signEx_name_24"
+  },
+  "7341": {
+    "id": 7341,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 1,
+    "quality": "orange",
+    "name": "signEx_name_25"
+  },
+  "7342": {
+    "id": 7342,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 2,
+    "quality": "orange",
+    "name": "signEx_name_26"
+  },
+  "7343": {
+    "id": 7343,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 3,
+    "quality": "orange",
+    "name": "signEx_name_27"
+  },
+  "7344": {
+    "id": 7344,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 4,
+    "quality": "orange",
+    "name": "signEx_name_28"
+  },
+  "7345": {
+    "id": 7345,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 5,
+    "quality": "orange",
+    "name": "signEx_name_29"
+  },
+  "7346": {
+    "id": 7346,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 6,
+    "quality": "orange",
+    "name": "signEx_name_30"
+  },
+  "7351": {
+    "id": 7351,
+    "version": 202103220956,
+    "type": "all",
+    "part": 1,
+    "quality": "orange",
+    "name": "signEx_name_31"
+  },
+  "7352": {
+    "id": 7352,
+    "version": 202103220956,
+    "type": "all",
+    "part": 2,
+    "quality": "orange",
+    "name": "signEx_name_32"
+  },
+  "7353": {
+    "id": 7353,
+    "version": 202103220956,
+    "type": "all",
+    "part": 3,
+    "quality": "orange",
+    "name": "signEx_name_33"
+  },
+  "7354": {
+    "id": 7354,
+    "version": 202103220956,
+    "type": "all",
+    "part": 4,
+    "quality": "orange",
+    "name": "signEx_name_34"
+  },
+  "7355": {
+    "id": 7355,
+    "version": 202103220956,
+    "type": "all",
+    "part": 5,
+    "quality": "orange",
+    "name": "signEx_name_35"
+  },
+  "7356": {
+    "id": 7356,
+    "version": 202103220956,
+    "type": "all",
+    "part": 6,
+    "quality": "orange",
+    "name": "signEx_name_36"
+  },
+  "7401": {
+    "id": 7401,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 1,
+    "quality": "red1",
+    "name": "signEx_name_37"
+  },
+  "7402": {
+    "id": 7402,
+    "version": 202103220956,
+    "type": "god",
+    "part": 1,
+    "quality": "red1",
+    "name": "signEx_name_38"
+  },
+  "7403": {
+    "id": 7403,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 1,
+    "quality": "red1",
+    "name": "signEx_name_39"
+  },
+  "7404": {
+    "id": 7404,
+    "version": 202103220956,
+    "type": "world",
+    "part": 1,
+    "quality": "red1",
+    "name": "signEx_name_40"
+  },
+  "7405": {
+    "id": 7405,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 1,
+    "quality": "red1",
+    "name": "signEx_name_41"
+  },
+  "7406": {
+    "id": 7406,
+    "version": 202103220956,
+    "type": "all",
+    "part": 1,
+    "quality": "red1",
+    "name": "signEx_name_42"
+  },
+  "7407": {
+    "id": 7407,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 2,
+    "quality": "red1",
+    "name": "signEx_name_43"
+  },
+  "7408": {
+    "id": 7408,
+    "version": 202103220956,
+    "type": "god",
+    "part": 2,
+    "quality": "red1",
+    "name": "signEx_name_44"
+  },
+  "7409": {
+    "id": 7409,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 2,
+    "quality": "red1",
+    "name": "signEx_name_45"
+  },
+  "7410": {
+    "id": 7410,
+    "version": 202103220956,
+    "type": "world",
+    "part": 2,
+    "quality": "red1",
+    "name": "signEx_name_46"
+  },
+  "7411": {
+    "id": 7411,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 2,
+    "quality": "red1",
+    "name": "signEx_name_47"
+  },
+  "7412": {
+    "id": 7412,
+    "version": 202103220956,
+    "type": "all",
+    "part": 2,
+    "quality": "red1",
+    "name": "signEx_name_48"
+  },
+  "7413": {
+    "id": 7413,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 3,
+    "quality": "red1",
+    "name": "signEx_name_49"
+  },
+  "7414": {
+    "id": 7414,
+    "version": 202103220956,
+    "type": "god",
+    "part": 3,
+    "quality": "red1",
+    "name": "signEx_name_50"
+  },
+  "7415": {
+    "id": 7415,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 3,
+    "quality": "red1",
+    "name": "signEx_name_51"
+  },
+  "7416": {
+    "id": 7416,
+    "version": 202103220956,
+    "type": "world",
+    "part": 3,
+    "quality": "red1",
+    "name": "signEx_name_52"
+  },
+  "7417": {
+    "id": 7417,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 3,
+    "quality": "red1",
+    "name": "signEx_name_53"
+  },
+  "7418": {
+    "id": 7418,
+    "version": 202103220956,
+    "type": "all",
+    "part": 3,
+    "quality": "red1",
+    "name": "signEx_name_54"
+  },
+  "7419": {
+    "id": 7419,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 4,
+    "quality": "red1",
+    "name": "signEx_name_55"
+  },
+  "7420": {
+    "id": 7420,
+    "version": 202103220956,
+    "type": "god",
+    "part": 4,
+    "quality": "red1",
+    "name": "signEx_name_56"
+  },
+  "7421": {
+    "id": 7421,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 4,
+    "quality": "red1",
+    "name": "signEx_name_57"
+  },
+  "7422": {
+    "id": 7422,
+    "version": 202103220956,
+    "type": "world",
+    "part": 4,
+    "quality": "red1",
+    "name": "signEx_name_58"
+  },
+  "7423": {
+    "id": 7423,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 4,
+    "quality": "red1",
+    "name": "signEx_name_59"
+  },
+  "7424": {
+    "id": 7424,
+    "version": 202103220956,
+    "type": "all",
+    "part": 4,
+    "quality": "red1",
+    "name": "signEx_name_60"
+  },
+  "7425": {
+    "id": 7425,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 5,
+    "quality": "red1",
+    "name": "signEx_name_61"
+  },
+  "7426": {
+    "id": 7426,
+    "version": 202103220956,
+    "type": "god",
+    "part": 5,
+    "quality": "red1",
+    "name": "signEx_name_62"
+  },
+  "7427": {
+    "id": 7427,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 5,
+    "quality": "red1",
+    "name": "signEx_name_63"
+  },
+  "7428": {
+    "id": 7428,
+    "version": 202103220956,
+    "type": "world",
+    "part": 5,
+    "quality": "red1",
+    "name": "signEx_name_64"
+  },
+  "7429": {
+    "id": 7429,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 5,
+    "quality": "red1",
+    "name": "signEx_name_65"
+  },
+  "7430": {
+    "id": 7430,
+    "version": 202103220956,
+    "type": "all",
+    "part": 5,
+    "quality": "red1",
+    "name": "signEx_name_66"
+  },
+  "7431": {
+    "id": 7431,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 6,
+    "quality": "red1",
+    "name": "signEx_name_67"
+  },
+  "7432": {
+    "id": 7432,
+    "version": 202103220956,
+    "type": "god",
+    "part": 6,
+    "quality": "red1",
+    "name": "signEx_name_68"
+  },
+  "7433": {
+    "id": 7433,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 6,
+    "quality": "red1",
+    "name": "signEx_name_69"
+  },
+  "7434": {
+    "id": 7434,
+    "version": 202103220956,
+    "type": "world",
+    "part": 6,
+    "quality": "red1",
+    "name": "signEx_name_70"
+  },
+  "7435": {
+    "id": 7435,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 6,
+    "quality": "red1",
+    "name": "signEx_name_71"
+  },
+  "7436": {
+    "id": 7436,
+    "version": 202103220956,
+    "type": "all",
+    "part": 6,
+    "quality": "red1",
+    "name": "signEx_name_72"
+  },
+  "7437": {
+    "id": 7437,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 1,
+    "quality": "red2",
+    "name": "signEx_name_73"
+  },
+  "7438": {
+    "id": 7438,
+    "version": 202103220956,
+    "type": "god",
+    "part": 1,
+    "quality": "red2",
+    "name": "signEx_name_74"
+  },
+  "7439": {
+    "id": 7439,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 1,
+    "quality": "red2",
+    "name": "signEx_name_75"
+  },
+  "7440": {
+    "id": 7440,
+    "version": 202103220956,
+    "type": "world",
+    "part": 1,
+    "quality": "red2",
+    "name": "signEx_name_76"
+  },
+  "7441": {
+    "id": 7441,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 1,
+    "quality": "red2",
+    "name": "signEx_name_77"
+  },
+  "7442": {
+    "id": 7442,
+    "version": 202103220956,
+    "type": "all",
+    "part": 1,
+    "quality": "red2",
+    "name": "signEx_name_78"
+  },
+  "7443": {
+    "id": 7443,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 2,
+    "quality": "red2",
+    "name": "signEx_name_79"
+  },
+  "7444": {
+    "id": 7444,
+    "version": 202103220956,
+    "type": "god",
+    "part": 2,
+    "quality": "red2",
+    "name": "signEx_name_80"
+  },
+  "7445": {
+    "id": 7445,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 2,
+    "quality": "red2",
+    "name": "signEx_name_81"
+  },
+  "7446": {
+    "id": 7446,
+    "version": 202103220956,
+    "type": "world",
+    "part": 2,
+    "quality": "red2",
+    "name": "signEx_name_82"
+  },
+  "7447": {
+    "id": 7447,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 2,
+    "quality": "red2",
+    "name": "signEx_name_83"
+  },
+  "7448": {
+    "id": 7448,
+    "version": 202103220956,
+    "type": "all",
+    "part": 2,
+    "quality": "red2",
+    "name": "signEx_name_84"
+  },
+  "7449": {
+    "id": 7449,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 3,
+    "quality": "red2",
+    "name": "signEx_name_85"
+  },
+  "7450": {
+    "id": 7450,
+    "version": 202103220956,
+    "type": "god",
+    "part": 3,
+    "quality": "red2",
+    "name": "signEx_name_86"
+  },
+  "7451": {
+    "id": 7451,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 3,
+    "quality": "red2",
+    "name": "signEx_name_87"
+  },
+  "7452": {
+    "id": 7452,
+    "version": 202103220956,
+    "type": "world",
+    "part": 3,
+    "quality": "red2",
+    "name": "signEx_name_88"
+  },
+  "7453": {
+    "id": 7453,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 3,
+    "quality": "red2",
+    "name": "signEx_name_89"
+  },
+  "7454": {
+    "id": 7454,
+    "version": 202103220956,
+    "type": "all",
+    "part": 3,
+    "quality": "red2",
+    "name": "signEx_name_90"
+  },
+  "7455": {
+    "id": 7455,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 4,
+    "quality": "red2",
+    "name": "signEx_name_91"
+  },
+  "7456": {
+    "id": 7456,
+    "version": 202103220956,
+    "type": "god",
+    "part": 4,
+    "quality": "red2",
+    "name": "signEx_name_92"
+  },
+  "7457": {
+    "id": 7457,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 4,
+    "quality": "red2",
+    "name": "signEx_name_93"
+  },
+  "7458": {
+    "id": 7458,
+    "version": 202103220956,
+    "type": "world",
+    "part": 4,
+    "quality": "red2",
+    "name": "signEx_name_94"
+  },
+  "7459": {
+    "id": 7459,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 4,
+    "quality": "red2",
+    "name": "signEx_name_95"
+  },
+  "7460": {
+    "id": 7460,
+    "version": 202103220956,
+    "type": "all",
+    "part": 4,
+    "quality": "red2",
+    "name": "signEx_name_96"
+  },
+  "7461": {
+    "id": 7461,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 5,
+    "quality": "red2",
+    "name": "signEx_name_97"
+  },
+  "7462": {
+    "id": 7462,
+    "version": 202103220956,
+    "type": "god",
+    "part": 5,
+    "quality": "red2",
+    "name": "signEx_name_98"
+  },
+  "7463": {
+    "id": 7463,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 5,
+    "quality": "red2",
+    "name": "signEx_name_99"
+  },
+  "7464": {
+    "id": 7464,
+    "version": 202103220956,
+    "type": "world",
+    "part": 5,
+    "quality": "red2",
+    "name": "signEx_name_100"
+  },
+  "7465": {
+    "id": 7465,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 5,
+    "quality": "red2",
+    "name": "signEx_name_101"
+  },
+  "7466": {
+    "id": 7466,
+    "version": 202103220956,
+    "type": "all",
+    "part": 5,
+    "quality": "red2",
+    "name": "signEx_name_102"
+  },
+  "7467": {
+    "id": 7467,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 6,
+    "quality": "red2",
+    "name": "signEx_name_103"
+  },
+  "7468": {
+    "id": 7468,
+    "version": 202103220956,
+    "type": "god",
+    "part": 6,
+    "quality": "red2",
+    "name": "signEx_name_104"
+  },
+  "7469": {
+    "id": 7469,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 6,
+    "quality": "red2",
+    "name": "signEx_name_105"
+  },
+  "7470": {
+    "id": 7470,
+    "version": 202103220956,
+    "type": "world",
+    "part": 6,
+    "quality": "red2",
+    "name": "signEx_name_106"
+  },
+  "7471": {
+    "id": 7471,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 6,
+    "quality": "red2",
+    "name": "signEx_name_107"
+  },
+  "7472": {
+    "id": 7472,
+    "version": 202103220956,
+    "type": "all",
+    "part": 6,
+    "quality": "red2",
+    "name": "signEx_name_108"
+  },
+  "7473": {
+    "id": 7473,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 1,
+    "quality": "red3",
+    "name": "signEx_name_109"
+  },
+  "7474": {
+    "id": 7474,
+    "version": 202103220956,
+    "type": "god",
+    "part": 1,
+    "quality": "red3",
+    "name": "signEx_name_110"
+  },
+  "7475": {
+    "id": 7475,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 1,
+    "quality": "red3",
+    "name": "signEx_name_111"
+  },
+  "7476": {
+    "id": 7476,
+    "version": 202103220956,
+    "type": "world",
+    "part": 1,
+    "quality": "red3",
+    "name": "signEx_name_112"
+  },
+  "7477": {
+    "id": 7477,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 1,
+    "quality": "red3",
+    "name": "signEx_name_113"
+  },
+  "7478": {
+    "id": 7478,
+    "version": 202103220956,
+    "type": "all",
+    "part": 1,
+    "quality": "red3",
+    "name": "signEx_name_114"
+  },
+  "7479": {
+    "id": 7479,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 2,
+    "quality": "red3",
+    "name": "signEx_name_115"
+  },
+  "7480": {
+    "id": 7480,
+    "version": 202103220956,
+    "type": "god",
+    "part": 2,
+    "quality": "red3",
+    "name": "signEx_name_116"
+  },
+  "7481": {
+    "id": 7481,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 2,
+    "quality": "red3",
+    "name": "signEx_name_117"
+  },
+  "7482": {
+    "id": 7482,
+    "version": 202103220956,
+    "type": "world",
+    "part": 2,
+    "quality": "red3",
+    "name": "signEx_name_118"
+  },
+  "7483": {
+    "id": 7483,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 2,
+    "quality": "red3",
+    "name": "signEx_name_119"
+  },
+  "7484": {
+    "id": 7484,
+    "version": 202103220956,
+    "type": "all",
+    "part": 2,
+    "quality": "red3",
+    "name": "signEx_name_120"
+  },
+  "7485": {
+    "id": 7485,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 3,
+    "quality": "red3",
+    "name": "signEx_name_121"
+  },
+  "7486": {
+    "id": 7486,
+    "version": 202103220956,
+    "type": "god",
+    "part": 3,
+    "quality": "red3",
+    "name": "signEx_name_122"
+  },
+  "7487": {
+    "id": 7487,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 3,
+    "quality": "red3",
+    "name": "signEx_name_123"
+  },
+  "7488": {
+    "id": 7488,
+    "version": 202103220956,
+    "type": "world",
+    "part": 3,
+    "quality": "red3",
+    "name": "signEx_name_124"
+  },
+  "7489": {
+    "id": 7489,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 3,
+    "quality": "red3",
+    "name": "signEx_name_125"
+  },
+  "7490": {
+    "id": 7490,
+    "version": 202103220956,
+    "type": "all",
+    "part": 3,
+    "quality": "red3",
+    "name": "signEx_name_126"
+  },
+  "7491": {
+    "id": 7491,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 4,
+    "quality": "red3",
+    "name": "signEx_name_127"
+  },
+  "7492": {
+    "id": 7492,
+    "version": 202103220956,
+    "type": "god",
+    "part": 4,
+    "quality": "red3",
+    "name": "signEx_name_128"
+  },
+  "7493": {
+    "id": 7493,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 4,
+    "quality": "red3",
+    "name": "signEx_name_129"
+  },
+  "7494": {
+    "id": 7494,
+    "version": 202103220956,
+    "type": "world",
+    "part": 4,
+    "quality": "red3",
+    "name": "signEx_name_130"
+  },
+  "7495": {
+    "id": 7495,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 4,
+    "quality": "red3",
+    "name": "signEx_name_131"
+  },
+  "7496": {
+    "id": 7496,
+    "version": 202103220956,
+    "type": "all",
+    "part": 4,
+    "quality": "red3",
+    "name": "signEx_name_132"
+  },
+  "7497": {
+    "id": 7497,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 5,
+    "quality": "red3",
+    "name": "signEx_name_133"
+  },
+  "7498": {
+    "id": 7498,
+    "version": 202103220956,
+    "type": "god",
+    "part": 5,
+    "quality": "red3",
+    "name": "signEx_name_134"
+  },
+  "7499": {
+    "id": 7499,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 5,
+    "quality": "red3",
+    "name": "signEx_name_135"
+  },
+  "7500": {
+    "id": 7500,
+    "version": 202103220956,
+    "type": "world",
+    "part": 5,
+    "quality": "red3",
+    "name": "signEx_name_136"
+  },
+  "7501": {
+    "id": 7501,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 5,
+    "quality": "red3",
+    "name": "signEx_name_137"
+  },
+  "7502": {
+    "id": 7502,
+    "version": 202103220956,
+    "type": "all",
+    "part": 5,
+    "quality": "red3",
+    "name": "signEx_name_138"
+  },
+  "7503": {
+    "id": 7503,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 6,
+    "quality": "red3",
+    "name": "signEx_name_139"
+  },
+  "7504": {
+    "id": 7504,
+    "version": 202103220956,
+    "type": "god",
+    "part": 6,
+    "quality": "red3",
+    "name": "signEx_name_140"
+  },
+  "7505": {
+    "id": 7505,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 6,
+    "quality": "red3",
+    "name": "signEx_name_141"
+  },
+  "7506": {
+    "id": 7506,
+    "version": 202103220956,
+    "type": "world",
+    "part": 6,
+    "quality": "red3",
+    "name": "signEx_name_142"
+  },
+  "7507": {
+    "id": 7507,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 6,
+    "quality": "red3",
+    "name": "signEx_name_143"
+  },
+  "7508": {
+    "id": 7508,
+    "version": 202103220956,
+    "type": "all",
+    "part": 6,
+    "quality": "red3",
+    "name": "signEx_name_144"
+  },
+  "7509": {
+    "id": 7509,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 1,
+    "quality": "red4",
+    "name": "signEx_name_145"
+  },
+  "7510": {
+    "id": 7510,
+    "version": 202103220956,
+    "type": "god",
+    "part": 1,
+    "quality": "red4",
+    "name": "signEx_name_146"
+  },
+  "7511": {
+    "id": 7511,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 1,
+    "quality": "red4",
+    "name": "signEx_name_147"
+  },
+  "7512": {
+    "id": 7512,
+    "version": 202103220956,
+    "type": "world",
+    "part": 1,
+    "quality": "red4",
+    "name": "signEx_name_148"
+  },
+  "7513": {
+    "id": 7513,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 1,
+    "quality": "red4",
+    "name": "signEx_name_149"
+  },
+  "7514": {
+    "id": 7514,
+    "version": 202103220956,
+    "type": "all",
+    "part": 1,
+    "quality": "red4",
+    "name": "signEx_name_150"
+  },
+  "7515": {
+    "id": 7515,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 2,
+    "quality": "red4",
+    "name": "signEx_name_151"
+  },
+  "7516": {
+    "id": 7516,
+    "version": 202103220956,
+    "type": "god",
+    "part": 2,
+    "quality": "red4",
+    "name": "signEx_name_152"
+  },
+  "7517": {
+    "id": 7517,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 2,
+    "quality": "red4",
+    "name": "signEx_name_153"
+  },
+  "7518": {
+    "id": 7518,
+    "version": 202103220956,
+    "type": "world",
+    "part": 2,
+    "quality": "red4",
+    "name": "signEx_name_154"
+  },
+  "7519": {
+    "id": 7519,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 2,
+    "quality": "red4",
+    "name": "signEx_name_155"
+  },
+  "7520": {
+    "id": 7520,
+    "version": 202103220956,
+    "type": "all",
+    "part": 2,
+    "quality": "red4",
+    "name": "signEx_name_156"
+  },
+  "7521": {
+    "id": 7521,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 3,
+    "quality": "red4",
+    "name": "signEx_name_157"
+  },
+  "7522": {
+    "id": 7522,
+    "version": 202103220956,
+    "type": "god",
+    "part": 3,
+    "quality": "red4",
+    "name": "signEx_name_158"
+  },
+  "7523": {
+    "id": 7523,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 3,
+    "quality": "red4",
+    "name": "signEx_name_159"
+  },
+  "7524": {
+    "id": 7524,
+    "version": 202103220956,
+    "type": "world",
+    "part": 3,
+    "quality": "red4",
+    "name": "signEx_name_160"
+  },
+  "7525": {
+    "id": 7525,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 3,
+    "quality": "red4",
+    "name": "signEx_name_161"
+  },
+  "7526": {
+    "id": 7526,
+    "version": 202103220956,
+    "type": "all",
+    "part": 3,
+    "quality": "red4",
+    "name": "signEx_name_162"
+  },
+  "7527": {
+    "id": 7527,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 4,
+    "quality": "red4",
+    "name": "signEx_name_163"
+  },
+  "7528": {
+    "id": 7528,
+    "version": 202103220956,
+    "type": "god",
+    "part": 4,
+    "quality": "red4",
+    "name": "signEx_name_164"
+  },
+  "7529": {
+    "id": 7529,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 4,
+    "quality": "red4",
+    "name": "signEx_name_165"
+  },
+  "7530": {
+    "id": 7530,
+    "version": 202103220956,
+    "type": "world",
+    "part": 4,
+    "quality": "red4",
+    "name": "signEx_name_166"
+  },
+  "7531": {
+    "id": 7531,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 4,
+    "quality": "red4",
+    "name": "signEx_name_167"
+  },
+  "7532": {
+    "id": 7532,
+    "version": 202103220956,
+    "type": "all",
+    "part": 4,
+    "quality": "red4",
+    "name": "signEx_name_168"
+  },
+  "7533": {
+    "id": 7533,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 5,
+    "quality": "red4",
+    "name": "signEx_name_169"
+  },
+  "7534": {
+    "id": 7534,
+    "version": 202103220956,
+    "type": "god",
+    "part": 5,
+    "quality": "red4",
+    "name": "signEx_name_170"
+  },
+  "7535": {
+    "id": 7535,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 5,
+    "quality": "red4",
+    "name": "signEx_name_171"
+  },
+  "7536": {
+    "id": 7536,
+    "version": 202103220956,
+    "type": "world",
+    "part": 5,
+    "quality": "red4",
+    "name": "signEx_name_172"
+  },
+  "7537": {
+    "id": 7537,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 5,
+    "quality": "red4",
+    "name": "signEx_name_173"
+  },
+  "7538": {
+    "id": 7538,
+    "version": 202103220956,
+    "type": "all",
+    "part": 5,
+    "quality": "red4",
+    "name": "signEx_name_174"
+  },
+  "7539": {
+    "id": 7539,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 6,
+    "quality": "red4",
+    "name": "signEx_name_175"
+  },
+  "7540": {
+    "id": 7540,
+    "version": 202103220956,
+    "type": "god",
+    "part": 6,
+    "quality": "red4",
+    "name": "signEx_name_176"
+  },
+  "7541": {
+    "id": 7541,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 6,
+    "quality": "red4",
+    "name": "signEx_name_177"
+  },
+  "7542": {
+    "id": 7542,
+    "version": 202103220956,
+    "type": "world",
+    "part": 6,
+    "quality": "red4",
+    "name": "signEx_name_178"
+  },
+  "7543": {
+    "id": 7543,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 6,
+    "quality": "red4",
+    "name": "signEx_name_179"
+  },
+  "7544": {
+    "id": 7544,
+    "version": 202103220956,
+    "type": "all",
+    "part": 6,
+    "quality": "red4",
+    "name": "signEx_name_180"
+  },
+  "7545": {
+    "id": 7545,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 1,
+    "quality": "red5",
+    "name": "signEx_name_181"
+  },
+  "7546": {
+    "id": 7546,
+    "version": 202103220956,
+    "type": "god",
+    "part": 1,
+    "quality": "red5",
+    "name": "signEx_name_182"
+  },
+  "7547": {
+    "id": 7547,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 1,
+    "quality": "red5",
+    "name": "signEx_name_183"
+  },
+  "7548": {
+    "id": 7548,
+    "version": 202103220956,
+    "type": "world",
+    "part": 1,
+    "quality": "red5",
+    "name": "signEx_name_184"
+  },
+  "7549": {
+    "id": 7549,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 1,
+    "quality": "red5",
+    "name": "signEx_name_185"
+  },
+  "7550": {
+    "id": 7550,
+    "version": 202103220956,
+    "type": "all",
+    "part": 1,
+    "quality": "red5",
+    "name": "signEx_name_186"
+  },
+  "7551": {
+    "id": 7551,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 2,
+    "quality": "red5",
+    "name": "signEx_name_187"
+  },
+  "7552": {
+    "id": 7552,
+    "version": 202103220956,
+    "type": "god",
+    "part": 2,
+    "quality": "red5",
+    "name": "signEx_name_188"
+  },
+  "7553": {
+    "id": 7553,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 2,
+    "quality": "red5",
+    "name": "signEx_name_189"
+  },
+  "7554": {
+    "id": 7554,
+    "version": 202103220956,
+    "type": "world",
+    "part": 2,
+    "quality": "red5",
+    "name": "signEx_name_190"
+  },
+  "7555": {
+    "id": 7555,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 2,
+    "quality": "red5",
+    "name": "signEx_name_191"
+  },
+  "7556": {
+    "id": 7556,
+    "version": 202103220956,
+    "type": "all",
+    "part": 2,
+    "quality": "red5",
+    "name": "signEx_name_192"
+  },
+  "7557": {
+    "id": 7557,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 3,
+    "quality": "red5",
+    "name": "signEx_name_193"
+  },
+  "7558": {
+    "id": 7558,
+    "version": 202103220956,
+    "type": "god",
+    "part": 3,
+    "quality": "red5",
+    "name": "signEx_name_194"
+  },
+  "7559": {
+    "id": 7559,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 3,
+    "quality": "red5",
+    "name": "signEx_name_195"
+  },
+  "7560": {
+    "id": 7560,
+    "version": 202103220956,
+    "type": "world",
+    "part": 3,
+    "quality": "red5",
+    "name": "signEx_name_196"
+  },
+  "7561": {
+    "id": 7561,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 3,
+    "quality": "red5",
+    "name": "signEx_name_197"
+  },
+  "7562": {
+    "id": 7562,
+    "version": 202103220956,
+    "type": "all",
+    "part": 3,
+    "quality": "red5",
+    "name": "signEx_name_198"
+  },
+  "7563": {
+    "id": 7563,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 4,
+    "quality": "red5",
+    "name": "signEx_name_199"
+  },
+  "7564": {
+    "id": 7564,
+    "version": 202103220956,
+    "type": "god",
+    "part": 4,
+    "quality": "red5",
+    "name": "signEx_name_200"
+  },
+  "7565": {
+    "id": 7565,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 4,
+    "quality": "red5",
+    "name": "signEx_name_201"
+  },
+  "7566": {
+    "id": 7566,
+    "version": 202103220956,
+    "type": "world",
+    "part": 4,
+    "quality": "red5",
+    "name": "signEx_name_202"
+  },
+  "7567": {
+    "id": 7567,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 4,
+    "quality": "red5",
+    "name": "signEx_name_203"
+  },
+  "7568": {
+    "id": 7568,
+    "version": 202103220956,
+    "type": "all",
+    "part": 4,
+    "quality": "red5",
+    "name": "signEx_name_204"
+  },
+  "7569": {
+    "id": 7569,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 5,
+    "quality": "red5",
+    "name": "signEx_name_205"
+  },
+  "7570": {
+    "id": 7570,
+    "version": 202103220956,
+    "type": "god",
+    "part": 5,
+    "quality": "red5",
+    "name": "signEx_name_206"
+  },
+  "7571": {
+    "id": 7571,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 5,
+    "quality": "red5",
+    "name": "signEx_name_207"
+  },
+  "7572": {
+    "id": 7572,
+    "version": 202103220956,
+    "type": "world",
+    "part": 5,
+    "quality": "red5",
+    "name": "signEx_name_208"
+  },
+  "7573": {
+    "id": 7573,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 5,
+    "quality": "red5",
+    "name": "signEx_name_209"
+  },
+  "7574": {
+    "id": 7574,
+    "version": 202103220956,
+    "type": "all",
+    "part": 5,
+    "quality": "red5",
+    "name": "signEx_name_210"
+  },
+  "7575": {
+    "id": 7575,
+    "version": 202103220956,
+    "type": "turtle",
+    "part": 6,
+    "quality": "red5",
+    "name": "signEx_name_211"
+  },
+  "7576": {
+    "id": 7576,
+    "version": 202103220956,
+    "type": "god",
+    "part": 6,
+    "quality": "red5",
+    "name": "signEx_name_212"
+  },
+  "7577": {
+    "id": 7577,
+    "version": 202103220956,
+    "type": "demon",
+    "part": 6,
+    "quality": "red5",
+    "name": "signEx_name_213"
+  },
+  "7578": {
+    "id": 7578,
+    "version": 202103220956,
+    "type": "world",
+    "part": 6,
+    "quality": "red5",
+    "name": "signEx_name_214"
+  },
+  "7579": {
+    "id": 7579,
+    "version": 202103220956,
+    "type": "wu",
+    "part": 6,
+    "quality": "red5",
+    "name": "signEx_name_215"
+  },
+  "7580": {
+    "id": 7580,
+    "version": 202103220956,
+    "type": "all",
+    "part": 6,
+    "quality": "red5",
+    "name": "signEx_name_216"
+  }
+}

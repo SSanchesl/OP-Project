@@ -1,0 +1,14 @@
+{
+  "name": "epic-voyage-local-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor local privado para rodar o cliente Epic Voyage (offline, uso pessoal)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}

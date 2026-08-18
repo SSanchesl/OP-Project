@@ -1,0 +1,17 @@
+{
+  "6001": {
+    "id": 6001,
+    "name": "S级实验室",
+    "levelNeeded": 1
+  },
+  "6002": {
+    "id": 6002,
+    "name": "SS级实验室",
+    "levelNeeded": 1
+  },
+  "6003": {
+    "id": 6003,
+    "name": "SSS级实验室",
+    "levelNeeded": 200
+  }
+}

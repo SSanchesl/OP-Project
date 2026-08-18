@@ -1,0 +1,644 @@
+{
+  "210101": {
+    "id": 210101,
+    "belongTo": "熔岩地狱",
+    "description": "获得攻坚buff（20%）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 310101
+  },
+  "210102": {
+    "id": 210102,
+    "belongTo": "熔岩地狱",
+    "description": "施加支援全队buff（10%）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 310112
+  },
+  "210103": {
+    "id": 210103,
+    "belongTo": "熔岩地狱",
+    "description": "破坏陷阱",
+    "actionType": "removePieceType",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": "trap"
+  },
+  "210105": {
+    "id": 210105,
+    "belongTo": "熔岩地狱",
+    "description": "召唤岩浆",
+    "actionType": "summonPieceFinalType",
+    "para1": "cell1",
+    "para2": "blank",
+    "para3": 1,
+    "para4": 1014
+  },
+  "210106": {
+    "id": 210106,
+    "belongTo": "熔岩地狱",
+    "description": "召唤小怪",
+    "actionType": "summonPieceFinalType",
+    "para1": "cell4",
+    "para2": "blank",
+    "para3": 1,
+    "para4": 1011
+  },
+  "210107": {
+    "id": 210107,
+    "belongTo": "熔岩地狱",
+    "description": "挂监听器监听小怪死亡斌触发cd减少",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 310103
+  },
+  "210108": {
+    "id": 210108,
+    "belongTo": "熔岩地狱",
+    "description": "让自己的某技能CD额外减少",
+    "actionType": "cdExtraDown",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 110106,
+    "para4": 1
+  },
+  "210109": {
+    "id": 210109,
+    "belongTo": "熔岩地狱",
+    "description": "挂战场内技能-岩浆回血低级",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 310104
+  },
+  "210110": {
+    "id": 210110,
+    "belongTo": "熔岩地狱",
+    "description": "挂战场内技能-岩浆回血高级",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 310105
+  },
+  "210111": {
+    "id": 210111,
+    "belongTo": "熔岩地狱",
+    "description": "挂战场内技能-对流血单位增伤",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 310106
+  },
+  "210112": {
+    "id": 210112,
+    "belongTo": "熔岩地狱",
+    "description": "对触碰者扣百分比血量（20%）",
+    "actionType": "percentDamage",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": 0.2
+  },
+  "210113": {
+    "id": 210113,
+    "belongTo": "熔岩地狱",
+    "description": "对触碰者挂战场内技能-岩浆流血低级",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": 310107
+  },
+  "210114": {
+    "id": 210114,
+    "belongTo": "熔岩地狱",
+    "description": "对触碰者挂战场内技能-岩浆流血高级",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": 310108
+  },
+  "210115": {
+    "id": 210115,
+    "belongTo": "熔岩地狱",
+    "description": "对触碰者扣百分比血量（30%）",
+    "actionType": "percentDamage",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": 0.3
+  },
+  "220101": {
+    "id": 220101,
+    "belongTo": "移山裂海",
+    "description": "将一个小兵晋升为精英",
+    "actionType": "changePieceFinalType",
+    "para1": "cellAll",
+    "para2": "followerRandom1",
+    "para3": 1022
+  },
+  "220102": {
+    "id": 220102,
+    "belongTo": "移山裂海",
+    "description": "在boss路和传送路中离boss最近的一格召唤小兵",
+    "actionType": "summonPieceFinalType",
+    "para1": "cellAll",
+    "para2": "blankClosestToBoss",
+    "para3": 1,
+    "para4": 1021
+  },
+  "220103": {
+    "id": 220103,
+    "belongTo": "移山裂海",
+    "description": "在周围召唤一个小兵",
+    "actionType": "summonPieceFinalType",
+    "para1": "cell9",
+    "para2": "blank",
+    "para3": 1,
+    "para4": 1021
+  },
+  "220104": {
+    "id": 220104,
+    "belongTo": "移山裂海",
+    "description": "小兵增伤（小）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 320101
+  },
+  "220105": {
+    "id": 220105,
+    "belongTo": "移山裂海",
+    "description": "小兵增伤（大）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 320102
+  },
+  "220106": {
+    "id": 220106,
+    "belongTo": "移山裂海",
+    "description": "精英增伤（小）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 320103
+  },
+  "220107": {
+    "id": 220107,
+    "belongTo": "移山裂海",
+    "description": "精英增伤（中）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 320104
+  },
+  "220108": {
+    "id": 220108,
+    "belongTo": "移山裂海",
+    "description": "精英增伤（大）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 320105
+  },
+  "220109": {
+    "id": 220109,
+    "belongTo": "移山裂海",
+    "description": "在玩家死亡的位置召唤一个小兵",
+    "actionType": "summonPieceFinalType",
+    "para1": "cellAfter",
+    "para2": "blank",
+    "para3": 1,
+    "para4": 1021
+  },
+  "230101": {
+    "id": 230101,
+    "belongTo": "无限火力",
+    "description": "破坏1次陷阱",
+    "actionType": "removePieceType",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": "trap"
+  },
+  "230102": {
+    "id": 230102,
+    "belongTo": "无限火力",
+    "description": "眩晕场上的玩家一回合",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330101
+  },
+  "230103": {
+    "id": 230103,
+    "belongTo": "无限火力",
+    "description": "标记器加1",
+    "actionType": "putTag",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 10001,
+    "para4": 1
+  },
+  "230104": {
+    "id": 230104,
+    "belongTo": "无限火力",
+    "description": "扣除玩家20%血量",
+    "actionType": "percentDamage",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 0.2,
+    "para4": "withTagGTE",
+    "para5": "10001,3"
+  },
+  "230105": {
+    "id": 230105,
+    "belongTo": "无限火力",
+    "description": "扣除玩家30%血量",
+    "actionType": "percentDamage",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 0.3,
+    "para4": "withTagGTE",
+    "para5": "10001,3"
+  },
+  "230106": {
+    "id": 230106,
+    "belongTo": "无限火力",
+    "description": "标记器减3",
+    "actionType": "removeTag",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 10001,
+    "para4": 3,
+    "para5": "withTagGTE",
+    "para6": "10001,3"
+  },
+  "230111": {
+    "id": 230111,
+    "belongTo": "无限火力",
+    "description": "玩家增伤20%",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330106
+  },
+  "230113": {
+    "id": 230113,
+    "belongTo": "无限火力",
+    "description": "玩家获得果实buff  100%暴击",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330108
+  },
+  "230114": {
+    "id": 230114,
+    "belongTo": "无限火力",
+    "description": "玩家获得果实buff  无限能量",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330109
+  },
+  "230115": {
+    "id": 230115,
+    "belongTo": "无限火力",
+    "description": "玩家获得果实buff  全体以100%血量复活一次",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330110
+  },
+  "230116": {
+    "id": 230116,
+    "belongTo": "无限火力",
+    "description": "玩家获得果实buff  免控100% 暴击伤害100%",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330111
+  },
+  "230117": {
+    "id": 230117,
+    "belongTo": "无限火力",
+    "description": "精英怪获得果实buff  50%暴击",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": 330102
+  },
+  "230118": {
+    "id": 230118,
+    "belongTo": "无限火力",
+    "description": "精英怪获得果实buff  50能量",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": 330103
+  },
+  "230119": {
+    "id": 230119,
+    "belongTo": "无限火力",
+    "description": "精英怪获得果实buff  全体以50%血量复活一次",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": 330104
+  },
+  "230120": {
+    "id": 230120,
+    "belongTo": "无限火力",
+    "description": "精英怪获得果实buff  免控50% 暴击伤害50%",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": 330105
+  },
+  "230121": {
+    "id": 230121,
+    "belongTo": "无限火力",
+    "description": "弱化boss技能50%暴击果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330112,
+    "para4": "withEffectID",
+    "para5": 330117
+  },
+  "230122": {
+    "id": 230122,
+    "belongTo": "无限火力",
+    "description": "弱化boss技能50%能量果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330113,
+    "para4": "withEffectID",
+    "para5": 330118
+  },
+  "230123": {
+    "id": 230123,
+    "belongTo": "无限火力",
+    "description": "弱化boss技能全体以50%血量复活一次果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330114,
+    "para4": "withEffectID",
+    "para5": 330119
+  },
+  "230124": {
+    "id": 230124,
+    "belongTo": "无限火力",
+    "description": "弱化boss技能免控50% 暴击伤害50%果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330115,
+    "para4": "withEffectID",
+    "para5": 330120
+  },
+  "230125": {
+    "id": 230125,
+    "belongTo": "无限火力",
+    "description": "吸附果实效果",
+    "actionType": "draw",
+    "para1": "cellAll",
+    "para2": "itemClosestToSelf"
+  },
+  "230126": {
+    "id": 230126,
+    "belongTo": "无限火力",
+    "description": "boss获得100%暴击果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330117
+  },
+  "230127": {
+    "id": 230127,
+    "belongTo": "无限火力",
+    "description": "boss获得无限能量果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330118
+  },
+  "230128": {
+    "id": 230128,
+    "belongTo": "无限火力",
+    "description": "boss获得全体以100%血量复活一次果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330119
+  },
+  "230129": {
+    "id": 230129,
+    "belongTo": "无限火力",
+    "description": "boss获得果实buff  免控100% 暴击伤害100%果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330120
+  },
+  "230130": {
+    "id": 230130,
+    "belongTo": "无限火力",
+    "description": "清除boss暴击技能",
+    "actionType": "removeEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330117
+  },
+  "230131": {
+    "id": 230131,
+    "belongTo": "无限火力",
+    "description": "清除boss能量技能",
+    "actionType": "removeEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330118
+  },
+  "230132": {
+    "id": 230132,
+    "belongTo": "无限火力",
+    "description": "清除boss复活技能",
+    "actionType": "removeEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330119
+  },
+  "230133": {
+    "id": 230133,
+    "belongTo": "无限火力",
+    "description": "清除boss免控技能",
+    "actionType": "removeEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330120
+  },
+  "230134": {
+    "id": 230134,
+    "belongTo": "无限火力",
+    "description": "精英怪被击杀时，玩家获得暴击100%",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330108
+  },
+  "230135": {
+    "id": 230135,
+    "belongTo": "无限火力",
+    "description": "精英怪被击杀时，玩家获得无限能量果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330109
+  },
+  "230136": {
+    "id": 230136,
+    "belongTo": "无限火力",
+    "description": "精英怪被击杀时，玩家获得复活",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330110
+  },
+  "230137": {
+    "id": 230137,
+    "belongTo": "无限火力",
+    "description": "精英怪被击杀时，玩家获得免控100% 暴击伤害100%果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330111
+  },
+  "230138": {
+    "id": 230138,
+    "belongTo": "无限火力",
+    "description": "移除自己格子上的果实",
+    "actionType": "removePieceType",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": "item"
+  },
+  "230143": {
+    "id": 230143,
+    "belongTo": "无限火力",
+    "description": "精英怪获得普通果实效果",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "toucher",
+    "para3": 330116
+  },
+  "230144": {
+    "id": 230144,
+    "belongTo": "无限火力",
+    "description": "玩家击杀精英怪后获得普通果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 330106
+  },
+  "230145": {
+    "id": 230145,
+    "belongTo": "无限火力",
+    "description": "boss入场获得普通果实",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "boss",
+    "para3": 330121
+  },
+  "230146": {
+    "id": 230146,
+    "belongTo": "无限火力",
+    "description": "获得增伤buff",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 330106
+  },
+  "299911": {
+    "id": 299911,
+    "belongTo": "熔岩地狱",
+    "description": "玩家踩进去被传送",
+    "actionType": "transmit"
+  },
+  "299921": {
+    "id": 299921,
+    "belongTo": "熔岩地狱",
+    "description": "开启金箱子",
+    "actionType": "openGoldenChest"
+  },
+  "299931": {
+    "id": 299931,
+    "belongTo": "熔岩地狱",
+    "description": "开启银箱子",
+    "actionType": "openSilverChest"
+  },
+  "299941": {
+    "id": 299941,
+    "belongTo": "熔岩地狱",
+    "description": "自身恢复血量（20%）",
+    "actionType": "percentHealMaxHp",
+    "para1": "cell1",
+    "para2": "self",
+    "para3": 0.2
+  },
+  "299951": {
+    "id": 299951,
+    "belongTo": "熔岩地狱",
+    "description": "所有队伍恢复血量（20%）",
+    "actionType": "percentHealMaxHp",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 0.2
+  },
+  "299961": {
+    "id": 299961,
+    "belongTo": "熔岩地狱",
+    "description": "获得攻坚buff（35%）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 310109
+  },
+  "299971": {
+    "id": 299971,
+    "belongTo": "熔岩地狱",
+    "description": "叠加伤害（2%）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 310110
+  },
+  "299981": {
+    "id": 299981,
+    "belongTo": "熔岩地狱",
+    "description": "获得伤害（20%）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 310111
+  },
+  "299991": {
+    "id": 299991,
+    "belongTo": "熔岩地狱",
+    "description": "删除20%伤害buff",
+    "actionType": "removeEffect",
+    "para1": "cellAll",
+    "para2": "self",
+    "para3": 310111
+  },
+  "299992": {
+    "id": 299992,
+    "belongTo": "熔岩地狱",
+    "description": "获得伤害（30%）",
+    "actionType": "putEffect",
+    "para1": "cellAll",
+    "para2": "allPlayer",
+    "para3": 310113
+  }
+}

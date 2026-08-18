@@ -1,0 +1,241 @@
+{
+  "630": [
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 200,
+      "goodsID": 906,
+      "num": 1,
+      "group": 1,
+      "random": 200
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 200,
+      "goodsID": 907,
+      "num": 1,
+      "group": 1,
+      "random": 1200
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 200,
+      "goodsID": 908,
+      "num": 1,
+      "group": 1,
+      "random": 600
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 200,
+      "goodsID": 909,
+      "num": 1,
+      "group": 1,
+      "random": 600
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 200,
+      "goodsID": 910,
+      "num": 1,
+      "group": 1,
+      "random": 3600
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 200,
+      "goodsID": 911,
+      "num": 1,
+      "group": 1,
+      "random": 1800
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 200,
+      "goodsID": 912,
+      "num": 1,
+      "group": 1,
+      "random": 200
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 200,
+      "goodsID": 913,
+      "num": 1,
+      "group": 1,
+      "random": 1200
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 200,
+      "goodsID": 914,
+      "num": 1,
+      "group": 1,
+      "random": 600
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 200,
+      "group": 1,
+      "random": 10000
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 220,
+      "goodsID": 909,
+      "num": 1,
+      "group": 1,
+      "random": 200
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 220,
+      "goodsID": 910,
+      "num": 1,
+      "group": 1,
+      "random": 1200
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 220,
+      "goodsID": 911,
+      "num": 1,
+      "group": 1,
+      "random": 600
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 220,
+      "goodsID": 912,
+      "num": 1,
+      "group": 1,
+      "random": 600
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 220,
+      "goodsID": 913,
+      "num": 1,
+      "group": 1,
+      "random": 3600
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 220,
+      "goodsID": 914,
+      "num": 1,
+      "group": 1,
+      "random": 1800
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 220,
+      "goodsID": 915,
+      "num": 1,
+      "group": 1,
+      "random": 200
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 220,
+      "goodsID": 916,
+      "num": 1,
+      "group": 1,
+      "random": 1200
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 220,
+      "goodsID": 917,
+      "num": 1,
+      "group": 1,
+      "random": 600
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 220,
+      "group": 1,
+      "random": 10000
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 240,
+      "goodsID": 912,
+      "num": 1,
+      "group": 1,
+      "random": 200
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 240,
+      "goodsID": 913,
+      "num": 1,
+      "group": 1,
+      "random": 1200
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 240,
+      "goodsID": 914,
+      "num": 1,
+      "group": 1,
+      "random": 600
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 240,
+      "goodsID": 915,
+      "num": 1,
+      "group": 1,
+      "random": 800
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 240,
+      "goodsID": 916,
+      "num": 1,
+      "group": 1,
+      "random": 4800
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 240,
+      "goodsID": 917,
+      "num": 1,
+      "group": 1,
+      "random": 2400
+    },
+    {
+      "id": 630,
+      "name": "每日任务第四个盒子",
+      "playerLevel": 240,
+      "group": 1,
+      "random": 10000
+    }
+  ]
+}

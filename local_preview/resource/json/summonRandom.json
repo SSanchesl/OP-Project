@@ -1,0 +1,112 @@
+{
+  "1": {
+    "id": 1,
+    "type": "superOrange",
+    "randomHigh": 0,
+    "randomNormal": 0,
+    "randomFriend": 0,
+    "randomSubject": 0,
+    "randomSubjectDragon": 0.01,
+    "text": "summonRandom_text_1"
+  },
+  "2": {
+    "id": 2,
+    "type": "flickerOrange",
+    "randomHigh": 0.01,
+    "randomNormal": 0,
+    "randomFriend": 0,
+    "randomSubject": 0.01,
+    "randomSubjectDragon": 0,
+    "text": "summonRandom_text_2"
+  },
+  "3": {
+    "id": 3,
+    "type": "orange",
+    "randomHigh": 0.09,
+    "randomNormal": 0.005,
+    "randomFriend": 0.01,
+    "randomSubject": 0.08,
+    "randomSubjectDragon": 0.08,
+    "text": "summonRandom_text_3"
+  },
+  "4": {
+    "id": 4,
+    "type": "purple",
+    "randomHigh": 0.33,
+    "randomNormal": 0.1,
+    "randomFriend": 0.25,
+    "randomSubject": 0.27,
+    "randomSubjectDragon": 0.3,
+    "text": "summonRandom_text_4"
+  },
+  "5": {
+    "id": 5,
+    "type": "blue",
+    "randomHigh": 0.57,
+    "randomNormal": 0.845,
+    "randomFriend": 0.52,
+    "randomSubject": 0.58,
+    "randomSubjectDragon": 0.57,
+    "text": "summonRandom_text_5"
+  },
+  "6": {
+    "id": 6,
+    "type": "green",
+    "randomHigh": 0,
+    "randomNormal": 0,
+    "randomFriend": 0,
+    "randomSubject": 0,
+    "randomSubjectDragon": 0,
+    "text": "summonRandom_text_6"
+  },
+  "7": {
+    "id": 7,
+    "type": "white",
+    "randomHigh": 0,
+    "randomNormal": 0,
+    "randomFriend": 0,
+    "randomSubject": 0,
+    "randomSubjectDragon": 0,
+    "text": "summonRandom_text_7"
+  },
+  "8": {
+    "id": 8,
+    "type": "superOrangePiece",
+    "randomHigh": 0,
+    "randomNormal": 0,
+    "randomFriend": 0,
+    "randomSubject": 0,
+    "randomSubjectDragon": 0.04,
+    "text": "summonRandom_text_8"
+  },
+  "9": {
+    "id": 9,
+    "type": "flickerOrangePiece",
+    "randomHigh": 0,
+    "randomNormal": 0,
+    "randomFriend": 0.02,
+    "randomSubject": 0.06,
+    "randomSubjectDragon": 0,
+    "text": "summonRandom_text_9"
+  },
+  "10": {
+    "id": 10,
+    "type": "orangePiece",
+    "randomHigh": 0,
+    "randomNormal": 0.05,
+    "randomFriend": 0.2,
+    "randomSubject": 0,
+    "randomSubjectDragon": 0,
+    "text": "summonRandom_text_10"
+  },
+  "11": {
+    "id": 11,
+    "type": "flickerOrangePiece",
+    "randomHigh": 0,
+    "randomNormal": 0,
+    "randomFriend": 0,
+    "randomSubject": 0,
+    "randomSubjectDragon": 0,
+    "text": "summonRandom_text_11"
+  }
+}

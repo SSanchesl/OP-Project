@@ -1,0 +1,12 @@
+{
+  "1": {
+    "id": 1,
+    "cabinNumFree": 5,
+    "cabinNumDiamond": 0,
+    "seatNumFree": 2,
+    "seatNumDiamond": 0,
+    "seatCd": 43200,
+    "seatCdClearDimaond": 100,
+    "version": "202011181027"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "1": {
+    "id": 1,
+    "lessonNeeded": 4,
+    "award1": 113,
+    "num1": 100
+  },
+  "2": {
+    "id": 2,
+    "lessonNeeded": 6,
+    "award1": 113,
+    "num1": 160
+  },
+  "3": {
+    "id": 3,
+    "lessonNeeded": 8,
+    "award1": 113,
+    "num1": 240
+  },
+  "4": {
+    "id": 4,
+    "lessonNeeded": 10,
+    "award1": 113,
+    "num1": 300
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "1": {
+    "id": 1,
+    "guildScienceOpen": 1,
+    "guildScienceOpenNeed": 0
+  },
+  "2": {
+    "id": 2,
+    "guildScienceOpen": 2,
+    "guildScienceOpenNeed": 230
+  },
+  "3": {
+    "id": 3,
+    "guildScienceOpen": 3,
+    "guildScienceOpenNeed": 470
+  },
+  "4": {
+    "id": 4,
+    "guildScienceOpen": 4,
+    "guildScienceOpenNeed": 730
+  }
+}

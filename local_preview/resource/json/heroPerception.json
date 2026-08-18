@@ -1,0 +1,2402 @@
+{
+  "1": {
+    "level": 1,
+    "perceptionblue": 1,
+    "perceptionpurple": 1,
+    "perceptionorange": 1,
+    "perceptionflickerOrange": 16,
+    "perceptionsuperOrange": 31
+  },
+  "2": {
+    "level": 2,
+    "perceptionblue": 2,
+    "perceptionpurple": 2,
+    "perceptionorange": 2,
+    "perceptionflickerOrange": 17,
+    "perceptionsuperOrange": 32
+  },
+  "3": {
+    "level": 3,
+    "perceptionblue": 3,
+    "perceptionpurple": 3,
+    "perceptionorange": 3,
+    "perceptionflickerOrange": 18,
+    "perceptionsuperOrange": 33
+  },
+  "4": {
+    "level": 4,
+    "perceptionblue": 4,
+    "perceptionpurple": 4,
+    "perceptionorange": 4,
+    "perceptionflickerOrange": 19,
+    "perceptionsuperOrange": 34
+  },
+  "5": {
+    "level": 5,
+    "perceptionblue": 5,
+    "perceptionpurple": 5,
+    "perceptionorange": 5,
+    "perceptionflickerOrange": 20,
+    "perceptionsuperOrange": 35
+  },
+  "6": {
+    "level": 6,
+    "perceptionblue": 6,
+    "perceptionpurple": 6,
+    "perceptionorange": 6,
+    "perceptionflickerOrange": 21,
+    "perceptionsuperOrange": 36
+  },
+  "7": {
+    "level": 7,
+    "perceptionblue": 7,
+    "perceptionpurple": 7,
+    "perceptionorange": 7,
+    "perceptionflickerOrange": 22,
+    "perceptionsuperOrange": 37
+  },
+  "8": {
+    "level": 8,
+    "perceptionblue": 8,
+    "perceptionpurple": 8,
+    "perceptionorange": 8,
+    "perceptionflickerOrange": 23,
+    "perceptionsuperOrange": 38
+  },
+  "9": {
+    "level": 9,
+    "perceptionblue": 9,
+    "perceptionpurple": 9,
+    "perceptionorange": 9,
+    "perceptionflickerOrange": 24,
+    "perceptionsuperOrange": 39
+  },
+  "10": {
+    "level": 10,
+    "perceptionblue": 10,
+    "perceptionpurple": 10,
+    "perceptionorange": 10,
+    "perceptionflickerOrange": 25,
+    "perceptionsuperOrange": 40
+  },
+  "11": {
+    "level": 11,
+    "perceptionblue": 11,
+    "perceptionpurple": 11,
+    "perceptionorange": 11,
+    "perceptionflickerOrange": 26,
+    "perceptionsuperOrange": 41
+  },
+  "12": {
+    "level": 12,
+    "perceptionblue": 12,
+    "perceptionpurple": 12,
+    "perceptionorange": 12,
+    "perceptionflickerOrange": 27,
+    "perceptionsuperOrange": 42
+  },
+  "13": {
+    "level": 13,
+    "perceptionblue": 13,
+    "perceptionpurple": 13,
+    "perceptionorange": 13,
+    "perceptionflickerOrange": 28,
+    "perceptionsuperOrange": 43
+  },
+  "14": {
+    "level": 14,
+    "perceptionblue": 14,
+    "perceptionpurple": 14,
+    "perceptionorange": 14,
+    "perceptionflickerOrange": 29,
+    "perceptionsuperOrange": 44
+  },
+  "15": {
+    "level": 15,
+    "perceptionblue": 15,
+    "perceptionpurple": 15,
+    "perceptionorange": 15,
+    "perceptionflickerOrange": 30,
+    "perceptionsuperOrange": 45
+  },
+  "16": {
+    "level": 16,
+    "perceptionblue": 16,
+    "perceptionpurple": 16,
+    "perceptionorange": 16,
+    "perceptionflickerOrange": 31,
+    "perceptionsuperOrange": 46
+  },
+  "17": {
+    "level": 17,
+    "perceptionblue": 17,
+    "perceptionpurple": 17,
+    "perceptionorange": 17,
+    "perceptionflickerOrange": 32,
+    "perceptionsuperOrange": 47
+  },
+  "18": {
+    "level": 18,
+    "perceptionblue": 18,
+    "perceptionpurple": 18,
+    "perceptionorange": 18,
+    "perceptionflickerOrange": 33,
+    "perceptionsuperOrange": 48
+  },
+  "19": {
+    "level": 19,
+    "perceptionblue": 19,
+    "perceptionpurple": 19,
+    "perceptionorange": 19,
+    "perceptionflickerOrange": 34,
+    "perceptionsuperOrange": 49
+  },
+  "20": {
+    "level": 20,
+    "perceptionblue": 20,
+    "perceptionpurple": 20,
+    "perceptionorange": 20,
+    "perceptionflickerOrange": 35,
+    "perceptionsuperOrange": 50
+  },
+  "21": {
+    "level": 21,
+    "perceptionblue": 21,
+    "perceptionpurple": 21,
+    "perceptionorange": 21,
+    "perceptionflickerOrange": 36,
+    "perceptionsuperOrange": 51
+  },
+  "22": {
+    "level": 22,
+    "perceptionblue": 22,
+    "perceptionpurple": 22,
+    "perceptionorange": 22,
+    "perceptionflickerOrange": 37,
+    "perceptionsuperOrange": 52
+  },
+  "23": {
+    "level": 23,
+    "perceptionblue": 23,
+    "perceptionpurple": 23,
+    "perceptionorange": 23,
+    "perceptionflickerOrange": 38,
+    "perceptionsuperOrange": 53
+  },
+  "24": {
+    "level": 24,
+    "perceptionblue": 24,
+    "perceptionpurple": 24,
+    "perceptionorange": 24,
+    "perceptionflickerOrange": 39,
+    "perceptionsuperOrange": 54
+  },
+  "25": {
+    "level": 25,
+    "perceptionblue": 25,
+    "perceptionpurple": 25,
+    "perceptionorange": 25,
+    "perceptionflickerOrange": 40,
+    "perceptionsuperOrange": 55
+  },
+  "26": {
+    "level": 26,
+    "perceptionblue": 26,
+    "perceptionpurple": 26,
+    "perceptionorange": 26,
+    "perceptionflickerOrange": 41,
+    "perceptionsuperOrange": 56
+  },
+  "27": {
+    "level": 27,
+    "perceptionblue": 27,
+    "perceptionpurple": 27,
+    "perceptionorange": 27,
+    "perceptionflickerOrange": 42,
+    "perceptionsuperOrange": 57
+  },
+  "28": {
+    "level": 28,
+    "perceptionblue": 28,
+    "perceptionpurple": 28,
+    "perceptionorange": 28,
+    "perceptionflickerOrange": 43,
+    "perceptionsuperOrange": 58
+  },
+  "29": {
+    "level": 29,
+    "perceptionblue": 29,
+    "perceptionpurple": 29,
+    "perceptionorange": 29,
+    "perceptionflickerOrange": 44,
+    "perceptionsuperOrange": 59
+  },
+  "30": {
+    "level": 30,
+    "perceptionblue": 30,
+    "perceptionpurple": 30,
+    "perceptionorange": 30,
+    "perceptionflickerOrange": 45,
+    "perceptionsuperOrange": 60
+  },
+  "31": {
+    "level": 31,
+    "perceptionblue": 31,
+    "perceptionpurple": 31,
+    "perceptionorange": 31,
+    "perceptionflickerOrange": 46,
+    "perceptionsuperOrange": 61
+  },
+  "32": {
+    "level": 32,
+    "perceptionblue": 32,
+    "perceptionpurple": 32,
+    "perceptionorange": 32,
+    "perceptionflickerOrange": 47,
+    "perceptionsuperOrange": 62
+  },
+  "33": {
+    "level": 33,
+    "perceptionblue": 33,
+    "perceptionpurple": 33,
+    "perceptionorange": 33,
+    "perceptionflickerOrange": 48,
+    "perceptionsuperOrange": 63
+  },
+  "34": {
+    "level": 34,
+    "perceptionblue": 34,
+    "perceptionpurple": 34,
+    "perceptionorange": 34,
+    "perceptionflickerOrange": 49,
+    "perceptionsuperOrange": 64
+  },
+  "35": {
+    "level": 35,
+    "perceptionblue": 35,
+    "perceptionpurple": 35,
+    "perceptionorange": 35,
+    "perceptionflickerOrange": 50,
+    "perceptionsuperOrange": 65
+  },
+  "36": {
+    "level": 36,
+    "perceptionblue": 36,
+    "perceptionpurple": 36,
+    "perceptionorange": 36,
+    "perceptionflickerOrange": 51,
+    "perceptionsuperOrange": 66
+  },
+  "37": {
+    "level": 37,
+    "perceptionblue": 37,
+    "perceptionpurple": 37,
+    "perceptionorange": 37,
+    "perceptionflickerOrange": 52,
+    "perceptionsuperOrange": 67
+  },
+  "38": {
+    "level": 38,
+    "perceptionblue": 38,
+    "perceptionpurple": 38,
+    "perceptionorange": 38,
+    "perceptionflickerOrange": 53,
+    "perceptionsuperOrange": 68
+  },
+  "39": {
+    "level": 39,
+    "perceptionblue": 39,
+    "perceptionpurple": 39,
+    "perceptionorange": 39,
+    "perceptionflickerOrange": 54,
+    "perceptionsuperOrange": 69
+  },
+  "40": {
+    "level": 40,
+    "perceptionblue": 40,
+    "perceptionpurple": 40,
+    "perceptionorange": 40,
+    "perceptionflickerOrange": 55,
+    "perceptionsuperOrange": 70
+  },
+  "41": {
+    "level": 41,
+    "perceptionblue": 41,
+    "perceptionpurple": 41,
+    "perceptionorange": 41,
+    "perceptionflickerOrange": 56,
+    "perceptionsuperOrange": 71
+  },
+  "42": {
+    "level": 42,
+    "perceptionblue": 42,
+    "perceptionpurple": 42,
+    "perceptionorange": 42,
+    "perceptionflickerOrange": 57,
+    "perceptionsuperOrange": 72
+  },
+  "43": {
+    "level": 43,
+    "perceptionblue": 43,
+    "perceptionpurple": 43,
+    "perceptionorange": 43,
+    "perceptionflickerOrange": 58,
+    "perceptionsuperOrange": 73
+  },
+  "44": {
+    "level": 44,
+    "perceptionblue": 44,
+    "perceptionpurple": 44,
+    "perceptionorange": 44,
+    "perceptionflickerOrange": 59,
+    "perceptionsuperOrange": 74
+  },
+  "45": {
+    "level": 45,
+    "perceptionblue": 45,
+    "perceptionpurple": 45,
+    "perceptionorange": 45,
+    "perceptionflickerOrange": 60,
+    "perceptionsuperOrange": 75
+  },
+  "46": {
+    "level": 46,
+    "perceptionblue": 46,
+    "perceptionpurple": 46,
+    "perceptionorange": 46,
+    "perceptionflickerOrange": 61,
+    "perceptionsuperOrange": 76
+  },
+  "47": {
+    "level": 47,
+    "perceptionblue": 47,
+    "perceptionpurple": 47,
+    "perceptionorange": 47,
+    "perceptionflickerOrange": 62,
+    "perceptionsuperOrange": 77
+  },
+  "48": {
+    "level": 48,
+    "perceptionblue": 48,
+    "perceptionpurple": 48,
+    "perceptionorange": 48,
+    "perceptionflickerOrange": 63,
+    "perceptionsuperOrange": 78
+  },
+  "49": {
+    "level": 49,
+    "perceptionblue": 49,
+    "perceptionpurple": 49,
+    "perceptionorange": 49,
+    "perceptionflickerOrange": 64,
+    "perceptionsuperOrange": 79
+  },
+  "50": {
+    "level": 50,
+    "perceptionblue": 50,
+    "perceptionpurple": 50,
+    "perceptionorange": 50,
+    "perceptionflickerOrange": 65,
+    "perceptionsuperOrange": 80
+  },
+  "51": {
+    "level": 51,
+    "perceptionblue": 51,
+    "perceptionpurple": 51,
+    "perceptionorange": 51,
+    "perceptionflickerOrange": 66,
+    "perceptionsuperOrange": 81
+  },
+  "52": {
+    "level": 52,
+    "perceptionblue": 52,
+    "perceptionpurple": 52,
+    "perceptionorange": 52,
+    "perceptionflickerOrange": 67,
+    "perceptionsuperOrange": 82
+  },
+  "53": {
+    "level": 53,
+    "perceptionblue": 53,
+    "perceptionpurple": 53,
+    "perceptionorange": 53,
+    "perceptionflickerOrange": 68,
+    "perceptionsuperOrange": 83
+  },
+  "54": {
+    "level": 54,
+    "perceptionblue": 54,
+    "perceptionpurple": 54,
+    "perceptionorange": 54,
+    "perceptionflickerOrange": 69,
+    "perceptionsuperOrange": 84
+  },
+  "55": {
+    "level": 55,
+    "perceptionblue": 55,
+    "perceptionpurple": 55,
+    "perceptionorange": 55,
+    "perceptionflickerOrange": 70,
+    "perceptionsuperOrange": 85
+  },
+  "56": {
+    "level": 56,
+    "perceptionblue": 56,
+    "perceptionpurple": 56,
+    "perceptionorange": 56,
+    "perceptionflickerOrange": 71,
+    "perceptionsuperOrange": 86
+  },
+  "57": {
+    "level": 57,
+    "perceptionblue": 57,
+    "perceptionpurple": 57,
+    "perceptionorange": 57,
+    "perceptionflickerOrange": 72,
+    "perceptionsuperOrange": 87
+  },
+  "58": {
+    "level": 58,
+    "perceptionblue": 58,
+    "perceptionpurple": 58,
+    "perceptionorange": 58,
+    "perceptionflickerOrange": 73,
+    "perceptionsuperOrange": 88
+  },
+  "59": {
+    "level": 59,
+    "perceptionblue": 59,
+    "perceptionpurple": 59,
+    "perceptionorange": 59,
+    "perceptionflickerOrange": 74,
+    "perceptionsuperOrange": 89
+  },
+  "60": {
+    "level": 60,
+    "perceptionblue": 60,
+    "perceptionpurple": 60,
+    "perceptionorange": 60,
+    "perceptionflickerOrange": 75,
+    "perceptionsuperOrange": 90
+  },
+  "61": {
+    "level": 61,
+    "perceptionblue": 61,
+    "perceptionpurple": 61,
+    "perceptionorange": 61,
+    "perceptionflickerOrange": 76,
+    "perceptionsuperOrange": 91
+  },
+  "62": {
+    "level": 62,
+    "perceptionblue": 62,
+    "perceptionpurple": 62,
+    "perceptionorange": 62,
+    "perceptionflickerOrange": 77,
+    "perceptionsuperOrange": 92
+  },
+  "63": {
+    "level": 63,
+    "perceptionblue": 63,
+    "perceptionpurple": 63,
+    "perceptionorange": 63,
+    "perceptionflickerOrange": 78,
+    "perceptionsuperOrange": 93
+  },
+  "64": {
+    "level": 64,
+    "perceptionblue": 64,
+    "perceptionpurple": 64,
+    "perceptionorange": 64,
+    "perceptionflickerOrange": 79,
+    "perceptionsuperOrange": 94
+  },
+  "65": {
+    "level": 65,
+    "perceptionblue": 65,
+    "perceptionpurple": 65,
+    "perceptionorange": 65,
+    "perceptionflickerOrange": 80,
+    "perceptionsuperOrange": 95
+  },
+  "66": {
+    "level": 66,
+    "perceptionblue": 66,
+    "perceptionpurple": 66,
+    "perceptionorange": 66,
+    "perceptionflickerOrange": 81,
+    "perceptionsuperOrange": 96
+  },
+  "67": {
+    "level": 67,
+    "perceptionblue": 67,
+    "perceptionpurple": 67,
+    "perceptionorange": 67,
+    "perceptionflickerOrange": 82,
+    "perceptionsuperOrange": 97
+  },
+  "68": {
+    "level": 68,
+    "perceptionblue": 68,
+    "perceptionpurple": 68,
+    "perceptionorange": 68,
+    "perceptionflickerOrange": 83,
+    "perceptionsuperOrange": 98
+  },
+  "69": {
+    "level": 69,
+    "perceptionblue": 69,
+    "perceptionpurple": 69,
+    "perceptionorange": 69,
+    "perceptionflickerOrange": 84,
+    "perceptionsuperOrange": 99
+  },
+  "70": {
+    "level": 70,
+    "perceptionblue": 70,
+    "perceptionpurple": 70,
+    "perceptionorange": 70,
+    "perceptionflickerOrange": 85,
+    "perceptionsuperOrange": 100
+  },
+  "71": {
+    "level": 71,
+    "perceptionblue": 71,
+    "perceptionpurple": 71,
+    "perceptionorange": 71,
+    "perceptionflickerOrange": 86,
+    "perceptionsuperOrange": 101
+  },
+  "72": {
+    "level": 72,
+    "perceptionblue": 72,
+    "perceptionpurple": 72,
+    "perceptionorange": 72,
+    "perceptionflickerOrange": 87,
+    "perceptionsuperOrange": 102
+  },
+  "73": {
+    "level": 73,
+    "perceptionblue": 73,
+    "perceptionpurple": 73,
+    "perceptionorange": 73,
+    "perceptionflickerOrange": 88,
+    "perceptionsuperOrange": 103
+  },
+  "74": {
+    "level": 74,
+    "perceptionblue": 74,
+    "perceptionpurple": 74,
+    "perceptionorange": 74,
+    "perceptionflickerOrange": 89,
+    "perceptionsuperOrange": 104
+  },
+  "75": {
+    "level": 75,
+    "perceptionblue": 75,
+    "perceptionpurple": 75,
+    "perceptionorange": 75,
+    "perceptionflickerOrange": 90,
+    "perceptionsuperOrange": 105
+  },
+  "76": {
+    "level": 76,
+    "perceptionblue": 76,
+    "perceptionpurple": 76,
+    "perceptionorange": 76,
+    "perceptionflickerOrange": 91,
+    "perceptionsuperOrange": 106
+  },
+  "77": {
+    "level": 77,
+    "perceptionblue": 77,
+    "perceptionpurple": 77,
+    "perceptionorange": 77,
+    "perceptionflickerOrange": 92,
+    "perceptionsuperOrange": 107
+  },
+  "78": {
+    "level": 78,
+    "perceptionblue": 78,
+    "perceptionpurple": 78,
+    "perceptionorange": 78,
+    "perceptionflickerOrange": 93,
+    "perceptionsuperOrange": 108
+  },
+  "79": {
+    "level": 79,
+    "perceptionblue": 79,
+    "perceptionpurple": 79,
+    "perceptionorange": 79,
+    "perceptionflickerOrange": 94,
+    "perceptionsuperOrange": 109
+  },
+  "80": {
+    "level": 80,
+    "perceptionblue": 80,
+    "perceptionpurple": 80,
+    "perceptionorange": 80,
+    "perceptionflickerOrange": 95,
+    "perceptionsuperOrange": 110
+  },
+  "81": {
+    "level": 81,
+    "perceptionblue": 81,
+    "perceptionpurple": 81,
+    "perceptionorange": 81,
+    "perceptionflickerOrange": 96,
+    "perceptionsuperOrange": 111
+  },
+  "82": {
+    "level": 82,
+    "perceptionblue": 82,
+    "perceptionpurple": 82,
+    "perceptionorange": 82,
+    "perceptionflickerOrange": 97,
+    "perceptionsuperOrange": 112
+  },
+  "83": {
+    "level": 83,
+    "perceptionblue": 83,
+    "perceptionpurple": 83,
+    "perceptionorange": 83,
+    "perceptionflickerOrange": 98,
+    "perceptionsuperOrange": 113
+  },
+  "84": {
+    "level": 84,
+    "perceptionblue": 84,
+    "perceptionpurple": 84,
+    "perceptionorange": 84,
+    "perceptionflickerOrange": 99,
+    "perceptionsuperOrange": 114
+  },
+  "85": {
+    "level": 85,
+    "perceptionblue": 85,
+    "perceptionpurple": 85,
+    "perceptionorange": 85,
+    "perceptionflickerOrange": 100,
+    "perceptionsuperOrange": 115
+  },
+  "86": {
+    "level": 86,
+    "perceptionblue": 86,
+    "perceptionpurple": 86,
+    "perceptionorange": 86,
+    "perceptionflickerOrange": 101,
+    "perceptionsuperOrange": 116
+  },
+  "87": {
+    "level": 87,
+    "perceptionblue": 87,
+    "perceptionpurple": 87,
+    "perceptionorange": 87,
+    "perceptionflickerOrange": 102,
+    "perceptionsuperOrange": 117
+  },
+  "88": {
+    "level": 88,
+    "perceptionblue": 88,
+    "perceptionpurple": 88,
+    "perceptionorange": 88,
+    "perceptionflickerOrange": 103,
+    "perceptionsuperOrange": 118
+  },
+  "89": {
+    "level": 89,
+    "perceptionblue": 89,
+    "perceptionpurple": 89,
+    "perceptionorange": 89,
+    "perceptionflickerOrange": 104,
+    "perceptionsuperOrange": 119
+  },
+  "90": {
+    "level": 90,
+    "perceptionblue": 90,
+    "perceptionpurple": 90,
+    "perceptionorange": 90,
+    "perceptionflickerOrange": 105,
+    "perceptionsuperOrange": 120
+  },
+  "91": {
+    "level": 91,
+    "perceptionblue": 91,
+    "perceptionpurple": 91,
+    "perceptionorange": 91,
+    "perceptionflickerOrange": 106,
+    "perceptionsuperOrange": 121
+  },
+  "92": {
+    "level": 92,
+    "perceptionblue": 92,
+    "perceptionpurple": 92,
+    "perceptionorange": 92,
+    "perceptionflickerOrange": 107,
+    "perceptionsuperOrange": 122
+  },
+  "93": {
+    "level": 93,
+    "perceptionblue": 93,
+    "perceptionpurple": 93,
+    "perceptionorange": 93,
+    "perceptionflickerOrange": 108,
+    "perceptionsuperOrange": 123
+  },
+  "94": {
+    "level": 94,
+    "perceptionblue": 94,
+    "perceptionpurple": 94,
+    "perceptionorange": 94,
+    "perceptionflickerOrange": 109,
+    "perceptionsuperOrange": 124
+  },
+  "95": {
+    "level": 95,
+    "perceptionblue": 95,
+    "perceptionpurple": 95,
+    "perceptionorange": 95,
+    "perceptionflickerOrange": 110,
+    "perceptionsuperOrange": 125
+  },
+  "96": {
+    "level": 96,
+    "perceptionblue": 96,
+    "perceptionpurple": 96,
+    "perceptionorange": 96,
+    "perceptionflickerOrange": 111,
+    "perceptionsuperOrange": 126
+  },
+  "97": {
+    "level": 97,
+    "perceptionblue": 97,
+    "perceptionpurple": 97,
+    "perceptionorange": 97,
+    "perceptionflickerOrange": 112,
+    "perceptionsuperOrange": 127
+  },
+  "98": {
+    "level": 98,
+    "perceptionblue": 98,
+    "perceptionpurple": 98,
+    "perceptionorange": 98,
+    "perceptionflickerOrange": 113,
+    "perceptionsuperOrange": 128
+  },
+  "99": {
+    "level": 99,
+    "perceptionblue": 99,
+    "perceptionpurple": 99,
+    "perceptionorange": 99,
+    "perceptionflickerOrange": 114,
+    "perceptionsuperOrange": 129
+  },
+  "100": {
+    "level": 100,
+    "perceptionblue": 100,
+    "perceptionpurple": 100,
+    "perceptionorange": 100,
+    "perceptionflickerOrange": 115,
+    "perceptionsuperOrange": 130
+  },
+  "101": {
+    "level": 101,
+    "perceptionblue": 101,
+    "perceptionpurple": 101,
+    "perceptionorange": 101,
+    "perceptionflickerOrange": 116,
+    "perceptionsuperOrange": 131
+  },
+  "102": {
+    "level": 102,
+    "perceptionblue": 102,
+    "perceptionpurple": 102,
+    "perceptionorange": 102,
+    "perceptionflickerOrange": 117,
+    "perceptionsuperOrange": 132
+  },
+  "103": {
+    "level": 103,
+    "perceptionblue": 103,
+    "perceptionpurple": 103,
+    "perceptionorange": 103,
+    "perceptionflickerOrange": 118,
+    "perceptionsuperOrange": 133
+  },
+  "104": {
+    "level": 104,
+    "perceptionblue": 104,
+    "perceptionpurple": 104,
+    "perceptionorange": 104,
+    "perceptionflickerOrange": 119,
+    "perceptionsuperOrange": 134
+  },
+  "105": {
+    "level": 105,
+    "perceptionblue": 105,
+    "perceptionpurple": 105,
+    "perceptionorange": 105,
+    "perceptionflickerOrange": 120,
+    "perceptionsuperOrange": 135
+  },
+  "106": {
+    "level": 106,
+    "perceptionblue": 106,
+    "perceptionpurple": 106,
+    "perceptionorange": 106,
+    "perceptionflickerOrange": 121,
+    "perceptionsuperOrange": 136
+  },
+  "107": {
+    "level": 107,
+    "perceptionblue": 107,
+    "perceptionpurple": 107,
+    "perceptionorange": 107,
+    "perceptionflickerOrange": 122,
+    "perceptionsuperOrange": 137
+  },
+  "108": {
+    "level": 108,
+    "perceptionblue": 108,
+    "perceptionpurple": 108,
+    "perceptionorange": 108,
+    "perceptionflickerOrange": 123,
+    "perceptionsuperOrange": 138
+  },
+  "109": {
+    "level": 109,
+    "perceptionblue": 109,
+    "perceptionpurple": 109,
+    "perceptionorange": 109,
+    "perceptionflickerOrange": 124,
+    "perceptionsuperOrange": 139
+  },
+  "110": {
+    "level": 110,
+    "perceptionblue": 110,
+    "perceptionpurple": 110,
+    "perceptionorange": 110,
+    "perceptionflickerOrange": 125,
+    "perceptionsuperOrange": 140
+  },
+  "111": {
+    "level": 111,
+    "perceptionblue": 111,
+    "perceptionpurple": 111,
+    "perceptionorange": 111,
+    "perceptionflickerOrange": 126,
+    "perceptionsuperOrange": 141
+  },
+  "112": {
+    "level": 112,
+    "perceptionblue": 112,
+    "perceptionpurple": 112,
+    "perceptionorange": 112,
+    "perceptionflickerOrange": 127,
+    "perceptionsuperOrange": 142
+  },
+  "113": {
+    "level": 113,
+    "perceptionblue": 113,
+    "perceptionpurple": 113,
+    "perceptionorange": 113,
+    "perceptionflickerOrange": 128,
+    "perceptionsuperOrange": 143
+  },
+  "114": {
+    "level": 114,
+    "perceptionblue": 114,
+    "perceptionpurple": 114,
+    "perceptionorange": 114,
+    "perceptionflickerOrange": 129,
+    "perceptionsuperOrange": 144
+  },
+  "115": {
+    "level": 115,
+    "perceptionblue": 115,
+    "perceptionpurple": 115,
+    "perceptionorange": 115,
+    "perceptionflickerOrange": 130,
+    "perceptionsuperOrange": 145
+  },
+  "116": {
+    "level": 116,
+    "perceptionblue": 116,
+    "perceptionpurple": 116,
+    "perceptionorange": 116,
+    "perceptionflickerOrange": 131,
+    "perceptionsuperOrange": 146
+  },
+  "117": {
+    "level": 117,
+    "perceptionblue": 117,
+    "perceptionpurple": 117,
+    "perceptionorange": 117,
+    "perceptionflickerOrange": 132,
+    "perceptionsuperOrange": 147
+  },
+  "118": {
+    "level": 118,
+    "perceptionblue": 118,
+    "perceptionpurple": 118,
+    "perceptionorange": 118,
+    "perceptionflickerOrange": 133,
+    "perceptionsuperOrange": 148
+  },
+  "119": {
+    "level": 119,
+    "perceptionblue": 119,
+    "perceptionpurple": 119,
+    "perceptionorange": 119,
+    "perceptionflickerOrange": 134,
+    "perceptionsuperOrange": 149
+  },
+  "120": {
+    "level": 120,
+    "perceptionblue": 120,
+    "perceptionpurple": 120,
+    "perceptionorange": 120,
+    "perceptionflickerOrange": 135,
+    "perceptionsuperOrange": 150
+  },
+  "121": {
+    "level": 121,
+    "perceptionblue": 121,
+    "perceptionpurple": 121,
+    "perceptionorange": 121,
+    "perceptionflickerOrange": 136,
+    "perceptionsuperOrange": 151
+  },
+  "122": {
+    "level": 122,
+    "perceptionblue": 122,
+    "perceptionpurple": 122,
+    "perceptionorange": 122,
+    "perceptionflickerOrange": 137,
+    "perceptionsuperOrange": 152
+  },
+  "123": {
+    "level": 123,
+    "perceptionblue": 123,
+    "perceptionpurple": 123,
+    "perceptionorange": 123,
+    "perceptionflickerOrange": 138,
+    "perceptionsuperOrange": 153
+  },
+  "124": {
+    "level": 124,
+    "perceptionblue": 124,
+    "perceptionpurple": 124,
+    "perceptionorange": 124,
+    "perceptionflickerOrange": 139,
+    "perceptionsuperOrange": 154
+  },
+  "125": {
+    "level": 125,
+    "perceptionblue": 125,
+    "perceptionpurple": 125,
+    "perceptionorange": 125,
+    "perceptionflickerOrange": 140,
+    "perceptionsuperOrange": 155
+  },
+  "126": {
+    "level": 126,
+    "perceptionblue": 126,
+    "perceptionpurple": 126,
+    "perceptionorange": 126,
+    "perceptionflickerOrange": 141,
+    "perceptionsuperOrange": 156
+  },
+  "127": {
+    "level": 127,
+    "perceptionblue": 127,
+    "perceptionpurple": 127,
+    "perceptionorange": 127,
+    "perceptionflickerOrange": 142,
+    "perceptionsuperOrange": 157
+  },
+  "128": {
+    "level": 128,
+    "perceptionblue": 128,
+    "perceptionpurple": 128,
+    "perceptionorange": 128,
+    "perceptionflickerOrange": 143,
+    "perceptionsuperOrange": 158
+  },
+  "129": {
+    "level": 129,
+    "perceptionblue": 129,
+    "perceptionpurple": 129,
+    "perceptionorange": 129,
+    "perceptionflickerOrange": 144,
+    "perceptionsuperOrange": 159
+  },
+  "130": {
+    "level": 130,
+    "perceptionblue": 130,
+    "perceptionpurple": 130,
+    "perceptionorange": 130,
+    "perceptionflickerOrange": 145,
+    "perceptionsuperOrange": 160
+  },
+  "131": {
+    "level": 131,
+    "perceptionblue": 131,
+    "perceptionpurple": 131,
+    "perceptionorange": 131,
+    "perceptionflickerOrange": 146,
+    "perceptionsuperOrange": 161
+  },
+  "132": {
+    "level": 132,
+    "perceptionblue": 132,
+    "perceptionpurple": 132,
+    "perceptionorange": 132,
+    "perceptionflickerOrange": 147,
+    "perceptionsuperOrange": 162
+  },
+  "133": {
+    "level": 133,
+    "perceptionblue": 133,
+    "perceptionpurple": 133,
+    "perceptionorange": 133,
+    "perceptionflickerOrange": 148,
+    "perceptionsuperOrange": 163
+  },
+  "134": {
+    "level": 134,
+    "perceptionblue": 134,
+    "perceptionpurple": 134,
+    "perceptionorange": 134,
+    "perceptionflickerOrange": 149,
+    "perceptionsuperOrange": 164
+  },
+  "135": {
+    "level": 135,
+    "perceptionblue": 135,
+    "perceptionpurple": 135,
+    "perceptionorange": 135,
+    "perceptionflickerOrange": 150,
+    "perceptionsuperOrange": 165
+  },
+  "136": {
+    "level": 136,
+    "perceptionblue": 136,
+    "perceptionpurple": 136,
+    "perceptionorange": 136,
+    "perceptionflickerOrange": 151,
+    "perceptionsuperOrange": 166
+  },
+  "137": {
+    "level": 137,
+    "perceptionblue": 137,
+    "perceptionpurple": 137,
+    "perceptionorange": 137,
+    "perceptionflickerOrange": 152,
+    "perceptionsuperOrange": 167
+  },
+  "138": {
+    "level": 138,
+    "perceptionblue": 138,
+    "perceptionpurple": 138,
+    "perceptionorange": 138,
+    "perceptionflickerOrange": 153,
+    "perceptionsuperOrange": 168
+  },
+  "139": {
+    "level": 139,
+    "perceptionblue": 139,
+    "perceptionpurple": 139,
+    "perceptionorange": 139,
+    "perceptionflickerOrange": 154,
+    "perceptionsuperOrange": 169
+  },
+  "140": {
+    "level": 140,
+    "perceptionblue": 140,
+    "perceptionpurple": 140,
+    "perceptionorange": 140,
+    "perceptionflickerOrange": 155,
+    "perceptionsuperOrange": 170
+  },
+  "141": {
+    "level": 141,
+    "perceptionblue": 141,
+    "perceptionpurple": 141,
+    "perceptionorange": 141,
+    "perceptionflickerOrange": 156,
+    "perceptionsuperOrange": 171
+  },
+  "142": {
+    "level": 142,
+    "perceptionblue": 142,
+    "perceptionpurple": 142,
+    "perceptionorange": 142,
+    "perceptionflickerOrange": 157,
+    "perceptionsuperOrange": 172
+  },
+  "143": {
+    "level": 143,
+    "perceptionblue": 143,
+    "perceptionpurple": 143,
+    "perceptionorange": 143,
+    "perceptionflickerOrange": 158,
+    "perceptionsuperOrange": 173
+  },
+  "144": {
+    "level": 144,
+    "perceptionblue": 144,
+    "perceptionpurple": 144,
+    "perceptionorange": 144,
+    "perceptionflickerOrange": 159,
+    "perceptionsuperOrange": 174
+  },
+  "145": {
+    "level": 145,
+    "perceptionblue": 145,
+    "perceptionpurple": 145,
+    "perceptionorange": 145,
+    "perceptionflickerOrange": 160,
+    "perceptionsuperOrange": 175
+  },
+  "146": {
+    "level": 146,
+    "perceptionblue": 146,
+    "perceptionpurple": 146,
+    "perceptionorange": 146,
+    "perceptionflickerOrange": 161,
+    "perceptionsuperOrange": 176
+  },
+  "147": {
+    "level": 147,
+    "perceptionblue": 147,
+    "perceptionpurple": 147,
+    "perceptionorange": 147,
+    "perceptionflickerOrange": 162,
+    "perceptionsuperOrange": 177
+  },
+  "148": {
+    "level": 148,
+    "perceptionblue": 148,
+    "perceptionpurple": 148,
+    "perceptionorange": 148,
+    "perceptionflickerOrange": 163,
+    "perceptionsuperOrange": 178
+  },
+  "149": {
+    "level": 149,
+    "perceptionblue": 149,
+    "perceptionpurple": 149,
+    "perceptionorange": 149,
+    "perceptionflickerOrange": 164,
+    "perceptionsuperOrange": 179
+  },
+  "150": {
+    "level": 150,
+    "perceptionblue": 150,
+    "perceptionpurple": 150,
+    "perceptionorange": 150,
+    "perceptionflickerOrange": 165,
+    "perceptionsuperOrange": 180
+  },
+  "151": {
+    "level": 151,
+    "perceptionblue": 151,
+    "perceptionpurple": 151,
+    "perceptionorange": 151,
+    "perceptionflickerOrange": 166,
+    "perceptionsuperOrange": 181
+  },
+  "152": {
+    "level": 152,
+    "perceptionblue": 152,
+    "perceptionpurple": 152,
+    "perceptionorange": 152,
+    "perceptionflickerOrange": 167,
+    "perceptionsuperOrange": 182
+  },
+  "153": {
+    "level": 153,
+    "perceptionblue": 153,
+    "perceptionpurple": 153,
+    "perceptionorange": 153,
+    "perceptionflickerOrange": 168,
+    "perceptionsuperOrange": 183
+  },
+  "154": {
+    "level": 154,
+    "perceptionblue": 154,
+    "perceptionpurple": 154,
+    "perceptionorange": 154,
+    "perceptionflickerOrange": 169,
+    "perceptionsuperOrange": 184
+  },
+  "155": {
+    "level": 155,
+    "perceptionblue": 155,
+    "perceptionpurple": 155,
+    "perceptionorange": 155,
+    "perceptionflickerOrange": 170,
+    "perceptionsuperOrange": 185
+  },
+  "156": {
+    "level": 156,
+    "perceptionblue": 156,
+    "perceptionpurple": 156,
+    "perceptionorange": 156,
+    "perceptionflickerOrange": 171,
+    "perceptionsuperOrange": 186
+  },
+  "157": {
+    "level": 157,
+    "perceptionblue": 157,
+    "perceptionpurple": 157,
+    "perceptionorange": 157,
+    "perceptionflickerOrange": 172,
+    "perceptionsuperOrange": 187
+  },
+  "158": {
+    "level": 158,
+    "perceptionblue": 158,
+    "perceptionpurple": 158,
+    "perceptionorange": 158,
+    "perceptionflickerOrange": 173,
+    "perceptionsuperOrange": 188
+  },
+  "159": {
+    "level": 159,
+    "perceptionblue": 159,
+    "perceptionpurple": 159,
+    "perceptionorange": 159,
+    "perceptionflickerOrange": 174,
+    "perceptionsuperOrange": 189
+  },
+  "160": {
+    "level": 160,
+    "perceptionblue": 160,
+    "perceptionpurple": 160,
+    "perceptionorange": 160,
+    "perceptionflickerOrange": 175,
+    "perceptionsuperOrange": 190
+  },
+  "161": {
+    "level": 161,
+    "perceptionblue": 161,
+    "perceptionpurple": 161,
+    "perceptionorange": 161,
+    "perceptionflickerOrange": 176,
+    "perceptionsuperOrange": 191
+  },
+  "162": {
+    "level": 162,
+    "perceptionblue": 162,
+    "perceptionpurple": 162,
+    "perceptionorange": 162,
+    "perceptionflickerOrange": 177,
+    "perceptionsuperOrange": 192
+  },
+  "163": {
+    "level": 163,
+    "perceptionblue": 163,
+    "perceptionpurple": 163,
+    "perceptionorange": 163,
+    "perceptionflickerOrange": 178,
+    "perceptionsuperOrange": 193
+  },
+  "164": {
+    "level": 164,
+    "perceptionblue": 164,
+    "perceptionpurple": 164,
+    "perceptionorange": 164,
+    "perceptionflickerOrange": 179,
+    "perceptionsuperOrange": 194
+  },
+  "165": {
+    "level": 165,
+    "perceptionblue": 165,
+    "perceptionpurple": 165,
+    "perceptionorange": 165,
+    "perceptionflickerOrange": 180,
+    "perceptionsuperOrange": 195
+  },
+  "166": {
+    "level": 166,
+    "perceptionblue": 166,
+    "perceptionpurple": 166,
+    "perceptionorange": 166,
+    "perceptionflickerOrange": 181,
+    "perceptionsuperOrange": 196
+  },
+  "167": {
+    "level": 167,
+    "perceptionblue": 167,
+    "perceptionpurple": 167,
+    "perceptionorange": 167,
+    "perceptionflickerOrange": 182,
+    "perceptionsuperOrange": 197
+  },
+  "168": {
+    "level": 168,
+    "perceptionblue": 168,
+    "perceptionpurple": 168,
+    "perceptionorange": 168,
+    "perceptionflickerOrange": 183,
+    "perceptionsuperOrange": 198
+  },
+  "169": {
+    "level": 169,
+    "perceptionblue": 169,
+    "perceptionpurple": 169,
+    "perceptionorange": 169,
+    "perceptionflickerOrange": 184,
+    "perceptionsuperOrange": 199
+  },
+  "170": {
+    "level": 170,
+    "perceptionblue": 170,
+    "perceptionpurple": 170,
+    "perceptionorange": 170,
+    "perceptionflickerOrange": 185,
+    "perceptionsuperOrange": 200
+  },
+  "171": {
+    "level": 171,
+    "perceptionblue": 171,
+    "perceptionpurple": 171,
+    "perceptionorange": 171,
+    "perceptionflickerOrange": 186,
+    "perceptionsuperOrange": 201
+  },
+  "172": {
+    "level": 172,
+    "perceptionblue": 172,
+    "perceptionpurple": 172,
+    "perceptionorange": 172,
+    "perceptionflickerOrange": 187,
+    "perceptionsuperOrange": 202
+  },
+  "173": {
+    "level": 173,
+    "perceptionblue": 173,
+    "perceptionpurple": 173,
+    "perceptionorange": 173,
+    "perceptionflickerOrange": 188,
+    "perceptionsuperOrange": 203
+  },
+  "174": {
+    "level": 174,
+    "perceptionblue": 174,
+    "perceptionpurple": 174,
+    "perceptionorange": 174,
+    "perceptionflickerOrange": 189,
+    "perceptionsuperOrange": 204
+  },
+  "175": {
+    "level": 175,
+    "perceptionblue": 175,
+    "perceptionpurple": 175,
+    "perceptionorange": 175,
+    "perceptionflickerOrange": 190,
+    "perceptionsuperOrange": 205
+  },
+  "176": {
+    "level": 176,
+    "perceptionblue": 176,
+    "perceptionpurple": 176,
+    "perceptionorange": 176,
+    "perceptionflickerOrange": 191,
+    "perceptionsuperOrange": 206
+  },
+  "177": {
+    "level": 177,
+    "perceptionblue": 177,
+    "perceptionpurple": 177,
+    "perceptionorange": 177,
+    "perceptionflickerOrange": 192,
+    "perceptionsuperOrange": 207
+  },
+  "178": {
+    "level": 178,
+    "perceptionblue": 178,
+    "perceptionpurple": 178,
+    "perceptionorange": 178,
+    "perceptionflickerOrange": 193,
+    "perceptionsuperOrange": 208
+  },
+  "179": {
+    "level": 179,
+    "perceptionblue": 179,
+    "perceptionpurple": 179,
+    "perceptionorange": 179,
+    "perceptionflickerOrange": 194,
+    "perceptionsuperOrange": 209
+  },
+  "180": {
+    "level": 180,
+    "perceptionblue": 180,
+    "perceptionpurple": 180,
+    "perceptionorange": 180,
+    "perceptionflickerOrange": 195,
+    "perceptionsuperOrange": 210
+  },
+  "181": {
+    "level": 181,
+    "perceptionblue": 181,
+    "perceptionpurple": 181,
+    "perceptionorange": 181,
+    "perceptionflickerOrange": 196,
+    "perceptionsuperOrange": 211
+  },
+  "182": {
+    "level": 182,
+    "perceptionblue": 182,
+    "perceptionpurple": 182,
+    "perceptionorange": 182,
+    "perceptionflickerOrange": 197,
+    "perceptionsuperOrange": 212
+  },
+  "183": {
+    "level": 183,
+    "perceptionblue": 183,
+    "perceptionpurple": 183,
+    "perceptionorange": 183,
+    "perceptionflickerOrange": 198,
+    "perceptionsuperOrange": 213
+  },
+  "184": {
+    "level": 184,
+    "perceptionblue": 184,
+    "perceptionpurple": 184,
+    "perceptionorange": 184,
+    "perceptionflickerOrange": 199,
+    "perceptionsuperOrange": 214
+  },
+  "185": {
+    "level": 185,
+    "perceptionblue": 185,
+    "perceptionpurple": 185,
+    "perceptionorange": 185,
+    "perceptionflickerOrange": 200,
+    "perceptionsuperOrange": 215
+  },
+  "186": {
+    "level": 186,
+    "perceptionblue": 186,
+    "perceptionpurple": 186,
+    "perceptionorange": 186,
+    "perceptionflickerOrange": 201,
+    "perceptionsuperOrange": 216
+  },
+  "187": {
+    "level": 187,
+    "perceptionblue": 187,
+    "perceptionpurple": 187,
+    "perceptionorange": 187,
+    "perceptionflickerOrange": 202,
+    "perceptionsuperOrange": 217
+  },
+  "188": {
+    "level": 188,
+    "perceptionblue": 188,
+    "perceptionpurple": 188,
+    "perceptionorange": 188,
+    "perceptionflickerOrange": 203,
+    "perceptionsuperOrange": 218
+  },
+  "189": {
+    "level": 189,
+    "perceptionblue": 189,
+    "perceptionpurple": 189,
+    "perceptionorange": 189,
+    "perceptionflickerOrange": 204,
+    "perceptionsuperOrange": 219
+  },
+  "190": {
+    "level": 190,
+    "perceptionblue": 190,
+    "perceptionpurple": 190,
+    "perceptionorange": 190,
+    "perceptionflickerOrange": 205,
+    "perceptionsuperOrange": 220
+  },
+  "191": {
+    "level": 191,
+    "perceptionblue": 191,
+    "perceptionpurple": 191,
+    "perceptionorange": 191,
+    "perceptionflickerOrange": 206,
+    "perceptionsuperOrange": 221
+  },
+  "192": {
+    "level": 192,
+    "perceptionblue": 192,
+    "perceptionpurple": 192,
+    "perceptionorange": 192,
+    "perceptionflickerOrange": 207,
+    "perceptionsuperOrange": 222
+  },
+  "193": {
+    "level": 193,
+    "perceptionblue": 193,
+    "perceptionpurple": 193,
+    "perceptionorange": 193,
+    "perceptionflickerOrange": 208,
+    "perceptionsuperOrange": 223
+  },
+  "194": {
+    "level": 194,
+    "perceptionblue": 194,
+    "perceptionpurple": 194,
+    "perceptionorange": 194,
+    "perceptionflickerOrange": 209,
+    "perceptionsuperOrange": 224
+  },
+  "195": {
+    "level": 195,
+    "perceptionblue": 195,
+    "perceptionpurple": 195,
+    "perceptionorange": 195,
+    "perceptionflickerOrange": 210,
+    "perceptionsuperOrange": 225
+  },
+  "196": {
+    "level": 196,
+    "perceptionblue": 196,
+    "perceptionpurple": 196,
+    "perceptionorange": 196,
+    "perceptionflickerOrange": 211,
+    "perceptionsuperOrange": 226
+  },
+  "197": {
+    "level": 197,
+    "perceptionblue": 197,
+    "perceptionpurple": 197,
+    "perceptionorange": 197,
+    "perceptionflickerOrange": 212,
+    "perceptionsuperOrange": 227
+  },
+  "198": {
+    "level": 198,
+    "perceptionblue": 198,
+    "perceptionpurple": 198,
+    "perceptionorange": 198,
+    "perceptionflickerOrange": 213,
+    "perceptionsuperOrange": 228
+  },
+  "199": {
+    "level": 199,
+    "perceptionblue": 199,
+    "perceptionpurple": 199,
+    "perceptionorange": 199,
+    "perceptionflickerOrange": 214,
+    "perceptionsuperOrange": 229
+  },
+  "200": {
+    "level": 200,
+    "perceptionblue": 200,
+    "perceptionpurple": 200,
+    "perceptionorange": 200,
+    "perceptionflickerOrange": 215,
+    "perceptionsuperOrange": 230
+  },
+  "201": {
+    "level": 201,
+    "perceptionblue": 201,
+    "perceptionpurple": 201,
+    "perceptionorange": 201,
+    "perceptionflickerOrange": 216,
+    "perceptionsuperOrange": 231
+  },
+  "202": {
+    "level": 202,
+    "perceptionblue": 202,
+    "perceptionpurple": 202,
+    "perceptionorange": 202,
+    "perceptionflickerOrange": 217,
+    "perceptionsuperOrange": 232
+  },
+  "203": {
+    "level": 203,
+    "perceptionblue": 203,
+    "perceptionpurple": 203,
+    "perceptionorange": 203,
+    "perceptionflickerOrange": 218,
+    "perceptionsuperOrange": 233
+  },
+  "204": {
+    "level": 204,
+    "perceptionblue": 204,
+    "perceptionpurple": 204,
+    "perceptionorange": 204,
+    "perceptionflickerOrange": 219,
+    "perceptionsuperOrange": 234
+  },
+  "205": {
+    "level": 205,
+    "perceptionblue": 205,
+    "perceptionpurple": 205,
+    "perceptionorange": 205,
+    "perceptionflickerOrange": 220,
+    "perceptionsuperOrange": 235
+  },
+  "206": {
+    "level": 206,
+    "perceptionblue": 206,
+    "perceptionpurple": 206,
+    "perceptionorange": 206,
+    "perceptionflickerOrange": 221,
+    "perceptionsuperOrange": 236
+  },
+  "207": {
+    "level": 207,
+    "perceptionblue": 207,
+    "perceptionpurple": 207,
+    "perceptionorange": 207,
+    "perceptionflickerOrange": 222,
+    "perceptionsuperOrange": 237
+  },
+  "208": {
+    "level": 208,
+    "perceptionblue": 208,
+    "perceptionpurple": 208,
+    "perceptionorange": 208,
+    "perceptionflickerOrange": 223,
+    "perceptionsuperOrange": 238
+  },
+  "209": {
+    "level": 209,
+    "perceptionblue": 209,
+    "perceptionpurple": 209,
+    "perceptionorange": 209,
+    "perceptionflickerOrange": 224,
+    "perceptionsuperOrange": 239
+  },
+  "210": {
+    "level": 210,
+    "perceptionblue": 210,
+    "perceptionpurple": 210,
+    "perceptionorange": 210,
+    "perceptionflickerOrange": 225,
+    "perceptionsuperOrange": 240
+  },
+  "211": {
+    "level": 211,
+    "perceptionblue": 211,
+    "perceptionpurple": 211,
+    "perceptionorange": 211,
+    "perceptionflickerOrange": 226,
+    "perceptionsuperOrange": 241
+  },
+  "212": {
+    "level": 212,
+    "perceptionblue": 212,
+    "perceptionpurple": 212,
+    "perceptionorange": 212,
+    "perceptionflickerOrange": 227,
+    "perceptionsuperOrange": 242
+  },
+  "213": {
+    "level": 213,
+    "perceptionblue": 213,
+    "perceptionpurple": 213,
+    "perceptionorange": 213,
+    "perceptionflickerOrange": 228,
+    "perceptionsuperOrange": 243
+  },
+  "214": {
+    "level": 214,
+    "perceptionblue": 214,
+    "perceptionpurple": 214,
+    "perceptionorange": 214,
+    "perceptionflickerOrange": 229,
+    "perceptionsuperOrange": 244
+  },
+  "215": {
+    "level": 215,
+    "perceptionblue": 215,
+    "perceptionpurple": 215,
+    "perceptionorange": 215,
+    "perceptionflickerOrange": 230,
+    "perceptionsuperOrange": 245
+  },
+  "216": {
+    "level": 216,
+    "perceptionblue": 216,
+    "perceptionpurple": 216,
+    "perceptionorange": 216,
+    "perceptionflickerOrange": 231,
+    "perceptionsuperOrange": 246
+  },
+  "217": {
+    "level": 217,
+    "perceptionblue": 217,
+    "perceptionpurple": 217,
+    "perceptionorange": 217,
+    "perceptionflickerOrange": 232,
+    "perceptionsuperOrange": 247
+  },
+  "218": {
+    "level": 218,
+    "perceptionblue": 218,
+    "perceptionpurple": 218,
+    "perceptionorange": 218,
+    "perceptionflickerOrange": 233,
+    "perceptionsuperOrange": 248
+  },
+  "219": {
+    "level": 219,
+    "perceptionblue": 219,
+    "perceptionpurple": 219,
+    "perceptionorange": 219,
+    "perceptionflickerOrange": 234,
+    "perceptionsuperOrange": 249
+  },
+  "220": {
+    "level": 220,
+    "perceptionblue": 220,
+    "perceptionpurple": 220,
+    "perceptionorange": 220,
+    "perceptionflickerOrange": 235,
+    "perceptionsuperOrange": 250
+  },
+  "221": {
+    "level": 221,
+    "perceptionblue": 221,
+    "perceptionpurple": 221,
+    "perceptionorange": 221,
+    "perceptionflickerOrange": 236,
+    "perceptionsuperOrange": 251
+  },
+  "222": {
+    "level": 222,
+    "perceptionblue": 222,
+    "perceptionpurple": 222,
+    "perceptionorange": 222,
+    "perceptionflickerOrange": 237,
+    "perceptionsuperOrange": 252
+  },
+  "223": {
+    "level": 223,
+    "perceptionblue": 223,
+    "perceptionpurple": 223,
+    "perceptionorange": 223,
+    "perceptionflickerOrange": 238,
+    "perceptionsuperOrange": 253
+  },
+  "224": {
+    "level": 224,
+    "perceptionblue": 224,
+    "perceptionpurple": 224,
+    "perceptionorange": 224,
+    "perceptionflickerOrange": 239,
+    "perceptionsuperOrange": 254
+  },
+  "225": {
+    "level": 225,
+    "perceptionblue": 225,
+    "perceptionpurple": 225,
+    "perceptionorange": 225,
+    "perceptionflickerOrange": 240,
+    "perceptionsuperOrange": 255
+  },
+  "226": {
+    "level": 226,
+    "perceptionblue": 226,
+    "perceptionpurple": 226,
+    "perceptionorange": 226,
+    "perceptionflickerOrange": 241,
+    "perceptionsuperOrange": 256
+  },
+  "227": {
+    "level": 227,
+    "perceptionblue": 227,
+    "perceptionpurple": 227,
+    "perceptionorange": 227,
+    "perceptionflickerOrange": 242,
+    "perceptionsuperOrange": 257
+  },
+  "228": {
+    "level": 228,
+    "perceptionblue": 228,
+    "perceptionpurple": 228,
+    "perceptionorange": 228,
+    "perceptionflickerOrange": 243,
+    "perceptionsuperOrange": 258
+  },
+  "229": {
+    "level": 229,
+    "perceptionblue": 229,
+    "perceptionpurple": 229,
+    "perceptionorange": 229,
+    "perceptionflickerOrange": 244,
+    "perceptionsuperOrange": 259
+  },
+  "230": {
+    "level": 230,
+    "perceptionblue": 230,
+    "perceptionpurple": 230,
+    "perceptionorange": 230,
+    "perceptionflickerOrange": 245,
+    "perceptionsuperOrange": 260
+  },
+  "231": {
+    "level": 231,
+    "perceptionblue": 231,
+    "perceptionpurple": 231,
+    "perceptionorange": 231,
+    "perceptionflickerOrange": 246,
+    "perceptionsuperOrange": 261
+  },
+  "232": {
+    "level": 232,
+    "perceptionblue": 232,
+    "perceptionpurple": 232,
+    "perceptionorange": 232,
+    "perceptionflickerOrange": 247,
+    "perceptionsuperOrange": 262
+  },
+  "233": {
+    "level": 233,
+    "perceptionblue": 233,
+    "perceptionpurple": 233,
+    "perceptionorange": 233,
+    "perceptionflickerOrange": 248,
+    "perceptionsuperOrange": 263
+  },
+  "234": {
+    "level": 234,
+    "perceptionblue": 234,
+    "perceptionpurple": 234,
+    "perceptionorange": 234,
+    "perceptionflickerOrange": 249,
+    "perceptionsuperOrange": 264
+  },
+  "235": {
+    "level": 235,
+    "perceptionblue": 235,
+    "perceptionpurple": 235,
+    "perceptionorange": 235,
+    "perceptionflickerOrange": 250,
+    "perceptionsuperOrange": 265
+  },
+  "236": {
+    "level": 236,
+    "perceptionblue": 236,
+    "perceptionpurple": 236,
+    "perceptionorange": 236,
+    "perceptionflickerOrange": 251,
+    "perceptionsuperOrange": 266
+  },
+  "237": {
+    "level": 237,
+    "perceptionblue": 237,
+    "perceptionpurple": 237,
+    "perceptionorange": 237,
+    "perceptionflickerOrange": 252,
+    "perceptionsuperOrange": 267
+  },
+  "238": {
+    "level": 238,
+    "perceptionblue": 238,
+    "perceptionpurple": 238,
+    "perceptionorange": 238,
+    "perceptionflickerOrange": 253,
+    "perceptionsuperOrange": 268
+  },
+  "239": {
+    "level": 239,
+    "perceptionblue": 239,
+    "perceptionpurple": 239,
+    "perceptionorange": 239,
+    "perceptionflickerOrange": 254,
+    "perceptionsuperOrange": 269
+  },
+  "240": {
+    "level": 240,
+    "perceptionblue": 240,
+    "perceptionpurple": 240,
+    "perceptionorange": 240,
+    "perceptionflickerOrange": 255,
+    "perceptionsuperOrange": 270
+  },
+  "241": {
+    "level": 241,
+    "perceptionblue": 241,
+    "perceptionpurple": 241,
+    "perceptionorange": 241,
+    "perceptionflickerOrange": 256,
+    "perceptionsuperOrange": 271
+  },
+  "242": {
+    "level": 242,
+    "perceptionblue": 242,
+    "perceptionpurple": 242,
+    "perceptionorange": 242,
+    "perceptionflickerOrange": 257,
+    "perceptionsuperOrange": 272
+  },
+  "243": {
+    "level": 243,
+    "perceptionblue": 243,
+    "perceptionpurple": 243,
+    "perceptionorange": 243,
+    "perceptionflickerOrange": 258,
+    "perceptionsuperOrange": 273
+  },
+  "244": {
+    "level": 244,
+    "perceptionblue": 244,
+    "perceptionpurple": 244,
+    "perceptionorange": 244,
+    "perceptionflickerOrange": 259,
+    "perceptionsuperOrange": 274
+  },
+  "245": {
+    "level": 245,
+    "perceptionblue": 245,
+    "perceptionpurple": 245,
+    "perceptionorange": 245,
+    "perceptionflickerOrange": 260,
+    "perceptionsuperOrange": 275
+  },
+  "246": {
+    "level": 246,
+    "perceptionblue": 246,
+    "perceptionpurple": 246,
+    "perceptionorange": 246,
+    "perceptionflickerOrange": 261,
+    "perceptionsuperOrange": 276
+  },
+  "247": {
+    "level": 247,
+    "perceptionblue": 247,
+    "perceptionpurple": 247,
+    "perceptionorange": 247,
+    "perceptionflickerOrange": 262,
+    "perceptionsuperOrange": 277
+  },
+  "248": {
+    "level": 248,
+    "perceptionblue": 248,
+    "perceptionpurple": 248,
+    "perceptionorange": 248,
+    "perceptionflickerOrange": 263,
+    "perceptionsuperOrange": 278
+  },
+  "249": {
+    "level": 249,
+    "perceptionblue": 249,
+    "perceptionpurple": 249,
+    "perceptionorange": 249,
+    "perceptionflickerOrange": 264,
+    "perceptionsuperOrange": 279
+  },
+  "250": {
+    "level": 250,
+    "perceptionblue": 250,
+    "perceptionpurple": 250,
+    "perceptionorange": 250,
+    "perceptionflickerOrange": 265,
+    "perceptionsuperOrange": 280
+  },
+  "251": {
+    "level": 251,
+    "perceptionblue": 251,
+    "perceptionpurple": 251,
+    "perceptionorange": 251,
+    "perceptionflickerOrange": 266,
+    "perceptionsuperOrange": 281
+  },
+  "252": {
+    "level": 252,
+    "perceptionblue": 252,
+    "perceptionpurple": 252,
+    "perceptionorange": 252,
+    "perceptionflickerOrange": 267,
+    "perceptionsuperOrange": 282
+  },
+  "253": {
+    "level": 253,
+    "perceptionblue": 253,
+    "perceptionpurple": 253,
+    "perceptionorange": 253,
+    "perceptionflickerOrange": 268,
+    "perceptionsuperOrange": 283
+  },
+  "254": {
+    "level": 254,
+    "perceptionblue": 254,
+    "perceptionpurple": 254,
+    "perceptionorange": 254,
+    "perceptionflickerOrange": 269,
+    "perceptionsuperOrange": 284
+  },
+  "255": {
+    "level": 255,
+    "perceptionblue": 255,
+    "perceptionpurple": 255,
+    "perceptionorange": 255,
+    "perceptionflickerOrange": 270,
+    "perceptionsuperOrange": 285
+  },
+  "256": {
+    "level": 256,
+    "perceptionblue": 256,
+    "perceptionpurple": 256,
+    "perceptionorange": 256,
+    "perceptionflickerOrange": 271,
+    "perceptionsuperOrange": 286
+  },
+  "257": {
+    "level": 257,
+    "perceptionblue": 257,
+    "perceptionpurple": 257,
+    "perceptionorange": 257,
+    "perceptionflickerOrange": 272,
+    "perceptionsuperOrange": 287
+  },
+  "258": {
+    "level": 258,
+    "perceptionblue": 258,
+    "perceptionpurple": 258,
+    "perceptionorange": 258,
+    "perceptionflickerOrange": 273,
+    "perceptionsuperOrange": 288
+  },
+  "259": {
+    "level": 259,
+    "perceptionblue": 259,
+    "perceptionpurple": 259,
+    "perceptionorange": 259,
+    "perceptionflickerOrange": 274,
+    "perceptionsuperOrange": 289
+  },
+  "260": {
+    "level": 260,
+    "perceptionblue": 260,
+    "perceptionpurple": 260,
+    "perceptionorange": 260,
+    "perceptionflickerOrange": 275,
+    "perceptionsuperOrange": 290
+  },
+  "261": {
+    "level": 261,
+    "perceptionblue": 261,
+    "perceptionpurple": 261,
+    "perceptionorange": 261,
+    "perceptionflickerOrange": 276,
+    "perceptionsuperOrange": 291
+  },
+  "262": {
+    "level": 262,
+    "perceptionblue": 262,
+    "perceptionpurple": 262,
+    "perceptionorange": 262,
+    "perceptionflickerOrange": 277,
+    "perceptionsuperOrange": 292
+  },
+  "263": {
+    "level": 263,
+    "perceptionblue": 263,
+    "perceptionpurple": 263,
+    "perceptionorange": 263,
+    "perceptionflickerOrange": 278,
+    "perceptionsuperOrange": 293
+  },
+  "264": {
+    "level": 264,
+    "perceptionblue": 264,
+    "perceptionpurple": 264,
+    "perceptionorange": 264,
+    "perceptionflickerOrange": 279,
+    "perceptionsuperOrange": 294
+  },
+  "265": {
+    "level": 265,
+    "perceptionblue": 265,
+    "perceptionpurple": 265,
+    "perceptionorange": 265,
+    "perceptionflickerOrange": 280,
+    "perceptionsuperOrange": 295
+  },
+  "266": {
+    "level": 266,
+    "perceptionblue": 266,
+    "perceptionpurple": 266,
+    "perceptionorange": 266,
+    "perceptionflickerOrange": 281,
+    "perceptionsuperOrange": 296
+  },
+  "267": {
+    "level": 267,
+    "perceptionblue": 267,
+    "perceptionpurple": 267,
+    "perceptionorange": 267,
+    "perceptionflickerOrange": 282,
+    "perceptionsuperOrange": 297
+  },
+  "268": {
+    "level": 268,
+    "perceptionblue": 268,
+    "perceptionpurple": 268,
+    "perceptionorange": 268,
+    "perceptionflickerOrange": 283,
+    "perceptionsuperOrange": 298
+  },
+  "269": {
+    "level": 269,
+    "perceptionblue": 269,
+    "perceptionpurple": 269,
+    "perceptionorange": 269,
+    "perceptionflickerOrange": 284,
+    "perceptionsuperOrange": 299
+  },
+  "270": {
+    "level": 270,
+    "perceptionblue": 270,
+    "perceptionpurple": 270,
+    "perceptionorange": 270,
+    "perceptionflickerOrange": 285,
+    "perceptionsuperOrange": 300
+  },
+  "271": {
+    "level": 271,
+    "perceptionblue": 271,
+    "perceptionpurple": 271,
+    "perceptionorange": 271,
+    "perceptionflickerOrange": 286,
+    "perceptionsuperOrange": 301
+  },
+  "272": {
+    "level": 272,
+    "perceptionblue": 272,
+    "perceptionpurple": 272,
+    "perceptionorange": 272,
+    "perceptionflickerOrange": 287,
+    "perceptionsuperOrange": 302
+  },
+  "273": {
+    "level": 273,
+    "perceptionblue": 273,
+    "perceptionpurple": 273,
+    "perceptionorange": 273,
+    "perceptionflickerOrange": 288,
+    "perceptionsuperOrange": 303
+  },
+  "274": {
+    "level": 274,
+    "perceptionblue": 274,
+    "perceptionpurple": 274,
+    "perceptionorange": 274,
+    "perceptionflickerOrange": 289,
+    "perceptionsuperOrange": 304
+  },
+  "275": {
+    "level": 275,
+    "perceptionblue": 275,
+    "perceptionpurple": 275,
+    "perceptionorange": 275,
+    "perceptionflickerOrange": 290,
+    "perceptionsuperOrange": 305
+  },
+  "276": {
+    "level": 276,
+    "perceptionblue": 276,
+    "perceptionpurple": 276,
+    "perceptionorange": 276,
+    "perceptionflickerOrange": 291,
+    "perceptionsuperOrange": 306
+  },
+  "277": {
+    "level": 277,
+    "perceptionblue": 277,
+    "perceptionpurple": 277,
+    "perceptionorange": 277,
+    "perceptionflickerOrange": 292,
+    "perceptionsuperOrange": 307
+  },
+  "278": {
+    "level": 278,
+    "perceptionblue": 278,
+    "perceptionpurple": 278,
+    "perceptionorange": 278,
+    "perceptionflickerOrange": 293,
+    "perceptionsuperOrange": 308
+  },
+  "279": {
+    "level": 279,
+    "perceptionblue": 279,
+    "perceptionpurple": 279,
+    "perceptionorange": 279,
+    "perceptionflickerOrange": 294,
+    "perceptionsuperOrange": 309
+  },
+  "280": {
+    "level": 280,
+    "perceptionblue": 280,
+    "perceptionpurple": 280,
+    "perceptionorange": 280,
+    "perceptionflickerOrange": 295,
+    "perceptionsuperOrange": 310
+  },
+  "281": {
+    "level": 281,
+    "perceptionblue": 281,
+    "perceptionpurple": 281,
+    "perceptionorange": 281,
+    "perceptionflickerOrange": 296,
+    "perceptionsuperOrange": 311
+  },
+  "282": {
+    "level": 282,
+    "perceptionblue": 282,
+    "perceptionpurple": 282,
+    "perceptionorange": 282,
+    "perceptionflickerOrange": 297,
+    "perceptionsuperOrange": 312
+  },
+  "283": {
+    "level": 283,
+    "perceptionblue": 283,
+    "perceptionpurple": 283,
+    "perceptionorange": 283,
+    "perceptionflickerOrange": 298,
+    "perceptionsuperOrange": 313
+  },
+  "284": {
+    "level": 284,
+    "perceptionblue": 284,
+    "perceptionpurple": 284,
+    "perceptionorange": 284,
+    "perceptionflickerOrange": 299,
+    "perceptionsuperOrange": 314
+  },
+  "285": {
+    "level": 285,
+    "perceptionblue": 285,
+    "perceptionpurple": 285,
+    "perceptionorange": 285,
+    "perceptionflickerOrange": 300,
+    "perceptionsuperOrange": 315
+  },
+  "286": {
+    "level": 286,
+    "perceptionblue": 286,
+    "perceptionpurple": 286,
+    "perceptionorange": 286,
+    "perceptionflickerOrange": 301,
+    "perceptionsuperOrange": 316
+  },
+  "287": {
+    "level": 287,
+    "perceptionblue": 287,
+    "perceptionpurple": 287,
+    "perceptionorange": 287,
+    "perceptionflickerOrange": 302,
+    "perceptionsuperOrange": 317
+  },
+  "288": {
+    "level": 288,
+    "perceptionblue": 288,
+    "perceptionpurple": 288,
+    "perceptionorange": 288,
+    "perceptionflickerOrange": 303,
+    "perceptionsuperOrange": 318
+  },
+  "289": {
+    "level": 289,
+    "perceptionblue": 289,
+    "perceptionpurple": 289,
+    "perceptionorange": 289,
+    "perceptionflickerOrange": 304,
+    "perceptionsuperOrange": 319
+  },
+  "290": {
+    "level": 290,
+    "perceptionblue": 290,
+    "perceptionpurple": 290,
+    "perceptionorange": 290,
+    "perceptionflickerOrange": 305,
+    "perceptionsuperOrange": 320
+  },
+  "291": {
+    "level": 291,
+    "perceptionblue": 291,
+    "perceptionpurple": 291,
+    "perceptionorange": 291,
+    "perceptionflickerOrange": 306,
+    "perceptionsuperOrange": 321
+  },
+  "292": {
+    "level": 292,
+    "perceptionblue": 292,
+    "perceptionpurple": 292,
+    "perceptionorange": 292,
+    "perceptionflickerOrange": 307,
+    "perceptionsuperOrange": 322
+  },
+  "293": {
+    "level": 293,
+    "perceptionblue": 293,
+    "perceptionpurple": 293,
+    "perceptionorange": 293,
+    "perceptionflickerOrange": 308,
+    "perceptionsuperOrange": 323
+  },
+  "294": {
+    "level": 294,
+    "perceptionblue": 294,
+    "perceptionpurple": 294,
+    "perceptionorange": 294,
+    "perceptionflickerOrange": 309,
+    "perceptionsuperOrange": 324
+  },
+  "295": {
+    "level": 295,
+    "perceptionblue": 295,
+    "perceptionpurple": 295,
+    "perceptionorange": 295,
+    "perceptionflickerOrange": 310,
+    "perceptionsuperOrange": 325
+  },
+  "296": {
+    "level": 296,
+    "perceptionblue": 296,
+    "perceptionpurple": 296,
+    "perceptionorange": 296,
+    "perceptionflickerOrange": 311,
+    "perceptionsuperOrange": 326
+  },
+  "297": {
+    "level": 297,
+    "perceptionblue": 297,
+    "perceptionpurple": 297,
+    "perceptionorange": 297,
+    "perceptionflickerOrange": 312,
+    "perceptionsuperOrange": 327
+  },
+  "298": {
+    "level": 298,
+    "perceptionblue": 298,
+    "perceptionpurple": 298,
+    "perceptionorange": 298,
+    "perceptionflickerOrange": 313,
+    "perceptionsuperOrange": 328
+  },
+  "299": {
+    "level": 299,
+    "perceptionblue": 299,
+    "perceptionpurple": 299,
+    "perceptionorange": 299,
+    "perceptionflickerOrange": 314,
+    "perceptionsuperOrange": 329
+  },
+  "300": {
+    "level": 300,
+    "perceptionblue": 300,
+    "perceptionpurple": 300,
+    "perceptionorange": 300,
+    "perceptionflickerOrange": 315,
+    "perceptionsuperOrange": 330
+  }
+}

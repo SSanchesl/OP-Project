@@ -1,0 +1,30 @@
+{
+  "attack": {
+    "id": "attack",
+    "picture": "domineering_0007_png"
+  },
+  "hp": {
+    "id": "hp",
+    "picture": "domineering_0006_png"
+  },
+  "critical": {
+    "id": "critical",
+    "picture": "domineering_0005_png"
+  },
+  "doubleHitNormalChance": {
+    "id": "doubleHitNormalChance",
+    "picture": "domineering_0004_png"
+  },
+  "hpPercent": {
+    "id": "hpPercent",
+    "picture": "domineering_0003_png"
+  },
+  "damageReduce": {
+    "id": "damageReduce",
+    "picture": "domineering_0002_png"
+  },
+  "attackPercent": {
+    "id": "attackPercent",
+    "picture": "domineering_0001_png"
+  }
+}

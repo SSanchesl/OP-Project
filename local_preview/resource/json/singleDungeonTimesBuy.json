@@ -1,0 +1,44 @@
+{
+  "1": {
+    "id": 1,
+    "costID": 101,
+    "price": 200,
+    "vipNeeded": 2
+  },
+  "2": {
+    "id": 2,
+    "costID": 101,
+    "price": 240,
+    "vipNeeded": 4
+  },
+  "3": {
+    "id": 3,
+    "costID": 101,
+    "price": 280,
+    "vipNeeded": 7
+  },
+  "4": {
+    "id": 4,
+    "costID": 101,
+    "price": 320,
+    "vipNeeded": 10
+  },
+  "5": {
+    "id": 5,
+    "costID": 101,
+    "price": 360,
+    "vipNeeded": 12
+  },
+  "6": {
+    "id": 6,
+    "costID": 101,
+    "price": 400,
+    "vipNeeded": 14
+  },
+  "7": {
+    "id": 7,
+    "costID": 101,
+    "price": 400,
+    "vipNeeded": 16
+  }
+}

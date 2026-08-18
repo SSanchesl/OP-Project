@@ -1,0 +1,42 @@
+{
+  "1": {
+    "id": 1,
+    "breakType": "break_treat"
+  },
+  "2": {
+    "id": 2,
+    "breakType": "break_body"
+  },
+  "3": {
+    "id": 3,
+    "breakType": "break_bodyDamage"
+  },
+  "4": {
+    "id": 4,
+    "breakType": "break_dodge"
+  },
+  "5": {
+    "id": 5,
+    "breakType": "break_block"
+  },
+  "6": {
+    "id": 6,
+    "breakType": "break_doubleHit"
+  },
+  "7": {
+    "id": 7,
+    "breakType": "break_critical"
+  },
+  "8": {
+    "id": 8,
+    "breakType": "break_strength"
+  },
+  "9": {
+    "id": 9,
+    "breakType": "break_support"
+  },
+  "10": {
+    "id": 10,
+    "breakType": "break_criticalDot"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "1": {
+    "id": 1,
+    "type": "turtle",
+    "smallIcon": "kbjinhua_13_png"
+  },
+  "2": {
+    "id": 2,
+    "type": "god",
+    "smallIcon": "kbjinhua_12_png"
+  },
+  "3": {
+    "id": 3,
+    "type": "demon",
+    "smallIcon": "kbjinhua_11_png"
+  },
+  "4": {
+    "id": 4,
+    "type": "world",
+    "smallIcon": "kbjinhua_14_png"
+  },
+  "5": {
+    "id": 5,
+    "type": "wu",
+    "smallIcon": "kbjinhua_9_png"
+  },
+  "6": {
+    "id": 6,
+    "type": "all",
+    "smallIcon": "kbjinhua_10_png"
+  }
+}

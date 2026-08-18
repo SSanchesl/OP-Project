@@ -1,0 +1,697 @@
+{
+  "1": {
+    "ID": 1,
+    "levelOfUser": 35,
+    "levelOfEnermy": 35
+  },
+  "2": {
+    "ID": 2,
+    "levelOfUser": 40,
+    "levelOfEnermy": 45
+  },
+  "3": {
+    "ID": 3,
+    "levelOfUser": 45,
+    "levelOfEnermy": 50
+  },
+  "4": {
+    "ID": 4,
+    "levelOfUser": 50,
+    "levelOfEnermy": 55
+  },
+  "5": {
+    "ID": 5,
+    "levelOfUser": 55,
+    "levelOfEnermy": 60
+  },
+  "6": {
+    "ID": 6,
+    "levelOfUser": 60,
+    "levelOfEnermy": 65
+  },
+  "7": {
+    "ID": 7,
+    "levelOfUser": 65,
+    "levelOfEnermy": 70
+  },
+  "8": {
+    "ID": 8,
+    "levelOfUser": 70,
+    "levelOfEnermy": 75
+  },
+  "9": {
+    "ID": 9,
+    "levelOfUser": 75,
+    "levelOfEnermy": 80
+  },
+  "10": {
+    "ID": 10,
+    "levelOfUser": 80,
+    "levelOfEnermy": 85
+  },
+  "11": {
+    "ID": 11,
+    "levelOfUser": 85,
+    "levelOfEnermy": 90
+  },
+  "12": {
+    "ID": 12,
+    "levelOfUser": 90,
+    "levelOfEnermy": 95
+  },
+  "13": {
+    "ID": 13,
+    "levelOfUser": 95,
+    "levelOfEnermy": 100
+  },
+  "14": {
+    "ID": 14,
+    "levelOfUser": 100,
+    "levelOfEnermy": 105
+  },
+  "15": {
+    "ID": 15,
+    "levelOfUser": 102,
+    "levelOfEnermy": 110
+  },
+  "16": {
+    "ID": 16,
+    "levelOfUser": 104,
+    "levelOfEnermy": 115
+  },
+  "17": {
+    "ID": 17,
+    "levelOfUser": 106,
+    "levelOfEnermy": 120
+  },
+  "18": {
+    "ID": 18,
+    "levelOfUser": 108,
+    "levelOfEnermy": 125
+  },
+  "19": {
+    "ID": 19,
+    "levelOfUser": 110,
+    "levelOfEnermy": 130
+  },
+  "20": {
+    "ID": 20,
+    "levelOfUser": 112,
+    "levelOfEnermy": 135
+  },
+  "21": {
+    "ID": 21,
+    "levelOfUser": 114,
+    "levelOfEnermy": 140
+  },
+  "22": {
+    "ID": 22,
+    "levelOfUser": 116,
+    "levelOfEnermy": 145
+  },
+  "23": {
+    "ID": 23,
+    "levelOfUser": 118,
+    "levelOfEnermy": 150
+  },
+  "24": {
+    "ID": 24,
+    "levelOfUser": 120,
+    "levelOfEnermy": 155
+  },
+  "25": {
+    "ID": 25,
+    "levelOfUser": 122,
+    "levelOfEnermy": 160
+  },
+  "26": {
+    "ID": 26,
+    "levelOfUser": 124,
+    "levelOfEnermy": 165
+  },
+  "27": {
+    "ID": 27,
+    "levelOfUser": 126,
+    "levelOfEnermy": 170
+  },
+  "28": {
+    "ID": 28,
+    "levelOfUser": 128,
+    "levelOfEnermy": 171
+  },
+  "29": {
+    "ID": 29,
+    "levelOfUser": 130,
+    "levelOfEnermy": 172
+  },
+  "30": {
+    "ID": 30,
+    "levelOfUser": 132,
+    "levelOfEnermy": 173
+  },
+  "31": {
+    "ID": 31,
+    "levelOfUser": 134,
+    "levelOfEnermy": 174
+  },
+  "32": {
+    "ID": 32,
+    "levelOfUser": 136,
+    "levelOfEnermy": 175
+  },
+  "33": {
+    "ID": 33,
+    "levelOfUser": 138,
+    "levelOfEnermy": 176
+  },
+  "34": {
+    "ID": 34,
+    "levelOfUser": 140,
+    "levelOfEnermy": 177
+  },
+  "35": {
+    "ID": 35,
+    "levelOfUser": 142,
+    "levelOfEnermy": 178
+  },
+  "36": {
+    "ID": 36,
+    "levelOfUser": 144,
+    "levelOfEnermy": 179
+  },
+  "37": {
+    "ID": 37,
+    "levelOfUser": 146,
+    "levelOfEnermy": 180
+  },
+  "38": {
+    "ID": 38,
+    "levelOfUser": 148,
+    "levelOfEnermy": 181
+  },
+  "39": {
+    "ID": 39,
+    "levelOfUser": 150,
+    "levelOfEnermy": 182
+  },
+  "40": {
+    "ID": 40,
+    "levelOfUser": 151,
+    "levelOfEnermy": 183
+  },
+  "41": {
+    "ID": 41,
+    "levelOfUser": 152,
+    "levelOfEnermy": 184
+  },
+  "42": {
+    "ID": 42,
+    "levelOfUser": 153,
+    "levelOfEnermy": 185
+  },
+  "43": {
+    "ID": 43,
+    "levelOfUser": 154,
+    "levelOfEnermy": 186
+  },
+  "44": {
+    "ID": 44,
+    "levelOfUser": 155,
+    "levelOfEnermy": 187
+  },
+  "45": {
+    "ID": 45,
+    "levelOfUser": 156,
+    "levelOfEnermy": 188
+  },
+  "46": {
+    "ID": 46,
+    "levelOfUser": 157,
+    "levelOfEnermy": 189
+  },
+  "47": {
+    "ID": 47,
+    "levelOfUser": 158,
+    "levelOfEnermy": 190
+  },
+  "48": {
+    "ID": 48,
+    "levelOfUser": 159,
+    "levelOfEnermy": 191
+  },
+  "49": {
+    "ID": 49,
+    "levelOfUser": 160,
+    "levelOfEnermy": 192
+  },
+  "50": {
+    "ID": 50,
+    "levelOfUser": 161,
+    "levelOfEnermy": 193
+  },
+  "51": {
+    "ID": 51,
+    "levelOfUser": 162,
+    "levelOfEnermy": 194
+  },
+  "52": {
+    "ID": 52,
+    "levelOfUser": 163,
+    "levelOfEnermy": 195
+  },
+  "53": {
+    "ID": 53,
+    "levelOfUser": 164,
+    "levelOfEnermy": 196
+  },
+  "54": {
+    "ID": 54,
+    "levelOfUser": 165,
+    "levelOfEnermy": 197
+  },
+  "55": {
+    "ID": 55,
+    "levelOfUser": 166,
+    "levelOfEnermy": 198
+  },
+  "56": {
+    "ID": 56,
+    "levelOfUser": 167,
+    "levelOfEnermy": 199
+  },
+  "57": {
+    "ID": 57,
+    "levelOfUser": 168,
+    "levelOfEnermy": 200
+  },
+  "58": {
+    "ID": 58,
+    "levelOfUser": 169,
+    "levelOfEnermy": 200
+  },
+  "59": {
+    "ID": 59,
+    "levelOfUser": 170,
+    "levelOfEnermy": 201
+  },
+  "60": {
+    "ID": 60,
+    "levelOfUser": 171,
+    "levelOfEnermy": 201
+  },
+  "61": {
+    "ID": 61,
+    "levelOfUser": 172,
+    "levelOfEnermy": 202
+  },
+  "62": {
+    "ID": 62,
+    "levelOfUser": 173,
+    "levelOfEnermy": 202
+  },
+  "63": {
+    "ID": 63,
+    "levelOfUser": 174,
+    "levelOfEnermy": 203
+  },
+  "64": {
+    "ID": 64,
+    "levelOfUser": 175,
+    "levelOfEnermy": 203
+  },
+  "65": {
+    "ID": 65,
+    "levelOfUser": 176,
+    "levelOfEnermy": 204
+  },
+  "66": {
+    "ID": 66,
+    "levelOfUser": 177,
+    "levelOfEnermy": 204
+  },
+  "67": {
+    "ID": 67,
+    "levelOfUser": 178,
+    "levelOfEnermy": 205
+  },
+  "68": {
+    "ID": 68,
+    "levelOfUser": 179,
+    "levelOfEnermy": 205
+  },
+  "69": {
+    "ID": 69,
+    "levelOfUser": 180,
+    "levelOfEnermy": 206
+  },
+  "70": {
+    "ID": 70,
+    "levelOfUser": 181,
+    "levelOfEnermy": 206
+  },
+  "71": {
+    "ID": 71,
+    "levelOfUser": 182,
+    "levelOfEnermy": 207
+  },
+  "72": {
+    "ID": 72,
+    "levelOfUser": 183,
+    "levelOfEnermy": 207
+  },
+  "73": {
+    "ID": 73,
+    "levelOfUser": 184,
+    "levelOfEnermy": 208
+  },
+  "74": {
+    "ID": 74,
+    "levelOfUser": 185,
+    "levelOfEnermy": 208
+  },
+  "75": {
+    "ID": 75,
+    "levelOfUser": 186,
+    "levelOfEnermy": 209
+  },
+  "76": {
+    "ID": 76,
+    "levelOfUser": 187,
+    "levelOfEnermy": 209
+  },
+  "77": {
+    "ID": 77,
+    "levelOfUser": 188,
+    "levelOfEnermy": 210
+  },
+  "78": {
+    "ID": 78,
+    "levelOfUser": 189,
+    "levelOfEnermy": 210
+  },
+  "79": {
+    "ID": 79,
+    "levelOfUser": 190,
+    "levelOfEnermy": 210
+  },
+  "80": {
+    "ID": 80,
+    "levelOfUser": 191,
+    "levelOfEnermy": 211
+  },
+  "81": {
+    "ID": 81,
+    "levelOfUser": 192,
+    "levelOfEnermy": 211
+  },
+  "82": {
+    "ID": 82,
+    "levelOfUser": 193,
+    "levelOfEnermy": 211
+  },
+  "83": {
+    "ID": 83,
+    "levelOfUser": 194,
+    "levelOfEnermy": 212
+  },
+  "84": {
+    "ID": 84,
+    "levelOfUser": 195,
+    "levelOfEnermy": 212
+  },
+  "85": {
+    "ID": 85,
+    "levelOfUser": 196,
+    "levelOfEnermy": 212
+  },
+  "86": {
+    "ID": 86,
+    "levelOfUser": 197,
+    "levelOfEnermy": 213
+  },
+  "87": {
+    "ID": 87,
+    "levelOfUser": 198,
+    "levelOfEnermy": 213
+  },
+  "88": {
+    "ID": 88,
+    "levelOfUser": 199,
+    "levelOfEnermy": 213
+  },
+  "89": {
+    "ID": 89,
+    "levelOfUser": 200,
+    "levelOfEnermy": 214
+  },
+  "90": {
+    "ID": 90,
+    "levelOfUser": 201,
+    "levelOfEnermy": 214
+  },
+  "91": {
+    "ID": 91,
+    "levelOfUser": 202,
+    "levelOfEnermy": 214
+  },
+  "92": {
+    "ID": 92,
+    "levelOfUser": 203,
+    "levelOfEnermy": 215
+  },
+  "93": {
+    "ID": 93,
+    "levelOfUser": 204,
+    "levelOfEnermy": 215
+  },
+  "94": {
+    "ID": 94,
+    "levelOfUser": 205,
+    "levelOfEnermy": 215
+  },
+  "95": {
+    "ID": 95,
+    "levelOfUser": 206,
+    "levelOfEnermy": 216
+  },
+  "96": {
+    "ID": 96,
+    "levelOfUser": 207,
+    "levelOfEnermy": 216
+  },
+  "97": {
+    "ID": 97,
+    "levelOfUser": 208,
+    "levelOfEnermy": 216
+  },
+  "98": {
+    "ID": 98,
+    "levelOfUser": 209,
+    "levelOfEnermy": 217
+  },
+  "99": {
+    "ID": 99,
+    "levelOfUser": 210,
+    "levelOfEnermy": 217
+  },
+  "100": {
+    "ID": 100,
+    "levelOfUser": 211,
+    "levelOfEnermy": 217
+  },
+  "101": {
+    "ID": 101,
+    "levelOfUser": 212,
+    "levelOfEnermy": 218
+  },
+  "102": {
+    "ID": 102,
+    "levelOfUser": 213,
+    "levelOfEnermy": 218
+  },
+  "103": {
+    "ID": 103,
+    "levelOfUser": 214,
+    "levelOfEnermy": 218
+  },
+  "104": {
+    "ID": 104,
+    "levelOfUser": 215,
+    "levelOfEnermy": 219
+  },
+  "105": {
+    "ID": 105,
+    "levelOfUser": 216,
+    "levelOfEnermy": 219
+  },
+  "106": {
+    "ID": 106,
+    "levelOfUser": 217,
+    "levelOfEnermy": 219
+  },
+  "107": {
+    "ID": 107,
+    "levelOfUser": 218,
+    "levelOfEnermy": 220
+  },
+  "108": {
+    "ID": 108,
+    "levelOfUser": 219,
+    "levelOfEnermy": 220
+  },
+  "109": {
+    "ID": 109,
+    "levelOfUser": 220,
+    "levelOfEnermy": 220
+  },
+  "110": {
+    "ID": 110,
+    "levelOfUser": 221,
+    "levelOfEnermy": 222
+  },
+  "111": {
+    "ID": 111,
+    "levelOfUser": 222,
+    "levelOfEnermy": 224
+  },
+  "112": {
+    "ID": 112,
+    "levelOfUser": 223,
+    "levelOfEnermy": 226
+  },
+  "113": {
+    "ID": 113,
+    "levelOfUser": 224,
+    "levelOfEnermy": 228
+  },
+  "114": {
+    "ID": 114,
+    "levelOfUser": 225,
+    "levelOfEnermy": 230
+  },
+  "115": {
+    "ID": 115,
+    "levelOfUser": 226,
+    "levelOfEnermy": 232
+  },
+  "116": {
+    "ID": 116,
+    "levelOfUser": 227,
+    "levelOfEnermy": 234
+  },
+  "117": {
+    "ID": 117,
+    "levelOfUser": 228,
+    "levelOfEnermy": 236
+  },
+  "118": {
+    "ID": 118,
+    "levelOfUser": 229,
+    "levelOfEnermy": 238
+  },
+  "119": {
+    "ID": 119,
+    "levelOfUser": 230,
+    "levelOfEnermy": 240
+  },
+  "120": {
+    "ID": 120,
+    "levelOfUser": 231,
+    "levelOfEnermy": 243
+  },
+  "121": {
+    "ID": 121,
+    "levelOfUser": 232,
+    "levelOfEnermy": 246
+  },
+  "122": {
+    "ID": 122,
+    "levelOfUser": 233,
+    "levelOfEnermy": 249
+  },
+  "123": {
+    "ID": 123,
+    "levelOfUser": 234,
+    "levelOfEnermy": 252
+  },
+  "124": {
+    "ID": 124,
+    "levelOfUser": 235,
+    "levelOfEnermy": 255
+  },
+  "125": {
+    "ID": 125,
+    "levelOfUser": 236,
+    "levelOfEnermy": 258
+  },
+  "126": {
+    "ID": 126,
+    "levelOfUser": 237,
+    "levelOfEnermy": 261
+  },
+  "127": {
+    "ID": 127,
+    "levelOfUser": 238,
+    "levelOfEnermy": 264
+  },
+  "128": {
+    "ID": 128,
+    "levelOfUser": 239,
+    "levelOfEnermy": 267
+  },
+  "129": {
+    "ID": 129,
+    "levelOfUser": 240,
+    "levelOfEnermy": 270
+  },
+  "130": {
+    "ID": 130,
+    "levelOfUser": 241,
+    "levelOfEnermy": 273
+  },
+  "131": {
+    "ID": 131,
+    "levelOfUser": 242,
+    "levelOfEnermy": 276
+  },
+  "132": {
+    "ID": 132,
+    "levelOfUser": 243,
+    "levelOfEnermy": 279
+  },
+  "133": {
+    "ID": 133,
+    "levelOfUser": 244,
+    "levelOfEnermy": 282
+  },
+  "134": {
+    "ID": 134,
+    "levelOfUser": 245,
+    "levelOfEnermy": 285
+  },
+  "135": {
+    "ID": 135,
+    "levelOfUser": 246,
+    "levelOfEnermy": 288
+  },
+  "136": {
+    "ID": 136,
+    "levelOfUser": 247,
+    "levelOfEnermy": 291
+  },
+  "137": {
+    "ID": 137,
+    "levelOfUser": 248,
+    "levelOfEnermy": 294
+  },
+  "138": {
+    "ID": 138,
+    "levelOfUser": 249,
+    "levelOfEnermy": 297
+  },
+  "139": {
+    "ID": 139,
+    "levelOfUser": 250,
+    "levelOfEnermy": 300
+  }
+}

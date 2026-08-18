@@ -1,0 +1,402 @@
+{
+  "100101": {
+    "cluPassiveId": 100101,
+    "version": 202008121531,
+    "passiveProperties": "attackPercent",
+    "cluPassiveQuality": "green",
+    "passiveType": 1,
+    "cluPassiveWeight": 2000000,
+    "passivePicture": "cluPassive_icon_100101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_1"
+  },
+  "100102": {
+    "cluPassiveId": 100102,
+    "version": 202008121531,
+    "passiveProperties": "attackPercent",
+    "cluPassiveQuality": "blue",
+    "passiveType": 1,
+    "cluPassiveWeight": 1500000,
+    "passivePicture": "cluPassive_icon_100101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_1"
+  },
+  "100103": {
+    "cluPassiveId": 100103,
+    "version": 202008121531,
+    "passiveProperties": "attackPercent",
+    "cluPassiveQuality": "purple",
+    "passiveType": 1,
+    "cluPassiveWeight": 1000000,
+    "passivePicture": "cluPassive_icon_100101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_1"
+  },
+  "100104": {
+    "cluPassiveId": 100104,
+    "version": 202008121531,
+    "passiveProperties": "attackPercent",
+    "cluPassiveQuality": "orange",
+    "passiveType": 1,
+    "cluPassiveWeight": 500000,
+    "passivePicture": "cluPassive_icon_100101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_1"
+  },
+  "200101": {
+    "cluPassiveId": 200101,
+    "version": 202008121531,
+    "passiveProperties": "hpPercent",
+    "cluPassiveQuality": "green",
+    "passiveType": 2,
+    "cluPassiveWeight": 2000000,
+    "passivePicture": "cluPassive_icon_200101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_2"
+  },
+  "200102": {
+    "cluPassiveId": 200102,
+    "version": 202008121531,
+    "passiveProperties": "hpPercent",
+    "cluPassiveQuality": "blue",
+    "passiveType": 2,
+    "cluPassiveWeight": 1500000,
+    "passivePicture": "cluPassive_icon_200101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_2"
+  },
+  "200103": {
+    "cluPassiveId": 200103,
+    "version": 202008121531,
+    "passiveProperties": "hpPercent",
+    "cluPassiveQuality": "purple",
+    "passiveType": 2,
+    "cluPassiveWeight": 1000000,
+    "passivePicture": "cluPassive_icon_200101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_2"
+  },
+  "200104": {
+    "cluPassiveId": 200104,
+    "version": 202008121531,
+    "passiveProperties": "hpPercent",
+    "cluPassiveQuality": "orange",
+    "passiveType": 2,
+    "cluPassiveWeight": 500000,
+    "passivePicture": "cluPassive_icon_200101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_2"
+  },
+  "300101": {
+    "cluPassiveId": 300101,
+    "version": 202008121531,
+    "passiveProperties": "hit",
+    "cluPassiveQuality": "green",
+    "passiveType": 1,
+    "cluPassiveWeight": 1500000,
+    "passivePicture": "cluPassive_icon_300101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_3"
+  },
+  "300102": {
+    "cluPassiveId": 300102,
+    "version": 202008121531,
+    "passiveProperties": "hit",
+    "cluPassiveQuality": "blue",
+    "passiveType": 1,
+    "cluPassiveWeight": 1125000,
+    "passivePicture": "cluPassive_icon_300101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_3"
+  },
+  "300103": {
+    "cluPassiveId": 300103,
+    "version": 202008121531,
+    "passiveProperties": "hit",
+    "cluPassiveQuality": "purple",
+    "passiveType": 1,
+    "cluPassiveWeight": 750000,
+    "passivePicture": "cluPassive_icon_300101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_3"
+  },
+  "300104": {
+    "cluPassiveId": 300104,
+    "version": 202008121531,
+    "passiveProperties": "hit",
+    "cluPassiveQuality": "orange",
+    "passiveType": 1,
+    "cluPassiveWeight": 375000,
+    "passivePicture": "cluPassive_icon_300101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_3"
+  },
+  "400101": {
+    "cluPassiveId": 400101,
+    "version": 202008121531,
+    "passiveProperties": "dodge",
+    "cluPassiveQuality": "green",
+    "passiveType": 2,
+    "cluPassiveWeight": 1500000,
+    "passivePicture": "cluPassive_icon_400101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_4"
+  },
+  "400102": {
+    "cluPassiveId": 400102,
+    "version": 202008121531,
+    "passiveProperties": "dodge",
+    "cluPassiveQuality": "blue",
+    "passiveType": 2,
+    "cluPassiveWeight": 1125000,
+    "passivePicture": "cluPassive_icon_400101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_4"
+  },
+  "400103": {
+    "cluPassiveId": 400103,
+    "version": 202008121531,
+    "passiveProperties": "dodge",
+    "cluPassiveQuality": "purple",
+    "passiveType": 2,
+    "cluPassiveWeight": 750000,
+    "passivePicture": "cluPassive_icon_400101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_4"
+  },
+  "400104": {
+    "cluPassiveId": 400104,
+    "version": 202008121531,
+    "passiveProperties": "dodge",
+    "cluPassiveQuality": "orange",
+    "passiveType": 2,
+    "cluPassiveWeight": 375000,
+    "passivePicture": "cluPassive_icon_400101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_4"
+  },
+  "500101": {
+    "cluPassiveId": 500101,
+    "version": 202008121531,
+    "passiveProperties": "critical",
+    "cluPassiveQuality": "green",
+    "passiveType": 1,
+    "cluPassiveWeight": 1000000,
+    "passivePicture": "cluPassive_icon_500101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_5"
+  },
+  "500102": {
+    "cluPassiveId": 500102,
+    "version": 202008121531,
+    "passiveProperties": "critical",
+    "cluPassiveQuality": "blue",
+    "passiveType": 1,
+    "cluPassiveWeight": 750000,
+    "passivePicture": "cluPassive_icon_500101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_5"
+  },
+  "500103": {
+    "cluPassiveId": 500103,
+    "version": 202008121531,
+    "passiveProperties": "critical",
+    "cluPassiveQuality": "purple",
+    "passiveType": 1,
+    "cluPassiveWeight": 500000,
+    "passivePicture": "cluPassive_icon_500101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_5"
+  },
+  "500104": {
+    "cluPassiveId": 500104,
+    "version": 202008121531,
+    "passiveProperties": "critical",
+    "cluPassiveQuality": "orange",
+    "passiveType": 1,
+    "cluPassiveWeight": 250000,
+    "passivePicture": "cluPassive_icon_500101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_5"
+  },
+  "600101": {
+    "cluPassiveId": 600101,
+    "version": 202008121531,
+    "passiveProperties": "criticalResist",
+    "cluPassiveQuality": "green",
+    "passiveType": 2,
+    "cluPassiveWeight": 1000000,
+    "passivePicture": "cluPassive_icon_600101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_6"
+  },
+  "600102": {
+    "cluPassiveId": 600102,
+    "version": 202008121531,
+    "passiveProperties": "criticalResist",
+    "cluPassiveQuality": "blue",
+    "passiveType": 2,
+    "cluPassiveWeight": 750000,
+    "passivePicture": "cluPassive_icon_600101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_6"
+  },
+  "600103": {
+    "cluPassiveId": 600103,
+    "version": 202008121531,
+    "passiveProperties": "criticalResist",
+    "cluPassiveQuality": "purple",
+    "passiveType": 2,
+    "cluPassiveWeight": 500000,
+    "passivePicture": "cluPassive_icon_600101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_6"
+  },
+  "600104": {
+    "cluPassiveId": 600104,
+    "version": 202008121531,
+    "passiveProperties": "criticalResist",
+    "cluPassiveQuality": "orange",
+    "passiveType": 2,
+    "cluPassiveWeight": 250000,
+    "passivePicture": "cluPassive_icon_600101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_6"
+  },
+  "700101": {
+    "cluPassiveId": 700101,
+    "version": 202008121531,
+    "passiveProperties": "block",
+    "cluPassiveQuality": "green",
+    "passiveType": 1,
+    "cluPassiveWeight": 1500000,
+    "passivePicture": "cluPassive_icon_700101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_7"
+  },
+  "700102": {
+    "cluPassiveId": 700102,
+    "version": 202008121531,
+    "passiveProperties": "block",
+    "cluPassiveQuality": "blue",
+    "passiveType": 1,
+    "cluPassiveWeight": 1125000,
+    "passivePicture": "cluPassive_icon_700101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_7"
+  },
+  "700103": {
+    "cluPassiveId": 700103,
+    "version": 202008121531,
+    "passiveProperties": "block",
+    "cluPassiveQuality": "purple",
+    "passiveType": 1,
+    "cluPassiveWeight": 750000,
+    "passivePicture": "cluPassive_icon_700101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_7"
+  },
+  "700104": {
+    "cluPassiveId": 700104,
+    "version": 202008121531,
+    "passiveProperties": "block",
+    "cluPassiveQuality": "orange",
+    "passiveType": 1,
+    "cluPassiveWeight": 375000,
+    "passivePicture": "cluPassive_icon_700101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_7"
+  },
+  "800101": {
+    "cluPassiveId": 800101,
+    "version": 202008121531,
+    "passiveProperties": "blockThrough",
+    "cluPassiveQuality": "green",
+    "passiveType": 2,
+    "cluPassiveWeight": 1500000,
+    "passivePicture": "cluPassive_icon_800101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_8"
+  },
+  "800102": {
+    "cluPassiveId": 800102,
+    "version": 202008121531,
+    "passiveProperties": "blockThrough",
+    "cluPassiveQuality": "blue",
+    "passiveType": 2,
+    "cluPassiveWeight": 1125000,
+    "passivePicture": "cluPassive_icon_800101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_8"
+  },
+  "800103": {
+    "cluPassiveId": 800103,
+    "version": 202008121531,
+    "passiveProperties": "blockThrough",
+    "cluPassiveQuality": "purple",
+    "passiveType": 2,
+    "cluPassiveWeight": 750000,
+    "passivePicture": "cluPassive_icon_800101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_8"
+  },
+  "800104": {
+    "cluPassiveId": 800104,
+    "version": 202008121531,
+    "passiveProperties": "blockThrough",
+    "cluPassiveQuality": "orange",
+    "passiveType": 2,
+    "cluPassiveWeight": 375000,
+    "passivePicture": "cluPassive_icon_800101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_8"
+  },
+  "900101": {
+    "cluPassiveId": 900101,
+    "version": 202008121531,
+    "passiveProperties": "damageUp",
+    "cluPassiveQuality": "green",
+    "passiveType": 1,
+    "cluPassiveWeight": 1000000,
+    "passivePicture": "cluPassive_icon_900101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_9"
+  },
+  "900102": {
+    "cluPassiveId": 900102,
+    "version": 202008121531,
+    "passiveProperties": "damageUp",
+    "cluPassiveQuality": "blue",
+    "passiveType": 1,
+    "cluPassiveWeight": 750000,
+    "passivePicture": "cluPassive_icon_900101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_9"
+  },
+  "900103": {
+    "cluPassiveId": 900103,
+    "version": 202008121531,
+    "passiveProperties": "damageUp",
+    "cluPassiveQuality": "purple",
+    "passiveType": 1,
+    "cluPassiveWeight": 500000,
+    "passivePicture": "cluPassive_icon_900101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_9"
+  },
+  "900104": {
+    "cluPassiveId": 900104,
+    "version": 202008121531,
+    "passiveProperties": "damageUp",
+    "cluPassiveQuality": "orange",
+    "passiveType": 1,
+    "cluPassiveWeight": 250000,
+    "passivePicture": "cluPassive_icon_900101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_9"
+  },
+  "1000101": {
+    "cluPassiveId": 1000101,
+    "version": 202008121531,
+    "passiveProperties": "damageDown",
+    "cluPassiveQuality": "green",
+    "passiveType": 2,
+    "cluPassiveWeight": 1000000,
+    "passivePicture": "cluPassive_icon_1000101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_10"
+  },
+  "1000102": {
+    "cluPassiveId": 1000102,
+    "version": 202008121531,
+    "passiveProperties": "damageDown",
+    "cluPassiveQuality": "blue",
+    "passiveType": 2,
+    "cluPassiveWeight": 750000,
+    "passivePicture": "cluPassive_icon_1000101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_10"
+  },
+  "1000103": {
+    "cluPassiveId": 1000103,
+    "version": 202008121531,
+    "passiveProperties": "damageDown",
+    "cluPassiveQuality": "purple",
+    "passiveType": 2,
+    "cluPassiveWeight": 500000,
+    "passivePicture": "cluPassive_icon_1000101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_10"
+  },
+  "1000104": {
+    "cluPassiveId": 1000104,
+    "version": 202008121531,
+    "passiveProperties": "damageDown",
+    "cluPassiveQuality": "orange",
+    "passiveType": 2,
+    "cluPassiveWeight": 250000,
+    "passivePicture": "cluPassive_icon_1000101_png",
+    "cluPassiveName": "clutchShotPassive_cluPassiveName_10"
+  }
+}

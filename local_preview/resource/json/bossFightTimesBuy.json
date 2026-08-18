@@ -1,0 +1,20 @@
+{
+  "1": {
+    "id": 1,
+    "bossFightCostID": 101,
+    "bossFightPrice": 400,
+    "vipNeeded": 6
+  },
+  "2": {
+    "id": 2,
+    "bossFightCostID": 101,
+    "bossFightPrice": 600,
+    "vipNeeded": 10
+  },
+  "3": {
+    "id": 3,
+    "bossFightCostID": 101,
+    "bossFightPrice": 1000,
+    "vipNeeded": 12
+  }
+}

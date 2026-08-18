@@ -1,0 +1,461 @@
+{
+  "1": {
+    "id": 1,
+    "startLevel": 1,
+    "endLevel": 44,
+    "reward1": 114,
+    "num1": 240,
+    "reward2": 102,
+    "num2": 4740
+  },
+  "2": {
+    "id": 2,
+    "startLevel": 45,
+    "endLevel": 49,
+    "reward1": 114,
+    "num1": 260,
+    "reward2": 102,
+    "num2": 5460
+  },
+  "3": {
+    "id": 3,
+    "startLevel": 50,
+    "endLevel": 54,
+    "reward1": 114,
+    "num1": 280,
+    "reward2": 102,
+    "num2": 6230
+  },
+  "4": {
+    "id": 4,
+    "startLevel": 55,
+    "endLevel": 59,
+    "reward1": 114,
+    "num1": 300,
+    "reward2": 102,
+    "num2": 7050
+  },
+  "5": {
+    "id": 5,
+    "startLevel": 60,
+    "endLevel": 64,
+    "reward1": 114,
+    "num1": 320,
+    "reward2": 102,
+    "num2": 7920
+  },
+  "6": {
+    "id": 6,
+    "startLevel": 65,
+    "endLevel": 69,
+    "reward1": 114,
+    "num1": 340,
+    "reward2": 102,
+    "num2": 8840
+  },
+  "7": {
+    "id": 7,
+    "startLevel": 70,
+    "endLevel": 74,
+    "reward1": 114,
+    "num1": 360,
+    "reward2": 102,
+    "num2": 9810
+  },
+  "8": {
+    "id": 8,
+    "startLevel": 75,
+    "endLevel": 79,
+    "reward1": 114,
+    "num1": 380,
+    "reward2": 102,
+    "num2": 10830
+  },
+  "9": {
+    "id": 9,
+    "startLevel": 80,
+    "endLevel": 84,
+    "reward1": 114,
+    "num1": 400,
+    "reward2": 102,
+    "num2": 11900
+  },
+  "10": {
+    "id": 10,
+    "startLevel": 85,
+    "endLevel": 89,
+    "reward1": 114,
+    "num1": 420,
+    "reward2": 102,
+    "num2": 13020
+  },
+  "11": {
+    "id": 11,
+    "startLevel": 90,
+    "endLevel": 94,
+    "reward1": 114,
+    "num1": 440,
+    "reward2": 102,
+    "num2": 14190
+  },
+  "12": {
+    "id": 12,
+    "startLevel": 95,
+    "endLevel": 99,
+    "reward1": 114,
+    "num1": 468,
+    "reward2": 102,
+    "num2": 15410
+  },
+  "13": {
+    "id": 13,
+    "startLevel": 100,
+    "endLevel": 104,
+    "reward1": 114,
+    "num1": 498,
+    "reward2": 102,
+    "num2": 16680
+  },
+  "14": {
+    "id": 14,
+    "startLevel": 105,
+    "endLevel": 109,
+    "reward1": 114,
+    "num1": 528,
+    "reward2": 102,
+    "num2": 18000
+  },
+  "15": {
+    "id": 15,
+    "startLevel": 110,
+    "endLevel": 114,
+    "reward1": 114,
+    "num1": 558,
+    "reward2": 102,
+    "num2": 19370
+  },
+  "16": {
+    "id": 16,
+    "startLevel": 115,
+    "endLevel": 119,
+    "reward1": 114,
+    "num1": 588,
+    "reward2": 102,
+    "num2": 20790
+  },
+  "17": {
+    "id": 17,
+    "startLevel": 120,
+    "endLevel": 124,
+    "reward1": 114,
+    "num1": 618,
+    "reward2": 102,
+    "num2": 22260
+  },
+  "18": {
+    "id": 18,
+    "startLevel": 125,
+    "endLevel": 129,
+    "reward1": 114,
+    "num1": 648,
+    "reward2": 102,
+    "num2": 23780
+  },
+  "19": {
+    "id": 19,
+    "startLevel": 130,
+    "endLevel": 134,
+    "reward1": 114,
+    "num1": 678,
+    "reward2": 102,
+    "num2": 25350
+  },
+  "20": {
+    "id": 20,
+    "startLevel": 135,
+    "endLevel": 139,
+    "reward1": 114,
+    "num1": 708,
+    "reward2": 102,
+    "num2": 26970
+  },
+  "21": {
+    "id": 21,
+    "startLevel": 140,
+    "endLevel": 144,
+    "reward1": 114,
+    "num1": 738,
+    "reward2": 102,
+    "num2": 28640
+  },
+  "22": {
+    "id": 22,
+    "startLevel": 145,
+    "endLevel": 149,
+    "reward1": 114,
+    "num1": 768,
+    "reward2": 102,
+    "num2": 30360
+  },
+  "23": {
+    "id": 23,
+    "startLevel": 150,
+    "endLevel": 154,
+    "reward1": 114,
+    "num1": 798,
+    "reward2": 102,
+    "num2": 32130
+  },
+  "24": {
+    "id": 24,
+    "startLevel": 155,
+    "endLevel": 159,
+    "reward1": 114,
+    "num1": 828,
+    "reward2": 102,
+    "num2": 33950
+  },
+  "25": {
+    "id": 25,
+    "startLevel": 160,
+    "endLevel": 164,
+    "reward1": 114,
+    "num1": 858,
+    "reward2": 102,
+    "num2": 35820
+  },
+  "26": {
+    "id": 26,
+    "startLevel": 165,
+    "endLevel": 169,
+    "reward1": 114,
+    "num1": 888,
+    "reward2": 102,
+    "num2": 37740
+  },
+  "27": {
+    "id": 27,
+    "startLevel": 170,
+    "endLevel": 174,
+    "reward1": 114,
+    "num1": 918,
+    "reward2": 102,
+    "num2": 39710
+  },
+  "28": {
+    "id": 28,
+    "startLevel": 175,
+    "endLevel": 179,
+    "reward1": 114,
+    "num1": 948,
+    "reward2": 102,
+    "num2": 41730
+  },
+  "29": {
+    "id": 29,
+    "startLevel": 180,
+    "endLevel": 184,
+    "reward1": 114,
+    "num1": 978,
+    "reward2": 102,
+    "num2": 43800
+  },
+  "30": {
+    "id": 30,
+    "startLevel": 185,
+    "endLevel": 187,
+    "reward1": 114,
+    "num1": 1008,
+    "reward2": 102,
+    "num2": 45920
+  },
+  "31": {
+    "id": 31,
+    "startLevel": 188,
+    "endLevel": 190,
+    "reward1": 114,
+    "num1": 1038,
+    "reward2": 102,
+    "num2": 48090
+  },
+  "32": {
+    "id": 32,
+    "startLevel": 191,
+    "endLevel": 193,
+    "reward1": 114,
+    "num1": 1068,
+    "reward2": 102,
+    "num2": 50310
+  },
+  "33": {
+    "id": 33,
+    "startLevel": 194,
+    "endLevel": 196,
+    "reward1": 114,
+    "num1": 1098,
+    "reward2": 102,
+    "num2": 52580
+  },
+  "34": {
+    "id": 34,
+    "startLevel": 197,
+    "endLevel": 199,
+    "reward1": 114,
+    "num1": 1128,
+    "reward2": 102,
+    "num2": 54900
+  },
+  "35": {
+    "id": 35,
+    "startLevel": 200,
+    "endLevel": 202,
+    "reward1": 114,
+    "num1": 1158,
+    "reward2": 102,
+    "num2": 57270
+  },
+  "36": {
+    "id": 36,
+    "startLevel": 203,
+    "endLevel": 205,
+    "reward1": 114,
+    "num1": 1188,
+    "reward2": 102,
+    "num2": 59690
+  },
+  "37": {
+    "id": 37,
+    "startLevel": 206,
+    "endLevel": 208,
+    "reward1": 114,
+    "num1": 1218,
+    "reward2": 102,
+    "num2": 62160
+  },
+  "38": {
+    "id": 38,
+    "startLevel": 209,
+    "endLevel": 211,
+    "reward1": 114,
+    "num1": 1248,
+    "reward2": 102,
+    "num2": 64680
+  },
+  "39": {
+    "id": 39,
+    "startLevel": 212,
+    "endLevel": 214,
+    "reward1": 114,
+    "num1": 1278,
+    "reward2": 102,
+    "num2": 67250
+  },
+  "40": {
+    "id": 40,
+    "startLevel": 215,
+    "endLevel": 217,
+    "reward1": 114,
+    "num1": 1308,
+    "reward2": 102,
+    "num2": 69870
+  },
+  "41": {
+    "id": 41,
+    "startLevel": 218,
+    "endLevel": 220,
+    "reward1": 114,
+    "num1": 1338,
+    "reward2": 102,
+    "num2": 72540
+  },
+  "42": {
+    "id": 42,
+    "startLevel": 221,
+    "endLevel": 223,
+    "reward1": 114,
+    "num1": 1368,
+    "reward2": 102,
+    "num2": 75260
+  },
+  "43": {
+    "id": 43,
+    "startLevel": 224,
+    "endLevel": 226,
+    "reward1": 114,
+    "num1": 1398,
+    "reward2": 102,
+    "num2": 78030
+  },
+  "44": {
+    "id": 44,
+    "startLevel": 227,
+    "endLevel": 229,
+    "reward1": 114,
+    "num1": 1428,
+    "reward2": 102,
+    "num2": 80850
+  },
+  "45": {
+    "id": 45,
+    "startLevel": 230,
+    "endLevel": 232,
+    "reward1": 114,
+    "num1": 1458,
+    "reward2": 102,
+    "num2": 83720
+  },
+  "46": {
+    "id": 46,
+    "startLevel": 233,
+    "endLevel": 235,
+    "reward1": 114,
+    "num1": 1488,
+    "reward2": 102,
+    "num2": 86640
+  },
+  "47": {
+    "id": 47,
+    "startLevel": 236,
+    "endLevel": 238,
+    "reward1": 114,
+    "num1": 1518,
+    "reward2": 102,
+    "num2": 89610
+  },
+  "48": {
+    "id": 48,
+    "startLevel": 239,
+    "endLevel": 241,
+    "reward1": 114,
+    "num1": 1548,
+    "reward2": 102,
+    "num2": 92630
+  },
+  "49": {
+    "id": 49,
+    "startLevel": 242,
+    "endLevel": 244,
+    "reward1": 114,
+    "num1": 1578,
+    "reward2": 102,
+    "num2": 95700
+  },
+  "50": {
+    "id": 50,
+    "startLevel": 245,
+    "endLevel": 247,
+    "reward1": 114,
+    "num1": 1608,
+    "reward2": 102,
+    "num2": 98820
+  },
+  "51": {
+    "id": 51,
+    "startLevel": 248,
+    "endLevel": 250,
+    "reward1": 114,
+    "num1": 1638,
+    "reward2": 102,
+    "num2": 101990
+  }
+}

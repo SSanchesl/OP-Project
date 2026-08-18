@@ -1,0 +1,14 @@
+{
+  "101": {
+    "id": 101,
+    "type": "effect",
+    "name": "跨服战冠军",
+    "resource": "uiEffect_topWarHead"
+  },
+  "102": {
+    "id": 102,
+    "type": "effect",
+    "name": "跨服战2~4名",
+    "resource": "uiEffect_topWarHead2"
+  }
+}

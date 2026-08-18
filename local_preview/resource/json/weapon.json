@@ -1,0 +1,136 @@
+{
+  "4101": {
+    "id": 4101,
+    "quality": "green",
+    "thingsType": "weapon",
+    "version": 202012111614,
+    "name": "weapon_name_37"
+  },
+  "4201": {
+    "id": 4201,
+    "quality": "blue",
+    "thingsType": "weapon",
+    "version": 202012111614,
+    "name": "weapon_name_38"
+  },
+  "4301": {
+    "id": 4301,
+    "quality": "purple",
+    "thingsType": "weapon",
+    "subType": 1,
+    "version": 202012111614,
+    "name": "weapon_name_39"
+  },
+  "4302": {
+    "id": 4302,
+    "quality": "purple",
+    "thingsType": "weapon",
+    "subType": 2,
+    "version": 202012111614,
+    "name": "weapon_name_40"
+  },
+  "4303": {
+    "id": 4303,
+    "quality": "purple",
+    "thingsType": "weapon",
+    "subType": 3,
+    "version": 202012111614,
+    "name": "weapon_name_41"
+  },
+  "4304": {
+    "id": 4304,
+    "quality": "purple",
+    "thingsType": "weapon",
+    "subType": 4,
+    "version": 202012111614,
+    "name": "weapon_name_42"
+  },
+  "4305": {
+    "id": 4305,
+    "quality": "purple",
+    "thingsType": "weapon",
+    "subType": 5,
+    "version": 202012111614,
+    "name": "weapon_name_43"
+  },
+  "4401": {
+    "id": 4401,
+    "quality": "orange",
+    "thingsType": "weapon",
+    "subType": 1,
+    "version": 202012111614,
+    "name": "weapon_name_44"
+  },
+  "4402": {
+    "id": 4402,
+    "quality": "orange",
+    "thingsType": "weapon",
+    "subType": 2,
+    "version": 202012111614,
+    "name": "weapon_name_45"
+  },
+  "4403": {
+    "id": 4403,
+    "quality": "orange",
+    "thingsType": "weapon",
+    "subType": 3,
+    "version": 202012111614,
+    "name": "weapon_name_46"
+  },
+  "4404": {
+    "id": 4404,
+    "quality": "orange",
+    "thingsType": "weapon",
+    "subType": 4,
+    "version": 202012111614,
+    "name": "weapon_name_47"
+  },
+  "4405": {
+    "id": 4405,
+    "quality": "orange",
+    "thingsType": "weapon",
+    "subType": 5,
+    "version": 202012111614,
+    "name": "weapon_name_48"
+  },
+  "4901": {
+    "id": 4901,
+    "quality": "red",
+    "thingsType": "weapon",
+    "subType": 1,
+    "version": 202207121817,
+    "name": "weapon_name_44"
+  },
+  "4902": {
+    "id": 4902,
+    "quality": "red",
+    "thingsType": "weapon",
+    "subType": 2,
+    "version": 202207121817,
+    "name": "weapon_name_45"
+  },
+  "4903": {
+    "id": 4903,
+    "quality": "red",
+    "thingsType": "weapon",
+    "subType": 3,
+    "version": 202207121817,
+    "name": "weapon_name_46"
+  },
+  "4904": {
+    "id": 4904,
+    "quality": "red",
+    "thingsType": "weapon",
+    "subType": 4,
+    "version": 202207121817,
+    "name": "weapon_name_47"
+  },
+  "4905": {
+    "id": 4905,
+    "quality": "red",
+    "thingsType": "weapon",
+    "subType": 5,
+    "version": 202207121817,
+    "name": "weapon_name_48"
+  }
+}

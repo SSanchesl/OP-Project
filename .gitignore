@@ -1,0 +1,46 @@
+# ===================================================================
+# Arquivos e diretórios pesados de Engenharia Reversa (permanecem locais no seu PC)
+# ===================================================================
+
+# Ferramentas binárias pesadas (Ghidra, JDKs, Jadx, Frida, etc. > 2.7 GB)
+tools/ghidra_*
+tools/ghidra_proj/
+tools/jadx/
+tools/jdk-*/
+tools/frida-server
+tools/apktool.jar
+tools/*.so
+tools/__pycache__/
+*.pyc
+
+# Pacotes Android e APKs brutos / reconstruídos
+*.xapk
+*.apk
+decoded/
+rebuilt/
+rebuilt_signed/
+extracted_raw/
+decrypted_all/
+CONTEUDO_DECIFRADO/
+
+# Dependências e logs do Node.js
+node_modules/
+server/node_modules/
+server/server.log
+*.log
+
+# Arquivos temporários de SO e IDEs
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+UsersmasteAppData*
+
+# ===================================================================
+# O que é rastreado pelo Git e mantido no repositório:
+# - local_preview/ (Frontend completo com o jogo, assets, animações e JSONs)
+# - server/ (Servidor Node.js com WebSocket/Socket.IO)
+# - tools/*.py, tools/*.js (Todos os seus scripts de raspagem, descriptografia e hooks)
+# - ANALISE.md e documentações
+# ===================================================================

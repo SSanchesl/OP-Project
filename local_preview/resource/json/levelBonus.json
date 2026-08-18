@@ -1,0 +1,222 @@
+{
+  "1": {
+    "id": 1,
+    "bonusName": "10级礼包",
+    "level": 10,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 50000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "2": {
+    "id": 2,
+    "bonusName": "20级礼包",
+    "level": 20,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 50000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "3": {
+    "id": 3,
+    "bonusName": "30级礼包",
+    "level": 30,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 100000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "4": {
+    "id": 4,
+    "bonusName": "40级礼包",
+    "level": 40,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 100000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "5": {
+    "id": 5,
+    "bonusName": "50级礼包",
+    "level": 50,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 150000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "6": {
+    "id": 6,
+    "bonusName": "60级礼包",
+    "level": 60,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 150000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "7": {
+    "id": 7,
+    "bonusName": "70级礼包",
+    "level": 70,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 200000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "8": {
+    "id": 8,
+    "bonusName": "80级礼包",
+    "level": 80,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 200000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "9": {
+    "id": 9,
+    "bonusName": "90级礼包",
+    "level": 90,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 250000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "10": {
+    "id": 10,
+    "bonusName": "100级礼包",
+    "level": 100,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 250000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "11": {
+    "id": 11,
+    "bonusName": "110级礼包",
+    "level": 110,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 300000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "12": {
+    "id": 12,
+    "bonusName": "120级礼包",
+    "level": 120,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 300000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "13": {
+    "id": 13,
+    "bonusName": "130级礼包",
+    "level": 130,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 350000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "14": {
+    "id": 14,
+    "bonusName": "140级礼包",
+    "level": 140,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 350000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "15": {
+    "id": 15,
+    "bonusName": "150级礼包",
+    "level": 150,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 400000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "16": {
+    "id": 16,
+    "bonusName": "160级礼包",
+    "level": 160,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 400000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "17": {
+    "id": 17,
+    "bonusName": "170级礼包",
+    "level": 170,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 450000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "18": {
+    "id": 18,
+    "bonusName": "180级礼包",
+    "level": 180,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 450000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "19": {
+    "id": 19,
+    "bonusName": "190级礼包",
+    "level": 190,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 500000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  },
+  "20": {
+    "id": 20,
+    "bonusName": "200级礼包",
+    "level": 200,
+    "goodsID1": 101,
+    "num1": 200,
+    "goodsID2": 102,
+    "num2": 500000,
+    "fundOutput1": 123,
+    "fundNum1": 10
+  }
+}

@@ -1,0 +1,4828 @@
+{
+  "341": {
+    "id": 341,
+    "boxName": "R终结技任选碎片",
+    "goodsID": 301,
+    "name": "三百烦恼攻城炮碎片",
+    "num": 1
+  },
+  "342": {
+    "id": 342,
+    "boxName": "SR终结技任选碎片",
+    "goodsID": 301,
+    "name": "三百烦恼攻城炮碎片",
+    "num": 1
+  },
+  "343": [
+    {
+      "id": 343,
+      "boxName": "SSR终结技任选碎片",
+      "goodsID": 302,
+      "name": "阿修罗·壹雾银碎片",
+      "num": 1
+    },
+    {
+      "id": 343,
+      "boxName": "SSR终结技任选碎片",
+      "goodsID": 305,
+      "name": "大炎戒·炎帝碎片",
+      "num": 1
+    },
+    {
+      "id": 343,
+      "boxName": "SSR终结技任选碎片",
+      "goodsID": 304,
+      "name": "雷迎碎片",
+      "num": 1
+    }
+  ],
+  "344": [
+    {
+      "id": 344,
+      "boxName": "UR终结技任选碎片",
+      "goodsID": 308,
+      "name": "冰河时代碎片",
+      "num": 1
+    },
+    {
+      "id": 344,
+      "boxName": "UR终结技任选碎片",
+      "goodsID": 309,
+      "name": "黑暗笼罩碎片",
+      "num": 1
+    },
+    {
+      "id": 344,
+      "boxName": "UR终结技任选碎片",
+      "goodsID": 310,
+      "name": "鸟笼碎片",
+      "num": 1
+    }
+  ],
+  "345": [
+    {
+      "id": 345,
+      "boxName": "绿色空贝任选包",
+      "goodsID": 7007,
+      "name": "绿色风贝",
+      "num": 1
+    },
+    {
+      "id": 345,
+      "boxName": "绿色空贝任选包",
+      "goodsID": 7017,
+      "name": "绿色炎贝",
+      "num": 1
+    },
+    {
+      "id": 345,
+      "boxName": "绿色空贝任选包",
+      "goodsID": 7027,
+      "name": "绿色排击贝",
+      "num": 1
+    },
+    {
+      "id": 345,
+      "boxName": "绿色空贝任选包",
+      "goodsID": 7037,
+      "name": "绿色水贝",
+      "num": 1
+    },
+    {
+      "id": 345,
+      "boxName": "绿色空贝任选包",
+      "goodsID": 7047,
+      "name": "绿色闪光贝",
+      "num": 1
+    },
+    {
+      "id": 345,
+      "boxName": "绿色空贝任选包",
+      "goodsID": 7057,
+      "name": "绿色音贝",
+      "num": 1
+    }
+  ],
+  "400": [
+    {
+      "id": 400,
+      "boxName": "巾帼佳人任选包",
+      "goodsID": 1524,
+      "name": "娜美（新世界）",
+      "num": 1
+    },
+    {
+      "id": 400,
+      "boxName": "巾帼佳人任选包",
+      "goodsID": 1525,
+      "name": "罗宾（新世界）",
+      "num": 1
+    },
+    {
+      "id": 400,
+      "boxName": "巾帼佳人任选包",
+      "goodsID": 1510,
+      "name": "汉库克",
+      "num": 1
+    }
+  ],
+  "401": [
+    {
+      "id": 401,
+      "boxName": "草帽团任选包",
+      "goodsID": 1512,
+      "name": "路飞（新世界）",
+      "num": 1
+    },
+    {
+      "id": 401,
+      "boxName": "草帽团任选包",
+      "goodsID": 1522,
+      "name": "索隆（新世界）",
+      "num": 1
+    },
+    {
+      "id": 401,
+      "boxName": "草帽团任选包",
+      "goodsID": 1523,
+      "name": "山治（新世界）",
+      "num": 1
+    }
+  ],
+  "402": [
+    {
+      "id": 402,
+      "boxName": "路飞三兄弟任选包",
+      "goodsID": 1512,
+      "name": "路飞（新世界）",
+      "num": 1
+    },
+    {
+      "id": 402,
+      "boxName": "路飞三兄弟任选包",
+      "goodsID": 1505,
+      "name": "艾斯",
+      "num": 1
+    },
+    {
+      "id": 402,
+      "boxName": "路飞三兄弟任选包",
+      "goodsID": 1515,
+      "name": "萨博（路西）",
+      "num": 1
+    }
+  ],
+  "403": [
+    {
+      "id": 403,
+      "boxName": "UR经典英雄任选包-2",
+      "goodsID": 1616,
+      "name": "路飞（四档）",
+      "num": 1
+    },
+    {
+      "id": 403,
+      "boxName": "UR经典英雄任选包-2",
+      "goodsID": 1617,
+      "name": "金狮子",
+      "num": 1
+    },
+    {
+      "id": 403,
+      "boxName": "UR经典英雄任选包-2",
+      "goodsID": 1618,
+      "name": "乙姬",
+      "num": 1
+    },
+    {
+      "id": 403,
+      "boxName": "UR经典英雄任选包-2",
+      "goodsID": 1619,
+      "name": "藤虎",
+      "num": 1
+    },
+    {
+      "id": 403,
+      "boxName": "UR经典英雄任选包-2",
+      "goodsID": 1620,
+      "name": "鹤",
+      "num": 1
+    },
+    {
+      "id": 403,
+      "boxName": "UR经典英雄任选包-2",
+      "goodsID": 1621,
+      "name": "赤犬（新世界）",
+      "num": 1
+    },
+    {
+      "id": 403,
+      "boxName": "UR经典英雄任选包-2",
+      "goodsID": 1622,
+      "name": "维尔戈",
+      "num": 1
+    },
+    {
+      "id": 403,
+      "boxName": "UR经典英雄任选包-2",
+      "goodsID": 1624,
+      "name": "泽法",
+      "num": 1
+    }
+  ],
+  "404": [
+    {
+      "id": 404,
+      "boxName": "UR经典英雄任选包-3",
+      "goodsID": 1625,
+      "name": "青雉（新世界）",
+      "num": 1
+    },
+    {
+      "id": 404,
+      "boxName": "UR经典英雄任选包-3",
+      "goodsID": 1626,
+      "name": "甚平（新世界）",
+      "num": 1
+    },
+    {
+      "id": 404,
+      "boxName": "UR经典英雄任选包-3",
+      "goodsID": 1627,
+      "name": "卡塔库栗",
+      "num": 1
+    },
+    {
+      "id": 404,
+      "boxName": "UR经典英雄任选包-3",
+      "goodsID": 1628,
+      "name": "斯慕吉",
+      "num": 1
+    },
+    {
+      "id": 404,
+      "boxName": "UR经典英雄任选包-3",
+      "goodsID": 1629,
+      "name": "大妈",
+      "num": 1
+    },
+    {
+      "id": 404,
+      "boxName": "UR经典英雄任选包-3",
+      "goodsID": 1630,
+      "name": "佩罗斯佩罗",
+      "num": 1
+    },
+    {
+      "id": 404,
+      "boxName": "UR经典英雄任选包-3",
+      "goodsID": 1631,
+      "name": "克力架",
+      "num": 1
+    }
+  ],
+  "405": [
+    {
+      "id": 405,
+      "boxName": "UR经典英雄任选包-4",
+      "goodsID": 1632,
+      "name": "文斯莫克·山治",
+      "num": 1
+    },
+    {
+      "id": 405,
+      "boxName": "UR经典英雄任选包-4",
+      "goodsID": 1633,
+      "name": "文斯莫克·伽治",
+      "num": 1
+    },
+    {
+      "id": 405,
+      "boxName": "UR经典英雄任选包-4",
+      "goodsID": 1634,
+      "name": "文斯莫克·蕾玖",
+      "num": 1
+    },
+    {
+      "id": 405,
+      "boxName": "UR经典英雄任选包-4",
+      "goodsID": 1635,
+      "name": "文斯莫克·伊治",
+      "num": 1
+    },
+    {
+      "id": 405,
+      "boxName": "UR经典英雄任选包-4",
+      "goodsID": 1636,
+      "name": "文斯莫克·尼治",
+      "num": 1
+    }
+  ],
+  "406": [
+    {
+      "id": 406,
+      "boxName": "UR经典英雄任选包-5",
+      "goodsID": 1637,
+      "name": "烬",
+      "num": 1
+    },
+    {
+      "id": 406,
+      "boxName": "UR经典英雄任选包-5",
+      "goodsID": 1638,
+      "name": "杰克",
+      "num": 1
+    },
+    {
+      "id": 406,
+      "boxName": "UR经典英雄任选包-5",
+      "goodsID": 1639,
+      "name": "罗（和之国）",
+      "num": 1
+    },
+    {
+      "id": 406,
+      "boxName": "UR经典英雄任选包-5",
+      "goodsID": 1640,
+      "name": "奎因",
+      "num": 1
+    },
+    {
+      "id": 406,
+      "boxName": "UR经典英雄任选包-5",
+      "goodsID": 1641,
+      "name": "凯多",
+      "num": 1
+    },
+    {
+      "id": 406,
+      "boxName": "UR经典英雄任选包-5",
+      "goodsID": 1642,
+      "name": "夏洛特·玲玲",
+      "num": 1
+    },
+    {
+      "id": 406,
+      "boxName": "UR经典英雄任选包-5",
+      "goodsID": 1643,
+      "name": "大和",
+      "num": 1
+    },
+    {
+      "id": 406,
+      "boxName": "UR经典英雄任选包-5",
+      "goodsID": 1644,
+      "name": "猫蝮蛇",
+      "num": 1
+    }
+  ],
+  "407": [
+    {
+      "id": 407,
+      "boxName": "UR强力英雄任选包",
+      "goodsID": 1645,
+      "name": "光月时",
+      "num": 1
+    },
+    {
+      "id": 407,
+      "boxName": "UR强力英雄任选包",
+      "goodsID": 1644,
+      "name": "猫蝮蛇",
+      "num": 1
+    },
+    {
+      "id": 407,
+      "boxName": "UR强力英雄任选包",
+      "goodsID": 1646,
+      "name": "犬岚",
+      "num": 1
+    }
+  ],
+  "502": [
+    {
+      "id": 502,
+      "boxName": "龙珠任选包",
+      "goodsID": 151,
+      "name": "一星珠",
+      "num": 1
+    },
+    {
+      "id": 502,
+      "boxName": "龙珠任选包",
+      "goodsID": 152,
+      "name": "二星珠",
+      "num": 1
+    },
+    {
+      "id": 502,
+      "boxName": "龙珠任选包",
+      "goodsID": 153,
+      "name": "三星珠",
+      "num": 1
+    },
+    {
+      "id": 502,
+      "boxName": "龙珠任选包",
+      "goodsID": 154,
+      "name": "四星珠",
+      "num": 1
+    },
+    {
+      "id": 502,
+      "boxName": "龙珠任选包",
+      "goodsID": 155,
+      "name": "五星珠",
+      "num": 1
+    },
+    {
+      "id": 502,
+      "boxName": "龙珠任选包",
+      "goodsID": 156,
+      "name": "六星珠",
+      "num": 1
+    },
+    {
+      "id": 502,
+      "boxName": "龙珠任选包",
+      "goodsID": 157,
+      "name": "七星珠",
+      "num": 1
+    }
+  ],
+  "503": [
+    {
+      "id": 503,
+      "boxName": "橙色武器任选包",
+      "goodsID": 4401,
+      "name": "黑刀秋水·枪",
+      "num": 1
+    },
+    {
+      "id": 503,
+      "boxName": "橙色武器任选包",
+      "goodsID": 4402,
+      "name": "黑刀秋水·岚",
+      "num": 1
+    },
+    {
+      "id": 503,
+      "boxName": "橙色武器任选包",
+      "goodsID": 4403,
+      "name": "黑刀秋水·铁",
+      "num": 1
+    },
+    {
+      "id": 503,
+      "boxName": "橙色武器任选包",
+      "goodsID": 4404,
+      "name": "黑刀秋水·纸",
+      "num": 1
+    },
+    {
+      "id": 503,
+      "boxName": "橙色武器任选包",
+      "goodsID": 4405,
+      "name": "黑刀秋水·月",
+      "num": 1
+    }
+  ],
+  "504": [
+    {
+      "id": 504,
+      "boxName": "橙色空贝任选包",
+      "goodsID": 7307,
+      "name": "橙色风贝",
+      "num": 1
+    },
+    {
+      "id": 504,
+      "boxName": "橙色空贝任选包",
+      "goodsID": 7317,
+      "name": "橙色炎贝",
+      "num": 1
+    },
+    {
+      "id": 504,
+      "boxName": "橙色空贝任选包",
+      "goodsID": 7327,
+      "name": "橙色排击贝",
+      "num": 1
+    },
+    {
+      "id": 504,
+      "boxName": "橙色空贝任选包",
+      "goodsID": 7337,
+      "name": "橙色水贝",
+      "num": 1
+    },
+    {
+      "id": 504,
+      "boxName": "橙色空贝任选包",
+      "goodsID": 7347,
+      "name": "橙色闪光贝",
+      "num": 1
+    },
+    {
+      "id": 504,
+      "boxName": "橙色空贝任选包",
+      "goodsID": 7357,
+      "name": "橙色音贝",
+      "num": 1
+    }
+  ],
+  "505": [
+    {
+      "id": 505,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1606,
+      "name": "黄猿",
+      "num": 1
+    },
+    {
+      "id": 505,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1607,
+      "name": "赤犬",
+      "num": 1
+    },
+    {
+      "id": 505,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1605,
+      "name": "青雉",
+      "num": 1
+    },
+    {
+      "id": 505,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1610,
+      "name": "战国",
+      "num": 1
+    },
+    {
+      "id": 505,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1602,
+      "name": "多弗朗明哥",
+      "num": 1
+    },
+    {
+      "id": 505,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1601,
+      "name": "鹰眼",
+      "num": 1
+    },
+    {
+      "id": 505,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1611,
+      "name": "黑胡子(新世界）",
+      "num": 1
+    },
+    {
+      "id": 505,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1609,
+      "name": "马尔科",
+      "num": 1
+    }
+  ],
+  "506": [
+    {
+      "id": 506,
+      "boxName": "SS超必杀英雄任选包",
+      "goodsID": 1508,
+      "name": "孙悟饭(超二)",
+      "num": 1
+    },
+    {
+      "id": 506,
+      "boxName": "SS超必杀英雄任选包",
+      "goodsID": 1503,
+      "name": "沙鲁",
+      "num": 1
+    },
+    {
+      "id": 506,
+      "boxName": "SS超必杀英雄任选包",
+      "goodsID": 1509,
+      "name": "贝吉塔(魔化)",
+      "num": 1
+    }
+  ],
+  "507": [
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1535,
+      "name": "巴托洛米奥",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1534,
+      "name": "卡文迪许",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1532,
+      "name": "凯撒",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1531,
+      "name": "佩罗娜（新世界）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1529,
+      "name": "布鲁克（新世界）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1528,
+      "name": "乌索普（新世界）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1527,
+      "name": "弗兰奇（新世界）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1526,
+      "name": "乔巴（新世界）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1525,
+      "name": "罗宾（新世界）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1524,
+      "name": "娜美（新世界）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1523,
+      "name": "山治（新世界）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1522,
+      "name": "索隆（新世界）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1521,
+      "name": "巴杰斯",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1520,
+      "name": "伊万科夫",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1519,
+      "name": "霍金斯",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1518,
+      "name": "贝基",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1517,
+      "name": "德雷克",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1516,
+      "name": "战桃丸",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1515,
+      "name": "萨博（路西）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1514,
+      "name": "霍古巴克",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1513,
+      "name": "龙马",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1512,
+      "name": "路飞（新世界）",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1511,
+      "name": "甚平",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1510,
+      "name": "汉库克",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1509,
+      "name": "基德",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1508,
+      "name": "罗",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1507,
+      "name": "黑胡子",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1506,
+      "name": "巴索罗米·熊",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1505,
+      "name": "艾斯",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1504,
+      "name": "艾尼路",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1503,
+      "name": "鳄鱼",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1502,
+      "name": "莫利亚",
+      "num": 1
+    },
+    {
+      "id": 507,
+      "boxName": "SSR英雄任选包",
+      "goodsID": 1501,
+      "name": "路奇",
+      "num": 1
+    }
+  ],
+  "508": [
+    {
+      "id": 508,
+      "boxName": "紫色武器任选包",
+      "goodsID": 4301,
+      "name": "和道一文字·枪",
+      "num": 1
+    },
+    {
+      "id": 508,
+      "boxName": "紫色武器任选包",
+      "goodsID": 4302,
+      "name": "和道一文字·岚",
+      "num": 1
+    },
+    {
+      "id": 508,
+      "boxName": "紫色武器任选包",
+      "goodsID": 4303,
+      "name": "和道一文字·铁",
+      "num": 1
+    },
+    {
+      "id": 508,
+      "boxName": "紫色武器任选包",
+      "goodsID": 4304,
+      "name": "和道一文字·纸",
+      "num": 1
+    },
+    {
+      "id": 508,
+      "boxName": "紫色武器任选包",
+      "goodsID": 4305,
+      "name": "和道一文字·月",
+      "num": 1
+    }
+  ],
+  "509": [
+    {
+      "id": 509,
+      "boxName": "紫色空贝任选包",
+      "goodsID": 7207,
+      "name": "紫色风贝",
+      "num": 1
+    },
+    {
+      "id": 509,
+      "boxName": "紫色空贝任选包",
+      "goodsID": 7217,
+      "name": "紫色炎贝",
+      "num": 1
+    },
+    {
+      "id": 509,
+      "boxName": "紫色空贝任选包",
+      "goodsID": 7227,
+      "name": "紫色排击贝",
+      "num": 1
+    },
+    {
+      "id": 509,
+      "boxName": "紫色空贝任选包",
+      "goodsID": 7237,
+      "name": "紫色水贝",
+      "num": 1
+    },
+    {
+      "id": 509,
+      "boxName": "紫色空贝任选包",
+      "goodsID": 7247,
+      "name": "紫色闪光贝",
+      "num": 1
+    },
+    {
+      "id": 509,
+      "boxName": "紫色空贝任选包",
+      "goodsID": 7257,
+      "name": "紫色音贝",
+      "num": 1
+    }
+  ],
+  "510": [
+    {
+      "id": 510,
+      "boxName": "蓝色空贝任选包",
+      "goodsID": 7107,
+      "name": "蓝色风贝",
+      "num": 1
+    },
+    {
+      "id": 510,
+      "boxName": "蓝色空贝任选包",
+      "goodsID": 7117,
+      "name": "蓝色炎贝",
+      "num": 1
+    },
+    {
+      "id": 510,
+      "boxName": "蓝色空贝任选包",
+      "goodsID": 7127,
+      "name": "蓝色排击贝",
+      "num": 1
+    },
+    {
+      "id": 510,
+      "boxName": "蓝色空贝任选包",
+      "goodsID": 7137,
+      "name": "蓝色水贝",
+      "num": 1
+    },
+    {
+      "id": 510,
+      "boxName": "蓝色空贝任选包",
+      "goodsID": 7147,
+      "name": "蓝色闪光贝",
+      "num": 1
+    },
+    {
+      "id": 510,
+      "boxName": "蓝色空贝任选包",
+      "goodsID": 7157,
+      "name": "蓝色音贝",
+      "num": 1
+    }
+  ],
+  "511": [
+    {
+      "id": 511,
+      "boxName": "橙0活力装备任选包",
+      "goodsID": 3301,
+      "name": "大将帽·活力",
+      "num": 1
+    },
+    {
+      "id": 511,
+      "boxName": "橙0活力装备任选包",
+      "goodsID": 3302,
+      "name": "大将服·活力",
+      "num": 1
+    },
+    {
+      "id": 511,
+      "boxName": "橙0活力装备任选包",
+      "goodsID": 3303,
+      "name": "大将裤·活力",
+      "num": 1
+    },
+    {
+      "id": 511,
+      "boxName": "橙0活力装备任选包",
+      "goodsID": 3304,
+      "name": "大将鞋·活力",
+      "num": 1
+    }
+  ],
+  "512": [
+    {
+      "id": 512,
+      "boxName": "橙0连斩装备任选包",
+      "goodsID": 3311,
+      "name": "大将帽·连斩",
+      "num": 1
+    },
+    {
+      "id": 512,
+      "boxName": "橙0连斩装备任选包",
+      "goodsID": 3312,
+      "name": "大将服·连斩",
+      "num": 1
+    },
+    {
+      "id": 512,
+      "boxName": "橙0连斩装备任选包",
+      "goodsID": 3313,
+      "name": "大将裤·连斩",
+      "num": 1
+    },
+    {
+      "id": 512,
+      "boxName": "橙0连斩装备任选包",
+      "goodsID": 3314,
+      "name": "大将鞋·连斩",
+      "num": 1
+    }
+  ],
+  "513": [
+    {
+      "id": 513,
+      "boxName": "橙0爆发装备任选包",
+      "goodsID": 3321,
+      "name": "大将帽·爆发",
+      "num": 1
+    },
+    {
+      "id": 513,
+      "boxName": "橙0爆发装备任选包",
+      "goodsID": 3322,
+      "name": "大将服·爆发",
+      "num": 1
+    },
+    {
+      "id": 513,
+      "boxName": "橙0爆发装备任选包",
+      "goodsID": 3323,
+      "name": "大将裤·爆发",
+      "num": 1
+    },
+    {
+      "id": 513,
+      "boxName": "橙0爆发装备任选包",
+      "goodsID": 3324,
+      "name": "大将鞋·爆发",
+      "num": 1
+    }
+  ],
+  "514": [
+    {
+      "id": 514,
+      "boxName": "橙0疾风装备任选包",
+      "goodsID": 3331,
+      "name": "大将帽·疾风",
+      "num": 1
+    },
+    {
+      "id": 514,
+      "boxName": "橙0疾风装备任选包",
+      "goodsID": 3332,
+      "name": "大将服·疾风",
+      "num": 1
+    },
+    {
+      "id": 514,
+      "boxName": "橙0疾风装备任选包",
+      "goodsID": 3333,
+      "name": "大将裤·疾风",
+      "num": 1
+    },
+    {
+      "id": 514,
+      "boxName": "橙0疾风装备任选包",
+      "goodsID": 3334,
+      "name": "大将鞋·疾风",
+      "num": 1
+    }
+  ],
+  "517": [
+    {
+      "id": 517,
+      "boxName": "活动英雄任选包",
+      "goodsID": 1612,
+      "name": "萨博（火拳）",
+      "num": 1
+    },
+    {
+      "id": 517,
+      "boxName": "活动英雄任选包",
+      "goodsID": 1627,
+      "name": "卡塔库栗",
+      "num": 1
+    },
+    {
+      "id": 517,
+      "boxName": "活动英雄任选包",
+      "goodsID": 1642,
+      "name": "夏洛特·玲玲",
+      "num": 1
+    },
+    {
+      "id": 517,
+      "boxName": "活动英雄任选包",
+      "goodsID": 1647,
+      "name": "光月御田",
+      "num": 1
+    },
+    {
+      "id": 517,
+      "boxName": "活动英雄任选包",
+      "goodsID": 1648,
+      "name": "索隆（和之国）",
+      "num": 1
+    }
+  ],
+  "519": [
+    {
+      "id": 519,
+      "boxName": "S超必杀英雄任选包",
+      "goodsID": 1403,
+      "name": "特兰克斯(未来)",
+      "num": 1
+    },
+    {
+      "id": 519,
+      "boxName": "S超必杀英雄任选包",
+      "goodsID": 1406,
+      "name": "弗利萨",
+      "num": 1
+    },
+    {
+      "id": 519,
+      "boxName": "S超必杀英雄任选包",
+      "goodsID": 1421,
+      "name": "孙悟空(超一)",
+      "num": 1
+    }
+  ],
+  "524": [
+    {
+      "id": 524,
+      "boxName": "绿色空贝碎片任选包",
+      "goodsID": 241,
+      "name": "绿色空贝碎片·龟",
+      "num": 1
+    },
+    {
+      "id": 524,
+      "boxName": "绿色空贝碎片任选包",
+      "goodsID": 242,
+      "name": "绿色空贝碎片·神",
+      "num": 1
+    },
+    {
+      "id": 524,
+      "boxName": "绿色空贝碎片任选包",
+      "goodsID": 243,
+      "name": "绿色空贝碎片·魔",
+      "num": 1
+    },
+    {
+      "id": 524,
+      "boxName": "绿色空贝碎片任选包",
+      "goodsID": 244,
+      "name": "绿色空贝碎片·界",
+      "num": 1
+    },
+    {
+      "id": 524,
+      "boxName": "绿色空贝碎片任选包",
+      "goodsID": 245,
+      "name": "绿色空贝碎片·悟",
+      "num": 1
+    },
+    {
+      "id": 524,
+      "boxName": "绿色空贝碎片任选包",
+      "goodsID": 246,
+      "name": "绿色空贝碎片·全",
+      "num": 1
+    }
+  ],
+  "525": [
+    {
+      "id": 525,
+      "boxName": "蓝色空贝碎片任选包",
+      "goodsID": 251,
+      "name": "蓝色空贝碎片·龟",
+      "num": 1
+    },
+    {
+      "id": 525,
+      "boxName": "蓝色空贝碎片任选包",
+      "goodsID": 252,
+      "name": "蓝色空贝碎片·神",
+      "num": 1
+    },
+    {
+      "id": 525,
+      "boxName": "蓝色空贝碎片任选包",
+      "goodsID": 253,
+      "name": "蓝色空贝碎片·魔",
+      "num": 1
+    },
+    {
+      "id": 525,
+      "boxName": "蓝色空贝碎片任选包",
+      "goodsID": 254,
+      "name": "蓝色空贝碎片·界",
+      "num": 1
+    },
+    {
+      "id": 525,
+      "boxName": "蓝色空贝碎片任选包",
+      "goodsID": 255,
+      "name": "蓝色空贝碎片·悟",
+      "num": 1
+    },
+    {
+      "id": 525,
+      "boxName": "蓝色空贝碎片任选包",
+      "goodsID": 256,
+      "name": "蓝色空贝碎片·全",
+      "num": 1
+    }
+  ],
+  "526": [
+    {
+      "id": 526,
+      "boxName": "紫色空贝碎片任选包",
+      "goodsID": 261,
+      "name": "紫色空贝碎片·龟",
+      "num": 1
+    },
+    {
+      "id": 526,
+      "boxName": "紫色空贝碎片任选包",
+      "goodsID": 262,
+      "name": "紫色空贝碎片·神",
+      "num": 1
+    },
+    {
+      "id": 526,
+      "boxName": "紫色空贝碎片任选包",
+      "goodsID": 263,
+      "name": "紫色空贝碎片·魔",
+      "num": 1
+    },
+    {
+      "id": 526,
+      "boxName": "紫色空贝碎片任选包",
+      "goodsID": 264,
+      "name": "紫色空贝碎片·界",
+      "num": 1
+    },
+    {
+      "id": 526,
+      "boxName": "紫色空贝碎片任选包",
+      "goodsID": 265,
+      "name": "紫色空贝碎片·悟",
+      "num": 1
+    },
+    {
+      "id": 526,
+      "boxName": "紫色空贝碎片任选包",
+      "goodsID": 266,
+      "name": "紫色空贝碎片·全",
+      "num": 1
+    }
+  ],
+  "527": [
+    {
+      "id": 527,
+      "boxName": "橙色空贝碎片任选包",
+      "goodsID": 271,
+      "name": "橙色空贝碎片·龟",
+      "num": 1
+    },
+    {
+      "id": 527,
+      "boxName": "橙色空贝碎片任选包",
+      "goodsID": 272,
+      "name": "橙色空贝碎片·神",
+      "num": 1
+    },
+    {
+      "id": 527,
+      "boxName": "橙色空贝碎片任选包",
+      "goodsID": 273,
+      "name": "橙色空贝碎片·魔",
+      "num": 1
+    },
+    {
+      "id": 527,
+      "boxName": "橙色空贝碎片任选包",
+      "goodsID": 274,
+      "name": "橙色空贝碎片·界",
+      "num": 1
+    },
+    {
+      "id": 527,
+      "boxName": "橙色空贝碎片任选包",
+      "goodsID": 275,
+      "name": "橙色空贝碎片·悟",
+      "num": 1
+    },
+    {
+      "id": 527,
+      "boxName": "橙色空贝碎片任选包",
+      "goodsID": 276,
+      "name": "橙色空贝碎片·全",
+      "num": 1
+    }
+  ],
+  "528": [
+    {
+      "id": 528,
+      "boxName": "绿色空贝套装任选包",
+      "goodsID": 7061,
+      "name": "空贝龟字套",
+      "num": 1
+    },
+    {
+      "id": 528,
+      "boxName": "绿色空贝套装任选包",
+      "goodsID": 7062,
+      "name": "空贝神字套",
+      "num": 1
+    },
+    {
+      "id": 528,
+      "boxName": "绿色空贝套装任选包",
+      "goodsID": 7063,
+      "name": "空贝魔字套",
+      "num": 1
+    },
+    {
+      "id": 528,
+      "boxName": "绿色空贝套装任选包",
+      "goodsID": 7064,
+      "name": "空贝界字套",
+      "num": 1
+    },
+    {
+      "id": 528,
+      "boxName": "绿色空贝套装任选包",
+      "goodsID": 7065,
+      "name": "空贝悟字套",
+      "num": 1
+    },
+    {
+      "id": 528,
+      "boxName": "绿色空贝套装任选包",
+      "goodsID": 7066,
+      "name": "空贝全字套",
+      "num": 1
+    }
+  ],
+  "529": [
+    {
+      "id": 529,
+      "boxName": "蓝色空贝套装任选包",
+      "goodsID": 7161,
+      "name": "空贝龟字套",
+      "num": 1
+    },
+    {
+      "id": 529,
+      "boxName": "蓝色空贝套装任选包",
+      "goodsID": 7162,
+      "name": "空贝神字套",
+      "num": 1
+    },
+    {
+      "id": 529,
+      "boxName": "蓝色空贝套装任选包",
+      "goodsID": 7163,
+      "name": "空贝魔字套",
+      "num": 1
+    },
+    {
+      "id": 529,
+      "boxName": "蓝色空贝套装任选包",
+      "goodsID": 7164,
+      "name": "空贝界字套",
+      "num": 1
+    },
+    {
+      "id": 529,
+      "boxName": "蓝色空贝套装任选包",
+      "goodsID": 7165,
+      "name": "空贝悟字套",
+      "num": 1
+    },
+    {
+      "id": 529,
+      "boxName": "蓝色空贝套装任选包",
+      "goodsID": 7166,
+      "name": "空贝全字套",
+      "num": 1
+    }
+  ],
+  "530": [
+    {
+      "id": 530,
+      "boxName": "紫色空贝套装任选包",
+      "goodsID": 7261,
+      "name": "空贝龟字套",
+      "num": 1
+    },
+    {
+      "id": 530,
+      "boxName": "紫色空贝套装任选包",
+      "goodsID": 7262,
+      "name": "空贝神字套",
+      "num": 1
+    },
+    {
+      "id": 530,
+      "boxName": "紫色空贝套装任选包",
+      "goodsID": 7263,
+      "name": "空贝魔字套",
+      "num": 1
+    },
+    {
+      "id": 530,
+      "boxName": "紫色空贝套装任选包",
+      "goodsID": 7264,
+      "name": "空贝界字套",
+      "num": 1
+    },
+    {
+      "id": 530,
+      "boxName": "紫色空贝套装任选包",
+      "goodsID": 7265,
+      "name": "空贝悟字套",
+      "num": 1
+    },
+    {
+      "id": 530,
+      "boxName": "紫色空贝套装任选包",
+      "goodsID": 7266,
+      "name": "空贝全字套",
+      "num": 1
+    }
+  ],
+  "531": [
+    {
+      "id": 531,
+      "boxName": "橙色空贝套装任选包",
+      "goodsID": 7361,
+      "name": "空贝龟字套",
+      "num": 1
+    },
+    {
+      "id": 531,
+      "boxName": "橙色空贝套装任选包",
+      "goodsID": 7362,
+      "name": "空贝神字套",
+      "num": 1
+    },
+    {
+      "id": 531,
+      "boxName": "橙色空贝套装任选包",
+      "goodsID": 7363,
+      "name": "空贝魔字套",
+      "num": 1
+    },
+    {
+      "id": 531,
+      "boxName": "橙色空贝套装任选包",
+      "goodsID": 7364,
+      "name": "空贝界字套",
+      "num": 1
+    },
+    {
+      "id": 531,
+      "boxName": "橙色空贝套装任选包",
+      "goodsID": 7365,
+      "name": "空贝悟字套",
+      "num": 1
+    },
+    {
+      "id": 531,
+      "boxName": "橙色空贝套装任选包",
+      "goodsID": 7366,
+      "name": "空贝全字套",
+      "num": 1
+    }
+  ],
+  "558": [
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8505,
+      "name": "魔人布欧(善良)红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8512,
+      "name": "悟天克斯(超三)红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8513,
+      "name": "魔人布欧(邪恶)红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8514,
+      "name": "孙悟空(超三)红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8515,
+      "name": "孙悟饭(神秘)红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8516,
+      "name": "贝吉特(超一)红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8601,
+      "name": "孙悟空（超赛神）红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8602,
+      "name": "维斯红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8603,
+      "name": "比鲁斯红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8604,
+      "name": "布罗利红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8606,
+      "name": "孙悟空（超赛神蓝）红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8605,
+      "name": "贝吉塔（超赛神蓝）红魂",
+      "num": 1
+    },
+    {
+      "id": 558,
+      "boxName": "SSS红魂任选包",
+      "goodsID": 8607,
+      "name": "孙悟空（超四）红魂",
+      "num": 1
+    }
+  ],
+  "559": [
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8501,
+      "name": "杰比特神红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8502,
+      "name": "达普拉红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8503,
+      "name": "沙鲁红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8504,
+      "name": "魔人布欧(纯粹)红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8506,
+      "name": "悟天克斯(超一)红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8507,
+      "name": "孙悟饭(赛亚超人)红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8508,
+      "name": "孙悟饭(超二)红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8509,
+      "name": "贝吉塔(魔化)红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8510,
+      "name": "贝吉塔(超二)红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8511,
+      "name": "孙悟空(超二)红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8518,
+      "name": "索尔贝红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8519,
+      "name": "加克红魂",
+      "num": 1
+    },
+    {
+      "id": 559,
+      "boxName": "SS红魂任选包",
+      "goodsID": 8517,
+      "name": "塔格玛红魂",
+      "num": 1
+    }
+  ],
+  "575": [
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1425,
+      "name": "闪电",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1424,
+      "name": "布鲁克",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1423,
+      "name": "阿布萨罗姆",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1422,
+      "name": "佩罗娜",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1421,
+      "name": "路飞",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1420,
+      "name": "索隆",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1419,
+      "name": "山治",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1418,
+      "name": "娜美",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1417,
+      "name": "罗宾",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1416,
+      "name": "弗兰奇",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1415,
+      "name": "巴基",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1414,
+      "name": "斯摩格",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1413,
+      "name": "冯·克雷",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1412,
+      "name": "Mr.3",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1411,
+      "name": "贝拉米",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1410,
+      "name": "卡库",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1409,
+      "name": "卡莉法",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1408,
+      "name": "布鲁诺",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1407,
+      "name": "加布拉",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1406,
+      "name": "猫头鹰",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1405,
+      "name": "雄狮偎取",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1404,
+      "name": "莎德利",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1403,
+      "name": "修罗",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1402,
+      "name": "天空骑士",
+      "num": 1
+    },
+    {
+      "id": 575,
+      "boxName": "SR英雄任选包",
+      "goodsID": 1401,
+      "name": "韦伯",
+      "num": 1
+    }
+  ],
+  "576": [
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2535,
+      "name": "巴托洛米奥",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2534,
+      "name": "卡文迪许",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2532,
+      "name": "凯撒",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2531,
+      "name": "佩罗娜（新世界）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2529,
+      "name": "布鲁克（新世界）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2528,
+      "name": "乌索普（新世界）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2527,
+      "name": "弗兰奇（新世界）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2526,
+      "name": "乔巴（新世界）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2525,
+      "name": "罗宾（新世界）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2524,
+      "name": "娜美（新世界）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2523,
+      "name": "山治（新世界）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2522,
+      "name": "索隆（新世界）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2521,
+      "name": "巴杰斯",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2520,
+      "name": "伊万科夫",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2519,
+      "name": "霍金斯",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2518,
+      "name": "贝基",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2517,
+      "name": "德雷克",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2516,
+      "name": "战桃丸",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2515,
+      "name": "萨博（路西）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2514,
+      "name": "霍古巴克",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2513,
+      "name": "龙马",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2512,
+      "name": "路飞（新世界）",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2511,
+      "name": "甚平",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2510,
+      "name": "汉库克",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2509,
+      "name": "基德",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2508,
+      "name": "罗",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2507,
+      "name": "黑胡子",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2506,
+      "name": "巴索罗米·熊",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2505,
+      "name": "艾斯",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2504,
+      "name": "艾尼路",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2503,
+      "name": "鳄鱼",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2502,
+      "name": "莫利亚",
+      "num": 1
+    },
+    {
+      "id": 576,
+      "boxName": "SSR英雄碎片任选包",
+      "goodsID": 2501,
+      "name": "路奇",
+      "num": 1
+    }
+  ],
+  "586": [
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2425,
+      "name": "闪电碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2424,
+      "name": "布鲁克碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2423,
+      "name": "阿布萨罗姆碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2422,
+      "name": "佩罗娜碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2421,
+      "name": "路飞碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2420,
+      "name": "索隆碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2419,
+      "name": "山治碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2418,
+      "name": "娜美碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2417,
+      "name": "罗宾碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2416,
+      "name": "弗兰奇碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2415,
+      "name": "巴基碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2414,
+      "name": "斯摩格碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2413,
+      "name": "冯·克雷碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2412,
+      "name": "Mr.3碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2411,
+      "name": "贝拉米碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2410,
+      "name": "卡库碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2409,
+      "name": "卡莉法碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2408,
+      "name": "布鲁诺碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2407,
+      "name": "加布拉碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2406,
+      "name": "猫头鹰碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2405,
+      "name": "雄狮偎取碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2404,
+      "name": "莎德利碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2403,
+      "name": "修罗碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2402,
+      "name": "天空骑士碎片",
+      "num": 1
+    },
+    {
+      "id": 586,
+      "boxName": "SR英雄碎片任选包",
+      "goodsID": 2401,
+      "name": "韦伯碎片",
+      "num": 1
+    }
+  ],
+  "591": [
+    {
+      "id": 591,
+      "boxName": "橙0坚守装备任选包",
+      "goodsID": 3351,
+      "name": "大将帽·坚守",
+      "num": 1
+    },
+    {
+      "id": 591,
+      "boxName": "橙0坚守装备任选包",
+      "goodsID": 3352,
+      "name": "大将服·坚守",
+      "num": 1
+    },
+    {
+      "id": 591,
+      "boxName": "橙0坚守装备任选包",
+      "goodsID": 3353,
+      "name": "大将裤·坚守",
+      "num": 1
+    },
+    {
+      "id": 591,
+      "boxName": "橙0坚守装备任选包",
+      "goodsID": 3354,
+      "name": "大将鞋·坚守",
+      "num": 1
+    }
+  ],
+  "592": [
+    {
+      "id": 592,
+      "boxName": "橙0强攻装备任选包",
+      "goodsID": 3361,
+      "name": "大将帽·强攻",
+      "num": 1
+    },
+    {
+      "id": 592,
+      "boxName": "橙0强攻装备任选包",
+      "goodsID": 3362,
+      "name": "大将服·强攻",
+      "num": 1
+    },
+    {
+      "id": 592,
+      "boxName": "橙0强攻装备任选包",
+      "goodsID": 3363,
+      "name": "大将裤·强攻",
+      "num": 1
+    },
+    {
+      "id": 592,
+      "boxName": "橙0强攻装备任选包",
+      "goodsID": 3364,
+      "name": "大将鞋·强攻",
+      "num": 1
+    }
+  ],
+  "595": [
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3201,
+      "name": "特工帽·活力",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3202,
+      "name": "特工服·活力",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3203,
+      "name": "特工裤·活力",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3204,
+      "name": "特工鞋·活力",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3211,
+      "name": "特工帽·连斩",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3212,
+      "name": "特工服·连斩",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3213,
+      "name": "特工裤·连斩",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3214,
+      "name": "特工鞋·连斩",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3221,
+      "name": "特工帽·爆发",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3222,
+      "name": "特工服·爆发",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3223,
+      "name": "特工裤·爆发",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3224,
+      "name": "特工鞋·爆发",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3231,
+      "name": "特工帽·疾风",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3232,
+      "name": "特工服·疾风",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3233,
+      "name": "特工裤·疾风",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3234,
+      "name": "特工鞋·疾风",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3251,
+      "name": "特工帽·坚守",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3252,
+      "name": "特工服·坚守",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3253,
+      "name": "特工裤·坚守",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3254,
+      "name": "特工鞋·坚守",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3261,
+      "name": "特工帽·强攻",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3262,
+      "name": "特工服·强攻",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3263,
+      "name": "特工裤·强攻",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3264,
+      "name": "特工鞋·强攻",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3241,
+      "name": "剑客头巾",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3242,
+      "name": "剑客服",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3243,
+      "name": "剑客裤",
+      "num": 1
+    },
+    {
+      "id": 595,
+      "boxName": "紫色装备任选包",
+      "goodsID": 3244,
+      "name": "剑客鞋",
+      "num": 1
+    }
+  ],
+  "596": [
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3301,
+      "name": "大将帽·活力",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3302,
+      "name": "大将服·活力",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3303,
+      "name": "大将裤·活力",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3304,
+      "name": "大将鞋·活力",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3311,
+      "name": "大将帽·连斩",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3312,
+      "name": "大将服·连斩",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3313,
+      "name": "大将裤·连斩",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3314,
+      "name": "大将鞋·连斩",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3321,
+      "name": "大将帽·爆发",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3322,
+      "name": "大将服·爆发",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3323,
+      "name": "大将裤·爆发",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3324,
+      "name": "大将鞋·爆发",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3331,
+      "name": "大将帽·疾风",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3332,
+      "name": "大将服·疾风",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3333,
+      "name": "大将裤·疾风",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3334,
+      "name": "大将鞋·疾风",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3351,
+      "name": "大将帽·坚守",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3352,
+      "name": "大将服·坚守",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3353,
+      "name": "大将裤·坚守",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3354,
+      "name": "大将鞋·坚守",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3361,
+      "name": "大将帽·强攻",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3362,
+      "name": "大将服·强攻",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3363,
+      "name": "大将裤·强攻",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3364,
+      "name": "大将鞋·强攻",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3341,
+      "name": "贵族帽",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3342,
+      "name": "贵族服",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3343,
+      "name": "贵族裤",
+      "num": 1
+    },
+    {
+      "id": 596,
+      "boxName": "橙色装备任选包",
+      "goodsID": 3344,
+      "name": "贵族鞋",
+      "num": 1
+    }
+  ],
+  "597": [
+    {
+      "id": 597,
+      "boxName": "紫色套装任选包",
+      "goodsID": 581,
+      "name": "紫色活力装备一套",
+      "num": 1
+    },
+    {
+      "id": 597,
+      "boxName": "紫色套装任选包",
+      "goodsID": 582,
+      "name": "紫色爆发装备一套",
+      "num": 1
+    },
+    {
+      "id": 597,
+      "boxName": "紫色套装任选包",
+      "goodsID": 583,
+      "name": "紫色疾风装备一套",
+      "num": 1
+    },
+    {
+      "id": 597,
+      "boxName": "紫色套装任选包",
+      "goodsID": 572,
+      "name": "紫色连斩装备一套",
+      "num": 1
+    },
+    {
+      "id": 597,
+      "boxName": "紫色套装任选包",
+      "goodsID": 587,
+      "name": "紫色坚守装备一套",
+      "num": 1
+    },
+    {
+      "id": 597,
+      "boxName": "紫色套装任选包",
+      "goodsID": 588,
+      "name": "紫色强攻装备一套",
+      "num": 1
+    }
+  ],
+  "598": [
+    {
+      "id": 598,
+      "boxName": "橙色套装任选包",
+      "goodsID": 515,
+      "name": "橙色活力装备一套",
+      "num": 1
+    },
+    {
+      "id": 598,
+      "boxName": "橙色套装任选包",
+      "goodsID": 551,
+      "name": "橙色连斩装备一套",
+      "num": 1
+    },
+    {
+      "id": 598,
+      "boxName": "橙色套装任选包",
+      "goodsID": 552,
+      "name": "橙色爆发装备一套",
+      "num": 1
+    },
+    {
+      "id": 598,
+      "boxName": "橙色套装任选包",
+      "goodsID": 553,
+      "name": "橙色疾风装备一套",
+      "num": 1
+    },
+    {
+      "id": 598,
+      "boxName": "橙色套装任选包",
+      "goodsID": 589,
+      "name": "橙色坚守装备一套",
+      "num": 1
+    },
+    {
+      "id": 598,
+      "boxName": "橙色套装任选包",
+      "goodsID": 590,
+      "name": "橙色强攻装备一套",
+      "num": 1
+    }
+  ],
+  "626": [
+    {
+      "id": 626,
+      "boxName": "高级气魄任选包",
+      "goodsID": 828,
+      "name": "霸王色气魄",
+      "num": 1
+    },
+    {
+      "id": 626,
+      "boxName": "高级气魄任选包",
+      "goodsID": 829,
+      "name": "见闻色气魄",
+      "num": 1
+    },
+    {
+      "id": 626,
+      "boxName": "高级气魄任选包",
+      "goodsID": 830,
+      "name": "武装色气魄",
+      "num": 1
+    }
+  ],
+  "638": [
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1645,
+      "name": "光月时",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1644,
+      "name": "猫蝮蛇",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1646,
+      "name": "犬岚",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1643,
+      "name": "大和",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1641,
+      "name": "凯多",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1639,
+      "name": "罗（和之国）",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1640,
+      "name": "奎因",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1638,
+      "name": "杰克",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1637,
+      "name": "烬",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1636,
+      "name": "文斯莫克·尼治",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1635,
+      "name": "文斯莫克·伊治",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1634,
+      "name": "文斯莫克·蕾玖",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1633,
+      "name": "文斯莫克·伽治",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1632,
+      "name": "文斯莫克·山治",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1631,
+      "name": "克力架",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1630,
+      "name": "佩罗斯佩罗",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1629,
+      "name": "大妈",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1626,
+      "name": "甚平（新世界）",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1625,
+      "name": "青雉（新世界）",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1624,
+      "name": "泽法",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1622,
+      "name": "维尔戈",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1621,
+      "name": "赤犬（新世界）",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1620,
+      "name": "鹤",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1619,
+      "name": "藤虎",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1618,
+      "name": "乙姬",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1617,
+      "name": "金狮子",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1615,
+      "name": "希留",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1616,
+      "name": "路飞（四档）",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1614,
+      "name": "麦哲伦",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1613,
+      "name": "雷利",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1611,
+      "name": "黑胡子(新世界）",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1610,
+      "name": "战国",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1609,
+      "name": "马尔科",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1607,
+      "name": "赤犬",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1606,
+      "name": "黄猿",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1605,
+      "name": "青雉",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1602,
+      "name": "多弗朗明哥",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1601,
+      "name": "鹰眼",
+      "num": 1
+    },
+    {
+      "id": 638,
+      "boxName": "UR英雄任选包",
+      "goodsID": 1600,
+      "name": "万能卡",
+      "num": 1
+    }
+  ],
+  "639": [
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1535,
+      "name": "巴托洛米奥",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1534,
+      "name": "卡文迪许",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1529,
+      "name": "布鲁克（新世界）",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1528,
+      "name": "乌索普（新世界）",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1523,
+      "name": "山治（新世界）",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1522,
+      "name": "索隆（新世界）",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1517,
+      "name": "德雷克",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1515,
+      "name": "萨博（路西）",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1513,
+      "name": "龙马",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1512,
+      "name": "路飞（新世界）",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1509,
+      "name": "基德",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1507,
+      "name": "黑胡子",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1505,
+      "name": "艾斯",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1504,
+      "name": "艾尼路",
+      "num": 1
+    },
+    {
+      "id": 639,
+      "boxName": "攻击型SSR英雄任选包",
+      "goodsID": 1501,
+      "name": "路奇",
+      "num": 1
+    }
+  ],
+  "640": [
+    {
+      "id": 640,
+      "boxName": "防御型SSR英雄任选包",
+      "goodsID": 1527,
+      "name": "弗兰奇（新世界）",
+      "num": 1
+    },
+    {
+      "id": 640,
+      "boxName": "防御型SSR英雄任选包",
+      "goodsID": 1521,
+      "name": "巴杰斯",
+      "num": 1
+    },
+    {
+      "id": 640,
+      "boxName": "防御型SSR英雄任选包",
+      "goodsID": 1518,
+      "name": "贝基",
+      "num": 1
+    },
+    {
+      "id": 640,
+      "boxName": "防御型SSR英雄任选包",
+      "goodsID": 1516,
+      "name": "战桃丸",
+      "num": 1
+    },
+    {
+      "id": 640,
+      "boxName": "防御型SSR英雄任选包",
+      "goodsID": 1511,
+      "name": "甚平",
+      "num": 1
+    },
+    {
+      "id": 640,
+      "boxName": "防御型SSR英雄任选包",
+      "goodsID": 1506,
+      "name": "巴索罗米·熊",
+      "num": 1
+    },
+    {
+      "id": 640,
+      "boxName": "防御型SSR英雄任选包",
+      "goodsID": 1503,
+      "name": "鳄鱼",
+      "num": 1
+    }
+  ],
+  "641": [
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1532,
+      "name": "凯撒",
+      "num": 1
+    },
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1531,
+      "name": "佩罗娜（新世界）",
+      "num": 1
+    },
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1526,
+      "name": "乔巴（新世界）",
+      "num": 1
+    },
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1525,
+      "name": "罗宾（新世界）",
+      "num": 1
+    },
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1524,
+      "name": "娜美（新世界）",
+      "num": 1
+    },
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1520,
+      "name": "伊万科夫",
+      "num": 1
+    },
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1519,
+      "name": "霍金斯",
+      "num": 1
+    },
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1514,
+      "name": "霍古巴克",
+      "num": 1
+    },
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1510,
+      "name": "汉库克",
+      "num": 1
+    },
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1508,
+      "name": "罗",
+      "num": 1
+    },
+    {
+      "id": 641,
+      "boxName": "辅助型SSR英雄任选包",
+      "goodsID": 1502,
+      "name": "莫利亚",
+      "num": 1
+    }
+  ],
+  "642": [
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8601,
+      "name": "鹰眼生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8602,
+      "name": "多弗朗明哥生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8603,
+      "name": "香克斯生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8604,
+      "name": "白胡子生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8605,
+      "name": "青雉生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8606,
+      "name": "黄猿生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8607,
+      "name": "赤犬生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8608,
+      "name": "卡普生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8609,
+      "name": "马尔科生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8610,
+      "name": "战国生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8611,
+      "name": "黑胡子（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8612,
+      "name": "萨博（火拳）生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8613,
+      "name": "雷利生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8614,
+      "name": "麦哲伦生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8615,
+      "name": "希留生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8616,
+      "name": "路飞（四档）生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8617,
+      "name": "金狮子生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8618,
+      "name": "乙姬生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8619,
+      "name": "藤虎生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8620,
+      "name": "鹤生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8621,
+      "name": "赤犬（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8622,
+      "name": "维尔戈生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8624,
+      "name": "泽法生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8625,
+      "name": "青雉（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8626,
+      "name": "甚平（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8627,
+      "name": "卡塔库栗生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8628,
+      "name": "斯慕吉生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8629,
+      "name": "大妈生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8630,
+      "name": "佩罗斯佩罗生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8631,
+      "name": "克力架生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8632,
+      "name": "文斯莫克·山治生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8633,
+      "name": "文斯莫克·伽治生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8634,
+      "name": "文斯莫克·蕾玖生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8635,
+      "name": "文斯莫克·伊治生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8636,
+      "name": "文斯莫克·尼治生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8637,
+      "name": "烬生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8638,
+      "name": "杰克生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8639,
+      "name": "罗（和之国）生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8640,
+      "name": "奎因生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8642,
+      "name": "夏洛特·玲玲生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8641,
+      "name": "凯多生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8643,
+      "name": "大和生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8644,
+      "name": "猫蝮蛇生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8645,
+      "name": "光月时生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8646,
+      "name": "犬岚生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8647,
+      "name": "光月御田生命卡",
+      "num": 1
+    },
+    {
+      "id": 642,
+      "boxName": "UR生命卡任选包",
+      "goodsID": 8648,
+      "name": "索隆（和之国）生命卡",
+      "num": 1
+    }
+  ],
+  "643": [
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8501,
+      "name": "路奇生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8502,
+      "name": "莫利亚生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8503,
+      "name": "鳄鱼生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8504,
+      "name": "艾尼路生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8505,
+      "name": "艾斯生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8506,
+      "name": "巴索罗米·熊生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8507,
+      "name": "黑胡子生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8508,
+      "name": "罗生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8509,
+      "name": "基德生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8510,
+      "name": "汉库克生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8511,
+      "name": "甚平生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8512,
+      "name": "路飞（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8513,
+      "name": "龙马生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8514,
+      "name": "霍古巴克生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8515,
+      "name": "萨博（路西）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8516,
+      "name": "战桃丸生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8517,
+      "name": "德雷克生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8518,
+      "name": "贝基生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8519,
+      "name": "霍金斯生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8520,
+      "name": "伊万科夫生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8521,
+      "name": "巴杰斯生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8522,
+      "name": "索隆（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8523,
+      "name": "山治（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8524,
+      "name": "娜美（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8525,
+      "name": "罗宾（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8526,
+      "name": "乔巴（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8527,
+      "name": "弗兰奇（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8528,
+      "name": "乌索普（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8529,
+      "name": "布鲁克（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8531,
+      "name": "佩罗娜（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8532,
+      "name": "凯撒生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8534,
+      "name": "卡文迪许生命卡",
+      "num": 1
+    },
+    {
+      "id": 643,
+      "boxName": "SSR生命卡任选包",
+      "goodsID": 8535,
+      "name": "巴托洛米奥生命卡",
+      "num": 1
+    }
+  ],
+  "644": [
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8601,
+      "name": "鹰眼生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8602,
+      "name": "多弗朗明哥生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8603,
+      "name": "香克斯生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8604,
+      "name": "白胡子生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8606,
+      "name": "黄猿生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8607,
+      "name": "赤犬生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8611,
+      "name": "黑胡子（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8612,
+      "name": "萨博（火拳）生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8613,
+      "name": "雷利生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8614,
+      "name": "麦哲伦生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8616,
+      "name": "路飞（四档）生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8619,
+      "name": "藤虎生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8621,
+      "name": "赤犬（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8624,
+      "name": "泽法生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8627,
+      "name": "卡塔库栗生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8629,
+      "name": "大妈生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8631,
+      "name": "克力架生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8632,
+      "name": "文斯莫克·山治生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8635,
+      "name": "文斯莫克·伊治生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8637,
+      "name": "烬生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8642,
+      "name": "夏洛特·玲玲生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8641,
+      "name": "凯多生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8643,
+      "name": "大和生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8647,
+      "name": "光月御田生命卡",
+      "num": 1
+    },
+    {
+      "id": 644,
+      "boxName": "攻击型UR生命卡任选包",
+      "goodsID": 8648,
+      "name": "索隆（和之国）生命卡",
+      "num": 1
+    }
+  ],
+  "645": [
+    {
+      "id": 645,
+      "boxName": "防御型UR生命卡任选包",
+      "goodsID": 8608,
+      "name": "卡普生命卡",
+      "num": 1
+    },
+    {
+      "id": 645,
+      "boxName": "防御型UR生命卡任选包",
+      "goodsID": 8610,
+      "name": "战国生命卡",
+      "num": 1
+    },
+    {
+      "id": 645,
+      "boxName": "防御型UR生命卡任选包",
+      "goodsID": 8615,
+      "name": "希留生命卡",
+      "num": 1
+    },
+    {
+      "id": 645,
+      "boxName": "防御型UR生命卡任选包",
+      "goodsID": 8617,
+      "name": "金狮子生命卡",
+      "num": 1
+    },
+    {
+      "id": 645,
+      "boxName": "防御型UR生命卡任选包",
+      "goodsID": 8622,
+      "name": "维尔戈生命卡",
+      "num": 1
+    },
+    {
+      "id": 645,
+      "boxName": "防御型UR生命卡任选包",
+      "goodsID": 8626,
+      "name": "甚平（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 645,
+      "boxName": "防御型UR生命卡任选包",
+      "goodsID": 8633,
+      "name": "文斯莫克·伽治生命卡",
+      "num": 1
+    },
+    {
+      "id": 645,
+      "boxName": "防御型UR生命卡任选包",
+      "goodsID": 8638,
+      "name": "杰克生命卡",
+      "num": 1
+    },
+    {
+      "id": 645,
+      "boxName": "防御型UR生命卡任选包",
+      "goodsID": 8646,
+      "name": "犬岚生命卡",
+      "num": 1
+    }
+  ],
+  "646": [
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8605,
+      "name": "青雉生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8609,
+      "name": "马尔科生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8618,
+      "name": "乙姬生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8620,
+      "name": "鹤生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8625,
+      "name": "青雉（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8628,
+      "name": "斯慕吉生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8630,
+      "name": "佩罗斯佩罗生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8634,
+      "name": "文斯莫克·蕾玖生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8636,
+      "name": "文斯莫克·尼治生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8640,
+      "name": "奎因生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8639,
+      "name": "罗（和之国）生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8644,
+      "name": "猫蝮蛇生命卡",
+      "num": 1
+    },
+    {
+      "id": 646,
+      "boxName": "辅助型UR生命卡任选包",
+      "goodsID": 8645,
+      "name": "光月时生命卡",
+      "num": 1
+    }
+  ],
+  "647": [
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8501,
+      "name": "路奇生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8504,
+      "name": "艾尼路生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8505,
+      "name": "艾斯生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8507,
+      "name": "黑胡子生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8509,
+      "name": "基德生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8512,
+      "name": "路飞（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8513,
+      "name": "龙马生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8515,
+      "name": "萨博（路西）生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8517,
+      "name": "德雷克生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8522,
+      "name": "索隆（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8523,
+      "name": "山治（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8528,
+      "name": "乌索普（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8529,
+      "name": "布鲁克（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8534,
+      "name": "卡文迪许生命卡",
+      "num": 1
+    },
+    {
+      "id": 647,
+      "boxName": "攻击型SSR生命卡任选包",
+      "goodsID": 8535,
+      "name": "巴托洛米奥生命卡",
+      "num": 1
+    }
+  ],
+  "648": [
+    {
+      "id": 648,
+      "boxName": "防御型SSR生命卡任选包",
+      "goodsID": 8503,
+      "name": "鳄鱼生命卡",
+      "num": 1
+    },
+    {
+      "id": 648,
+      "boxName": "防御型SSR生命卡任选包",
+      "goodsID": 8506,
+      "name": "巴索罗米·熊生命卡",
+      "num": 1
+    },
+    {
+      "id": 648,
+      "boxName": "防御型SSR生命卡任选包",
+      "goodsID": 8511,
+      "name": "甚平生命卡",
+      "num": 1
+    },
+    {
+      "id": 648,
+      "boxName": "防御型SSR生命卡任选包",
+      "goodsID": 8516,
+      "name": "战桃丸生命卡",
+      "num": 1
+    },
+    {
+      "id": 648,
+      "boxName": "防御型SSR生命卡任选包",
+      "goodsID": 8518,
+      "name": "贝基生命卡",
+      "num": 1
+    },
+    {
+      "id": 648,
+      "boxName": "防御型SSR生命卡任选包",
+      "goodsID": 8521,
+      "name": "巴杰斯生命卡",
+      "num": 1
+    },
+    {
+      "id": 648,
+      "boxName": "防御型SSR生命卡任选包",
+      "goodsID": 8527,
+      "name": "弗兰奇（新世界）生命卡",
+      "num": 1
+    }
+  ],
+  "649": [
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8502,
+      "name": "莫利亚生命卡",
+      "num": 1
+    },
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8508,
+      "name": "罗生命卡",
+      "num": 1
+    },
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8510,
+      "name": "汉库克生命卡",
+      "num": 1
+    },
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8514,
+      "name": "霍古巴克生命卡",
+      "num": 1
+    },
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8519,
+      "name": "霍金斯生命卡",
+      "num": 1
+    },
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8520,
+      "name": "伊万科夫生命卡",
+      "num": 1
+    },
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8524,
+      "name": "娜美（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8525,
+      "name": "罗宾（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8526,
+      "name": "乔巴（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8531,
+      "name": "佩罗娜（新世界）生命卡",
+      "num": 1
+    },
+    {
+      "id": 649,
+      "boxName": "辅助型SSR生命卡任选包",
+      "goodsID": 8532,
+      "name": "凯撒生命卡",
+      "num": 1
+    }
+  ],
+  "651": [
+    {
+      "id": 651,
+      "boxName": "进阶材料任选包",
+      "goodsID": 580,
+      "name": "精炼石",
+      "num": 1
+    },
+    {
+      "id": 651,
+      "boxName": "进阶材料任选包",
+      "goodsID": 240,
+      "name": "晶石",
+      "num": 1
+    },
+    {
+      "id": 651,
+      "boxName": "进阶材料任选包",
+      "goodsID": 140,
+      "name": "精铁",
+      "num": 1
+    }
+  ],
+  "654": [
+    {
+      "id": 654,
+      "boxName": "UR经典海贼英雄任选包",
+      "goodsID": 1613,
+      "name": "雷利",
+      "num": 1
+    },
+    {
+      "id": 654,
+      "boxName": "UR经典海贼英雄任选包",
+      "goodsID": 1611,
+      "name": "黑胡子(新世界）",
+      "num": 1
+    },
+    {
+      "id": 654,
+      "boxName": "UR经典海贼英雄任选包",
+      "goodsID": 1609,
+      "name": "马尔科",
+      "num": 1
+    },
+    {
+      "id": 654,
+      "boxName": "UR经典海贼英雄任选包",
+      "goodsID": 1602,
+      "name": "多弗朗明哥",
+      "num": 1
+    },
+    {
+      "id": 654,
+      "boxName": "UR经典海贼英雄任选包",
+      "goodsID": 1601,
+      "name": "鹰眼",
+      "num": 1
+    }
+  ],
+  "701": [
+    {
+      "id": 701,
+      "boxName": "紫色坚守装备任选包",
+      "goodsID": 3251,
+      "name": "特工帽·坚守",
+      "num": 1
+    },
+    {
+      "id": 701,
+      "boxName": "紫色坚守装备任选包",
+      "goodsID": 3252,
+      "name": "特工服·坚守",
+      "num": 1
+    },
+    {
+      "id": 701,
+      "boxName": "紫色坚守装备任选包",
+      "goodsID": 3253,
+      "name": "特工裤·坚守",
+      "num": 1
+    },
+    {
+      "id": 701,
+      "boxName": "紫色坚守装备任选包",
+      "goodsID": 3254,
+      "name": "特工鞋·坚守",
+      "num": 1
+    }
+  ],
+  "702": [
+    {
+      "id": 702,
+      "boxName": "紫色强攻装备任选包",
+      "goodsID": 3261,
+      "name": "特工帽·强攻",
+      "num": 1
+    },
+    {
+      "id": 702,
+      "boxName": "紫色强攻装备任选包",
+      "goodsID": 3262,
+      "name": "特工服·强攻",
+      "num": 1
+    },
+    {
+      "id": 702,
+      "boxName": "紫色强攻装备任选包",
+      "goodsID": 3263,
+      "name": "特工裤·强攻",
+      "num": 1
+    },
+    {
+      "id": 702,
+      "boxName": "紫色强攻装备任选包",
+      "goodsID": 3264,
+      "name": "特工鞋·强攻",
+      "num": 1
+    }
+  ],
+  "703": [
+    {
+      "id": 703,
+      "boxName": "紫色活力装备任选包",
+      "goodsID": 3201,
+      "name": "特工帽·活力",
+      "num": 1
+    },
+    {
+      "id": 703,
+      "boxName": "紫色活力装备任选包",
+      "goodsID": 3202,
+      "name": "特工服·活力",
+      "num": 1
+    },
+    {
+      "id": 703,
+      "boxName": "紫色活力装备任选包",
+      "goodsID": 3203,
+      "name": "特工裤·活力",
+      "num": 1
+    },
+    {
+      "id": 703,
+      "boxName": "紫色活力装备任选包",
+      "goodsID": 3204,
+      "name": "特工鞋·活力",
+      "num": 1
+    }
+  ],
+  "704": [
+    {
+      "id": 704,
+      "boxName": "紫色连斩装备任选包",
+      "goodsID": 3211,
+      "name": "特工帽·连斩",
+      "num": 1
+    },
+    {
+      "id": 704,
+      "boxName": "紫色连斩装备任选包",
+      "goodsID": 3212,
+      "name": "特工服·连斩",
+      "num": 1
+    },
+    {
+      "id": 704,
+      "boxName": "紫色连斩装备任选包",
+      "goodsID": 3213,
+      "name": "特工裤·连斩",
+      "num": 1
+    },
+    {
+      "id": 704,
+      "boxName": "紫色连斩装备任选包",
+      "goodsID": 3214,
+      "name": "特工鞋·连斩",
+      "num": 1
+    }
+  ],
+  "705": [
+    {
+      "id": 705,
+      "boxName": "紫色爆发装备任选包",
+      "goodsID": 3221,
+      "name": "特工帽·爆发",
+      "num": 1
+    },
+    {
+      "id": 705,
+      "boxName": "紫色爆发装备任选包",
+      "goodsID": 3222,
+      "name": "特工服·爆发",
+      "num": 1
+    },
+    {
+      "id": 705,
+      "boxName": "紫色爆发装备任选包",
+      "goodsID": 3223,
+      "name": "特工裤·爆发",
+      "num": 1
+    },
+    {
+      "id": 705,
+      "boxName": "紫色爆发装备任选包",
+      "goodsID": 3224,
+      "name": "特工鞋·爆发",
+      "num": 1
+    }
+  ],
+  "706": [
+    {
+      "id": 706,
+      "boxName": "紫色疾风装备任选包",
+      "goodsID": 3231,
+      "name": "特工帽·疾风",
+      "num": 1
+    },
+    {
+      "id": 706,
+      "boxName": "紫色疾风装备任选包",
+      "goodsID": 3232,
+      "name": "特工服·疾风",
+      "num": 1
+    },
+    {
+      "id": 706,
+      "boxName": "紫色疾风装备任选包",
+      "goodsID": 3233,
+      "name": "特工裤·疾风",
+      "num": 1
+    },
+    {
+      "id": 706,
+      "boxName": "紫色疾风装备任选包",
+      "goodsID": 3234,
+      "name": "特工鞋·疾风",
+      "num": 1
+    }
+  ],
+  "922": [
+    {
+      "id": 922,
+      "boxName": "任选红色武器",
+      "goodsID": 4901,
+      "name": "黑刀秋水·枪",
+      "num": 1
+    },
+    {
+      "id": 922,
+      "boxName": "任选红色武器",
+      "goodsID": 4902,
+      "name": "黑刀秋水·岚",
+      "num": 1
+    },
+    {
+      "id": 922,
+      "boxName": "任选红色武器",
+      "goodsID": 4903,
+      "name": "黑刀秋水·铁",
+      "num": 1
+    },
+    {
+      "id": 922,
+      "boxName": "任选红色武器",
+      "goodsID": 4904,
+      "name": "黑刀秋水·纸",
+      "num": 1
+    },
+    {
+      "id": 922,
+      "boxName": "任选红色武器",
+      "goodsID": 4905,
+      "name": "黑刀秋水·月",
+      "num": 1
+    }
+  ],
+  "2886": [
+    {
+      "id": 2886,
+      "boxName": "UR经典英雄碎任选包",
+      "goodsID": 2606,
+      "name": "黄猿",
+      "num": 1
+    },
+    {
+      "id": 2886,
+      "boxName": "UR经典英雄碎任选包",
+      "goodsID": 2607,
+      "name": "赤犬",
+      "num": 1
+    },
+    {
+      "id": 2886,
+      "boxName": "UR经典英雄碎任选包",
+      "goodsID": 2605,
+      "name": "青雉",
+      "num": 1
+    },
+    {
+      "id": 2886,
+      "boxName": "UR经典英雄碎任选包",
+      "goodsID": 2610,
+      "name": "战国",
+      "num": 1
+    },
+    {
+      "id": 2886,
+      "boxName": "UR经典英雄碎任选包",
+      "goodsID": 2602,
+      "name": "多弗朗明哥",
+      "num": 1
+    },
+    {
+      "id": 2886,
+      "boxName": "UR经典英雄碎任选包",
+      "goodsID": 2601,
+      "name": "鹰眼",
+      "num": 1
+    },
+    {
+      "id": 2886,
+      "boxName": "UR经典英雄碎任选包",
+      "goodsID": 2611,
+      "name": "黑胡子(新世界）",
+      "num": 1
+    },
+    {
+      "id": 2886,
+      "boxName": "UR经典英雄碎任选包",
+      "goodsID": 2609,
+      "name": "马尔科",
+      "num": 1
+    }
+  ]
+}

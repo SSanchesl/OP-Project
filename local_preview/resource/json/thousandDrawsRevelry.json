@@ -1,0 +1,29 @@
+{
+  "1": {
+    "startDay": 1,
+    "intervalDays": 1,
+    "reward1": 123,
+    "num1": 5,
+    "reward2": 123,
+    "num2": 5,
+    "vipLevel": 1
+  },
+  "31": {
+    "startDay": 31,
+    "intervalDays": 2,
+    "reward1": 123,
+    "num1": 5,
+    "reward2": 123,
+    "num2": 5,
+    "vipLevel": 1
+  },
+  "61": {
+    "startDay": 61,
+    "intervalDays": 3,
+    "reward1": 123,
+    "num1": 5,
+    "reward2": 123,
+    "num2": 5,
+    "vipLevel": 1
+  }
+}

@@ -1,0 +1,8752 @@
+{
+  "1": {
+    "id": 1,
+    "goodsID": 131,
+    "playerLevel": 1,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "2": {
+    "id": 2,
+    "goodsID": 131,
+    "playerLevel": 2,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "3": {
+    "id": 3,
+    "goodsID": 131,
+    "playerLevel": 3,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "4": {
+    "id": 4,
+    "goodsID": 131,
+    "playerLevel": 4,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "5": {
+    "id": 5,
+    "goodsID": 131,
+    "playerLevel": 5,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "6": {
+    "id": 6,
+    "goodsID": 131,
+    "playerLevel": 6,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "7": {
+    "id": 7,
+    "goodsID": 131,
+    "playerLevel": 7,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "8": {
+    "id": 8,
+    "goodsID": 131,
+    "playerLevel": 8,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "9": {
+    "id": 9,
+    "goodsID": 131,
+    "playerLevel": 9,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "10": {
+    "id": 10,
+    "goodsID": 131,
+    "playerLevel": 10,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "11": {
+    "id": 11,
+    "goodsID": 131,
+    "playerLevel": 11,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "12": {
+    "id": 12,
+    "goodsID": 131,
+    "playerLevel": 12,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "13": {
+    "id": 13,
+    "goodsID": 131,
+    "playerLevel": 13,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "14": {
+    "id": 14,
+    "goodsID": 131,
+    "playerLevel": 14,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "15": {
+    "id": 15,
+    "goodsID": 131,
+    "playerLevel": 15,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "16": {
+    "id": 16,
+    "goodsID": 131,
+    "playerLevel": 16,
+    "numPerDiamond": 7080,
+    "numPerGold": 6960
+  },
+  "17": {
+    "id": 17,
+    "goodsID": 131,
+    "playerLevel": 17,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "18": {
+    "id": 18,
+    "goodsID": 131,
+    "playerLevel": 18,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "19": {
+    "id": 19,
+    "goodsID": 131,
+    "playerLevel": 19,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "20": {
+    "id": 20,
+    "goodsID": 131,
+    "playerLevel": 20,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "21": {
+    "id": 21,
+    "goodsID": 131,
+    "playerLevel": 21,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "22": {
+    "id": 22,
+    "goodsID": 131,
+    "playerLevel": 22,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "23": {
+    "id": 23,
+    "goodsID": 131,
+    "playerLevel": 23,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "24": {
+    "id": 24,
+    "goodsID": 131,
+    "playerLevel": 24,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "25": {
+    "id": 25,
+    "goodsID": 131,
+    "playerLevel": 25,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "26": {
+    "id": 26,
+    "goodsID": 131,
+    "playerLevel": 26,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "27": {
+    "id": 27,
+    "goodsID": 131,
+    "playerLevel": 27,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "28": {
+    "id": 28,
+    "goodsID": 131,
+    "playerLevel": 28,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "29": {
+    "id": 29,
+    "goodsID": 131,
+    "playerLevel": 29,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "30": {
+    "id": 30,
+    "goodsID": 131,
+    "playerLevel": 30,
+    "numPerDiamond": 7680,
+    "numPerGold": 6960
+  },
+  "31": {
+    "id": 31,
+    "goodsID": 131,
+    "playerLevel": 31,
+    "numPerDiamond": 8160,
+    "numPerGold": 6960
+  },
+  "32": {
+    "id": 32,
+    "goodsID": 131,
+    "playerLevel": 32,
+    "numPerDiamond": 8160,
+    "numPerGold": 6960
+  },
+  "33": {
+    "id": 33,
+    "goodsID": 131,
+    "playerLevel": 33,
+    "numPerDiamond": 8160,
+    "numPerGold": 6960
+  },
+  "34": {
+    "id": 34,
+    "goodsID": 131,
+    "playerLevel": 34,
+    "numPerDiamond": 8160,
+    "numPerGold": 6960
+  },
+  "35": {
+    "id": 35,
+    "goodsID": 131,
+    "playerLevel": 35,
+    "numPerDiamond": 8160,
+    "numPerGold": 6960
+  },
+  "36": {
+    "id": 36,
+    "goodsID": 131,
+    "playerLevel": 36,
+    "numPerDiamond": 8160,
+    "numPerGold": 6960
+  },
+  "37": {
+    "id": 37,
+    "goodsID": 131,
+    "playerLevel": 37,
+    "numPerDiamond": 8160,
+    "numPerGold": 6960
+  },
+  "38": {
+    "id": 38,
+    "goodsID": 131,
+    "playerLevel": 38,
+    "numPerDiamond": 8160,
+    "numPerGold": 6960
+  },
+  "39": {
+    "id": 39,
+    "goodsID": 131,
+    "playerLevel": 39,
+    "numPerDiamond": 8160,
+    "numPerGold": 6960
+  },
+  "40": {
+    "id": 40,
+    "goodsID": 131,
+    "playerLevel": 40,
+    "numPerDiamond": 8160,
+    "numPerGold": 6960
+  },
+  "41": {
+    "id": 41,
+    "goodsID": 131,
+    "playerLevel": 41,
+    "numPerDiamond": 8700,
+    "numPerGold": 6960
+  },
+  "42": {
+    "id": 42,
+    "goodsID": 131,
+    "playerLevel": 42,
+    "numPerDiamond": 8700,
+    "numPerGold": 6960
+  },
+  "43": {
+    "id": 43,
+    "goodsID": 131,
+    "playerLevel": 43,
+    "numPerDiamond": 8700,
+    "numPerGold": 6960
+  },
+  "44": {
+    "id": 44,
+    "goodsID": 131,
+    "playerLevel": 44,
+    "numPerDiamond": 8700,
+    "numPerGold": 6960
+  },
+  "45": {
+    "id": 45,
+    "goodsID": 131,
+    "playerLevel": 45,
+    "numPerDiamond": 8700,
+    "numPerGold": 6960
+  },
+  "46": {
+    "id": 46,
+    "goodsID": 131,
+    "playerLevel": 46,
+    "numPerDiamond": 8700,
+    "numPerGold": 6960
+  },
+  "47": {
+    "id": 47,
+    "goodsID": 131,
+    "playerLevel": 47,
+    "numPerDiamond": 8700,
+    "numPerGold": 6960
+  },
+  "48": {
+    "id": 48,
+    "goodsID": 131,
+    "playerLevel": 48,
+    "numPerDiamond": 8700,
+    "numPerGold": 6960
+  },
+  "49": {
+    "id": 49,
+    "goodsID": 131,
+    "playerLevel": 49,
+    "numPerDiamond": 8700,
+    "numPerGold": 6960
+  },
+  "50": {
+    "id": 50,
+    "goodsID": 131,
+    "playerLevel": 50,
+    "numPerDiamond": 8700,
+    "numPerGold": 6960
+  },
+  "51": {
+    "id": 51,
+    "goodsID": 131,
+    "playerLevel": 51,
+    "numPerDiamond": 9240,
+    "numPerGold": 6960
+  },
+  "52": {
+    "id": 52,
+    "goodsID": 131,
+    "playerLevel": 52,
+    "numPerDiamond": 9240,
+    "numPerGold": 6960
+  },
+  "53": {
+    "id": 53,
+    "goodsID": 131,
+    "playerLevel": 53,
+    "numPerDiamond": 9240,
+    "numPerGold": 6960
+  },
+  "54": {
+    "id": 54,
+    "goodsID": 131,
+    "playerLevel": 54,
+    "numPerDiamond": 9240,
+    "numPerGold": 6960
+  },
+  "55": {
+    "id": 55,
+    "goodsID": 131,
+    "playerLevel": 55,
+    "numPerDiamond": 9240,
+    "numPerGold": 6960
+  },
+  "56": {
+    "id": 56,
+    "goodsID": 131,
+    "playerLevel": 56,
+    "numPerDiamond": 9240,
+    "numPerGold": 6960
+  },
+  "57": {
+    "id": 57,
+    "goodsID": 131,
+    "playerLevel": 57,
+    "numPerDiamond": 9240,
+    "numPerGold": 6960
+  },
+  "58": {
+    "id": 58,
+    "goodsID": 131,
+    "playerLevel": 58,
+    "numPerDiamond": 9240,
+    "numPerGold": 6960
+  },
+  "59": {
+    "id": 59,
+    "goodsID": 131,
+    "playerLevel": 59,
+    "numPerDiamond": 9240,
+    "numPerGold": 6960
+  },
+  "60": {
+    "id": 60,
+    "goodsID": 131,
+    "playerLevel": 60,
+    "numPerDiamond": 9240,
+    "numPerGold": 6960
+  },
+  "61": {
+    "id": 61,
+    "goodsID": 131,
+    "playerLevel": 61,
+    "numPerDiamond": 10260,
+    "numPerGold": 6960
+  },
+  "62": {
+    "id": 62,
+    "goodsID": 131,
+    "playerLevel": 62,
+    "numPerDiamond": 10260,
+    "numPerGold": 6960
+  },
+  "63": {
+    "id": 63,
+    "goodsID": 131,
+    "playerLevel": 63,
+    "numPerDiamond": 10260,
+    "numPerGold": 6960
+  },
+  "64": {
+    "id": 64,
+    "goodsID": 131,
+    "playerLevel": 64,
+    "numPerDiamond": 10260,
+    "numPerGold": 6960
+  },
+  "65": {
+    "id": 65,
+    "goodsID": 131,
+    "playerLevel": 65,
+    "numPerDiamond": 10260,
+    "numPerGold": 6960
+  },
+  "66": {
+    "id": 66,
+    "goodsID": 131,
+    "playerLevel": 66,
+    "numPerDiamond": 10260,
+    "numPerGold": 6960
+  },
+  "67": {
+    "id": 67,
+    "goodsID": 131,
+    "playerLevel": 67,
+    "numPerDiamond": 10260,
+    "numPerGold": 6960
+  },
+  "68": {
+    "id": 68,
+    "goodsID": 131,
+    "playerLevel": 68,
+    "numPerDiamond": 10260,
+    "numPerGold": 6960
+  },
+  "69": {
+    "id": 69,
+    "goodsID": 131,
+    "playerLevel": 69,
+    "numPerDiamond": 10260,
+    "numPerGold": 6960
+  },
+  "70": {
+    "id": 70,
+    "goodsID": 131,
+    "playerLevel": 70,
+    "numPerDiamond": 10260,
+    "numPerGold": 6960
+  },
+  "71": {
+    "id": 71,
+    "goodsID": 131,
+    "playerLevel": 71,
+    "numPerDiamond": 16320,
+    "numPerGold": 8539.534883720931
+  },
+  "72": {
+    "id": 72,
+    "goodsID": 131,
+    "playerLevel": 72,
+    "numPerDiamond": 16320,
+    "numPerGold": 8539.534883720931
+  },
+  "73": {
+    "id": 73,
+    "goodsID": 131,
+    "playerLevel": 73,
+    "numPerDiamond": 16320,
+    "numPerGold": 8539.534883720931
+  },
+  "74": {
+    "id": 74,
+    "goodsID": 131,
+    "playerLevel": 74,
+    "numPerDiamond": 16320,
+    "numPerGold": 8539.534883720931
+  },
+  "75": {
+    "id": 75,
+    "goodsID": 131,
+    "playerLevel": 75,
+    "numPerDiamond": 16320,
+    "numPerGold": 8539.534883720931
+  },
+  "76": {
+    "id": 76,
+    "goodsID": 131,
+    "playerLevel": 76,
+    "numPerDiamond": 16320,
+    "numPerGold": 8539.534883720931
+  },
+  "77": {
+    "id": 77,
+    "goodsID": 131,
+    "playerLevel": 77,
+    "numPerDiamond": 16320,
+    "numPerGold": 8539.534883720931
+  },
+  "78": {
+    "id": 78,
+    "goodsID": 131,
+    "playerLevel": 78,
+    "numPerDiamond": 16320,
+    "numPerGold": 8539.534883720931
+  },
+  "79": {
+    "id": 79,
+    "goodsID": 131,
+    "playerLevel": 79,
+    "numPerDiamond": 16320,
+    "numPerGold": 8539.534883720931
+  },
+  "80": {
+    "id": 80,
+    "goodsID": 131,
+    "playerLevel": 80,
+    "numPerDiamond": 16320,
+    "numPerGold": 8539.534883720931
+  },
+  "81": {
+    "id": 81,
+    "goodsID": 131,
+    "playerLevel": 81,
+    "numPerDiamond": 21960,
+    "numPerGold": 9856.684491978609
+  },
+  "82": {
+    "id": 82,
+    "goodsID": 131,
+    "playerLevel": 82,
+    "numPerDiamond": 21960,
+    "numPerGold": 9856.684491978609
+  },
+  "83": {
+    "id": 83,
+    "goodsID": 131,
+    "playerLevel": 83,
+    "numPerDiamond": 21960,
+    "numPerGold": 9856.684491978609
+  },
+  "84": {
+    "id": 84,
+    "goodsID": 131,
+    "playerLevel": 84,
+    "numPerDiamond": 21960,
+    "numPerGold": 9856.684491978609
+  },
+  "85": {
+    "id": 85,
+    "goodsID": 131,
+    "playerLevel": 85,
+    "numPerDiamond": 21960,
+    "numPerGold": 9856.684491978609
+  },
+  "86": {
+    "id": 86,
+    "goodsID": 131,
+    "playerLevel": 86,
+    "numPerDiamond": 28260,
+    "numPerGold": 11215.841584158416
+  },
+  "87": {
+    "id": 87,
+    "goodsID": 131,
+    "playerLevel": 87,
+    "numPerDiamond": 28260,
+    "numPerGold": 11215.841584158416
+  },
+  "88": {
+    "id": 88,
+    "goodsID": 131,
+    "playerLevel": 88,
+    "numPerDiamond": 28260,
+    "numPerGold": 11215.841584158416
+  },
+  "89": {
+    "id": 89,
+    "goodsID": 131,
+    "playerLevel": 89,
+    "numPerDiamond": 28260,
+    "numPerGold": 11215.841584158416
+  },
+  "90": {
+    "id": 90,
+    "goodsID": 131,
+    "playerLevel": 90,
+    "numPerDiamond": 28260,
+    "numPerGold": 11215.841584158416
+  },
+  "91": {
+    "id": 91,
+    "goodsID": 131,
+    "playerLevel": 91,
+    "numPerDiamond": 34980,
+    "numPerGold": 12546.976744186044
+  },
+  "92": {
+    "id": 92,
+    "goodsID": 131,
+    "playerLevel": 92,
+    "numPerDiamond": 34980,
+    "numPerGold": 12546.976744186044
+  },
+  "93": {
+    "id": 93,
+    "goodsID": 131,
+    "playerLevel": 93,
+    "numPerDiamond": 34980,
+    "numPerGold": 12546.976744186044
+  },
+  "94": {
+    "id": 94,
+    "goodsID": 131,
+    "playerLevel": 94,
+    "numPerDiamond": 34980,
+    "numPerGold": 12546.976744186044
+  },
+  "95": {
+    "id": 95,
+    "goodsID": 131,
+    "playerLevel": 95,
+    "numPerDiamond": 34980,
+    "numPerGold": 12546.976744186044
+  },
+  "96": {
+    "id": 96,
+    "goodsID": 131,
+    "playerLevel": 96,
+    "numPerDiamond": 41940,
+    "numPerGold": 13810.526315789473
+  },
+  "97": {
+    "id": 97,
+    "goodsID": 131,
+    "playerLevel": 97,
+    "numPerDiamond": 41940,
+    "numPerGold": 13810.526315789473
+  },
+  "98": {
+    "id": 98,
+    "goodsID": 131,
+    "playerLevel": 98,
+    "numPerDiamond": 41940,
+    "numPerGold": 13810.526315789473
+  },
+  "99": {
+    "id": 99,
+    "goodsID": 131,
+    "playerLevel": 99,
+    "numPerDiamond": 41940,
+    "numPerGold": 13810.526315789473
+  },
+  "100": {
+    "id": 100,
+    "goodsID": 131,
+    "playerLevel": 100,
+    "numPerDiamond": 41940,
+    "numPerGold": 13810.526315789473
+  },
+  "101": {
+    "id": 101,
+    "goodsID": 131,
+    "playerLevel": 101,
+    "numPerDiamond": 47940,
+    "numPerGold": 14658.921161825725
+  },
+  "102": {
+    "id": 102,
+    "goodsID": 131,
+    "playerLevel": 102,
+    "numPerDiamond": 47940,
+    "numPerGold": 14658.921161825725
+  },
+  "103": {
+    "id": 103,
+    "goodsID": 131,
+    "playerLevel": 103,
+    "numPerDiamond": 47940,
+    "numPerGold": 14658.921161825725
+  },
+  "104": {
+    "id": 104,
+    "goodsID": 131,
+    "playerLevel": 104,
+    "numPerDiamond": 47940,
+    "numPerGold": 14658.921161825725
+  },
+  "105": {
+    "id": 105,
+    "goodsID": 131,
+    "playerLevel": 105,
+    "numPerDiamond": 47940,
+    "numPerGold": 14658.921161825725
+  },
+  "106": {
+    "id": 106,
+    "goodsID": 131,
+    "playerLevel": 106,
+    "numPerDiamond": 54300,
+    "numPerGold": 15657.142857142857
+  },
+  "107": {
+    "id": 107,
+    "goodsID": 131,
+    "playerLevel": 107,
+    "numPerDiamond": 54300,
+    "numPerGold": 15657.142857142857
+  },
+  "108": {
+    "id": 108,
+    "goodsID": 131,
+    "playerLevel": 108,
+    "numPerDiamond": 54300,
+    "numPerGold": 15657.142857142857
+  },
+  "109": {
+    "id": 109,
+    "goodsID": 131,
+    "playerLevel": 109,
+    "numPerDiamond": 54300,
+    "numPerGold": 15657.142857142857
+  },
+  "110": {
+    "id": 110,
+    "goodsID": 131,
+    "playerLevel": 110,
+    "numPerDiamond": 54300,
+    "numPerGold": 15657.142857142857
+  },
+  "111": {
+    "id": 111,
+    "goodsID": 131,
+    "playerLevel": 111,
+    "numPerDiamond": 59700,
+    "numPerGold": 16441.37931034483
+  },
+  "112": {
+    "id": 112,
+    "goodsID": 131,
+    "playerLevel": 112,
+    "numPerDiamond": 59700,
+    "numPerGold": 16441.37931034483
+  },
+  "113": {
+    "id": 113,
+    "goodsID": 131,
+    "playerLevel": 113,
+    "numPerDiamond": 59700,
+    "numPerGold": 16441.37931034483
+  },
+  "114": {
+    "id": 114,
+    "goodsID": 131,
+    "playerLevel": 114,
+    "numPerDiamond": 59700,
+    "numPerGold": 16441.37931034483
+  },
+  "115": {
+    "id": 115,
+    "goodsID": 131,
+    "playerLevel": 115,
+    "numPerDiamond": 59700,
+    "numPerGold": 16441.37931034483
+  },
+  "116": {
+    "id": 116,
+    "goodsID": 131,
+    "playerLevel": 116,
+    "numPerDiamond": 63540,
+    "numPerGold": 16817.77777777778
+  },
+  "117": {
+    "id": 117,
+    "goodsID": 131,
+    "playerLevel": 117,
+    "numPerDiamond": 63540,
+    "numPerGold": 16817.77777777778
+  },
+  "118": {
+    "id": 118,
+    "goodsID": 131,
+    "playerLevel": 118,
+    "numPerDiamond": 63540,
+    "numPerGold": 16817.77777777778
+  },
+  "119": {
+    "id": 119,
+    "goodsID": 131,
+    "playerLevel": 119,
+    "numPerDiamond": 63540,
+    "numPerGold": 16817.77777777778
+  },
+  "120": {
+    "id": 120,
+    "goodsID": 131,
+    "playerLevel": 120,
+    "numPerDiamond": 63540,
+    "numPerGold": 16817.77777777778
+  },
+  "121": {
+    "id": 121,
+    "goodsID": 131,
+    "playerLevel": 121,
+    "numPerDiamond": 69840,
+    "numPerGold": 17594.306049822062
+  },
+  "122": {
+    "id": 122,
+    "goodsID": 131,
+    "playerLevel": 122,
+    "numPerDiamond": 69840,
+    "numPerGold": 17594.306049822062
+  },
+  "123": {
+    "id": 123,
+    "goodsID": 131,
+    "playerLevel": 123,
+    "numPerDiamond": 69840,
+    "numPerGold": 17594.306049822062
+  },
+  "124": {
+    "id": 124,
+    "goodsID": 131,
+    "playerLevel": 124,
+    "numPerDiamond": 69840,
+    "numPerGold": 17594.306049822062
+  },
+  "125": {
+    "id": 125,
+    "goodsID": 131,
+    "playerLevel": 125,
+    "numPerDiamond": 69840,
+    "numPerGold": 17594.306049822062
+  },
+  "126": {
+    "id": 126,
+    "goodsID": 131,
+    "playerLevel": 126,
+    "numPerDiamond": 76380,
+    "numPerGold": 18345.205479452055
+  },
+  "127": {
+    "id": 127,
+    "goodsID": 131,
+    "playerLevel": 127,
+    "numPerDiamond": 76380,
+    "numPerGold": 18345.205479452055
+  },
+  "128": {
+    "id": 128,
+    "goodsID": 131,
+    "playerLevel": 128,
+    "numPerDiamond": 76380,
+    "numPerGold": 18345.205479452055
+  },
+  "129": {
+    "id": 129,
+    "goodsID": 131,
+    "playerLevel": 129,
+    "numPerDiamond": 76380,
+    "numPerGold": 18345.205479452055
+  },
+  "130": {
+    "id": 130,
+    "goodsID": 131,
+    "playerLevel": 130,
+    "numPerDiamond": 76380,
+    "numPerGold": 18345.205479452055
+  },
+  "131": {
+    "id": 131,
+    "goodsID": 131,
+    "playerLevel": 131,
+    "numPerDiamond": 80640,
+    "numPerGold": 18721.59468438538
+  },
+  "132": {
+    "id": 132,
+    "goodsID": 131,
+    "playerLevel": 132,
+    "numPerDiamond": 80640,
+    "numPerGold": 18721.59468438538
+  },
+  "133": {
+    "id": 133,
+    "goodsID": 131,
+    "playerLevel": 133,
+    "numPerDiamond": 80640,
+    "numPerGold": 18721.59468438538
+  },
+  "134": {
+    "id": 134,
+    "goodsID": 131,
+    "playerLevel": 134,
+    "numPerDiamond": 80640,
+    "numPerGold": 18721.59468438538
+  },
+  "135": {
+    "id": 135,
+    "goodsID": 131,
+    "playerLevel": 135,
+    "numPerDiamond": 80640,
+    "numPerGold": 18721.59468438538
+  },
+  "136": {
+    "id": 136,
+    "goodsID": 131,
+    "playerLevel": 136,
+    "numPerDiamond": 84540,
+    "numPerGold": 19137.662337662336
+  },
+  "137": {
+    "id": 137,
+    "goodsID": 131,
+    "playerLevel": 137,
+    "numPerDiamond": 84540,
+    "numPerGold": 19137.662337662336
+  },
+  "138": {
+    "id": 138,
+    "goodsID": 131,
+    "playerLevel": 138,
+    "numPerDiamond": 84540,
+    "numPerGold": 19137.662337662336
+  },
+  "139": {
+    "id": 139,
+    "goodsID": 131,
+    "playerLevel": 139,
+    "numPerDiamond": 84540,
+    "numPerGold": 19137.662337662336
+  },
+  "140": {
+    "id": 140,
+    "goodsID": 131,
+    "playerLevel": 140,
+    "numPerDiamond": 84540,
+    "numPerGold": 19137.662337662336
+  },
+  "141": {
+    "id": 141,
+    "goodsID": 131,
+    "playerLevel": 141,
+    "numPerDiamond": 88440,
+    "numPerGold": 19502.839116719242
+  },
+  "142": {
+    "id": 142,
+    "goodsID": 131,
+    "playerLevel": 142,
+    "numPerDiamond": 88440,
+    "numPerGold": 19502.839116719242
+  },
+  "143": {
+    "id": 143,
+    "goodsID": 131,
+    "playerLevel": 143,
+    "numPerDiamond": 88440,
+    "numPerGold": 19502.839116719242
+  },
+  "144": {
+    "id": 144,
+    "goodsID": 131,
+    "playerLevel": 144,
+    "numPerDiamond": 88440,
+    "numPerGold": 19502.839116719242
+  },
+  "145": {
+    "id": 145,
+    "goodsID": 131,
+    "playerLevel": 145,
+    "numPerDiamond": 88440,
+    "numPerGold": 19502.839116719242
+  },
+  "146": {
+    "id": 146,
+    "goodsID": 131,
+    "playerLevel": 146,
+    "numPerDiamond": 90540,
+    "numPerGold": 19847.852760736198
+  },
+  "147": {
+    "id": 147,
+    "goodsID": 131,
+    "playerLevel": 147,
+    "numPerDiamond": 90540,
+    "numPerGold": 19847.852760736198
+  },
+  "148": {
+    "id": 148,
+    "goodsID": 131,
+    "playerLevel": 148,
+    "numPerDiamond": 90540,
+    "numPerGold": 19847.852760736198
+  },
+  "149": {
+    "id": 149,
+    "goodsID": 131,
+    "playerLevel": 149,
+    "numPerDiamond": 90540,
+    "numPerGold": 19847.852760736198
+  },
+  "150": {
+    "id": 150,
+    "goodsID": 131,
+    "playerLevel": 150,
+    "numPerDiamond": 90540,
+    "numPerGold": 19847.852760736198
+  },
+  "151": {
+    "id": 151,
+    "goodsID": 131,
+    "playerLevel": 151,
+    "numPerDiamond": 93060,
+    "numPerGold": 20432.23880597015
+  },
+  "152": {
+    "id": 152,
+    "goodsID": 131,
+    "playerLevel": 152,
+    "numPerDiamond": 93060,
+    "numPerGold": 20432.23880597015
+  },
+  "153": {
+    "id": 153,
+    "goodsID": 131,
+    "playerLevel": 153,
+    "numPerDiamond": 93060,
+    "numPerGold": 20432.23880597015
+  },
+  "154": {
+    "id": 154,
+    "goodsID": 131,
+    "playerLevel": 154,
+    "numPerDiamond": 93060,
+    "numPerGold": 20432.23880597015
+  },
+  "155": {
+    "id": 155,
+    "goodsID": 131,
+    "playerLevel": 155,
+    "numPerDiamond": 93060,
+    "numPerGold": 20432.23880597015
+  },
+  "156": {
+    "id": 156,
+    "goodsID": 131,
+    "playerLevel": 156,
+    "numPerDiamond": 95520,
+    "numPerGold": 21013.953488372095
+  },
+  "157": {
+    "id": 157,
+    "goodsID": 131,
+    "playerLevel": 157,
+    "numPerDiamond": 95520,
+    "numPerGold": 21013.953488372095
+  },
+  "158": {
+    "id": 158,
+    "goodsID": 131,
+    "playerLevel": 158,
+    "numPerDiamond": 95520,
+    "numPerGold": 21013.953488372095
+  },
+  "159": {
+    "id": 159,
+    "goodsID": 131,
+    "playerLevel": 159,
+    "numPerDiamond": 95520,
+    "numPerGold": 21013.953488372095
+  },
+  "160": {
+    "id": 160,
+    "goodsID": 131,
+    "playerLevel": 160,
+    "numPerDiamond": 95520,
+    "numPerGold": 21013.953488372095
+  },
+  "161": {
+    "id": 161,
+    "goodsID": 131,
+    "playerLevel": 161,
+    "numPerDiamond": 98040,
+    "numPerGold": 21566.00566572238
+  },
+  "162": {
+    "id": 162,
+    "goodsID": 131,
+    "playerLevel": 162,
+    "numPerDiamond": 98040,
+    "numPerGold": 21566.00566572238
+  },
+  "163": {
+    "id": 163,
+    "goodsID": 131,
+    "playerLevel": 163,
+    "numPerDiamond": 98040,
+    "numPerGold": 21566.00566572238
+  },
+  "164": {
+    "id": 164,
+    "goodsID": 131,
+    "playerLevel": 164,
+    "numPerDiamond": 98040,
+    "numPerGold": 21566.00566572238
+  },
+  "165": {
+    "id": 165,
+    "goodsID": 131,
+    "playerLevel": 165,
+    "numPerDiamond": 98040,
+    "numPerGold": 21566.00566572238
+  },
+  "166": {
+    "id": 166,
+    "goodsID": 131,
+    "playerLevel": 166,
+    "numPerDiamond": 100560,
+    "numPerGold": 21995.604395604398
+  },
+  "167": {
+    "id": 167,
+    "goodsID": 131,
+    "playerLevel": 167,
+    "numPerDiamond": 100560,
+    "numPerGold": 21995.604395604398
+  },
+  "168": {
+    "id": 168,
+    "goodsID": 131,
+    "playerLevel": 168,
+    "numPerDiamond": 100560,
+    "numPerGold": 21995.604395604398
+  },
+  "169": {
+    "id": 169,
+    "goodsID": 131,
+    "playerLevel": 169,
+    "numPerDiamond": 100560,
+    "numPerGold": 21995.604395604398
+  },
+  "170": {
+    "id": 170,
+    "goodsID": 131,
+    "playerLevel": 170,
+    "numPerDiamond": 100560,
+    "numPerGold": 21995.604395604398
+  },
+  "171": {
+    "id": 171,
+    "goodsID": 131,
+    "playerLevel": 171,
+    "numPerDiamond": 103080,
+    "numPerGold": 22571.581769436998
+  },
+  "172": {
+    "id": 172,
+    "goodsID": 131,
+    "playerLevel": 172,
+    "numPerDiamond": 103080,
+    "numPerGold": 22571.581769436998
+  },
+  "173": {
+    "id": 173,
+    "goodsID": 131,
+    "playerLevel": 173,
+    "numPerDiamond": 103080,
+    "numPerGold": 22571.581769436998
+  },
+  "174": {
+    "id": 174,
+    "goodsID": 131,
+    "playerLevel": 174,
+    "numPerDiamond": 103080,
+    "numPerGold": 22571.581769436998
+  },
+  "175": {
+    "id": 175,
+    "goodsID": 131,
+    "playerLevel": 175,
+    "numPerDiamond": 103080,
+    "numPerGold": 22571.581769436998
+  },
+  "176": {
+    "id": 176,
+    "goodsID": 131,
+    "playerLevel": 176,
+    "numPerDiamond": 107760,
+    "numPerGold": 23875.64766839378
+  },
+  "177": {
+    "id": 177,
+    "goodsID": 131,
+    "playerLevel": 177,
+    "numPerDiamond": 107760,
+    "numPerGold": 23875.64766839378
+  },
+  "178": {
+    "id": 178,
+    "goodsID": 131,
+    "playerLevel": 178,
+    "numPerDiamond": 107760,
+    "numPerGold": 23875.64766839378
+  },
+  "179": {
+    "id": 179,
+    "goodsID": 131,
+    "playerLevel": 179,
+    "numPerDiamond": 107760,
+    "numPerGold": 23875.64766839378
+  },
+  "180": {
+    "id": 180,
+    "goodsID": 131,
+    "playerLevel": 180,
+    "numPerDiamond": 107760,
+    "numPerGold": 23875.64766839378
+  },
+  "181": {
+    "id": 181,
+    "goodsID": 131,
+    "playerLevel": 181,
+    "numPerDiamond": 110880,
+    "numPerGold": 24616.62468513854
+  },
+  "182": {
+    "id": 182,
+    "goodsID": 131,
+    "playerLevel": 182,
+    "numPerDiamond": 110880,
+    "numPerGold": 24616.62468513854
+  },
+  "183": {
+    "id": 183,
+    "goodsID": 131,
+    "playerLevel": 183,
+    "numPerDiamond": 110880,
+    "numPerGold": 24616.62468513854
+  },
+  "184": {
+    "id": 184,
+    "goodsID": 131,
+    "playerLevel": 184,
+    "numPerDiamond": 110880,
+    "numPerGold": 24616.62468513854
+  },
+  "185": {
+    "id": 185,
+    "goodsID": 131,
+    "playerLevel": 185,
+    "numPerDiamond": 110880,
+    "numPerGold": 24616.62468513854
+  },
+  "186": {
+    "id": 186,
+    "goodsID": 131,
+    "playerLevel": 186,
+    "numPerDiamond": 113460,
+    "numPerGold": 25158.620689655174
+  },
+  "187": {
+    "id": 187,
+    "goodsID": 131,
+    "playerLevel": 187,
+    "numPerDiamond": 113460,
+    "numPerGold": 25158.620689655174
+  },
+  "188": {
+    "id": 188,
+    "goodsID": 131,
+    "playerLevel": 188,
+    "numPerDiamond": 113460,
+    "numPerGold": 25158.620689655174
+  },
+  "189": {
+    "id": 189,
+    "goodsID": 131,
+    "playerLevel": 189,
+    "numPerDiamond": 113460,
+    "numPerGold": 25158.620689655174
+  },
+  "190": {
+    "id": 190,
+    "goodsID": 131,
+    "playerLevel": 190,
+    "numPerDiamond": 113460,
+    "numPerGold": 25158.620689655174
+  },
+  "191": {
+    "id": 191,
+    "goodsID": 131,
+    "playerLevel": 191,
+    "numPerDiamond": 115980,
+    "numPerGold": 25723.37349397591
+  },
+  "192": {
+    "id": 192,
+    "goodsID": 131,
+    "playerLevel": 192,
+    "numPerDiamond": 115980,
+    "numPerGold": 25723.37349397591
+  },
+  "193": {
+    "id": 193,
+    "goodsID": 131,
+    "playerLevel": 193,
+    "numPerDiamond": 115980,
+    "numPerGold": 25723.37349397591
+  },
+  "194": {
+    "id": 194,
+    "goodsID": 131,
+    "playerLevel": 194,
+    "numPerDiamond": 115980,
+    "numPerGold": 25723.37349397591
+  },
+  "195": {
+    "id": 195,
+    "goodsID": 131,
+    "playerLevel": 195,
+    "numPerDiamond": 115980,
+    "numPerGold": 25723.37349397591
+  },
+  "196": {
+    "id": 196,
+    "goodsID": 131,
+    "playerLevel": 196,
+    "numPerDiamond": 118980,
+    "numPerGold": 26343.66197183099
+  },
+  "197": {
+    "id": 197,
+    "goodsID": 131,
+    "playerLevel": 197,
+    "numPerDiamond": 118980,
+    "numPerGold": 26343.66197183099
+  },
+  "198": {
+    "id": 198,
+    "goodsID": 131,
+    "playerLevel": 198,
+    "numPerDiamond": 118980,
+    "numPerGold": 26343.66197183099
+  },
+  "199": {
+    "id": 199,
+    "goodsID": 131,
+    "playerLevel": 199,
+    "numPerDiamond": 118980,
+    "numPerGold": 26343.66197183099
+  },
+  "200": {
+    "id": 200,
+    "goodsID": 131,
+    "playerLevel": 200,
+    "numPerDiamond": 118980,
+    "numPerGold": 26343.66197183099
+  },
+  "201": {
+    "id": 201,
+    "goodsID": 131,
+    "playerLevel": 201,
+    "numPerDiamond": 124200,
+    "numPerGold": 27755.10204081633
+  },
+  "202": {
+    "id": 202,
+    "goodsID": 131,
+    "playerLevel": 202,
+    "numPerDiamond": 124200,
+    "numPerGold": 27755.10204081633
+  },
+  "203": {
+    "id": 203,
+    "goodsID": 131,
+    "playerLevel": 203,
+    "numPerDiamond": 124200,
+    "numPerGold": 27755.10204081633
+  },
+  "204": {
+    "id": 204,
+    "goodsID": 131,
+    "playerLevel": 204,
+    "numPerDiamond": 124200,
+    "numPerGold": 27755.10204081633
+  },
+  "205": {
+    "id": 205,
+    "goodsID": 131,
+    "playerLevel": 205,
+    "numPerDiamond": 124200,
+    "numPerGold": 27755.10204081633
+  },
+  "206": {
+    "id": 206,
+    "goodsID": 131,
+    "playerLevel": 206,
+    "numPerDiamond": 130140,
+    "numPerGold": 28273.68421052632
+  },
+  "207": {
+    "id": 207,
+    "goodsID": 131,
+    "playerLevel": 207,
+    "numPerDiamond": 130140,
+    "numPerGold": 28273.68421052632
+  },
+  "208": {
+    "id": 208,
+    "goodsID": 131,
+    "playerLevel": 208,
+    "numPerDiamond": 130140,
+    "numPerGold": 28273.68421052632
+  },
+  "209": {
+    "id": 209,
+    "goodsID": 131,
+    "playerLevel": 209,
+    "numPerDiamond": 130140,
+    "numPerGold": 28273.68421052632
+  },
+  "210": {
+    "id": 210,
+    "goodsID": 131,
+    "playerLevel": 210,
+    "numPerDiamond": 130140,
+    "numPerGold": 28273.68421052632
+  },
+  "211": {
+    "id": 211,
+    "goodsID": 131,
+    "playerLevel": 211,
+    "numPerDiamond": 135540,
+    "numPerGold": 28388.865096359747
+  },
+  "212": {
+    "id": 212,
+    "goodsID": 131,
+    "playerLevel": 212,
+    "numPerDiamond": 135540,
+    "numPerGold": 28388.865096359747
+  },
+  "213": {
+    "id": 213,
+    "goodsID": 131,
+    "playerLevel": 213,
+    "numPerDiamond": 135540,
+    "numPerGold": 28388.865096359747
+  },
+  "214": {
+    "id": 214,
+    "goodsID": 131,
+    "playerLevel": 214,
+    "numPerDiamond": 135540,
+    "numPerGold": 28388.865096359747
+  },
+  "215": {
+    "id": 215,
+    "goodsID": 131,
+    "playerLevel": 215,
+    "numPerDiamond": 135540,
+    "numPerGold": 28388.865096359747
+  },
+  "216": {
+    "id": 216,
+    "goodsID": 131,
+    "playerLevel": 216,
+    "numPerDiamond": 141180,
+    "numPerGold": 28540
+  },
+  "217": {
+    "id": 217,
+    "goodsID": 131,
+    "playerLevel": 217,
+    "numPerDiamond": 141180,
+    "numPerGold": 28540
+  },
+  "218": {
+    "id": 218,
+    "goodsID": 131,
+    "playerLevel": 218,
+    "numPerDiamond": 141180,
+    "numPerGold": 28540
+  },
+  "219": {
+    "id": 219,
+    "goodsID": 131,
+    "playerLevel": 219,
+    "numPerDiamond": 141180,
+    "numPerGold": 28540
+  },
+  "220": {
+    "id": 220,
+    "goodsID": 131,
+    "playerLevel": 220,
+    "numPerDiamond": 141180,
+    "numPerGold": 28540
+  },
+  "221": {
+    "id": 221,
+    "goodsID": 131,
+    "playerLevel": 221,
+    "numPerDiamond": 147060,
+    "numPerGold": 28741.58215010142
+  },
+  "222": {
+    "id": 222,
+    "goodsID": 131,
+    "playerLevel": 222,
+    "numPerDiamond": 147060,
+    "numPerGold": 28741.58215010142
+  },
+  "223": {
+    "id": 223,
+    "goodsID": 131,
+    "playerLevel": 223,
+    "numPerDiamond": 147060,
+    "numPerGold": 28741.58215010142
+  },
+  "224": {
+    "id": 224,
+    "goodsID": 131,
+    "playerLevel": 224,
+    "numPerDiamond": 147060,
+    "numPerGold": 28741.58215010142
+  },
+  "225": {
+    "id": 225,
+    "goodsID": 131,
+    "playerLevel": 225,
+    "numPerDiamond": 147060,
+    "numPerGold": 28741.58215010136
+  },
+  "226": {
+    "id": 226,
+    "goodsID": 131,
+    "playerLevel": 226,
+    "numPerDiamond": 152580,
+    "numPerGold": 28856.692913385825
+  },
+  "227": {
+    "id": 227,
+    "goodsID": 131,
+    "playerLevel": 227,
+    "numPerDiamond": 152580,
+    "numPerGold": 28856.692913385825
+  },
+  "228": {
+    "id": 228,
+    "goodsID": 131,
+    "playerLevel": 228,
+    "numPerDiamond": 152580,
+    "numPerGold": 28856.692913385825
+  },
+  "229": {
+    "id": 229,
+    "goodsID": 131,
+    "playerLevel": 229,
+    "numPerDiamond": 152580,
+    "numPerGold": 28856.692913385825
+  },
+  "230": {
+    "id": 230,
+    "goodsID": 131,
+    "playerLevel": 230,
+    "numPerDiamond": 152580,
+    "numPerGold": 28856.692913385825
+  },
+  "231": {
+    "id": 231,
+    "goodsID": 131,
+    "playerLevel": 231,
+    "numPerDiamond": 159000,
+    "numPerGold": 29146.110056925998
+  },
+  "232": {
+    "id": 232,
+    "goodsID": 131,
+    "playerLevel": 232,
+    "numPerDiamond": 159000,
+    "numPerGold": 29146.110056925998
+  },
+  "233": {
+    "id": 233,
+    "goodsID": 131,
+    "playerLevel": 233,
+    "numPerDiamond": 159000,
+    "numPerGold": 29146.110056925998
+  },
+  "234": {
+    "id": 234,
+    "goodsID": 131,
+    "playerLevel": 234,
+    "numPerDiamond": 159000,
+    "numPerGold": 29146.110056925998
+  },
+  "235": {
+    "id": 235,
+    "goodsID": 131,
+    "playerLevel": 235,
+    "numPerDiamond": 159000,
+    "numPerGold": 29146.110056925998
+  },
+  "236": {
+    "id": 236,
+    "goodsID": 131,
+    "playerLevel": 236,
+    "numPerDiamond": 165240,
+    "numPerGold": 29503.2967032967
+  },
+  "237": {
+    "id": 237,
+    "goodsID": 131,
+    "playerLevel": 237,
+    "numPerDiamond": 165240,
+    "numPerGold": 29503.2967032967
+  },
+  "238": {
+    "id": 238,
+    "goodsID": 131,
+    "playerLevel": 238,
+    "numPerDiamond": 165240,
+    "numPerGold": 29503.2967032967
+  },
+  "239": {
+    "id": 239,
+    "goodsID": 131,
+    "playerLevel": 239,
+    "numPerDiamond": 165240,
+    "numPerGold": 29503.2967032967
+  },
+  "240": {
+    "id": 240,
+    "goodsID": 131,
+    "playerLevel": 240,
+    "numPerDiamond": 165240,
+    "numPerGold": 29503.2967032967
+  },
+  "241": {
+    "id": 241,
+    "goodsID": 131,
+    "playerLevel": 241,
+    "numPerDiamond": 171480,
+    "numPerGold": 29819.469026548675
+  },
+  "242": {
+    "id": 242,
+    "goodsID": 131,
+    "playerLevel": 242,
+    "numPerDiamond": 171480,
+    "numPerGold": 29819.469026548675
+  },
+  "243": {
+    "id": 243,
+    "goodsID": 131,
+    "playerLevel": 243,
+    "numPerDiamond": 171480,
+    "numPerGold": 29819.469026548675
+  },
+  "244": {
+    "id": 244,
+    "goodsID": 131,
+    "playerLevel": 244,
+    "numPerDiamond": 171480,
+    "numPerGold": 29819.469026548675
+  },
+  "245": {
+    "id": 245,
+    "goodsID": 131,
+    "playerLevel": 245,
+    "numPerDiamond": 171480,
+    "numPerGold": 29819.469026548675
+  },
+  "246": {
+    "id": 246,
+    "goodsID": 131,
+    "playerLevel": 246,
+    "numPerDiamond": 171480,
+    "numPerGold": 29819.469026548675
+  },
+  "247": {
+    "id": 247,
+    "goodsID": 131,
+    "playerLevel": 247,
+    "numPerDiamond": 171480,
+    "numPerGold": 29819.469026548675
+  },
+  "248": {
+    "id": 248,
+    "goodsID": 131,
+    "playerLevel": 248,
+    "numPerDiamond": 171480,
+    "numPerGold": 29819.469026548675
+  },
+  "249": {
+    "id": 249,
+    "goodsID": 131,
+    "playerLevel": 249,
+    "numPerDiamond": 171480,
+    "numPerGold": 29819.469026548675
+  },
+  "250": {
+    "id": 250,
+    "goodsID": 131,
+    "playerLevel": 250,
+    "numPerDiamond": 171480,
+    "numPerGold": 29819.469026548675
+  },
+  "251": {
+    "id": 251,
+    "goodsID": 132,
+    "playerLevel": 1,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "252": {
+    "id": 252,
+    "goodsID": 132,
+    "playerLevel": 2,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "253": {
+    "id": 253,
+    "goodsID": 132,
+    "playerLevel": 3,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "254": {
+    "id": 254,
+    "goodsID": 132,
+    "playerLevel": 4,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "255": {
+    "id": 255,
+    "goodsID": 132,
+    "playerLevel": 5,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "256": {
+    "id": 256,
+    "goodsID": 132,
+    "playerLevel": 6,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "257": {
+    "id": 257,
+    "goodsID": 132,
+    "playerLevel": 7,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "258": {
+    "id": 258,
+    "goodsID": 132,
+    "playerLevel": 8,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "259": {
+    "id": 259,
+    "goodsID": 132,
+    "playerLevel": 9,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "260": {
+    "id": 260,
+    "goodsID": 132,
+    "playerLevel": 10,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "261": {
+    "id": 261,
+    "goodsID": 132,
+    "playerLevel": 11,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "262": {
+    "id": 262,
+    "goodsID": 132,
+    "playerLevel": 12,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "263": {
+    "id": 263,
+    "goodsID": 132,
+    "playerLevel": 13,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "264": {
+    "id": 264,
+    "goodsID": 132,
+    "playerLevel": 14,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "265": {
+    "id": 265,
+    "goodsID": 132,
+    "playerLevel": 15,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "266": {
+    "id": 266,
+    "goodsID": 132,
+    "playerLevel": 16,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "267": {
+    "id": 267,
+    "goodsID": 132,
+    "playerLevel": 17,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "268": {
+    "id": 268,
+    "goodsID": 132,
+    "playerLevel": 18,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "269": {
+    "id": 269,
+    "goodsID": 132,
+    "playerLevel": 19,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "270": {
+    "id": 270,
+    "goodsID": 132,
+    "playerLevel": 20,
+    "numPerDiamond": 708,
+    "numPerGold": 696
+  },
+  "271": {
+    "id": 271,
+    "goodsID": 132,
+    "playerLevel": 21,
+    "numPerDiamond": 768,
+    "numPerGold": 696
+  },
+  "272": {
+    "id": 272,
+    "goodsID": 132,
+    "playerLevel": 22,
+    "numPerDiamond": 768,
+    "numPerGold": 696
+  },
+  "273": {
+    "id": 273,
+    "goodsID": 132,
+    "playerLevel": 23,
+    "numPerDiamond": 768,
+    "numPerGold": 696
+  },
+  "274": {
+    "id": 274,
+    "goodsID": 132,
+    "playerLevel": 24,
+    "numPerDiamond": 768,
+    "numPerGold": 696
+  },
+  "275": {
+    "id": 275,
+    "goodsID": 132,
+    "playerLevel": 25,
+    "numPerDiamond": 768,
+    "numPerGold": 696
+  },
+  "276": {
+    "id": 276,
+    "goodsID": 132,
+    "playerLevel": 26,
+    "numPerDiamond": 768,
+    "numPerGold": 696
+  },
+  "277": {
+    "id": 277,
+    "goodsID": 132,
+    "playerLevel": 27,
+    "numPerDiamond": 768,
+    "numPerGold": 696
+  },
+  "278": {
+    "id": 278,
+    "goodsID": 132,
+    "playerLevel": 28,
+    "numPerDiamond": 768,
+    "numPerGold": 696
+  },
+  "279": {
+    "id": 279,
+    "goodsID": 132,
+    "playerLevel": 29,
+    "numPerDiamond": 768,
+    "numPerGold": 696
+  },
+  "280": {
+    "id": 280,
+    "goodsID": 132,
+    "playerLevel": 30,
+    "numPerDiamond": 768,
+    "numPerGold": 696
+  },
+  "281": {
+    "id": 281,
+    "goodsID": 132,
+    "playerLevel": 31,
+    "numPerDiamond": 816,
+    "numPerGold": 696
+  },
+  "282": {
+    "id": 282,
+    "goodsID": 132,
+    "playerLevel": 32,
+    "numPerDiamond": 816,
+    "numPerGold": 696
+  },
+  "283": {
+    "id": 283,
+    "goodsID": 132,
+    "playerLevel": 33,
+    "numPerDiamond": 816,
+    "numPerGold": 696
+  },
+  "284": {
+    "id": 284,
+    "goodsID": 132,
+    "playerLevel": 34,
+    "numPerDiamond": 816,
+    "numPerGold": 696
+  },
+  "285": {
+    "id": 285,
+    "goodsID": 132,
+    "playerLevel": 35,
+    "numPerDiamond": 816,
+    "numPerGold": 696
+  },
+  "286": {
+    "id": 286,
+    "goodsID": 132,
+    "playerLevel": 36,
+    "numPerDiamond": 816,
+    "numPerGold": 696
+  },
+  "287": {
+    "id": 287,
+    "goodsID": 132,
+    "playerLevel": 37,
+    "numPerDiamond": 816,
+    "numPerGold": 696
+  },
+  "288": {
+    "id": 288,
+    "goodsID": 132,
+    "playerLevel": 38,
+    "numPerDiamond": 816,
+    "numPerGold": 696
+  },
+  "289": {
+    "id": 289,
+    "goodsID": 132,
+    "playerLevel": 39,
+    "numPerDiamond": 816,
+    "numPerGold": 696
+  },
+  "290": {
+    "id": 290,
+    "goodsID": 132,
+    "playerLevel": 40,
+    "numPerDiamond": 816,
+    "numPerGold": 696
+  },
+  "291": {
+    "id": 291,
+    "goodsID": 132,
+    "playerLevel": 41,
+    "numPerDiamond": 870,
+    "numPerGold": 696
+  },
+  "292": {
+    "id": 292,
+    "goodsID": 132,
+    "playerLevel": 42,
+    "numPerDiamond": 870,
+    "numPerGold": 696
+  },
+  "293": {
+    "id": 293,
+    "goodsID": 132,
+    "playerLevel": 43,
+    "numPerDiamond": 870,
+    "numPerGold": 696
+  },
+  "294": {
+    "id": 294,
+    "goodsID": 132,
+    "playerLevel": 44,
+    "numPerDiamond": 870,
+    "numPerGold": 696
+  },
+  "295": {
+    "id": 295,
+    "goodsID": 132,
+    "playerLevel": 45,
+    "numPerDiamond": 870,
+    "numPerGold": 696
+  },
+  "296": {
+    "id": 296,
+    "goodsID": 132,
+    "playerLevel": 46,
+    "numPerDiamond": 870,
+    "numPerGold": 696
+  },
+  "297": {
+    "id": 297,
+    "goodsID": 132,
+    "playerLevel": 47,
+    "numPerDiamond": 870,
+    "numPerGold": 696
+  },
+  "298": {
+    "id": 298,
+    "goodsID": 132,
+    "playerLevel": 48,
+    "numPerDiamond": 870,
+    "numPerGold": 696
+  },
+  "299": {
+    "id": 299,
+    "goodsID": 132,
+    "playerLevel": 49,
+    "numPerDiamond": 870,
+    "numPerGold": 696
+  },
+  "300": {
+    "id": 300,
+    "goodsID": 132,
+    "playerLevel": 50,
+    "numPerDiamond": 870,
+    "numPerGold": 696
+  },
+  "301": {
+    "id": 301,
+    "goodsID": 132,
+    "playerLevel": 51,
+    "numPerDiamond": 924,
+    "numPerGold": 696
+  },
+  "302": {
+    "id": 302,
+    "goodsID": 132,
+    "playerLevel": 52,
+    "numPerDiamond": 924,
+    "numPerGold": 696
+  },
+  "303": {
+    "id": 303,
+    "goodsID": 132,
+    "playerLevel": 53,
+    "numPerDiamond": 924,
+    "numPerGold": 696
+  },
+  "304": {
+    "id": 304,
+    "goodsID": 132,
+    "playerLevel": 54,
+    "numPerDiamond": 924,
+    "numPerGold": 696
+  },
+  "305": {
+    "id": 305,
+    "goodsID": 132,
+    "playerLevel": 55,
+    "numPerDiamond": 924,
+    "numPerGold": 696
+  },
+  "306": {
+    "id": 306,
+    "goodsID": 132,
+    "playerLevel": 56,
+    "numPerDiamond": 924,
+    "numPerGold": 696
+  },
+  "307": {
+    "id": 307,
+    "goodsID": 132,
+    "playerLevel": 57,
+    "numPerDiamond": 924,
+    "numPerGold": 696
+  },
+  "308": {
+    "id": 308,
+    "goodsID": 132,
+    "playerLevel": 58,
+    "numPerDiamond": 924,
+    "numPerGold": 696
+  },
+  "309": {
+    "id": 309,
+    "goodsID": 132,
+    "playerLevel": 59,
+    "numPerDiamond": 924,
+    "numPerGold": 696
+  },
+  "310": {
+    "id": 310,
+    "goodsID": 132,
+    "playerLevel": 60,
+    "numPerDiamond": 924,
+    "numPerGold": 696
+  },
+  "311": {
+    "id": 311,
+    "goodsID": 132,
+    "playerLevel": 61,
+    "numPerDiamond": 1026,
+    "numPerGold": 703.5616438356165
+  },
+  "312": {
+    "id": 312,
+    "goodsID": 132,
+    "playerLevel": 62,
+    "numPerDiamond": 1026,
+    "numPerGold": 703.5616438356165
+  },
+  "313": {
+    "id": 313,
+    "goodsID": 132,
+    "playerLevel": 63,
+    "numPerDiamond": 1026,
+    "numPerGold": 703.5616438356165
+  },
+  "314": {
+    "id": 314,
+    "goodsID": 132,
+    "playerLevel": 64,
+    "numPerDiamond": 1026,
+    "numPerGold": 703.5616438356165
+  },
+  "315": {
+    "id": 315,
+    "goodsID": 132,
+    "playerLevel": 65,
+    "numPerDiamond": 1026,
+    "numPerGold": 703.5616438356165
+  },
+  "316": {
+    "id": 316,
+    "goodsID": 132,
+    "playerLevel": 66,
+    "numPerDiamond": 1026,
+    "numPerGold": 703.5616438356165
+  },
+  "317": {
+    "id": 317,
+    "goodsID": 132,
+    "playerLevel": 67,
+    "numPerDiamond": 1026,
+    "numPerGold": 703.5616438356165
+  },
+  "318": {
+    "id": 318,
+    "goodsID": 132,
+    "playerLevel": 68,
+    "numPerDiamond": 1026,
+    "numPerGold": 703.5616438356165
+  },
+  "319": {
+    "id": 319,
+    "goodsID": 132,
+    "playerLevel": 69,
+    "numPerDiamond": 1026,
+    "numPerGold": 703.5616438356165
+  },
+  "320": {
+    "id": 320,
+    "goodsID": 132,
+    "playerLevel": 70,
+    "numPerDiamond": 1026,
+    "numPerGold": 703.5616438356165
+  },
+  "321": {
+    "id": 321,
+    "goodsID": 132,
+    "playerLevel": 71,
+    "numPerDiamond": 1266,
+    "numPerGold": 853.9534883720929
+  },
+  "322": {
+    "id": 322,
+    "goodsID": 132,
+    "playerLevel": 72,
+    "numPerDiamond": 1266,
+    "numPerGold": 853.9534883720929
+  },
+  "323": {
+    "id": 323,
+    "goodsID": 132,
+    "playerLevel": 73,
+    "numPerDiamond": 1266,
+    "numPerGold": 853.9534883720929
+  },
+  "324": {
+    "id": 324,
+    "goodsID": 132,
+    "playerLevel": 74,
+    "numPerDiamond": 1266,
+    "numPerGold": 853.9534883720929
+  },
+  "325": {
+    "id": 325,
+    "goodsID": 132,
+    "playerLevel": 75,
+    "numPerDiamond": 1266,
+    "numPerGold": 853.9534883720929
+  },
+  "326": {
+    "id": 326,
+    "goodsID": 132,
+    "playerLevel": 76,
+    "numPerDiamond": 1266,
+    "numPerGold": 853.9534883720929
+  },
+  "327": {
+    "id": 327,
+    "goodsID": 132,
+    "playerLevel": 77,
+    "numPerDiamond": 1266,
+    "numPerGold": 853.9534883720929
+  },
+  "328": {
+    "id": 328,
+    "goodsID": 132,
+    "playerLevel": 78,
+    "numPerDiamond": 1266,
+    "numPerGold": 853.9534883720929
+  },
+  "329": {
+    "id": 329,
+    "goodsID": 132,
+    "playerLevel": 79,
+    "numPerDiamond": 1266,
+    "numPerGold": 853.9534883720929
+  },
+  "330": {
+    "id": 330,
+    "goodsID": 132,
+    "playerLevel": 80,
+    "numPerDiamond": 1266,
+    "numPerGold": 853.9534883720929
+  },
+  "331": {
+    "id": 331,
+    "goodsID": 132,
+    "playerLevel": 81,
+    "numPerDiamond": 1404,
+    "numPerGold": 985.6684491978609
+  },
+  "332": {
+    "id": 332,
+    "goodsID": 132,
+    "playerLevel": 82,
+    "numPerDiamond": 1404,
+    "numPerGold": 985.6684491978609
+  },
+  "333": {
+    "id": 333,
+    "goodsID": 132,
+    "playerLevel": 83,
+    "numPerDiamond": 1404,
+    "numPerGold": 985.6684491978609
+  },
+  "334": {
+    "id": 334,
+    "goodsID": 132,
+    "playerLevel": 84,
+    "numPerDiamond": 1404,
+    "numPerGold": 985.6684491978609
+  },
+  "335": {
+    "id": 335,
+    "goodsID": 132,
+    "playerLevel": 85,
+    "numPerDiamond": 1404,
+    "numPerGold": 985.6684491978609
+  },
+  "336": {
+    "id": 336,
+    "goodsID": 132,
+    "playerLevel": 86,
+    "numPerDiamond": 1542,
+    "numPerGold": 1121.5841584158416
+  },
+  "337": {
+    "id": 337,
+    "goodsID": 132,
+    "playerLevel": 87,
+    "numPerDiamond": 1542,
+    "numPerGold": 1121.5841584158416
+  },
+  "338": {
+    "id": 338,
+    "goodsID": 132,
+    "playerLevel": 88,
+    "numPerDiamond": 1542,
+    "numPerGold": 1121.5841584158416
+  },
+  "339": {
+    "id": 339,
+    "goodsID": 132,
+    "playerLevel": 89,
+    "numPerDiamond": 1542,
+    "numPerGold": 1121.5841584158416
+  },
+  "340": {
+    "id": 340,
+    "goodsID": 132,
+    "playerLevel": 90,
+    "numPerDiamond": 1542,
+    "numPerGold": 1121.5841584158416
+  },
+  "341": {
+    "id": 341,
+    "goodsID": 132,
+    "playerLevel": 91,
+    "numPerDiamond": 1680,
+    "numPerGold": 1254.6976744186047
+  },
+  "342": {
+    "id": 342,
+    "goodsID": 132,
+    "playerLevel": 92,
+    "numPerDiamond": 1680,
+    "numPerGold": 1254.6976744186047
+  },
+  "343": {
+    "id": 343,
+    "goodsID": 132,
+    "playerLevel": 93,
+    "numPerDiamond": 1680,
+    "numPerGold": 1254.6976744186047
+  },
+  "344": {
+    "id": 344,
+    "goodsID": 132,
+    "playerLevel": 94,
+    "numPerDiamond": 1680,
+    "numPerGold": 1254.6976744186047
+  },
+  "345": {
+    "id": 345,
+    "goodsID": 132,
+    "playerLevel": 95,
+    "numPerDiamond": 1680,
+    "numPerGold": 1254.6976744186047
+  },
+  "346": {
+    "id": 346,
+    "goodsID": 132,
+    "playerLevel": 96,
+    "numPerDiamond": 1812,
+    "numPerGold": 1381.0526315789475
+  },
+  "347": {
+    "id": 347,
+    "goodsID": 132,
+    "playerLevel": 97,
+    "numPerDiamond": 1812,
+    "numPerGold": 1381.0526315789475
+  },
+  "348": {
+    "id": 348,
+    "goodsID": 132,
+    "playerLevel": 98,
+    "numPerDiamond": 1812,
+    "numPerGold": 1381.0526315789475
+  },
+  "349": {
+    "id": 349,
+    "goodsID": 132,
+    "playerLevel": 99,
+    "numPerDiamond": 1812,
+    "numPerGold": 1381.0526315789475
+  },
+  "350": {
+    "id": 350,
+    "goodsID": 132,
+    "playerLevel": 100,
+    "numPerDiamond": 1812,
+    "numPerGold": 1381.0526315789475
+  },
+  "351": {
+    "id": 351,
+    "goodsID": 132,
+    "playerLevel": 101,
+    "numPerDiamond": 1926,
+    "numPerGold": 1465.8921161825726
+  },
+  "352": {
+    "id": 352,
+    "goodsID": 132,
+    "playerLevel": 102,
+    "numPerDiamond": 1926,
+    "numPerGold": 1465.8921161825726
+  },
+  "353": {
+    "id": 353,
+    "goodsID": 132,
+    "playerLevel": 103,
+    "numPerDiamond": 1926,
+    "numPerGold": 1465.8921161825726
+  },
+  "354": {
+    "id": 354,
+    "goodsID": 132,
+    "playerLevel": 104,
+    "numPerDiamond": 1926,
+    "numPerGold": 1465.8921161825726
+  },
+  "355": {
+    "id": 355,
+    "goodsID": 132,
+    "playerLevel": 105,
+    "numPerDiamond": 1926,
+    "numPerGold": 1465.8921161825726
+  },
+  "356": {
+    "id": 356,
+    "goodsID": 132,
+    "playerLevel": 106,
+    "numPerDiamond": 2034,
+    "numPerGold": 1565.7142857142858
+  },
+  "357": {
+    "id": 357,
+    "goodsID": 132,
+    "playerLevel": 107,
+    "numPerDiamond": 2034,
+    "numPerGold": 1565.7142857142858
+  },
+  "358": {
+    "id": 358,
+    "goodsID": 132,
+    "playerLevel": 108,
+    "numPerDiamond": 2034,
+    "numPerGold": 1565.7142857142858
+  },
+  "359": {
+    "id": 359,
+    "goodsID": 132,
+    "playerLevel": 109,
+    "numPerDiamond": 2034,
+    "numPerGold": 1565.7142857142858
+  },
+  "360": {
+    "id": 360,
+    "goodsID": 132,
+    "playerLevel": 110,
+    "numPerDiamond": 2034,
+    "numPerGold": 1565.7142857142858
+  },
+  "361": {
+    "id": 361,
+    "goodsID": 132,
+    "playerLevel": 111,
+    "numPerDiamond": 2136,
+    "numPerGold": 1644.1379310344828
+  },
+  "362": {
+    "id": 362,
+    "goodsID": 132,
+    "playerLevel": 112,
+    "numPerDiamond": 2136,
+    "numPerGold": 1644.1379310344828
+  },
+  "363": {
+    "id": 363,
+    "goodsID": 132,
+    "playerLevel": 113,
+    "numPerDiamond": 2136,
+    "numPerGold": 1644.1379310344828
+  },
+  "364": {
+    "id": 364,
+    "goodsID": 132,
+    "playerLevel": 114,
+    "numPerDiamond": 2136,
+    "numPerGold": 1644.1379310344828
+  },
+  "365": {
+    "id": 365,
+    "goodsID": 132,
+    "playerLevel": 115,
+    "numPerDiamond": 2136,
+    "numPerGold": 1644.1379310344828
+  },
+  "366": {
+    "id": 366,
+    "goodsID": 132,
+    "playerLevel": 116,
+    "numPerDiamond": 2208,
+    "numPerGold": 1681.7777777777778
+  },
+  "367": {
+    "id": 367,
+    "goodsID": 132,
+    "playerLevel": 117,
+    "numPerDiamond": 2208,
+    "numPerGold": 1681.7777777777778
+  },
+  "368": {
+    "id": 368,
+    "goodsID": 132,
+    "playerLevel": 118,
+    "numPerDiamond": 2208,
+    "numPerGold": 1681.7777777777778
+  },
+  "369": {
+    "id": 369,
+    "goodsID": 132,
+    "playerLevel": 119,
+    "numPerDiamond": 2208,
+    "numPerGold": 1681.7777777777778
+  },
+  "370": {
+    "id": 370,
+    "goodsID": 132,
+    "playerLevel": 120,
+    "numPerDiamond": 2208,
+    "numPerGold": 1681.7777777777778
+  },
+  "371": {
+    "id": 371,
+    "goodsID": 132,
+    "playerLevel": 121,
+    "numPerDiamond": 2316,
+    "numPerGold": 1759.4306049822064
+  },
+  "372": {
+    "id": 372,
+    "goodsID": 132,
+    "playerLevel": 122,
+    "numPerDiamond": 2316,
+    "numPerGold": 1759.4306049822064
+  },
+  "373": {
+    "id": 373,
+    "goodsID": 132,
+    "playerLevel": 123,
+    "numPerDiamond": 2316,
+    "numPerGold": 1759.4306049822064
+  },
+  "374": {
+    "id": 374,
+    "goodsID": 132,
+    "playerLevel": 124,
+    "numPerDiamond": 2316,
+    "numPerGold": 1759.4306049822064
+  },
+  "375": {
+    "id": 375,
+    "goodsID": 132,
+    "playerLevel": 125,
+    "numPerDiamond": 2316,
+    "numPerGold": 1759.4306049822064
+  },
+  "376": {
+    "id": 376,
+    "goodsID": 132,
+    "playerLevel": 126,
+    "numPerDiamond": 2418,
+    "numPerGold": 1834.5205479452054
+  },
+  "377": {
+    "id": 377,
+    "goodsID": 132,
+    "playerLevel": 127,
+    "numPerDiamond": 2418,
+    "numPerGold": 1834.5205479452054
+  },
+  "378": {
+    "id": 378,
+    "goodsID": 132,
+    "playerLevel": 128,
+    "numPerDiamond": 2418,
+    "numPerGold": 1834.5205479452054
+  },
+  "379": {
+    "id": 379,
+    "goodsID": 132,
+    "playerLevel": 129,
+    "numPerDiamond": 2418,
+    "numPerGold": 1834.5205479452054
+  },
+  "380": {
+    "id": 380,
+    "goodsID": 132,
+    "playerLevel": 130,
+    "numPerDiamond": 2418,
+    "numPerGold": 1834.5205479452054
+  },
+  "381": {
+    "id": 381,
+    "goodsID": 132,
+    "playerLevel": 131,
+    "numPerDiamond": 2496,
+    "numPerGold": 1872.1594684385382
+  },
+  "382": {
+    "id": 382,
+    "goodsID": 132,
+    "playerLevel": 132,
+    "numPerDiamond": 2496,
+    "numPerGold": 1872.1594684385382
+  },
+  "383": {
+    "id": 383,
+    "goodsID": 132,
+    "playerLevel": 133,
+    "numPerDiamond": 2496,
+    "numPerGold": 1872.1594684385382
+  },
+  "384": {
+    "id": 384,
+    "goodsID": 132,
+    "playerLevel": 134,
+    "numPerDiamond": 2496,
+    "numPerGold": 1872.1594684385382
+  },
+  "385": {
+    "id": 385,
+    "goodsID": 132,
+    "playerLevel": 135,
+    "numPerDiamond": 2496,
+    "numPerGold": 1872.1594684385382
+  },
+  "386": {
+    "id": 386,
+    "goodsID": 132,
+    "playerLevel": 136,
+    "numPerDiamond": 2574,
+    "numPerGold": 1913.7662337662337
+  },
+  "387": {
+    "id": 387,
+    "goodsID": 132,
+    "playerLevel": 137,
+    "numPerDiamond": 2574,
+    "numPerGold": 1913.7662337662337
+  },
+  "388": {
+    "id": 388,
+    "goodsID": 132,
+    "playerLevel": 138,
+    "numPerDiamond": 2574,
+    "numPerGold": 1913.7662337662337
+  },
+  "389": {
+    "id": 389,
+    "goodsID": 132,
+    "playerLevel": 139,
+    "numPerDiamond": 2574,
+    "numPerGold": 1913.7662337662337
+  },
+  "390": {
+    "id": 390,
+    "goodsID": 132,
+    "playerLevel": 140,
+    "numPerDiamond": 2574,
+    "numPerGold": 1913.7662337662337
+  },
+  "391": {
+    "id": 391,
+    "goodsID": 132,
+    "playerLevel": 141,
+    "numPerDiamond": 2652,
+    "numPerGold": 1950.2839116719244
+  },
+  "392": {
+    "id": 392,
+    "goodsID": 132,
+    "playerLevel": 142,
+    "numPerDiamond": 2652,
+    "numPerGold": 1950.2839116719244
+  },
+  "393": {
+    "id": 393,
+    "goodsID": 132,
+    "playerLevel": 143,
+    "numPerDiamond": 2652,
+    "numPerGold": 1950.2839116719244
+  },
+  "394": {
+    "id": 394,
+    "goodsID": 132,
+    "playerLevel": 144,
+    "numPerDiamond": 2652,
+    "numPerGold": 1950.2839116719244
+  },
+  "395": {
+    "id": 395,
+    "goodsID": 132,
+    "playerLevel": 145,
+    "numPerDiamond": 2652,
+    "numPerGold": 1950.2839116719244
+  },
+  "396": {
+    "id": 396,
+    "goodsID": 132,
+    "playerLevel": 146,
+    "numPerDiamond": 2736,
+    "numPerGold": 1984.7852760736196
+  },
+  "397": {
+    "id": 397,
+    "goodsID": 132,
+    "playerLevel": 147,
+    "numPerDiamond": 2736,
+    "numPerGold": 1984.7852760736196
+  },
+  "398": {
+    "id": 398,
+    "goodsID": 132,
+    "playerLevel": 148,
+    "numPerDiamond": 2736,
+    "numPerGold": 1984.7852760736196
+  },
+  "399": {
+    "id": 399,
+    "goodsID": 132,
+    "playerLevel": 149,
+    "numPerDiamond": 2736,
+    "numPerGold": 1984.7852760736196
+  },
+  "400": {
+    "id": 400,
+    "goodsID": 132,
+    "playerLevel": 150,
+    "numPerDiamond": 2736,
+    "numPerGold": 1984.7852760736196
+  },
+  "401": {
+    "id": 401,
+    "goodsID": 132,
+    "playerLevel": 151,
+    "numPerDiamond": 2826,
+    "numPerGold": 2043.2238805970148
+  },
+  "402": {
+    "id": 402,
+    "goodsID": 132,
+    "playerLevel": 152,
+    "numPerDiamond": 2826,
+    "numPerGold": 2043.2238805970148
+  },
+  "403": {
+    "id": 403,
+    "goodsID": 132,
+    "playerLevel": 153,
+    "numPerDiamond": 2826,
+    "numPerGold": 2043.2238805970148
+  },
+  "404": {
+    "id": 404,
+    "goodsID": 132,
+    "playerLevel": 154,
+    "numPerDiamond": 2826,
+    "numPerGold": 2043.2238805970148
+  },
+  "405": {
+    "id": 405,
+    "goodsID": 132,
+    "playerLevel": 155,
+    "numPerDiamond": 2826,
+    "numPerGold": 2043.2238805970148
+  },
+  "406": {
+    "id": 406,
+    "goodsID": 132,
+    "playerLevel": 156,
+    "numPerDiamond": 2916,
+    "numPerGold": 2101.3953488372094
+  },
+  "407": {
+    "id": 407,
+    "goodsID": 132,
+    "playerLevel": 157,
+    "numPerDiamond": 2916,
+    "numPerGold": 2101.3953488372094
+  },
+  "408": {
+    "id": 408,
+    "goodsID": 132,
+    "playerLevel": 158,
+    "numPerDiamond": 2916,
+    "numPerGold": 2101.3953488372094
+  },
+  "409": {
+    "id": 409,
+    "goodsID": 132,
+    "playerLevel": 159,
+    "numPerDiamond": 2916,
+    "numPerGold": 2101.3953488372094
+  },
+  "410": {
+    "id": 410,
+    "goodsID": 132,
+    "playerLevel": 160,
+    "numPerDiamond": 2916,
+    "numPerGold": 2101.3953488372094
+  },
+  "411": {
+    "id": 411,
+    "goodsID": 132,
+    "playerLevel": 161,
+    "numPerDiamond": 3012,
+    "numPerGold": 2156.6005665722378
+  },
+  "412": {
+    "id": 412,
+    "goodsID": 132,
+    "playerLevel": 162,
+    "numPerDiamond": 3012,
+    "numPerGold": 2156.6005665722378
+  },
+  "413": {
+    "id": 413,
+    "goodsID": 132,
+    "playerLevel": 163,
+    "numPerDiamond": 3012,
+    "numPerGold": 2156.6005665722378
+  },
+  "414": {
+    "id": 414,
+    "goodsID": 132,
+    "playerLevel": 164,
+    "numPerDiamond": 3012,
+    "numPerGold": 2156.6005665722378
+  },
+  "415": {
+    "id": 415,
+    "goodsID": 132,
+    "playerLevel": 165,
+    "numPerDiamond": 3012,
+    "numPerGold": 2156.6005665722378
+  },
+  "416": {
+    "id": 416,
+    "goodsID": 132,
+    "playerLevel": 166,
+    "numPerDiamond": 3108,
+    "numPerGold": 2199.5604395604396
+  },
+  "417": {
+    "id": 417,
+    "goodsID": 132,
+    "playerLevel": 167,
+    "numPerDiamond": 3108,
+    "numPerGold": 2199.5604395604396
+  },
+  "418": {
+    "id": 418,
+    "goodsID": 132,
+    "playerLevel": 168,
+    "numPerDiamond": 3108,
+    "numPerGold": 2199.5604395604396
+  },
+  "419": {
+    "id": 419,
+    "goodsID": 132,
+    "playerLevel": 169,
+    "numPerDiamond": 3108,
+    "numPerGold": 2199.5604395604396
+  },
+  "420": {
+    "id": 420,
+    "goodsID": 132,
+    "playerLevel": 170,
+    "numPerDiamond": 3108,
+    "numPerGold": 2199.5604395604396
+  },
+  "421": {
+    "id": 421,
+    "goodsID": 132,
+    "playerLevel": 171,
+    "numPerDiamond": 3198,
+    "numPerGold": 2257.1581769437
+  },
+  "422": {
+    "id": 422,
+    "goodsID": 132,
+    "playerLevel": 172,
+    "numPerDiamond": 3198,
+    "numPerGold": 2257.1581769437
+  },
+  "423": {
+    "id": 423,
+    "goodsID": 132,
+    "playerLevel": 173,
+    "numPerDiamond": 3198,
+    "numPerGold": 2257.1581769437
+  },
+  "424": {
+    "id": 424,
+    "goodsID": 132,
+    "playerLevel": 174,
+    "numPerDiamond": 3198,
+    "numPerGold": 2257.1581769437
+  },
+  "425": {
+    "id": 425,
+    "goodsID": 132,
+    "playerLevel": 175,
+    "numPerDiamond": 3198,
+    "numPerGold": 2257.1581769437
+  },
+  "426": {
+    "id": 426,
+    "goodsID": 132,
+    "playerLevel": 176,
+    "numPerDiamond": 3348,
+    "numPerGold": 2387.564766839378
+  },
+  "427": {
+    "id": 427,
+    "goodsID": 132,
+    "playerLevel": 177,
+    "numPerDiamond": 3348,
+    "numPerGold": 2387.564766839378
+  },
+  "428": {
+    "id": 428,
+    "goodsID": 132,
+    "playerLevel": 178,
+    "numPerDiamond": 3348,
+    "numPerGold": 2387.564766839378
+  },
+  "429": {
+    "id": 429,
+    "goodsID": 132,
+    "playerLevel": 179,
+    "numPerDiamond": 3348,
+    "numPerGold": 2387.564766839378
+  },
+  "430": {
+    "id": 430,
+    "goodsID": 132,
+    "playerLevel": 180,
+    "numPerDiamond": 3348,
+    "numPerGold": 2387.564766839378
+  },
+  "431": {
+    "id": 431,
+    "goodsID": 132,
+    "playerLevel": 181,
+    "numPerDiamond": 3456,
+    "numPerGold": 2461.662468513854
+  },
+  "432": {
+    "id": 432,
+    "goodsID": 132,
+    "playerLevel": 182,
+    "numPerDiamond": 3456,
+    "numPerGold": 2461.662468513854
+  },
+  "433": {
+    "id": 433,
+    "goodsID": 132,
+    "playerLevel": 183,
+    "numPerDiamond": 3456,
+    "numPerGold": 2461.662468513854
+  },
+  "434": {
+    "id": 434,
+    "goodsID": 132,
+    "playerLevel": 184,
+    "numPerDiamond": 3456,
+    "numPerGold": 2461.662468513854
+  },
+  "435": {
+    "id": 435,
+    "goodsID": 132,
+    "playerLevel": 185,
+    "numPerDiamond": 3456,
+    "numPerGold": 2461.662468513854
+  },
+  "436": {
+    "id": 436,
+    "goodsID": 132,
+    "playerLevel": 186,
+    "numPerDiamond": 3552,
+    "numPerGold": 2515.862068965517
+  },
+  "437": {
+    "id": 437,
+    "goodsID": 132,
+    "playerLevel": 187,
+    "numPerDiamond": 3552,
+    "numPerGold": 2515.862068965517
+  },
+  "438": {
+    "id": 438,
+    "goodsID": 132,
+    "playerLevel": 188,
+    "numPerDiamond": 3552,
+    "numPerGold": 2515.862068965517
+  },
+  "439": {
+    "id": 439,
+    "goodsID": 132,
+    "playerLevel": 189,
+    "numPerDiamond": 3552,
+    "numPerGold": 2515.862068965517
+  },
+  "440": {
+    "id": 440,
+    "goodsID": 132,
+    "playerLevel": 190,
+    "numPerDiamond": 3552,
+    "numPerGold": 2515.862068965517
+  },
+  "441": {
+    "id": 441,
+    "goodsID": 132,
+    "playerLevel": 191,
+    "numPerDiamond": 3648,
+    "numPerGold": 2572.33734939759
+  },
+  "442": {
+    "id": 442,
+    "goodsID": 132,
+    "playerLevel": 192,
+    "numPerDiamond": 3648,
+    "numPerGold": 2572.33734939759
+  },
+  "443": {
+    "id": 443,
+    "goodsID": 132,
+    "playerLevel": 193,
+    "numPerDiamond": 3648,
+    "numPerGold": 2572.33734939759
+  },
+  "444": {
+    "id": 444,
+    "goodsID": 132,
+    "playerLevel": 194,
+    "numPerDiamond": 3648,
+    "numPerGold": 2572.33734939759
+  },
+  "445": {
+    "id": 445,
+    "goodsID": 132,
+    "playerLevel": 195,
+    "numPerDiamond": 3648,
+    "numPerGold": 2572.33734939759
+  },
+  "446": {
+    "id": 446,
+    "goodsID": 132,
+    "playerLevel": 196,
+    "numPerDiamond": 3756,
+    "numPerGold": 2634.3661971830984
+  },
+  "447": {
+    "id": 447,
+    "goodsID": 132,
+    "playerLevel": 197,
+    "numPerDiamond": 3756,
+    "numPerGold": 2634.3661971830984
+  },
+  "448": {
+    "id": 448,
+    "goodsID": 132,
+    "playerLevel": 198,
+    "numPerDiamond": 3756,
+    "numPerGold": 2634.3661971830984
+  },
+  "449": {
+    "id": 449,
+    "goodsID": 132,
+    "playerLevel": 199,
+    "numPerDiamond": 3756,
+    "numPerGold": 2634.3661971830984
+  },
+  "450": {
+    "id": 450,
+    "goodsID": 132,
+    "playerLevel": 200,
+    "numPerDiamond": 3756,
+    "numPerGold": 2634.3661971830984
+  },
+  "451": {
+    "id": 451,
+    "goodsID": 132,
+    "playerLevel": 201,
+    "numPerDiamond": 3918,
+    "numPerGold": 2775.5102040816323
+  },
+  "452": {
+    "id": 452,
+    "goodsID": 132,
+    "playerLevel": 202,
+    "numPerDiamond": 3918,
+    "numPerGold": 2775.5102040816323
+  },
+  "453": {
+    "id": 453,
+    "goodsID": 132,
+    "playerLevel": 203,
+    "numPerDiamond": 3918,
+    "numPerGold": 2775.5102040816323
+  },
+  "454": {
+    "id": 454,
+    "goodsID": 132,
+    "playerLevel": 204,
+    "numPerDiamond": 3918,
+    "numPerGold": 2775.5102040816323
+  },
+  "455": {
+    "id": 455,
+    "goodsID": 132,
+    "playerLevel": 205,
+    "numPerDiamond": 3918,
+    "numPerGold": 2775.5102040816323
+  },
+  "456": {
+    "id": 456,
+    "goodsID": 132,
+    "playerLevel": 206,
+    "numPerDiamond": 4068,
+    "numPerGold": 2827.3684210526317
+  },
+  "457": {
+    "id": 457,
+    "goodsID": 132,
+    "playerLevel": 207,
+    "numPerDiamond": 4068,
+    "numPerGold": 2827.3684210526317
+  },
+  "458": {
+    "id": 458,
+    "goodsID": 132,
+    "playerLevel": 208,
+    "numPerDiamond": 4068,
+    "numPerGold": 2827.3684210526317
+  },
+  "459": {
+    "id": 459,
+    "goodsID": 132,
+    "playerLevel": 209,
+    "numPerDiamond": 4068,
+    "numPerGold": 2827.3684210526317
+  },
+  "460": {
+    "id": 460,
+    "goodsID": 132,
+    "playerLevel": 210,
+    "numPerDiamond": 4068,
+    "numPerGold": 2827.3684210526317
+  },
+  "461": {
+    "id": 461,
+    "goodsID": 132,
+    "playerLevel": 211,
+    "numPerDiamond": 4194,
+    "numPerGold": 2838.886509635974
+  },
+  "462": {
+    "id": 462,
+    "goodsID": 132,
+    "playerLevel": 212,
+    "numPerDiamond": 4194,
+    "numPerGold": 2838.886509635974
+  },
+  "463": {
+    "id": 463,
+    "goodsID": 132,
+    "playerLevel": 213,
+    "numPerDiamond": 4194,
+    "numPerGold": 2838.886509635974
+  },
+  "464": {
+    "id": 464,
+    "goodsID": 132,
+    "playerLevel": 214,
+    "numPerDiamond": 4194,
+    "numPerGold": 2838.886509635974
+  },
+  "465": {
+    "id": 465,
+    "goodsID": 132,
+    "playerLevel": 215,
+    "numPerDiamond": 4194,
+    "numPerGold": 2838.886509635974
+  },
+  "466": {
+    "id": 466,
+    "goodsID": 132,
+    "playerLevel": 216,
+    "numPerDiamond": 4338,
+    "numPerGold": 2854
+  },
+  "467": {
+    "id": 467,
+    "goodsID": 132,
+    "playerLevel": 217,
+    "numPerDiamond": 4338,
+    "numPerGold": 2854
+  },
+  "468": {
+    "id": 468,
+    "goodsID": 132,
+    "playerLevel": 218,
+    "numPerDiamond": 4338,
+    "numPerGold": 2854
+  },
+  "469": {
+    "id": 469,
+    "goodsID": 132,
+    "playerLevel": 219,
+    "numPerDiamond": 4338,
+    "numPerGold": 2854
+  },
+  "470": {
+    "id": 470,
+    "goodsID": 132,
+    "playerLevel": 220,
+    "numPerDiamond": 4338,
+    "numPerGold": 2854
+  },
+  "471": {
+    "id": 471,
+    "goodsID": 132,
+    "playerLevel": 221,
+    "numPerDiamond": 4494,
+    "numPerGold": 2874.158215010142
+  },
+  "472": {
+    "id": 472,
+    "goodsID": 132,
+    "playerLevel": 222,
+    "numPerDiamond": 4494,
+    "numPerGold": 2874.158215010142
+  },
+  "473": {
+    "id": 473,
+    "goodsID": 132,
+    "playerLevel": 223,
+    "numPerDiamond": 4494,
+    "numPerGold": 2874.158215010142
+  },
+  "474": {
+    "id": 474,
+    "goodsID": 132,
+    "playerLevel": 224,
+    "numPerDiamond": 4494,
+    "numPerGold": 2874.158215010142
+  },
+  "475": {
+    "id": 475,
+    "goodsID": 132,
+    "playerLevel": 225,
+    "numPerDiamond": 4494,
+    "numPerGold": 2874.158215010142
+  },
+  "476": {
+    "id": 476,
+    "goodsID": 132,
+    "playerLevel": 226,
+    "numPerDiamond": 4650,
+    "numPerGold": 2885.6692913385828
+  },
+  "477": {
+    "id": 477,
+    "goodsID": 132,
+    "playerLevel": 227,
+    "numPerDiamond": 4650,
+    "numPerGold": 2885.6692913385828
+  },
+  "478": {
+    "id": 478,
+    "goodsID": 132,
+    "playerLevel": 228,
+    "numPerDiamond": 4650,
+    "numPerGold": 2885.6692913385828
+  },
+  "479": {
+    "id": 479,
+    "goodsID": 132,
+    "playerLevel": 229,
+    "numPerDiamond": 4650,
+    "numPerGold": 2885.6692913385828
+  },
+  "480": {
+    "id": 480,
+    "goodsID": 132,
+    "playerLevel": 230,
+    "numPerDiamond": 4650,
+    "numPerGold": 2885.6692913385828
+  },
+  "481": {
+    "id": 481,
+    "goodsID": 132,
+    "playerLevel": 231,
+    "numPerDiamond": 4860,
+    "numPerGold": 2914.6110056925995
+  },
+  "482": {
+    "id": 482,
+    "goodsID": 132,
+    "playerLevel": 232,
+    "numPerDiamond": 4860,
+    "numPerGold": 2914.6110056925995
+  },
+  "483": {
+    "id": 483,
+    "goodsID": 132,
+    "playerLevel": 233,
+    "numPerDiamond": 4860,
+    "numPerGold": 2914.6110056925995
+  },
+  "484": {
+    "id": 484,
+    "goodsID": 132,
+    "playerLevel": 234,
+    "numPerDiamond": 4860,
+    "numPerGold": 2914.6110056925995
+  },
+  "485": {
+    "id": 485,
+    "goodsID": 132,
+    "playerLevel": 235,
+    "numPerDiamond": 4860,
+    "numPerGold": 2914.6110056925995
+  },
+  "486": {
+    "id": 486,
+    "goodsID": 132,
+    "playerLevel": 236,
+    "numPerDiamond": 5082,
+    "numPerGold": 2950.3296703296705
+  },
+  "487": {
+    "id": 487,
+    "goodsID": 132,
+    "playerLevel": 237,
+    "numPerDiamond": 5082,
+    "numPerGold": 2950.3296703296705
+  },
+  "488": {
+    "id": 488,
+    "goodsID": 132,
+    "playerLevel": 238,
+    "numPerDiamond": 5082,
+    "numPerGold": 2950.3296703296705
+  },
+  "489": {
+    "id": 489,
+    "goodsID": 132,
+    "playerLevel": 239,
+    "numPerDiamond": 5082,
+    "numPerGold": 2950.3296703296705
+  },
+  "490": {
+    "id": 490,
+    "goodsID": 132,
+    "playerLevel": 240,
+    "numPerDiamond": 5082,
+    "numPerGold": 2950.3296703296705
+  },
+  "491": {
+    "id": 491,
+    "goodsID": 132,
+    "playerLevel": 241,
+    "numPerDiamond": 5298,
+    "numPerGold": 2981.9469026548672
+  },
+  "492": {
+    "id": 492,
+    "goodsID": 132,
+    "playerLevel": 242,
+    "numPerDiamond": 5298,
+    "numPerGold": 2981.9469026548672
+  },
+  "493": {
+    "id": 493,
+    "goodsID": 132,
+    "playerLevel": 243,
+    "numPerDiamond": 5298,
+    "numPerGold": 2981.9469026548672
+  },
+  "494": {
+    "id": 494,
+    "goodsID": 132,
+    "playerLevel": 244,
+    "numPerDiamond": 5298,
+    "numPerGold": 2981.9469026548672
+  },
+  "495": {
+    "id": 495,
+    "goodsID": 132,
+    "playerLevel": 245,
+    "numPerDiamond": 5298,
+    "numPerGold": 2981.9469026548672
+  },
+  "496": {
+    "id": 496,
+    "goodsID": 132,
+    "playerLevel": 246,
+    "numPerDiamond": 5298,
+    "numPerGold": 2981.9469026548672
+  },
+  "497": {
+    "id": 497,
+    "goodsID": 132,
+    "playerLevel": 247,
+    "numPerDiamond": 5298,
+    "numPerGold": 2981.9469026548672
+  },
+  "498": {
+    "id": 498,
+    "goodsID": 132,
+    "playerLevel": 248,
+    "numPerDiamond": 5298,
+    "numPerGold": 2981.9469026548672
+  },
+  "499": {
+    "id": 499,
+    "goodsID": 132,
+    "playerLevel": 249,
+    "numPerDiamond": 5298,
+    "numPerGold": 2981.9469026548672
+  },
+  "500": {
+    "id": 500,
+    "goodsID": 132,
+    "playerLevel": 250,
+    "numPerDiamond": 5298,
+    "numPerGold": 2981.9469026548672
+  },
+  "501": {
+    "id": 501,
+    "goodsID": 137,
+    "playerLevel": 1,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "502": {
+    "id": 502,
+    "goodsID": 137,
+    "playerLevel": 2,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "503": {
+    "id": 503,
+    "goodsID": 137,
+    "playerLevel": 3,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "504": {
+    "id": 504,
+    "goodsID": 137,
+    "playerLevel": 4,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "505": {
+    "id": 505,
+    "goodsID": 137,
+    "playerLevel": 5,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "506": {
+    "id": 506,
+    "goodsID": 137,
+    "playerLevel": 6,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "507": {
+    "id": 507,
+    "goodsID": 137,
+    "playerLevel": 7,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "508": {
+    "id": 508,
+    "goodsID": 137,
+    "playerLevel": 8,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "509": {
+    "id": 509,
+    "goodsID": 137,
+    "playerLevel": 9,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "510": {
+    "id": 510,
+    "goodsID": 137,
+    "playerLevel": 10,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "511": {
+    "id": 511,
+    "goodsID": 137,
+    "playerLevel": 11,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "512": {
+    "id": 512,
+    "goodsID": 137,
+    "playerLevel": 12,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "513": {
+    "id": 513,
+    "goodsID": 137,
+    "playerLevel": 13,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "514": {
+    "id": 514,
+    "goodsID": 137,
+    "playerLevel": 14,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "515": {
+    "id": 515,
+    "goodsID": 137,
+    "playerLevel": 15,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "516": {
+    "id": 516,
+    "goodsID": 137,
+    "playerLevel": 16,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "517": {
+    "id": 517,
+    "goodsID": 137,
+    "playerLevel": 17,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "518": {
+    "id": 518,
+    "goodsID": 137,
+    "playerLevel": 18,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "519": {
+    "id": 519,
+    "goodsID": 137,
+    "playerLevel": 19,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "520": {
+    "id": 520,
+    "goodsID": 137,
+    "playerLevel": 20,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "521": {
+    "id": 521,
+    "goodsID": 137,
+    "playerLevel": 21,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "522": {
+    "id": 522,
+    "goodsID": 137,
+    "playerLevel": 22,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "523": {
+    "id": 523,
+    "goodsID": 137,
+    "playerLevel": 23,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "524": {
+    "id": 524,
+    "goodsID": 137,
+    "playerLevel": 24,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "525": {
+    "id": 525,
+    "goodsID": 137,
+    "playerLevel": 25,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "526": {
+    "id": 526,
+    "goodsID": 137,
+    "playerLevel": 26,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "527": {
+    "id": 527,
+    "goodsID": 137,
+    "playerLevel": 27,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "528": {
+    "id": 528,
+    "goodsID": 137,
+    "playerLevel": 28,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "529": {
+    "id": 529,
+    "goodsID": 137,
+    "playerLevel": 29,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "530": {
+    "id": 530,
+    "goodsID": 137,
+    "playerLevel": 30,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "531": {
+    "id": 531,
+    "goodsID": 137,
+    "playerLevel": 31,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "532": {
+    "id": 532,
+    "goodsID": 137,
+    "playerLevel": 32,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "533": {
+    "id": 533,
+    "goodsID": 137,
+    "playerLevel": 33,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "534": {
+    "id": 534,
+    "goodsID": 137,
+    "playerLevel": 34,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "535": {
+    "id": 535,
+    "goodsID": 137,
+    "playerLevel": 35,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "536": {
+    "id": 536,
+    "goodsID": 137,
+    "playerLevel": 36,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "537": {
+    "id": 537,
+    "goodsID": 137,
+    "playerLevel": 37,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "538": {
+    "id": 538,
+    "goodsID": 137,
+    "playerLevel": 38,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "539": {
+    "id": 539,
+    "goodsID": 137,
+    "playerLevel": 39,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "540": {
+    "id": 540,
+    "goodsID": 137,
+    "playerLevel": 40,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "541": {
+    "id": 541,
+    "goodsID": 137,
+    "playerLevel": 41,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "542": {
+    "id": 542,
+    "goodsID": 137,
+    "playerLevel": 42,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "543": {
+    "id": 543,
+    "goodsID": 137,
+    "playerLevel": 43,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "544": {
+    "id": 544,
+    "goodsID": 137,
+    "playerLevel": 44,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "545": {
+    "id": 545,
+    "goodsID": 137,
+    "playerLevel": 45,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "546": {
+    "id": 546,
+    "goodsID": 137,
+    "playerLevel": 46,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "547": {
+    "id": 547,
+    "goodsID": 137,
+    "playerLevel": 47,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "548": {
+    "id": 548,
+    "goodsID": 137,
+    "playerLevel": 48,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "549": {
+    "id": 549,
+    "goodsID": 137,
+    "playerLevel": 49,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "550": {
+    "id": 550,
+    "goodsID": 137,
+    "playerLevel": 50,
+    "numPerDiamond": 153,
+    "numPerGold": 78
+  },
+  "551": {
+    "id": 551,
+    "goodsID": 137,
+    "playerLevel": 51,
+    "numPerDiamond": 162.6,
+    "numPerGold": 78
+  },
+  "552": {
+    "id": 552,
+    "goodsID": 137,
+    "playerLevel": 52,
+    "numPerDiamond": 162.6,
+    "numPerGold": 78
+  },
+  "553": {
+    "id": 553,
+    "goodsID": 137,
+    "playerLevel": 53,
+    "numPerDiamond": 162.6,
+    "numPerGold": 78
+  },
+  "554": {
+    "id": 554,
+    "goodsID": 137,
+    "playerLevel": 54,
+    "numPerDiamond": 162.6,
+    "numPerGold": 78
+  },
+  "555": {
+    "id": 555,
+    "goodsID": 137,
+    "playerLevel": 55,
+    "numPerDiamond": 162.6,
+    "numPerGold": 78
+  },
+  "556": {
+    "id": 556,
+    "goodsID": 137,
+    "playerLevel": 56,
+    "numPerDiamond": 162.6,
+    "numPerGold": 78
+  },
+  "557": {
+    "id": 557,
+    "goodsID": 137,
+    "playerLevel": 57,
+    "numPerDiamond": 162.6,
+    "numPerGold": 78
+  },
+  "558": {
+    "id": 558,
+    "goodsID": 137,
+    "playerLevel": 58,
+    "numPerDiamond": 162.6,
+    "numPerGold": 78
+  },
+  "559": {
+    "id": 559,
+    "goodsID": 137,
+    "playerLevel": 59,
+    "numPerDiamond": 162.6,
+    "numPerGold": 78
+  },
+  "560": {
+    "id": 560,
+    "goodsID": 137,
+    "playerLevel": 60,
+    "numPerDiamond": 162.6,
+    "numPerGold": 78
+  },
+  "561": {
+    "id": 561,
+    "goodsID": 137,
+    "playerLevel": 61,
+    "numPerDiamond": 172.79999999999998,
+    "numPerGold": 78
+  },
+  "562": {
+    "id": 562,
+    "goodsID": 137,
+    "playerLevel": 62,
+    "numPerDiamond": 172.79999999999998,
+    "numPerGold": 78
+  },
+  "563": {
+    "id": 563,
+    "goodsID": 137,
+    "playerLevel": 63,
+    "numPerDiamond": 172.79999999999998,
+    "numPerGold": 78
+  },
+  "564": {
+    "id": 564,
+    "goodsID": 137,
+    "playerLevel": 64,
+    "numPerDiamond": 172.79999999999998,
+    "numPerGold": 78
+  },
+  "565": {
+    "id": 565,
+    "goodsID": 137,
+    "playerLevel": 65,
+    "numPerDiamond": 172.79999999999998,
+    "numPerGold": 78
+  },
+  "566": {
+    "id": 566,
+    "goodsID": 137,
+    "playerLevel": 66,
+    "numPerDiamond": 172.79999999999998,
+    "numPerGold": 78
+  },
+  "567": {
+    "id": 567,
+    "goodsID": 137,
+    "playerLevel": 67,
+    "numPerDiamond": 172.79999999999998,
+    "numPerGold": 78
+  },
+  "568": {
+    "id": 568,
+    "goodsID": 137,
+    "playerLevel": 68,
+    "numPerDiamond": 172.79999999999998,
+    "numPerGold": 78
+  },
+  "569": {
+    "id": 569,
+    "goodsID": 137,
+    "playerLevel": 69,
+    "numPerDiamond": 172.79999999999998,
+    "numPerGold": 78
+  },
+  "570": {
+    "id": 570,
+    "goodsID": 137,
+    "playerLevel": 70,
+    "numPerDiamond": 172.79999999999998,
+    "numPerGold": 78
+  },
+  "571": {
+    "id": 571,
+    "goodsID": 137,
+    "playerLevel": 71,
+    "numPerDiamond": 183,
+    "numPerGold": 78
+  },
+  "572": {
+    "id": 572,
+    "goodsID": 137,
+    "playerLevel": 72,
+    "numPerDiamond": 183,
+    "numPerGold": 78
+  },
+  "573": {
+    "id": 573,
+    "goodsID": 137,
+    "playerLevel": 73,
+    "numPerDiamond": 183,
+    "numPerGold": 78
+  },
+  "574": {
+    "id": 574,
+    "goodsID": 137,
+    "playerLevel": 74,
+    "numPerDiamond": 183,
+    "numPerGold": 78
+  },
+  "575": {
+    "id": 575,
+    "goodsID": 137,
+    "playerLevel": 75,
+    "numPerDiamond": 183,
+    "numPerGold": 78
+  },
+  "576": {
+    "id": 576,
+    "goodsID": 137,
+    "playerLevel": 76,
+    "numPerDiamond": 183,
+    "numPerGold": 78
+  },
+  "577": {
+    "id": 577,
+    "goodsID": 137,
+    "playerLevel": 77,
+    "numPerDiamond": 183,
+    "numPerGold": 78
+  },
+  "578": {
+    "id": 578,
+    "goodsID": 137,
+    "playerLevel": 78,
+    "numPerDiamond": 183,
+    "numPerGold": 78
+  },
+  "579": {
+    "id": 579,
+    "goodsID": 137,
+    "playerLevel": 79,
+    "numPerDiamond": 183,
+    "numPerGold": 78
+  },
+  "580": {
+    "id": 580,
+    "goodsID": 137,
+    "playerLevel": 80,
+    "numPerDiamond": 183,
+    "numPerGold": 78
+  },
+  "581": {
+    "id": 581,
+    "goodsID": 137,
+    "playerLevel": 81,
+    "numPerDiamond": 193.20000000000002,
+    "numPerGold": 78
+  },
+  "582": {
+    "id": 582,
+    "goodsID": 137,
+    "playerLevel": 82,
+    "numPerDiamond": 193.20000000000002,
+    "numPerGold": 78
+  },
+  "583": {
+    "id": 583,
+    "goodsID": 137,
+    "playerLevel": 83,
+    "numPerDiamond": 193.20000000000002,
+    "numPerGold": 78
+  },
+  "584": {
+    "id": 584,
+    "goodsID": 137,
+    "playerLevel": 84,
+    "numPerDiamond": 193.20000000000002,
+    "numPerGold": 78
+  },
+  "585": {
+    "id": 585,
+    "goodsID": 137,
+    "playerLevel": 85,
+    "numPerDiamond": 193.20000000000002,
+    "numPerGold": 78
+  },
+  "586": {
+    "id": 586,
+    "goodsID": 137,
+    "playerLevel": 86,
+    "numPerDiamond": 202.79999999999998,
+    "numPerGold": 78
+  },
+  "587": {
+    "id": 587,
+    "goodsID": 137,
+    "playerLevel": 87,
+    "numPerDiamond": 202.79999999999998,
+    "numPerGold": 78
+  },
+  "588": {
+    "id": 588,
+    "goodsID": 137,
+    "playerLevel": 88,
+    "numPerDiamond": 202.79999999999998,
+    "numPerGold": 78
+  },
+  "589": {
+    "id": 589,
+    "goodsID": 137,
+    "playerLevel": 89,
+    "numPerDiamond": 202.79999999999998,
+    "numPerGold": 78
+  },
+  "590": {
+    "id": 590,
+    "goodsID": 137,
+    "playerLevel": 90,
+    "numPerDiamond": 202.79999999999998,
+    "numPerGold": 78
+  },
+  "591": {
+    "id": 591,
+    "goodsID": 137,
+    "playerLevel": 91,
+    "numPerDiamond": 213,
+    "numPerGold": 80.37209302325581
+  },
+  "592": {
+    "id": 592,
+    "goodsID": 137,
+    "playerLevel": 92,
+    "numPerDiamond": 213,
+    "numPerGold": 80.37209302325581
+  },
+  "593": {
+    "id": 593,
+    "goodsID": 137,
+    "playerLevel": 93,
+    "numPerDiamond": 213,
+    "numPerGold": 80.37209302325581
+  },
+  "594": {
+    "id": 594,
+    "goodsID": 137,
+    "playerLevel": 94,
+    "numPerDiamond": 213,
+    "numPerGold": 80.37209302325581
+  },
+  "595": {
+    "id": 595,
+    "goodsID": 137,
+    "playerLevel": 95,
+    "numPerDiamond": 213,
+    "numPerGold": 80.37209302325581
+  },
+  "596": {
+    "id": 596,
+    "goodsID": 137,
+    "playerLevel": 96,
+    "numPerDiamond": 223.20000000000002,
+    "numPerGold": 82.10526315789473
+  },
+  "597": {
+    "id": 597,
+    "goodsID": 137,
+    "playerLevel": 97,
+    "numPerDiamond": 223.20000000000002,
+    "numPerGold": 82.10526315789473
+  },
+  "598": {
+    "id": 598,
+    "goodsID": 137,
+    "playerLevel": 98,
+    "numPerDiamond": 223.20000000000002,
+    "numPerGold": 82.10526315789473
+  },
+  "599": {
+    "id": 599,
+    "goodsID": 137,
+    "playerLevel": 99,
+    "numPerDiamond": 223.20000000000002,
+    "numPerGold": 82.10526315789473
+  },
+  "600": {
+    "id": 600,
+    "goodsID": 137,
+    "playerLevel": 100,
+    "numPerDiamond": 223.20000000000002,
+    "numPerGold": 82.10526315789473
+  },
+  "601": {
+    "id": 601,
+    "goodsID": 137,
+    "playerLevel": 101,
+    "numPerDiamond": 232.79999999999998,
+    "numPerGold": 81.65975103734439
+  },
+  "602": {
+    "id": 602,
+    "goodsID": 137,
+    "playerLevel": 102,
+    "numPerDiamond": 232.79999999999998,
+    "numPerGold": 81.65975103734439
+  },
+  "603": {
+    "id": 603,
+    "goodsID": 137,
+    "playerLevel": 103,
+    "numPerDiamond": 232.79999999999998,
+    "numPerGold": 81.65975103734439
+  },
+  "604": {
+    "id": 604,
+    "goodsID": 137,
+    "playerLevel": 104,
+    "numPerDiamond": 232.79999999999998,
+    "numPerGold": 81.65975103734439
+  },
+  "605": {
+    "id": 605,
+    "goodsID": 137,
+    "playerLevel": 105,
+    "numPerDiamond": 232.79999999999998,
+    "numPerGold": 81.65975103734439
+  },
+  "606": {
+    "id": 606,
+    "goodsID": 137,
+    "playerLevel": 106,
+    "numPerDiamond": 243,
+    "numPerGold": 83.80952380952381
+  },
+  "607": {
+    "id": 607,
+    "goodsID": 137,
+    "playerLevel": 107,
+    "numPerDiamond": 243,
+    "numPerGold": 83.80952380952381
+  },
+  "608": {
+    "id": 608,
+    "goodsID": 137,
+    "playerLevel": 108,
+    "numPerDiamond": 243,
+    "numPerGold": 83.80952380952381
+  },
+  "609": {
+    "id": 609,
+    "goodsID": 137,
+    "playerLevel": 109,
+    "numPerDiamond": 243,
+    "numPerGold": 83.80952380952381
+  },
+  "610": {
+    "id": 610,
+    "goodsID": 137,
+    "playerLevel": 110,
+    "numPerDiamond": 243,
+    "numPerGold": 83.80952380952381
+  },
+  "611": {
+    "id": 611,
+    "goodsID": 137,
+    "playerLevel": 111,
+    "numPerDiamond": 298.2,
+    "numPerGold": 102.98850574712644
+  },
+  "612": {
+    "id": 612,
+    "goodsID": 137,
+    "playerLevel": 112,
+    "numPerDiamond": 298.2,
+    "numPerGold": 102.98850574712644
+  },
+  "613": {
+    "id": 613,
+    "goodsID": 137,
+    "playerLevel": 113,
+    "numPerDiamond": 298.2,
+    "numPerGold": 102.98850574712644
+  },
+  "614": {
+    "id": 614,
+    "goodsID": 137,
+    "playerLevel": 114,
+    "numPerDiamond": 298.2,
+    "numPerGold": 102.98850574712644
+  },
+  "615": {
+    "id": 615,
+    "goodsID": 137,
+    "playerLevel": 115,
+    "numPerDiamond": 298.2,
+    "numPerGold": 102.98850574712644
+  },
+  "616": {
+    "id": 616,
+    "goodsID": 137,
+    "playerLevel": 116,
+    "numPerDiamond": 352.8,
+    "numPerGold": 120.88888888888889
+  },
+  "617": {
+    "id": 617,
+    "goodsID": 137,
+    "playerLevel": 117,
+    "numPerDiamond": 352.8,
+    "numPerGold": 120.88888888888889
+  },
+  "618": {
+    "id": 618,
+    "goodsID": 137,
+    "playerLevel": 118,
+    "numPerDiamond": 352.8,
+    "numPerGold": 120.88888888888889
+  },
+  "619": {
+    "id": 619,
+    "goodsID": 137,
+    "playerLevel": 119,
+    "numPerDiamond": 352.8,
+    "numPerGold": 120.88888888888889
+  },
+  "620": {
+    "id": 620,
+    "goodsID": 137,
+    "playerLevel": 120,
+    "numPerDiamond": 352.8,
+    "numPerGold": 120.88888888888889
+  },
+  "621": {
+    "id": 621,
+    "goodsID": 137,
+    "playerLevel": 121,
+    "numPerDiamond": 408,
+    "numPerGold": 136.65480427046262
+  },
+  "622": {
+    "id": 622,
+    "goodsID": 137,
+    "playerLevel": 122,
+    "numPerDiamond": 408,
+    "numPerGold": 136.65480427046262
+  },
+  "623": {
+    "id": 623,
+    "goodsID": 137,
+    "playerLevel": 123,
+    "numPerDiamond": 408,
+    "numPerGold": 136.65480427046262
+  },
+  "624": {
+    "id": 624,
+    "goodsID": 137,
+    "playerLevel": 124,
+    "numPerDiamond": 408,
+    "numPerGold": 136.65480427046262
+  },
+  "625": {
+    "id": 625,
+    "goodsID": 137,
+    "playerLevel": 125,
+    "numPerDiamond": 408,
+    "numPerGold": 136.65480427046262
+  },
+  "626": {
+    "id": 626,
+    "goodsID": 137,
+    "playerLevel": 126,
+    "numPerDiamond": 463.2,
+    "numPerGold": 151.23287671232876
+  },
+  "627": {
+    "id": 627,
+    "goodsID": 137,
+    "playerLevel": 127,
+    "numPerDiamond": 463.2,
+    "numPerGold": 151.23287671232876
+  },
+  "628": {
+    "id": 628,
+    "goodsID": 137,
+    "playerLevel": 128,
+    "numPerDiamond": 463.2,
+    "numPerGold": 151.23287671232876
+  },
+  "629": {
+    "id": 629,
+    "goodsID": 137,
+    "playerLevel": 129,
+    "numPerDiamond": 463.2,
+    "numPerGold": 151.23287671232876
+  },
+  "630": {
+    "id": 630,
+    "goodsID": 137,
+    "playerLevel": 130,
+    "numPerDiamond": 463.2,
+    "numPerGold": 151.23287671232876
+  },
+  "631": {
+    "id": 631,
+    "goodsID": 137,
+    "playerLevel": 131,
+    "numPerDiamond": 517.8000000000001,
+    "numPerGold": 167.4418604651163
+  },
+  "632": {
+    "id": 632,
+    "goodsID": 137,
+    "playerLevel": 132,
+    "numPerDiamond": 517.8000000000001,
+    "numPerGold": 167.4418604651163
+  },
+  "633": {
+    "id": 633,
+    "goodsID": 137,
+    "playerLevel": 133,
+    "numPerDiamond": 517.8000000000001,
+    "numPerGold": 167.4418604651163
+  },
+  "634": {
+    "id": 634,
+    "goodsID": 137,
+    "playerLevel": 134,
+    "numPerDiamond": 517.8000000000001,
+    "numPerGold": 167.4418604651163
+  },
+  "635": {
+    "id": 635,
+    "goodsID": 137,
+    "playerLevel": 135,
+    "numPerDiamond": 517.8000000000001,
+    "numPerGold": 167.4418604651163
+  },
+  "636": {
+    "id": 636,
+    "goodsID": 137,
+    "playerLevel": 136,
+    "numPerDiamond": 573,
+    "numPerGold": 182.33766233766235
+  },
+  "637": {
+    "id": 637,
+    "goodsID": 137,
+    "playerLevel": 137,
+    "numPerDiamond": 573,
+    "numPerGold": 182.33766233766235
+  },
+  "638": {
+    "id": 638,
+    "goodsID": 137,
+    "playerLevel": 138,
+    "numPerDiamond": 573,
+    "numPerGold": 182.33766233766235
+  },
+  "639": {
+    "id": 639,
+    "goodsID": 137,
+    "playerLevel": 139,
+    "numPerDiamond": 573,
+    "numPerGold": 182.33766233766235
+  },
+  "640": {
+    "id": 640,
+    "goodsID": 137,
+    "playerLevel": 140,
+    "numPerDiamond": 573,
+    "numPerGold": 182.33766233766235
+  },
+  "641": {
+    "id": 641,
+    "goodsID": 137,
+    "playerLevel": 141,
+    "numPerDiamond": 627.6,
+    "numPerGold": 195.33123028391168
+  },
+  "642": {
+    "id": 642,
+    "goodsID": 137,
+    "playerLevel": 142,
+    "numPerDiamond": 627.6,
+    "numPerGold": 195.33123028391168
+  },
+  "643": {
+    "id": 643,
+    "goodsID": 137,
+    "playerLevel": 143,
+    "numPerDiamond": 627.6,
+    "numPerGold": 195.33123028391168
+  },
+  "644": {
+    "id": 644,
+    "goodsID": 137,
+    "playerLevel": 144,
+    "numPerDiamond": 627.6,
+    "numPerGold": 195.33123028391168
+  },
+  "645": {
+    "id": 645,
+    "goodsID": 137,
+    "playerLevel": 145,
+    "numPerDiamond": 627.6,
+    "numPerGold": 195.33123028391168
+  },
+  "646": {
+    "id": 646,
+    "goodsID": 137,
+    "playerLevel": 146,
+    "numPerDiamond": 682.8000000000001,
+    "numPerGold": 207.60736196319021
+  },
+  "647": {
+    "id": 647,
+    "goodsID": 137,
+    "playerLevel": 147,
+    "numPerDiamond": 682.8000000000001,
+    "numPerGold": 207.60736196319021
+  },
+  "648": {
+    "id": 648,
+    "goodsID": 137,
+    "playerLevel": 148,
+    "numPerDiamond": 682.8000000000001,
+    "numPerGold": 207.60736196319021
+  },
+  "649": {
+    "id": 649,
+    "goodsID": 137,
+    "playerLevel": 149,
+    "numPerDiamond": 682.8000000000001,
+    "numPerGold": 207.60736196319021
+  },
+  "650": {
+    "id": 650,
+    "goodsID": 137,
+    "playerLevel": 150,
+    "numPerDiamond": 682.8000000000001,
+    "numPerGold": 207.60736196319021
+  },
+  "651": {
+    "id": 651,
+    "goodsID": 137,
+    "playerLevel": 151,
+    "numPerDiamond": 738,
+    "numPerGold": 219.22388059701495
+  },
+  "652": {
+    "id": 652,
+    "goodsID": 137,
+    "playerLevel": 152,
+    "numPerDiamond": 738,
+    "numPerGold": 219.22388059701495
+  },
+  "653": {
+    "id": 653,
+    "goodsID": 137,
+    "playerLevel": 153,
+    "numPerDiamond": 738,
+    "numPerGold": 219.22388059701495
+  },
+  "654": {
+    "id": 654,
+    "goodsID": 137,
+    "playerLevel": 154,
+    "numPerDiamond": 738,
+    "numPerGold": 219.22388059701495
+  },
+  "655": {
+    "id": 655,
+    "goodsID": 137,
+    "playerLevel": 155,
+    "numPerDiamond": 738,
+    "numPerGold": 219.22388059701495
+  },
+  "656": {
+    "id": 656,
+    "goodsID": 137,
+    "playerLevel": 156,
+    "numPerDiamond": 792.6,
+    "numPerGold": 230.2325581395349
+  },
+  "657": {
+    "id": 657,
+    "goodsID": 137,
+    "playerLevel": 157,
+    "numPerDiamond": 792.6,
+    "numPerGold": 230.2325581395349
+  },
+  "658": {
+    "id": 658,
+    "goodsID": 137,
+    "playerLevel": 158,
+    "numPerDiamond": 792.6,
+    "numPerGold": 230.2325581395349
+  },
+  "659": {
+    "id": 659,
+    "goodsID": 137,
+    "playerLevel": 159,
+    "numPerDiamond": 792.6,
+    "numPerGold": 230.2325581395349
+  },
+  "660": {
+    "id": 660,
+    "goodsID": 137,
+    "playerLevel": 160,
+    "numPerDiamond": 792.6,
+    "numPerGold": 230.2325581395349
+  },
+  "661": {
+    "id": 661,
+    "goodsID": 137,
+    "playerLevel": 161,
+    "numPerDiamond": 928.8000000000001,
+    "numPerGold": 263.79603399433427
+  },
+  "662": {
+    "id": 662,
+    "goodsID": 137,
+    "playerLevel": 162,
+    "numPerDiamond": 928.8000000000001,
+    "numPerGold": 263.79603399433427
+  },
+  "663": {
+    "id": 663,
+    "goodsID": 137,
+    "playerLevel": 163,
+    "numPerDiamond": 928.8000000000001,
+    "numPerGold": 263.79603399433427
+  },
+  "664": {
+    "id": 664,
+    "goodsID": 137,
+    "playerLevel": 164,
+    "numPerDiamond": 928.8000000000001,
+    "numPerGold": 263.79603399433427
+  },
+  "665": {
+    "id": 665,
+    "goodsID": 137,
+    "playerLevel": 165,
+    "numPerDiamond": 928.8000000000001,
+    "numPerGold": 263.79603399433427
+  },
+  "666": {
+    "id": 666,
+    "goodsID": 137,
+    "playerLevel": 166,
+    "numPerDiamond": 1065.6000000000001,
+    "numPerGold": 292.74725274725273
+  },
+  "667": {
+    "id": 667,
+    "goodsID": 137,
+    "playerLevel": 167,
+    "numPerDiamond": 1065.6000000000001,
+    "numPerGold": 292.74725274725273
+  },
+  "668": {
+    "id": 668,
+    "goodsID": 137,
+    "playerLevel": 168,
+    "numPerDiamond": 1065.6000000000001,
+    "numPerGold": 292.74725274725273
+  },
+  "669": {
+    "id": 669,
+    "goodsID": 137,
+    "playerLevel": 169,
+    "numPerDiamond": 1065.6000000000001,
+    "numPerGold": 292.74725274725273
+  },
+  "670": {
+    "id": 670,
+    "goodsID": 137,
+    "playerLevel": 170,
+    "numPerDiamond": 1065.6000000000001,
+    "numPerGold": 292.74725274725273
+  },
+  "671": {
+    "id": 671,
+    "goodsID": 137,
+    "playerLevel": 171,
+    "numPerDiamond": 1201.8000000000002,
+    "numPerGold": 321.71581769437
+  },
+  "672": {
+    "id": 672,
+    "goodsID": 137,
+    "playerLevel": 172,
+    "numPerDiamond": 1201.8000000000002,
+    "numPerGold": 321.71581769437
+  },
+  "673": {
+    "id": 673,
+    "goodsID": 137,
+    "playerLevel": 173,
+    "numPerDiamond": 1201.8000000000002,
+    "numPerGold": 321.71581769437
+  },
+  "674": {
+    "id": 674,
+    "goodsID": 137,
+    "playerLevel": 174,
+    "numPerDiamond": 1201.8000000000002,
+    "numPerGold": 321.71581769437
+  },
+  "675": {
+    "id": 675,
+    "goodsID": 137,
+    "playerLevel": 175,
+    "numPerDiamond": 1201.8000000000002,
+    "numPerGold": 321.71581769437
+  },
+  "676": {
+    "id": 676,
+    "goodsID": 137,
+    "playerLevel": 176,
+    "numPerDiamond": 1338,
+    "numPerGold": 346.94300518134713
+  },
+  "677": {
+    "id": 677,
+    "goodsID": 137,
+    "playerLevel": 177,
+    "numPerDiamond": 1338,
+    "numPerGold": 346.94300518134713
+  },
+  "678": {
+    "id": 678,
+    "goodsID": 137,
+    "playerLevel": 178,
+    "numPerDiamond": 1338,
+    "numPerGold": 346.94300518134713
+  },
+  "679": {
+    "id": 679,
+    "goodsID": 137,
+    "playerLevel": 179,
+    "numPerDiamond": 1338,
+    "numPerGold": 346.94300518134713
+  },
+  "680": {
+    "id": 680,
+    "goodsID": 137,
+    "playerLevel": 180,
+    "numPerDiamond": 1338,
+    "numPerGold": 346.94300518134713
+  },
+  "681": {
+    "id": 681,
+    "goodsID": 137,
+    "playerLevel": 181,
+    "numPerDiamond": 1474.2,
+    "numPerGold": 371.18387909319904
+  },
+  "682": {
+    "id": 682,
+    "goodsID": 137,
+    "playerLevel": 182,
+    "numPerDiamond": 1474.2,
+    "numPerGold": 371.18387909319904
+  },
+  "683": {
+    "id": 683,
+    "goodsID": 137,
+    "playerLevel": 183,
+    "numPerDiamond": 1474.2,
+    "numPerGold": 371.18387909319904
+  },
+  "684": {
+    "id": 684,
+    "goodsID": 137,
+    "playerLevel": 184,
+    "numPerDiamond": 1474.2,
+    "numPerGold": 371.18387909319904
+  },
+  "685": {
+    "id": 685,
+    "goodsID": 137,
+    "playerLevel": 185,
+    "numPerDiamond": 1474.2,
+    "numPerGold": 371.18387909319904
+  },
+  "686": {
+    "id": 686,
+    "goodsID": 137,
+    "playerLevel": 186,
+    "numPerDiamond": 1593.6,
+    "numPerGold": 392.51231527093597
+  },
+  "687": {
+    "id": 687,
+    "goodsID": 137,
+    "playerLevel": 187,
+    "numPerDiamond": 1593.6,
+    "numPerGold": 392.51231527093597
+  },
+  "688": {
+    "id": 688,
+    "goodsID": 137,
+    "playerLevel": 188,
+    "numPerDiamond": 1593.6,
+    "numPerGold": 392.51231527093597
+  },
+  "689": {
+    "id": 689,
+    "goodsID": 137,
+    "playerLevel": 189,
+    "numPerDiamond": 1593.6,
+    "numPerGold": 392.51231527093597
+  },
+  "690": {
+    "id": 690,
+    "goodsID": 137,
+    "playerLevel": 190,
+    "numPerDiamond": 1593.6,
+    "numPerGold": 392.51231527093597
+  },
+  "691": {
+    "id": 691,
+    "goodsID": 137,
+    "playerLevel": 191,
+    "numPerDiamond": 1712.3999999999999,
+    "numPerGold": 412.9156626506024
+  },
+  "692": {
+    "id": 692,
+    "goodsID": 137,
+    "playerLevel": 192,
+    "numPerDiamond": 1712.3999999999999,
+    "numPerGold": 412.9156626506024
+  },
+  "693": {
+    "id": 693,
+    "goodsID": 137,
+    "playerLevel": 193,
+    "numPerDiamond": 1712.3999999999999,
+    "numPerGold": 412.9156626506024
+  },
+  "694": {
+    "id": 694,
+    "goodsID": 137,
+    "playerLevel": 194,
+    "numPerDiamond": 1712.3999999999999,
+    "numPerGold": 412.9156626506024
+  },
+  "695": {
+    "id": 695,
+    "goodsID": 137,
+    "playerLevel": 195,
+    "numPerDiamond": 1712.3999999999999,
+    "numPerGold": 412.9156626506024
+  },
+  "696": {
+    "id": 696,
+    "goodsID": 137,
+    "playerLevel": 196,
+    "numPerDiamond": 1831.8000000000002,
+    "numPerGold": 430.42253521126764
+  },
+  "697": {
+    "id": 697,
+    "goodsID": 137,
+    "playerLevel": 197,
+    "numPerDiamond": 1831.8000000000002,
+    "numPerGold": 430.42253521126764
+  },
+  "698": {
+    "id": 698,
+    "goodsID": 137,
+    "playerLevel": 198,
+    "numPerDiamond": 1831.8000000000002,
+    "numPerGold": 430.42253521126764
+  },
+  "699": {
+    "id": 699,
+    "goodsID": 137,
+    "playerLevel": 199,
+    "numPerDiamond": 1831.8000000000002,
+    "numPerGold": 430.42253521126764
+  },
+  "700": {
+    "id": 700,
+    "goodsID": 137,
+    "playerLevel": 200,
+    "numPerDiamond": 1831.8000000000002,
+    "numPerGold": 430.42253521126764
+  },
+  "701": {
+    "id": 701,
+    "goodsID": 137,
+    "playerLevel": 201,
+    "numPerDiamond": 1951.2000000000003,
+    "numPerGold": 442.99319727891157
+  },
+  "702": {
+    "id": 702,
+    "goodsID": 137,
+    "playerLevel": 202,
+    "numPerDiamond": 1951.2000000000003,
+    "numPerGold": 442.99319727891157
+  },
+  "703": {
+    "id": 703,
+    "goodsID": 137,
+    "playerLevel": 203,
+    "numPerDiamond": 1951.2000000000003,
+    "numPerGold": 442.99319727891157
+  },
+  "704": {
+    "id": 704,
+    "goodsID": 137,
+    "playerLevel": 204,
+    "numPerDiamond": 1951.2000000000003,
+    "numPerGold": 442.99319727891157
+  },
+  "705": {
+    "id": 705,
+    "goodsID": 137,
+    "playerLevel": 205,
+    "numPerDiamond": 1951.2000000000003,
+    "numPerGold": 442.99319727891157
+  },
+  "706": {
+    "id": 706,
+    "goodsID": 137,
+    "playerLevel": 206,
+    "numPerDiamond": 2070.6,
+    "numPerGold": 453.68421052631584
+  },
+  "707": {
+    "id": 707,
+    "goodsID": 137,
+    "playerLevel": 207,
+    "numPerDiamond": 2070.6,
+    "numPerGold": 453.68421052631584
+  },
+  "708": {
+    "id": 708,
+    "goodsID": 137,
+    "playerLevel": 208,
+    "numPerDiamond": 2070.6,
+    "numPerGold": 453.68421052631584
+  },
+  "709": {
+    "id": 709,
+    "goodsID": 137,
+    "playerLevel": 209,
+    "numPerDiamond": 2070.6,
+    "numPerGold": 453.68421052631584
+  },
+  "710": {
+    "id": 710,
+    "goodsID": 137,
+    "playerLevel": 210,
+    "numPerDiamond": 2070.6,
+    "numPerGold": 453.68421052631584
+  },
+  "711": {
+    "id": 711,
+    "goodsID": 137,
+    "playerLevel": 211,
+    "numPerDiamond": 2362.8,
+    "numPerGold": 505.69593147751607
+  },
+  "712": {
+    "id": 712,
+    "goodsID": 137,
+    "playerLevel": 212,
+    "numPerDiamond": 2362.8,
+    "numPerGold": 505.69593147751607
+  },
+  "713": {
+    "id": 713,
+    "goodsID": 137,
+    "playerLevel": 213,
+    "numPerDiamond": 2362.8,
+    "numPerGold": 505.69593147751607
+  },
+  "714": {
+    "id": 714,
+    "goodsID": 137,
+    "playerLevel": 214,
+    "numPerDiamond": 2362.8,
+    "numPerGold": 505.69593147751607
+  },
+  "715": {
+    "id": 715,
+    "goodsID": 137,
+    "playerLevel": 215,
+    "numPerDiamond": 2362.8,
+    "numPerGold": 505.69593147751607
+  },
+  "716": {
+    "id": 716,
+    "goodsID": 137,
+    "playerLevel": 216,
+    "numPerDiamond": 2655,
+    "numPerGold": 553
+  },
+  "717": {
+    "id": 717,
+    "goodsID": 137,
+    "playerLevel": 217,
+    "numPerDiamond": 2655,
+    "numPerGold": 553
+  },
+  "718": {
+    "id": 718,
+    "goodsID": 137,
+    "playerLevel": 218,
+    "numPerDiamond": 2655,
+    "numPerGold": 553
+  },
+  "719": {
+    "id": 719,
+    "goodsID": 137,
+    "playerLevel": 219,
+    "numPerDiamond": 2655,
+    "numPerGold": 553
+  },
+  "720": {
+    "id": 720,
+    "goodsID": 137,
+    "playerLevel": 220,
+    "numPerDiamond": 2655,
+    "numPerGold": 553
+  },
+  "721": {
+    "id": 721,
+    "goodsID": 137,
+    "playerLevel": 221,
+    "numPerDiamond": 2947.2,
+    "numPerGold": 597.8093306288032
+  },
+  "722": {
+    "id": 722,
+    "goodsID": 137,
+    "playerLevel": 222,
+    "numPerDiamond": 2947.2,
+    "numPerGold": 597.8093306288032
+  },
+  "723": {
+    "id": 723,
+    "goodsID": 137,
+    "playerLevel": 223,
+    "numPerDiamond": 2947.2,
+    "numPerGold": 597.8093306288032
+  },
+  "724": {
+    "id": 724,
+    "goodsID": 137,
+    "playerLevel": 224,
+    "numPerDiamond": 2947.2,
+    "numPerGold": 597.8093306288032
+  },
+  "725": {
+    "id": 725,
+    "goodsID": 137,
+    "playerLevel": 225,
+    "numPerDiamond": 2947.2,
+    "numPerGold": 597.8093306288032
+  },
+  "726": {
+    "id": 726,
+    "goodsID": 137,
+    "playerLevel": 226,
+    "numPerDiamond": 3240,
+    "numPerGold": 637.7952755905512
+  },
+  "727": {
+    "id": 727,
+    "goodsID": 137,
+    "playerLevel": 227,
+    "numPerDiamond": 3240,
+    "numPerGold": 637.7952755905512
+  },
+  "728": {
+    "id": 728,
+    "goodsID": 137,
+    "playerLevel": 228,
+    "numPerDiamond": 3240,
+    "numPerGold": 637.7952755905512
+  },
+  "729": {
+    "id": 729,
+    "goodsID": 137,
+    "playerLevel": 229,
+    "numPerDiamond": 3240,
+    "numPerGold": 637.7952755905512
+  },
+  "730": {
+    "id": 730,
+    "goodsID": 137,
+    "playerLevel": 230,
+    "numPerDiamond": 3240,
+    "numPerGold": 637.7952755905512
+  },
+  "731": {
+    "id": 731,
+    "goodsID": 137,
+    "playerLevel": 231,
+    "numPerDiamond": 3532.2,
+    "numPerGold": 670.3605313092978
+  },
+  "732": {
+    "id": 732,
+    "goodsID": 137,
+    "playerLevel": 232,
+    "numPerDiamond": 3532.2,
+    "numPerGold": 670.3605313092978
+  },
+  "733": {
+    "id": 733,
+    "goodsID": 137,
+    "playerLevel": 233,
+    "numPerDiamond": 3532.2,
+    "numPerGold": 670.3605313092978
+  },
+  "734": {
+    "id": 734,
+    "goodsID": 137,
+    "playerLevel": 234,
+    "numPerDiamond": 3532.2,
+    "numPerGold": 670.3605313092978
+  },
+  "735": {
+    "id": 735,
+    "goodsID": 137,
+    "playerLevel": 235,
+    "numPerDiamond": 3532.2,
+    "numPerGold": 670.3605313092978
+  },
+  "736": {
+    "id": 736,
+    "goodsID": 137,
+    "playerLevel": 236,
+    "numPerDiamond": 3824.4,
+    "numPerGold": 700.6593406593407
+  },
+  "737": {
+    "id": 737,
+    "goodsID": 137,
+    "playerLevel": 237,
+    "numPerDiamond": 3824.4,
+    "numPerGold": 700.6593406593407
+  },
+  "738": {
+    "id": 738,
+    "goodsID": 137,
+    "playerLevel": 238,
+    "numPerDiamond": 3824.4,
+    "numPerGold": 700.6593406593407
+  },
+  "739": {
+    "id": 739,
+    "goodsID": 137,
+    "playerLevel": 239,
+    "numPerDiamond": 3824.4,
+    "numPerGold": 700.6593406593407
+  },
+  "740": {
+    "id": 740,
+    "goodsID": 137,
+    "playerLevel": 240,
+    "numPerDiamond": 3824.4,
+    "numPerGold": 700.6593406593407
+  },
+  "741": {
+    "id": 741,
+    "goodsID": 137,
+    "playerLevel": 241,
+    "numPerDiamond": 4116.6,
+    "numPerGold": 728.9203539823009
+  },
+  "742": {
+    "id": 742,
+    "goodsID": 137,
+    "playerLevel": 242,
+    "numPerDiamond": 4116.6,
+    "numPerGold": 728.9203539823009
+  },
+  "743": {
+    "id": 743,
+    "goodsID": 137,
+    "playerLevel": 243,
+    "numPerDiamond": 4116.6,
+    "numPerGold": 728.9203539823009
+  },
+  "744": {
+    "id": 744,
+    "goodsID": 137,
+    "playerLevel": 244,
+    "numPerDiamond": 4116.6,
+    "numPerGold": 728.9203539823009
+  },
+  "745": {
+    "id": 745,
+    "goodsID": 137,
+    "playerLevel": 245,
+    "numPerDiamond": 4116.6,
+    "numPerGold": 728.9203539823009
+  },
+  "746": {
+    "id": 746,
+    "goodsID": 137,
+    "playerLevel": 246,
+    "numPerDiamond": 4116.6,
+    "numPerGold": 728.9203539823009
+  },
+  "747": {
+    "id": 747,
+    "goodsID": 137,
+    "playerLevel": 247,
+    "numPerDiamond": 4116.6,
+    "numPerGold": 728.9203539823009
+  },
+  "748": {
+    "id": 748,
+    "goodsID": 137,
+    "playerLevel": 248,
+    "numPerDiamond": 4116.6,
+    "numPerGold": 728.9203539823009
+  },
+  "749": {
+    "id": 749,
+    "goodsID": 137,
+    "playerLevel": 249,
+    "numPerDiamond": 4116.6,
+    "numPerGold": 728.9203539823009
+  },
+  "750": {
+    "id": 750,
+    "goodsID": 137,
+    "playerLevel": 250,
+    "numPerDiamond": 4116.6,
+    "numPerGold": 728.9203539823009
+  },
+  "751": {
+    "id": 751,
+    "goodsID": 138,
+    "playerLevel": 1,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "752": {
+    "id": 752,
+    "goodsID": 138,
+    "playerLevel": 2,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "753": {
+    "id": 753,
+    "goodsID": 138,
+    "playerLevel": 3,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "754": {
+    "id": 754,
+    "goodsID": 138,
+    "playerLevel": 4,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "755": {
+    "id": 755,
+    "goodsID": 138,
+    "playerLevel": 5,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "756": {
+    "id": 756,
+    "goodsID": 138,
+    "playerLevel": 6,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "757": {
+    "id": 757,
+    "goodsID": 138,
+    "playerLevel": 7,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "758": {
+    "id": 758,
+    "goodsID": 138,
+    "playerLevel": 8,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "759": {
+    "id": 759,
+    "goodsID": 138,
+    "playerLevel": 9,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "760": {
+    "id": 760,
+    "goodsID": 138,
+    "playerLevel": 10,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "761": {
+    "id": 761,
+    "goodsID": 138,
+    "playerLevel": 11,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "762": {
+    "id": 762,
+    "goodsID": 138,
+    "playerLevel": 12,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "763": {
+    "id": 763,
+    "goodsID": 138,
+    "playerLevel": 13,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "764": {
+    "id": 764,
+    "goodsID": 138,
+    "playerLevel": 14,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "765": {
+    "id": 765,
+    "goodsID": 138,
+    "playerLevel": 15,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "766": {
+    "id": 766,
+    "goodsID": 138,
+    "playerLevel": 16,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "767": {
+    "id": 767,
+    "goodsID": 138,
+    "playerLevel": 17,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "768": {
+    "id": 768,
+    "goodsID": 138,
+    "playerLevel": 18,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "769": {
+    "id": 769,
+    "goodsID": 138,
+    "playerLevel": 19,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "770": {
+    "id": 770,
+    "goodsID": 138,
+    "playerLevel": 20,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "771": {
+    "id": 771,
+    "goodsID": 138,
+    "playerLevel": 21,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "772": {
+    "id": 772,
+    "goodsID": 138,
+    "playerLevel": 22,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "773": {
+    "id": 773,
+    "goodsID": 138,
+    "playerLevel": 23,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "774": {
+    "id": 774,
+    "goodsID": 138,
+    "playerLevel": 24,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "775": {
+    "id": 775,
+    "goodsID": 138,
+    "playerLevel": 25,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "776": {
+    "id": 776,
+    "goodsID": 138,
+    "playerLevel": 26,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "777": {
+    "id": 777,
+    "goodsID": 138,
+    "playerLevel": 27,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "778": {
+    "id": 778,
+    "goodsID": 138,
+    "playerLevel": 28,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "779": {
+    "id": 779,
+    "goodsID": 138,
+    "playerLevel": 29,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "780": {
+    "id": 780,
+    "goodsID": 138,
+    "playerLevel": 30,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "781": {
+    "id": 781,
+    "goodsID": 138,
+    "playerLevel": 31,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "782": {
+    "id": 782,
+    "goodsID": 138,
+    "playerLevel": 32,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "783": {
+    "id": 783,
+    "goodsID": 138,
+    "playerLevel": 33,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "784": {
+    "id": 784,
+    "goodsID": 138,
+    "playerLevel": 34,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "785": {
+    "id": 785,
+    "goodsID": 138,
+    "playerLevel": 35,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "786": {
+    "id": 786,
+    "goodsID": 138,
+    "playerLevel": 36,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "787": {
+    "id": 787,
+    "goodsID": 138,
+    "playerLevel": 37,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "788": {
+    "id": 788,
+    "goodsID": 138,
+    "playerLevel": 38,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "789": {
+    "id": 789,
+    "goodsID": 138,
+    "playerLevel": 39,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "790": {
+    "id": 790,
+    "goodsID": 138,
+    "playerLevel": 40,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "791": {
+    "id": 791,
+    "goodsID": 138,
+    "playerLevel": 41,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "792": {
+    "id": 792,
+    "goodsID": 138,
+    "playerLevel": 42,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "793": {
+    "id": 793,
+    "goodsID": 138,
+    "playerLevel": 43,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "794": {
+    "id": 794,
+    "goodsID": 138,
+    "playerLevel": 44,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "795": {
+    "id": 795,
+    "goodsID": 138,
+    "playerLevel": 45,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "796": {
+    "id": 796,
+    "goodsID": 138,
+    "playerLevel": 46,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "797": {
+    "id": 797,
+    "goodsID": 138,
+    "playerLevel": 47,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "798": {
+    "id": 798,
+    "goodsID": 138,
+    "playerLevel": 48,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "799": {
+    "id": 799,
+    "goodsID": 138,
+    "playerLevel": 49,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "800": {
+    "id": 800,
+    "goodsID": 138,
+    "playerLevel": 50,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "801": {
+    "id": 801,
+    "goodsID": 138,
+    "playerLevel": 51,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "802": {
+    "id": 802,
+    "goodsID": 138,
+    "playerLevel": 52,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "803": {
+    "id": 803,
+    "goodsID": 138,
+    "playerLevel": 53,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "804": {
+    "id": 804,
+    "goodsID": 138,
+    "playerLevel": 54,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "805": {
+    "id": 805,
+    "goodsID": 138,
+    "playerLevel": 55,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "806": {
+    "id": 806,
+    "goodsID": 138,
+    "playerLevel": 56,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "807": {
+    "id": 807,
+    "goodsID": 138,
+    "playerLevel": 57,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "808": {
+    "id": 808,
+    "goodsID": 138,
+    "playerLevel": 58,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "809": {
+    "id": 809,
+    "goodsID": 138,
+    "playerLevel": 59,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "810": {
+    "id": 810,
+    "goodsID": 138,
+    "playerLevel": 60,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "811": {
+    "id": 811,
+    "goodsID": 138,
+    "playerLevel": 61,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "812": {
+    "id": 812,
+    "goodsID": 138,
+    "playerLevel": 62,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "813": {
+    "id": 813,
+    "goodsID": 138,
+    "playerLevel": 63,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "814": {
+    "id": 814,
+    "goodsID": 138,
+    "playerLevel": 64,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "815": {
+    "id": 815,
+    "goodsID": 138,
+    "playerLevel": 65,
+    "numPerDiamond": 192,
+    "numPerGold": 125.99999999999999
+  },
+  "816": {
+    "id": 816,
+    "goodsID": 138,
+    "playerLevel": 66,
+    "numPerDiamond": 204.60000000000002,
+    "numPerGold": 125.99999999999999
+  },
+  "817": {
+    "id": 817,
+    "goodsID": 138,
+    "playerLevel": 67,
+    "numPerDiamond": 204.60000000000002,
+    "numPerGold": 125.99999999999999
+  },
+  "818": {
+    "id": 818,
+    "goodsID": 138,
+    "playerLevel": 68,
+    "numPerDiamond": 204.60000000000002,
+    "numPerGold": 125.99999999999999
+  },
+  "819": {
+    "id": 819,
+    "goodsID": 138,
+    "playerLevel": 69,
+    "numPerDiamond": 204.60000000000002,
+    "numPerGold": 125.99999999999999
+  },
+  "820": {
+    "id": 820,
+    "goodsID": 138,
+    "playerLevel": 70,
+    "numPerDiamond": 204.60000000000002,
+    "numPerGold": 125.99999999999999
+  },
+  "821": {
+    "id": 821,
+    "goodsID": 138,
+    "playerLevel": 71,
+    "numPerDiamond": 217.20000000000002,
+    "numPerGold": 125.99999999999999
+  },
+  "822": {
+    "id": 822,
+    "goodsID": 138,
+    "playerLevel": 72,
+    "numPerDiamond": 217.20000000000002,
+    "numPerGold": 125.99999999999999
+  },
+  "823": {
+    "id": 823,
+    "goodsID": 138,
+    "playerLevel": 73,
+    "numPerDiamond": 217.20000000000002,
+    "numPerGold": 125.99999999999999
+  },
+  "824": {
+    "id": 824,
+    "goodsID": 138,
+    "playerLevel": 74,
+    "numPerDiamond": 217.20000000000002,
+    "numPerGold": 125.99999999999999
+  },
+  "825": {
+    "id": 825,
+    "goodsID": 138,
+    "playerLevel": 75,
+    "numPerDiamond": 217.20000000000002,
+    "numPerGold": 125.99999999999999
+  },
+  "826": {
+    "id": 826,
+    "goodsID": 138,
+    "playerLevel": 76,
+    "numPerDiamond": 229.8,
+    "numPerGold": 125.99999999999999
+  },
+  "827": {
+    "id": 827,
+    "goodsID": 138,
+    "playerLevel": 77,
+    "numPerDiamond": 229.8,
+    "numPerGold": 125.99999999999999
+  },
+  "828": {
+    "id": 828,
+    "goodsID": 138,
+    "playerLevel": 78,
+    "numPerDiamond": 229.8,
+    "numPerGold": 125.99999999999999
+  },
+  "829": {
+    "id": 829,
+    "goodsID": 138,
+    "playerLevel": 79,
+    "numPerDiamond": 229.8,
+    "numPerGold": 125.99999999999999
+  },
+  "830": {
+    "id": 830,
+    "goodsID": 138,
+    "playerLevel": 80,
+    "numPerDiamond": 229.8,
+    "numPerGold": 125.99999999999999
+  },
+  "831": {
+    "id": 831,
+    "goodsID": 138,
+    "playerLevel": 81,
+    "numPerDiamond": 242.4,
+    "numPerGold": 125.99999999999999
+  },
+  "832": {
+    "id": 832,
+    "goodsID": 138,
+    "playerLevel": 82,
+    "numPerDiamond": 242.4,
+    "numPerGold": 125.99999999999999
+  },
+  "833": {
+    "id": 833,
+    "goodsID": 138,
+    "playerLevel": 83,
+    "numPerDiamond": 242.4,
+    "numPerGold": 125.99999999999999
+  },
+  "834": {
+    "id": 834,
+    "goodsID": 138,
+    "playerLevel": 84,
+    "numPerDiamond": 242.4,
+    "numPerGold": 125.99999999999999
+  },
+  "835": {
+    "id": 835,
+    "goodsID": 138,
+    "playerLevel": 85,
+    "numPerDiamond": 242.4,
+    "numPerGold": 125.99999999999999
+  },
+  "836": {
+    "id": 836,
+    "goodsID": 138,
+    "playerLevel": 86,
+    "numPerDiamond": 255,
+    "numPerGold": 125.99999999999999
+  },
+  "837": {
+    "id": 837,
+    "goodsID": 138,
+    "playerLevel": 87,
+    "numPerDiamond": 255,
+    "numPerGold": 125.99999999999999
+  },
+  "838": {
+    "id": 838,
+    "goodsID": 138,
+    "playerLevel": 88,
+    "numPerDiamond": 255,
+    "numPerGold": 125.99999999999999
+  },
+  "839": {
+    "id": 839,
+    "goodsID": 138,
+    "playerLevel": 89,
+    "numPerDiamond": 255,
+    "numPerGold": 125.99999999999999
+  },
+  "840": {
+    "id": 840,
+    "goodsID": 138,
+    "playerLevel": 90,
+    "numPerDiamond": 255,
+    "numPerGold": 125.99999999999999
+  },
+  "841": {
+    "id": 841,
+    "goodsID": 138,
+    "playerLevel": 91,
+    "numPerDiamond": 279.6,
+    "numPerGold": 129.48837209302326
+  },
+  "842": {
+    "id": 842,
+    "goodsID": 138,
+    "playerLevel": 92,
+    "numPerDiamond": 279.6,
+    "numPerGold": 129.48837209302326
+  },
+  "843": {
+    "id": 843,
+    "goodsID": 138,
+    "playerLevel": 93,
+    "numPerDiamond": 279.6,
+    "numPerGold": 129.48837209302326
+  },
+  "844": {
+    "id": 844,
+    "goodsID": 138,
+    "playerLevel": 94,
+    "numPerDiamond": 279.6,
+    "numPerGold": 129.48837209302326
+  },
+  "845": {
+    "id": 845,
+    "goodsID": 138,
+    "playerLevel": 95,
+    "numPerDiamond": 279.6,
+    "numPerGold": 129.48837209302326
+  },
+  "846": {
+    "id": 846,
+    "goodsID": 138,
+    "playerLevel": 96,
+    "numPerDiamond": 304.20000000000005,
+    "numPerGold": 132.6315789473684
+  },
+  "847": {
+    "id": 847,
+    "goodsID": 138,
+    "playerLevel": 97,
+    "numPerDiamond": 304.20000000000005,
+    "numPerGold": 132.6315789473684
+  },
+  "848": {
+    "id": 848,
+    "goodsID": 138,
+    "playerLevel": 98,
+    "numPerDiamond": 304.20000000000005,
+    "numPerGold": 132.6315789473684
+  },
+  "849": {
+    "id": 849,
+    "goodsID": 138,
+    "playerLevel": 99,
+    "numPerDiamond": 304.20000000000005,
+    "numPerGold": 132.6315789473684
+  },
+  "850": {
+    "id": 850,
+    "goodsID": 138,
+    "playerLevel": 100,
+    "numPerDiamond": 304.20000000000005,
+    "numPerGold": 132.6315789473684
+  },
+  "851": {
+    "id": 851,
+    "goodsID": 138,
+    "playerLevel": 101,
+    "numPerDiamond": 328.2,
+    "numPerGold": 135.4356846473029
+  },
+  "852": {
+    "id": 852,
+    "goodsID": 138,
+    "playerLevel": 102,
+    "numPerDiamond": 328.2,
+    "numPerGold": 135.4356846473029
+  },
+  "853": {
+    "id": 853,
+    "goodsID": 138,
+    "playerLevel": 103,
+    "numPerDiamond": 328.2,
+    "numPerGold": 135.4356846473029
+  },
+  "854": {
+    "id": 854,
+    "goodsID": 138,
+    "playerLevel": 104,
+    "numPerDiamond": 328.2,
+    "numPerGold": 135.4356846473029
+  },
+  "855": {
+    "id": 855,
+    "goodsID": 138,
+    "playerLevel": 105,
+    "numPerDiamond": 328.2,
+    "numPerGold": 135.4356846473029
+  },
+  "856": {
+    "id": 856,
+    "goodsID": 138,
+    "playerLevel": 106,
+    "numPerDiamond": 352.8,
+    "numPerGold": 140.95238095238093
+  },
+  "857": {
+    "id": 857,
+    "goodsID": 138,
+    "playerLevel": 107,
+    "numPerDiamond": 352.8,
+    "numPerGold": 140.95238095238093
+  },
+  "858": {
+    "id": 858,
+    "goodsID": 138,
+    "playerLevel": 108,
+    "numPerDiamond": 352.8,
+    "numPerGold": 140.95238095238093
+  },
+  "859": {
+    "id": 859,
+    "goodsID": 138,
+    "playerLevel": 109,
+    "numPerDiamond": 352.8,
+    "numPerGold": 140.95238095238093
+  },
+  "860": {
+    "id": 860,
+    "goodsID": 138,
+    "playerLevel": 110,
+    "numPerDiamond": 352.8,
+    "numPerGold": 140.95238095238093
+  },
+  "861": {
+    "id": 861,
+    "goodsID": 138,
+    "playerLevel": 111,
+    "numPerDiamond": 377.4,
+    "numPerGold": 145.2873563218391
+  },
+  "862": {
+    "id": 862,
+    "goodsID": 138,
+    "playerLevel": 112,
+    "numPerDiamond": 377.4,
+    "numPerGold": 145.2873563218391
+  },
+  "863": {
+    "id": 863,
+    "goodsID": 138,
+    "playerLevel": 113,
+    "numPerDiamond": 377.4,
+    "numPerGold": 145.2873563218391
+  },
+  "864": {
+    "id": 864,
+    "goodsID": 138,
+    "playerLevel": 114,
+    "numPerDiamond": 377.4,
+    "numPerGold": 145.2873563218391
+  },
+  "865": {
+    "id": 865,
+    "goodsID": 138,
+    "playerLevel": 115,
+    "numPerDiamond": 377.4,
+    "numPerGold": 145.2873563218391
+  },
+  "866": {
+    "id": 866,
+    "goodsID": 138,
+    "playerLevel": 116,
+    "numPerDiamond": 419.40000000000003,
+    "numPerGold": 154.66666666666666
+  },
+  "867": {
+    "id": 867,
+    "goodsID": 138,
+    "playerLevel": 117,
+    "numPerDiamond": 419.40000000000003,
+    "numPerGold": 154.66666666666666
+  },
+  "868": {
+    "id": 868,
+    "goodsID": 138,
+    "playerLevel": 118,
+    "numPerDiamond": 419.40000000000003,
+    "numPerGold": 154.66666666666666
+  },
+  "869": {
+    "id": 869,
+    "goodsID": 138,
+    "playerLevel": 119,
+    "numPerDiamond": 419.40000000000003,
+    "numPerGold": 154.66666666666666
+  },
+  "870": {
+    "id": 870,
+    "goodsID": 138,
+    "playerLevel": 120,
+    "numPerDiamond": 419.40000000000003,
+    "numPerGold": 154.66666666666666
+  },
+  "871": {
+    "id": 871,
+    "goodsID": 138,
+    "playerLevel": 121,
+    "numPerDiamond": 461.40000000000003,
+    "numPerGold": 163.98576512455514
+  },
+  "872": {
+    "id": 872,
+    "goodsID": 138,
+    "playerLevel": 122,
+    "numPerDiamond": 461.40000000000003,
+    "numPerGold": 163.98576512455514
+  },
+  "873": {
+    "id": 873,
+    "goodsID": 138,
+    "playerLevel": 123,
+    "numPerDiamond": 461.40000000000003,
+    "numPerGold": 163.98576512455514
+  },
+  "874": {
+    "id": 874,
+    "goodsID": 138,
+    "playerLevel": 124,
+    "numPerDiamond": 461.40000000000003,
+    "numPerGold": 163.98576512455514
+  },
+  "875": {
+    "id": 875,
+    "goodsID": 138,
+    "playerLevel": 125,
+    "numPerDiamond": 461.40000000000003,
+    "numPerGold": 163.98576512455514
+  },
+  "876": {
+    "id": 876,
+    "goodsID": 138,
+    "playerLevel": 126,
+    "numPerDiamond": 503.40000000000003,
+    "numPerGold": 172.6027397260274
+  },
+  "877": {
+    "id": 877,
+    "goodsID": 138,
+    "playerLevel": 127,
+    "numPerDiamond": 503.40000000000003,
+    "numPerGold": 172.6027397260274
+  },
+  "878": {
+    "id": 878,
+    "goodsID": 138,
+    "playerLevel": 128,
+    "numPerDiamond": 503.40000000000003,
+    "numPerGold": 172.6027397260274
+  },
+  "879": {
+    "id": 879,
+    "goodsID": 138,
+    "playerLevel": 129,
+    "numPerDiamond": 503.40000000000003,
+    "numPerGold": 172.6027397260274
+  },
+  "880": {
+    "id": 880,
+    "goodsID": 138,
+    "playerLevel": 130,
+    "numPerDiamond": 503.40000000000003,
+    "numPerGold": 172.6027397260274
+  },
+  "881": {
+    "id": 881,
+    "goodsID": 138,
+    "playerLevel": 131,
+    "numPerDiamond": 545.4,
+    "numPerGold": 181.79401993355484
+  },
+  "882": {
+    "id": 882,
+    "goodsID": 138,
+    "playerLevel": 132,
+    "numPerDiamond": 545.4,
+    "numPerGold": 181.79401993355484
+  },
+  "883": {
+    "id": 883,
+    "goodsID": 138,
+    "playerLevel": 133,
+    "numPerDiamond": 545.4,
+    "numPerGold": 181.79401993355484
+  },
+  "884": {
+    "id": 884,
+    "goodsID": 138,
+    "playerLevel": 134,
+    "numPerDiamond": 545.4,
+    "numPerGold": 181.79401993355484
+  },
+  "885": {
+    "id": 885,
+    "goodsID": 138,
+    "playerLevel": 135,
+    "numPerDiamond": 545.4,
+    "numPerGold": 181.79401993355484
+  },
+  "886": {
+    "id": 886,
+    "goodsID": 138,
+    "playerLevel": 136,
+    "numPerDiamond": 588,
+    "numPerGold": 191.68831168831167
+  },
+  "887": {
+    "id": 887,
+    "goodsID": 138,
+    "playerLevel": 137,
+    "numPerDiamond": 588,
+    "numPerGold": 191.68831168831167
+  },
+  "888": {
+    "id": 888,
+    "goodsID": 138,
+    "playerLevel": 138,
+    "numPerDiamond": 588,
+    "numPerGold": 191.68831168831167
+  },
+  "889": {
+    "id": 889,
+    "goodsID": 138,
+    "playerLevel": 139,
+    "numPerDiamond": 588,
+    "numPerGold": 191.68831168831167
+  },
+  "890": {
+    "id": 890,
+    "goodsID": 138,
+    "playerLevel": 140,
+    "numPerDiamond": 588,
+    "numPerGold": 191.68831168831167
+  },
+  "891": {
+    "id": 891,
+    "goodsID": 138,
+    "playerLevel": 141,
+    "numPerDiamond": 681,
+    "numPerGold": 215.01577287066246
+  },
+  "892": {
+    "id": 892,
+    "goodsID": 138,
+    "playerLevel": 142,
+    "numPerDiamond": 681,
+    "numPerGold": 215.01577287066246
+  },
+  "893": {
+    "id": 893,
+    "goodsID": 138,
+    "playerLevel": 143,
+    "numPerDiamond": 681,
+    "numPerGold": 215.01577287066246
+  },
+  "894": {
+    "id": 894,
+    "goodsID": 138,
+    "playerLevel": 144,
+    "numPerDiamond": 681,
+    "numPerGold": 215.01577287066246
+  },
+  "895": {
+    "id": 895,
+    "goodsID": 138,
+    "playerLevel": 145,
+    "numPerDiamond": 681,
+    "numPerGold": 215.01577287066246
+  },
+  "896": {
+    "id": 896,
+    "goodsID": 138,
+    "playerLevel": 146,
+    "numPerDiamond": 774,
+    "numPerGold": 237.05521472392635
+  },
+  "897": {
+    "id": 897,
+    "goodsID": 138,
+    "playerLevel": 147,
+    "numPerDiamond": 774,
+    "numPerGold": 237.05521472392635
+  },
+  "898": {
+    "id": 898,
+    "goodsID": 138,
+    "playerLevel": 148,
+    "numPerDiamond": 774,
+    "numPerGold": 237.05521472392635
+  },
+  "899": {
+    "id": 899,
+    "goodsID": 138,
+    "playerLevel": 149,
+    "numPerDiamond": 774,
+    "numPerGold": 237.05521472392635
+  },
+  "900": {
+    "id": 900,
+    "goodsID": 138,
+    "playerLevel": 150,
+    "numPerDiamond": 774,
+    "numPerGold": 237.05521472392635
+  },
+  "901": {
+    "id": 901,
+    "goodsID": 138,
+    "playerLevel": 151,
+    "numPerDiamond": 867.6,
+    "numPerGold": 259.34328358208955
+  },
+  "902": {
+    "id": 902,
+    "goodsID": 138,
+    "playerLevel": 152,
+    "numPerDiamond": 867.6,
+    "numPerGold": 259.34328358208955
+  },
+  "903": {
+    "id": 903,
+    "goodsID": 138,
+    "playerLevel": 153,
+    "numPerDiamond": 867.6,
+    "numPerGold": 259.34328358208955
+  },
+  "904": {
+    "id": 904,
+    "goodsID": 138,
+    "playerLevel": 154,
+    "numPerDiamond": 867.6,
+    "numPerGold": 259.34328358208955
+  },
+  "905": {
+    "id": 905,
+    "goodsID": 138,
+    "playerLevel": 155,
+    "numPerDiamond": 867.6,
+    "numPerGold": 259.34328358208955
+  },
+  "906": {
+    "id": 906,
+    "goodsID": 138,
+    "playerLevel": 156,
+    "numPerDiamond": 960.6000000000001,
+    "numPerGold": 279.06976744186045
+  },
+  "907": {
+    "id": 907,
+    "goodsID": 138,
+    "playerLevel": 157,
+    "numPerDiamond": 960.6000000000001,
+    "numPerGold": 279.06976744186045
+  },
+  "908": {
+    "id": 908,
+    "goodsID": 138,
+    "playerLevel": 158,
+    "numPerDiamond": 960.6000000000001,
+    "numPerGold": 279.06976744186045
+  },
+  "909": {
+    "id": 909,
+    "goodsID": 138,
+    "playerLevel": 159,
+    "numPerDiamond": 960.6000000000001,
+    "numPerGold": 279.06976744186045
+  },
+  "910": {
+    "id": 910,
+    "goodsID": 138,
+    "playerLevel": 160,
+    "numPerDiamond": 960.6000000000001,
+    "numPerGold": 279.06976744186045
+  },
+  "911": {
+    "id": 911,
+    "goodsID": 138,
+    "playerLevel": 161,
+    "numPerDiamond": 1054.2,
+    "numPerGold": 299.1501416430595
+  },
+  "912": {
+    "id": 912,
+    "goodsID": 138,
+    "playerLevel": 162,
+    "numPerDiamond": 1054.2,
+    "numPerGold": 299.1501416430595
+  },
+  "913": {
+    "id": 913,
+    "goodsID": 138,
+    "playerLevel": 163,
+    "numPerDiamond": 1054.2,
+    "numPerGold": 299.1501416430595
+  },
+  "914": {
+    "id": 914,
+    "goodsID": 138,
+    "playerLevel": 164,
+    "numPerDiamond": 1054.2,
+    "numPerGold": 299.1501416430595
+  },
+  "915": {
+    "id": 915,
+    "goodsID": 138,
+    "playerLevel": 165,
+    "numPerDiamond": 1054.2,
+    "numPerGold": 299.1501416430595
+  },
+  "916": {
+    "id": 916,
+    "goodsID": 138,
+    "playerLevel": 166,
+    "numPerDiamond": 1206.6,
+    "numPerGold": 330.989010989011
+  },
+  "917": {
+    "id": 917,
+    "goodsID": 138,
+    "playerLevel": 167,
+    "numPerDiamond": 1206.6,
+    "numPerGold": 330.989010989011
+  },
+  "918": {
+    "id": 918,
+    "goodsID": 138,
+    "playerLevel": 168,
+    "numPerDiamond": 1206.6,
+    "numPerGold": 330.989010989011
+  },
+  "919": {
+    "id": 919,
+    "goodsID": 138,
+    "playerLevel": 169,
+    "numPerDiamond": 1206.6,
+    "numPerGold": 330.989010989011
+  },
+  "920": {
+    "id": 920,
+    "goodsID": 138,
+    "playerLevel": 170,
+    "numPerDiamond": 1206.6,
+    "numPerGold": 330.989010989011
+  },
+  "921": {
+    "id": 921,
+    "goodsID": 138,
+    "playerLevel": 171,
+    "numPerDiamond": 1359.6,
+    "numPerGold": 364.1823056300268
+  },
+  "922": {
+    "id": 922,
+    "goodsID": 138,
+    "playerLevel": 172,
+    "numPerDiamond": 1359.6,
+    "numPerGold": 364.1823056300268
+  },
+  "923": {
+    "id": 923,
+    "goodsID": 138,
+    "playerLevel": 173,
+    "numPerDiamond": 1359.6,
+    "numPerGold": 364.1823056300268
+  },
+  "924": {
+    "id": 924,
+    "goodsID": 138,
+    "playerLevel": 174,
+    "numPerDiamond": 1359.6,
+    "numPerGold": 364.1823056300268
+  },
+  "925": {
+    "id": 925,
+    "goodsID": 138,
+    "playerLevel": 175,
+    "numPerDiamond": 1359.6,
+    "numPerGold": 364.1823056300268
+  },
+  "926": {
+    "id": 926,
+    "goodsID": 138,
+    "playerLevel": 176,
+    "numPerDiamond": 1512.6000000000001,
+    "numPerGold": 391.7098445595854
+  },
+  "927": {
+    "id": 927,
+    "goodsID": 138,
+    "playerLevel": 177,
+    "numPerDiamond": 1512.6000000000001,
+    "numPerGold": 391.7098445595854
+  },
+  "928": {
+    "id": 928,
+    "goodsID": 138,
+    "playerLevel": 178,
+    "numPerDiamond": 1512.6000000000001,
+    "numPerGold": 391.7098445595854
+  },
+  "929": {
+    "id": 929,
+    "goodsID": 138,
+    "playerLevel": 179,
+    "numPerDiamond": 1512.6000000000001,
+    "numPerGold": 391.7098445595854
+  },
+  "930": {
+    "id": 930,
+    "goodsID": 138,
+    "playerLevel": 180,
+    "numPerDiamond": 1512.6000000000001,
+    "numPerGold": 391.7098445595854
+  },
+  "931": {
+    "id": 931,
+    "goodsID": 138,
+    "playerLevel": 181,
+    "numPerDiamond": 1665.6000000000001,
+    "numPerGold": 419.5465994962217
+  },
+  "932": {
+    "id": 932,
+    "goodsID": 138,
+    "playerLevel": 182,
+    "numPerDiamond": 1665.6000000000001,
+    "numPerGold": 419.5465994962217
+  },
+  "933": {
+    "id": 933,
+    "goodsID": 138,
+    "playerLevel": 183,
+    "numPerDiamond": 1665.6000000000001,
+    "numPerGold": 419.5465994962217
+  },
+  "934": {
+    "id": 934,
+    "goodsID": 138,
+    "playerLevel": 184,
+    "numPerDiamond": 1665.6000000000001,
+    "numPerGold": 419.5465994962217
+  },
+  "935": {
+    "id": 935,
+    "goodsID": 138,
+    "playerLevel": 185,
+    "numPerDiamond": 1665.6000000000001,
+    "numPerGold": 419.5465994962217
+  },
+  "936": {
+    "id": 936,
+    "goodsID": 138,
+    "playerLevel": 186,
+    "numPerDiamond": 1818.6,
+    "numPerGold": 448.07881773399015
+  },
+  "937": {
+    "id": 937,
+    "goodsID": 138,
+    "playerLevel": 187,
+    "numPerDiamond": 1818.6,
+    "numPerGold": 448.07881773399015
+  },
+  "938": {
+    "id": 938,
+    "goodsID": 138,
+    "playerLevel": 188,
+    "numPerDiamond": 1818.6,
+    "numPerGold": 448.07881773399015
+  },
+  "939": {
+    "id": 939,
+    "goodsID": 138,
+    "playerLevel": 189,
+    "numPerDiamond": 1818.6,
+    "numPerGold": 448.07881773399015
+  },
+  "940": {
+    "id": 940,
+    "goodsID": 138,
+    "playerLevel": 190,
+    "numPerDiamond": 1818.6,
+    "numPerGold": 448.07881773399015
+  },
+  "941": {
+    "id": 941,
+    "goodsID": 138,
+    "playerLevel": 191,
+    "numPerDiamond": 2046.6,
+    "numPerGold": 492.7228915662651
+  },
+  "942": {
+    "id": 942,
+    "goodsID": 138,
+    "playerLevel": 192,
+    "numPerDiamond": 2046.6,
+    "numPerGold": 492.7228915662651
+  },
+  "943": {
+    "id": 943,
+    "goodsID": 138,
+    "playerLevel": 193,
+    "numPerDiamond": 2046.6,
+    "numPerGold": 492.7228915662651
+  },
+  "944": {
+    "id": 944,
+    "goodsID": 138,
+    "playerLevel": 194,
+    "numPerDiamond": 2046.6,
+    "numPerGold": 492.7228915662651
+  },
+  "945": {
+    "id": 945,
+    "goodsID": 138,
+    "playerLevel": 195,
+    "numPerDiamond": 2046.6,
+    "numPerGold": 492.7228915662651
+  },
+  "946": {
+    "id": 946,
+    "goodsID": 138,
+    "playerLevel": 196,
+    "numPerDiamond": 2274.6,
+    "numPerGold": 515.9183673469388
+  },
+  "947": {
+    "id": 947,
+    "goodsID": 138,
+    "playerLevel": 197,
+    "numPerDiamond": 2274.6,
+    "numPerGold": 515.9183673469388
+  },
+  "948": {
+    "id": 948,
+    "goodsID": 138,
+    "playerLevel": 198,
+    "numPerDiamond": 2274.6,
+    "numPerGold": 515.9183673469388
+  },
+  "949": {
+    "id": 949,
+    "goodsID": 138,
+    "playerLevel": 199,
+    "numPerDiamond": 2274.6,
+    "numPerGold": 515.9183673469388
+  },
+  "950": {
+    "id": 950,
+    "goodsID": 138,
+    "playerLevel": 200,
+    "numPerDiamond": 2274.6,
+    "numPerGold": 515.9183673469388
+  },
+  "951": {
+    "id": 951,
+    "goodsID": 138,
+    "playerLevel": 201,
+    "numPerDiamond": 2274.6,
+    "numPerGold": 515.9183673469388
+  },
+  "952": {
+    "id": 952,
+    "goodsID": 138,
+    "playerLevel": 202,
+    "numPerDiamond": 2274.6,
+    "numPerGold": 515.9183673469388
+  },
+  "953": {
+    "id": 953,
+    "goodsID": 138,
+    "playerLevel": 203,
+    "numPerDiamond": 2274.6,
+    "numPerGold": 515.9183673469388
+  },
+  "954": {
+    "id": 954,
+    "goodsID": 138,
+    "playerLevel": 204,
+    "numPerDiamond": 2274.6,
+    "numPerGold": 515.9183673469388
+  },
+  "955": {
+    "id": 955,
+    "goodsID": 138,
+    "playerLevel": 205,
+    "numPerDiamond": 2274.6,
+    "numPerGold": 515.9183673469388
+  },
+  "956": {
+    "id": 956,
+    "goodsID": 138,
+    "playerLevel": 206,
+    "numPerDiamond": 2502.6,
+    "numPerGold": 548.4210526315788
+  },
+  "957": {
+    "id": 957,
+    "goodsID": 138,
+    "playerLevel": 207,
+    "numPerDiamond": 2502.6,
+    "numPerGold": 548.4210526315788
+  },
+  "958": {
+    "id": 958,
+    "goodsID": 138,
+    "playerLevel": 208,
+    "numPerDiamond": 2502.6,
+    "numPerGold": 548.4210526315788
+  },
+  "959": {
+    "id": 959,
+    "goodsID": 138,
+    "playerLevel": 209,
+    "numPerDiamond": 2502.6,
+    "numPerGold": 548.4210526315788
+  },
+  "960": {
+    "id": 960,
+    "goodsID": 138,
+    "playerLevel": 210,
+    "numPerDiamond": 2502.6,
+    "numPerGold": 548.4210526315788
+  },
+  "961": {
+    "id": 961,
+    "goodsID": 138,
+    "playerLevel": 211,
+    "numPerDiamond": 2730.6,
+    "numPerGold": 584.8394004282655
+  },
+  "962": {
+    "id": 962,
+    "goodsID": 138,
+    "playerLevel": 212,
+    "numPerDiamond": 2730.6,
+    "numPerGold": 584.8394004282655
+  },
+  "963": {
+    "id": 963,
+    "goodsID": 138,
+    "playerLevel": 213,
+    "numPerDiamond": 2730.6,
+    "numPerGold": 584.8394004282655
+  },
+  "964": {
+    "id": 964,
+    "goodsID": 138,
+    "playerLevel": 214,
+    "numPerDiamond": 2730.6,
+    "numPerGold": 584.8394004282655
+  },
+  "965": {
+    "id": 965,
+    "goodsID": 138,
+    "playerLevel": 215,
+    "numPerDiamond": 2730.6,
+    "numPerGold": 584.8394004282655
+  },
+  "966": {
+    "id": 966,
+    "goodsID": 138,
+    "playerLevel": 216,
+    "numPerDiamond": 2959.2,
+    "numPerGold": 617
+  },
+  "967": {
+    "id": 967,
+    "goodsID": 138,
+    "playerLevel": 217,
+    "numPerDiamond": 2959.2,
+    "numPerGold": 617
+  },
+  "968": {
+    "id": 968,
+    "goodsID": 138,
+    "playerLevel": 218,
+    "numPerDiamond": 2959.2,
+    "numPerGold": 617
+  },
+  "969": {
+    "id": 969,
+    "goodsID": 138,
+    "playerLevel": 219,
+    "numPerDiamond": 2959.2,
+    "numPerGold": 617
+  },
+  "970": {
+    "id": 970,
+    "goodsID": 138,
+    "playerLevel": 220,
+    "numPerDiamond": 2959.2,
+    "numPerGold": 617
+  },
+  "971": {
+    "id": 971,
+    "goodsID": 138,
+    "playerLevel": 221,
+    "numPerDiamond": 3338.4,
+    "numPerGold": 677.6470588235295
+  },
+  "972": {
+    "id": 972,
+    "goodsID": 138,
+    "playerLevel": 222,
+    "numPerDiamond": 3338.4,
+    "numPerGold": 677.6470588235295
+  },
+  "973": {
+    "id": 973,
+    "goodsID": 138,
+    "playerLevel": 223,
+    "numPerDiamond": 3338.4,
+    "numPerGold": 677.6470588235295
+  },
+  "974": {
+    "id": 974,
+    "goodsID": 138,
+    "playerLevel": 224,
+    "numPerDiamond": 3338.4,
+    "numPerGold": 677.6470588235295
+  },
+  "975": {
+    "id": 975,
+    "goodsID": 138,
+    "playerLevel": 225,
+    "numPerDiamond": 3338.4,
+    "numPerGold": 677.6470588235295
+  },
+  "976": {
+    "id": 976,
+    "goodsID": 138,
+    "playerLevel": 226,
+    "numPerDiamond": 3717.6,
+    "numPerGold": 732.2834645669291
+  },
+  "977": {
+    "id": 977,
+    "goodsID": 138,
+    "playerLevel": 227,
+    "numPerDiamond": 3717.6,
+    "numPerGold": 732.2834645669291
+  },
+  "978": {
+    "id": 978,
+    "goodsID": 138,
+    "playerLevel": 228,
+    "numPerDiamond": 3717.6,
+    "numPerGold": 732.2834645669291
+  },
+  "979": {
+    "id": 979,
+    "goodsID": 138,
+    "playerLevel": 229,
+    "numPerDiamond": 3717.6,
+    "numPerGold": 732.2834645669291
+  },
+  "980": {
+    "id": 980,
+    "goodsID": 138,
+    "playerLevel": 230,
+    "numPerDiamond": 3717.6,
+    "numPerGold": 732.2834645669291
+  },
+  "981": {
+    "id": 981,
+    "goodsID": 138,
+    "playerLevel": 231,
+    "numPerDiamond": 4097.400000000001,
+    "numPerGold": 777.8368121442124
+  },
+  "982": {
+    "id": 982,
+    "goodsID": 138,
+    "playerLevel": 232,
+    "numPerDiamond": 4097.400000000001,
+    "numPerGold": 777.8368121442124
+  },
+  "983": {
+    "id": 983,
+    "goodsID": 138,
+    "playerLevel": 233,
+    "numPerDiamond": 4097.400000000001,
+    "numPerGold": 777.8368121442124
+  },
+  "984": {
+    "id": 984,
+    "goodsID": 138,
+    "playerLevel": 234,
+    "numPerDiamond": 4097.400000000001,
+    "numPerGold": 777.8368121442124
+  },
+  "985": {
+    "id": 985,
+    "goodsID": 138,
+    "playerLevel": 235,
+    "numPerDiamond": 4097.400000000001,
+    "numPerGold": 777.8368121442124
+  },
+  "986": {
+    "id": 986,
+    "goodsID": 138,
+    "playerLevel": 236,
+    "numPerDiamond": 4476.6,
+    "numPerGold": 820.2197802197802
+  },
+  "987": {
+    "id": 987,
+    "goodsID": 138,
+    "playerLevel": 237,
+    "numPerDiamond": 4476.6,
+    "numPerGold": 820.2197802197802
+  },
+  "988": {
+    "id": 988,
+    "goodsID": 138,
+    "playerLevel": 238,
+    "numPerDiamond": 4476.6,
+    "numPerGold": 820.2197802197802
+  },
+  "989": {
+    "id": 989,
+    "goodsID": 138,
+    "playerLevel": 239,
+    "numPerDiamond": 4476.6,
+    "numPerGold": 820.2197802197802
+  },
+  "990": {
+    "id": 990,
+    "goodsID": 138,
+    "playerLevel": 240,
+    "numPerDiamond": 4476.6,
+    "numPerGold": 820.2197802197802
+  },
+  "991": {
+    "id": 991,
+    "goodsID": 138,
+    "playerLevel": 241,
+    "numPerDiamond": 4855.8,
+    "numPerGold": 859.7522123893806
+  },
+  "992": {
+    "id": 992,
+    "goodsID": 138,
+    "playerLevel": 242,
+    "numPerDiamond": 4855.8,
+    "numPerGold": 859.7522123893806
+  },
+  "993": {
+    "id": 993,
+    "goodsID": 138,
+    "playerLevel": 243,
+    "numPerDiamond": 4855.8,
+    "numPerGold": 859.7522123893806
+  },
+  "994": {
+    "id": 994,
+    "goodsID": 138,
+    "playerLevel": 244,
+    "numPerDiamond": 4855.8,
+    "numPerGold": 859.7522123893806
+  },
+  "995": {
+    "id": 995,
+    "goodsID": 138,
+    "playerLevel": 245,
+    "numPerDiamond": 4855.8,
+    "numPerGold": 859.7522123893806
+  },
+  "996": {
+    "id": 996,
+    "goodsID": 138,
+    "playerLevel": 246,
+    "numPerDiamond": 4855.8,
+    "numPerGold": 859.7522123893806
+  },
+  "997": {
+    "id": 997,
+    "goodsID": 138,
+    "playerLevel": 247,
+    "numPerDiamond": 4855.8,
+    "numPerGold": 859.7522123893806
+  },
+  "998": {
+    "id": 998,
+    "goodsID": 138,
+    "playerLevel": 248,
+    "numPerDiamond": 4855.8,
+    "numPerGold": 859.7522123893806
+  },
+  "999": {
+    "id": 999,
+    "goodsID": 138,
+    "playerLevel": 249,
+    "numPerDiamond": 4855.8,
+    "numPerGold": 859.7522123893806
+  },
+  "1000": {
+    "id": 1000,
+    "goodsID": 138,
+    "playerLevel": 250,
+    "numPerDiamond": 4855.8,
+    "numPerGold": 859.7522123893806
+  },
+  "1001": {
+    "id": 1001,
+    "goodsID": 150,
+    "playerLevel": 1,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1002": {
+    "id": 1002,
+    "goodsID": 150,
+    "playerLevel": 2,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1003": {
+    "id": 1003,
+    "goodsID": 150,
+    "playerLevel": 3,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1004": {
+    "id": 1004,
+    "goodsID": 150,
+    "playerLevel": 4,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1005": {
+    "id": 1005,
+    "goodsID": 150,
+    "playerLevel": 5,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1006": {
+    "id": 1006,
+    "goodsID": 150,
+    "playerLevel": 6,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1007": {
+    "id": 1007,
+    "goodsID": 150,
+    "playerLevel": 7,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1008": {
+    "id": 1008,
+    "goodsID": 150,
+    "playerLevel": 8,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1009": {
+    "id": 1009,
+    "goodsID": 150,
+    "playerLevel": 9,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1010": {
+    "id": 1010,
+    "goodsID": 150,
+    "playerLevel": 10,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1011": {
+    "id": 1011,
+    "goodsID": 150,
+    "playerLevel": 11,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1012": {
+    "id": 1012,
+    "goodsID": 150,
+    "playerLevel": 12,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1013": {
+    "id": 1013,
+    "goodsID": 150,
+    "playerLevel": 13,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1014": {
+    "id": 1014,
+    "goodsID": 150,
+    "playerLevel": 14,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1015": {
+    "id": 1015,
+    "goodsID": 150,
+    "playerLevel": 15,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1016": {
+    "id": 1016,
+    "goodsID": 150,
+    "playerLevel": 16,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1017": {
+    "id": 1017,
+    "goodsID": 150,
+    "playerLevel": 17,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1018": {
+    "id": 1018,
+    "goodsID": 150,
+    "playerLevel": 18,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1019": {
+    "id": 1019,
+    "goodsID": 150,
+    "playerLevel": 19,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1020": {
+    "id": 1020,
+    "goodsID": 150,
+    "playerLevel": 20,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1021": {
+    "id": 1021,
+    "goodsID": 150,
+    "playerLevel": 21,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1022": {
+    "id": 1022,
+    "goodsID": 150,
+    "playerLevel": 22,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1023": {
+    "id": 1023,
+    "goodsID": 150,
+    "playerLevel": 23,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1024": {
+    "id": 1024,
+    "goodsID": 150,
+    "playerLevel": 24,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1025": {
+    "id": 1025,
+    "goodsID": 150,
+    "playerLevel": 25,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1026": {
+    "id": 1026,
+    "goodsID": 150,
+    "playerLevel": 26,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1027": {
+    "id": 1027,
+    "goodsID": 150,
+    "playerLevel": 27,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1028": {
+    "id": 1028,
+    "goodsID": 150,
+    "playerLevel": 28,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1029": {
+    "id": 1029,
+    "goodsID": 150,
+    "playerLevel": 29,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1030": {
+    "id": 1030,
+    "goodsID": 150,
+    "playerLevel": 30,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1031": {
+    "id": 1031,
+    "goodsID": 150,
+    "playerLevel": 31,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1032": {
+    "id": 1032,
+    "goodsID": 150,
+    "playerLevel": 32,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1033": {
+    "id": 1033,
+    "goodsID": 150,
+    "playerLevel": 33,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1034": {
+    "id": 1034,
+    "goodsID": 150,
+    "playerLevel": 34,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1035": {
+    "id": 1035,
+    "goodsID": 150,
+    "playerLevel": 35,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1036": {
+    "id": 1036,
+    "goodsID": 150,
+    "playerLevel": 36,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1037": {
+    "id": 1037,
+    "goodsID": 150,
+    "playerLevel": 37,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1038": {
+    "id": 1038,
+    "goodsID": 150,
+    "playerLevel": 38,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1039": {
+    "id": 1039,
+    "goodsID": 150,
+    "playerLevel": 39,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1040": {
+    "id": 1040,
+    "goodsID": 150,
+    "playerLevel": 40,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1041": {
+    "id": 1041,
+    "goodsID": 150,
+    "playerLevel": 41,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1042": {
+    "id": 1042,
+    "goodsID": 150,
+    "playerLevel": 42,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1043": {
+    "id": 1043,
+    "goodsID": 150,
+    "playerLevel": 43,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1044": {
+    "id": 1044,
+    "goodsID": 150,
+    "playerLevel": 44,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1045": {
+    "id": 1045,
+    "goodsID": 150,
+    "playerLevel": 45,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1046": {
+    "id": 1046,
+    "goodsID": 150,
+    "playerLevel": 46,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1047": {
+    "id": 1047,
+    "goodsID": 150,
+    "playerLevel": 47,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1048": {
+    "id": 1048,
+    "goodsID": 150,
+    "playerLevel": 48,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1049": {
+    "id": 1049,
+    "goodsID": 150,
+    "playerLevel": 49,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1050": {
+    "id": 1050,
+    "goodsID": 150,
+    "playerLevel": 50,
+    "numPerDiamond": 204,
+    "numPerGold": 134.39999999999998
+  },
+  "1051": {
+    "id": 1051,
+    "goodsID": 150,
+    "playerLevel": 51,
+    "numPerDiamond": 222,
+    "numPerGold": 134.39999999999998
+  },
+  "1052": {
+    "id": 1052,
+    "goodsID": 150,
+    "playerLevel": 52,
+    "numPerDiamond": 222,
+    "numPerGold": 134.39999999999998
+  },
+  "1053": {
+    "id": 1053,
+    "goodsID": 150,
+    "playerLevel": 53,
+    "numPerDiamond": 222,
+    "numPerGold": 134.39999999999998
+  },
+  "1054": {
+    "id": 1054,
+    "goodsID": 150,
+    "playerLevel": 54,
+    "numPerDiamond": 222,
+    "numPerGold": 134.39999999999998
+  },
+  "1055": {
+    "id": 1055,
+    "goodsID": 150,
+    "playerLevel": 55,
+    "numPerDiamond": 222,
+    "numPerGold": 134.39999999999998
+  },
+  "1056": {
+    "id": 1056,
+    "goodsID": 150,
+    "playerLevel": 56,
+    "numPerDiamond": 222,
+    "numPerGold": 134.39999999999998
+  },
+  "1057": {
+    "id": 1057,
+    "goodsID": 150,
+    "playerLevel": 57,
+    "numPerDiamond": 222,
+    "numPerGold": 134.39999999999998
+  },
+  "1058": {
+    "id": 1058,
+    "goodsID": 150,
+    "playerLevel": 58,
+    "numPerDiamond": 222,
+    "numPerGold": 134.39999999999998
+  },
+  "1059": {
+    "id": 1059,
+    "goodsID": 150,
+    "playerLevel": 59,
+    "numPerDiamond": 222,
+    "numPerGold": 134.39999999999998
+  },
+  "1060": {
+    "id": 1060,
+    "goodsID": 150,
+    "playerLevel": 60,
+    "numPerDiamond": 222,
+    "numPerGold": 134.39999999999998
+  },
+  "1061": {
+    "id": 1061,
+    "goodsID": 150,
+    "playerLevel": 61,
+    "numPerDiamond": 234,
+    "numPerGold": 134.39999999999998
+  },
+  "1062": {
+    "id": 1062,
+    "goodsID": 150,
+    "playerLevel": 62,
+    "numPerDiamond": 234,
+    "numPerGold": 134.39999999999998
+  },
+  "1063": {
+    "id": 1063,
+    "goodsID": 150,
+    "playerLevel": 63,
+    "numPerDiamond": 234,
+    "numPerGold": 134.39999999999998
+  },
+  "1064": {
+    "id": 1064,
+    "goodsID": 150,
+    "playerLevel": 64,
+    "numPerDiamond": 234,
+    "numPerGold": 134.39999999999998
+  },
+  "1065": {
+    "id": 1065,
+    "goodsID": 150,
+    "playerLevel": 65,
+    "numPerDiamond": 234,
+    "numPerGold": 134.39999999999998
+  },
+  "1066": {
+    "id": 1066,
+    "goodsID": 150,
+    "playerLevel": 66,
+    "numPerDiamond": 234,
+    "numPerGold": 134.39999999999998
+  },
+  "1067": {
+    "id": 1067,
+    "goodsID": 150,
+    "playerLevel": 67,
+    "numPerDiamond": 234,
+    "numPerGold": 134.39999999999998
+  },
+  "1068": {
+    "id": 1068,
+    "goodsID": 150,
+    "playerLevel": 68,
+    "numPerDiamond": 234,
+    "numPerGold": 134.39999999999998
+  },
+  "1069": {
+    "id": 1069,
+    "goodsID": 150,
+    "playerLevel": 69,
+    "numPerDiamond": 234,
+    "numPerGold": 134.39999999999998
+  },
+  "1070": {
+    "id": 1070,
+    "goodsID": 150,
+    "playerLevel": 70,
+    "numPerDiamond": 234,
+    "numPerGold": 134.39999999999998
+  },
+  "1071": {
+    "id": 1071,
+    "goodsID": 150,
+    "playerLevel": 71,
+    "numPerDiamond": 245.99999999999997,
+    "numPerGold": 134.39999999999998
+  },
+  "1072": {
+    "id": 1072,
+    "goodsID": 150,
+    "playerLevel": 72,
+    "numPerDiamond": 245.99999999999997,
+    "numPerGold": 134.39999999999998
+  },
+  "1073": {
+    "id": 1073,
+    "goodsID": 150,
+    "playerLevel": 73,
+    "numPerDiamond": 245.99999999999997,
+    "numPerGold": 134.39999999999998
+  },
+  "1074": {
+    "id": 1074,
+    "goodsID": 150,
+    "playerLevel": 74,
+    "numPerDiamond": 245.99999999999997,
+    "numPerGold": 134.39999999999998
+  },
+  "1075": {
+    "id": 1075,
+    "goodsID": 150,
+    "playerLevel": 75,
+    "numPerDiamond": 245.99999999999997,
+    "numPerGold": 134.39999999999998
+  },
+  "1076": {
+    "id": 1076,
+    "goodsID": 150,
+    "playerLevel": 76,
+    "numPerDiamond": 245.99999999999997,
+    "numPerGold": 134.39999999999998
+  },
+  "1077": {
+    "id": 1077,
+    "goodsID": 150,
+    "playerLevel": 77,
+    "numPerDiamond": 245.99999999999997,
+    "numPerGold": 134.39999999999998
+  },
+  "1078": {
+    "id": 1078,
+    "goodsID": 150,
+    "playerLevel": 78,
+    "numPerDiamond": 245.99999999999997,
+    "numPerGold": 134.39999999999998
+  },
+  "1079": {
+    "id": 1079,
+    "goodsID": 150,
+    "playerLevel": 79,
+    "numPerDiamond": 245.99999999999997,
+    "numPerGold": 134.39999999999998
+  },
+  "1080": {
+    "id": 1080,
+    "goodsID": 150,
+    "playerLevel": 80,
+    "numPerDiamond": 245.99999999999997,
+    "numPerGold": 134.39999999999998
+  },
+  "1081": {
+    "id": 1081,
+    "goodsID": 150,
+    "playerLevel": 81,
+    "numPerDiamond": 258,
+    "numPerGold": 134.39999999999998
+  },
+  "1082": {
+    "id": 1082,
+    "goodsID": 150,
+    "playerLevel": 82,
+    "numPerDiamond": 258,
+    "numPerGold": 134.39999999999998
+  },
+  "1083": {
+    "id": 1083,
+    "goodsID": 150,
+    "playerLevel": 83,
+    "numPerDiamond": 258,
+    "numPerGold": 134.39999999999998
+  },
+  "1084": {
+    "id": 1084,
+    "goodsID": 150,
+    "playerLevel": 84,
+    "numPerDiamond": 258,
+    "numPerGold": 134.39999999999998
+  },
+  "1085": {
+    "id": 1085,
+    "goodsID": 150,
+    "playerLevel": 85,
+    "numPerDiamond": 258,
+    "numPerGold": 134.39999999999998
+  },
+  "1086": {
+    "id": 1086,
+    "goodsID": 150,
+    "playerLevel": 86,
+    "numPerDiamond": 276,
+    "numPerGold": 134.39999999999998
+  },
+  "1087": {
+    "id": 1087,
+    "goodsID": 150,
+    "playerLevel": 87,
+    "numPerDiamond": 276,
+    "numPerGold": 134.39999999999998
+  },
+  "1088": {
+    "id": 1088,
+    "goodsID": 150,
+    "playerLevel": 88,
+    "numPerDiamond": 276,
+    "numPerGold": 134.39999999999998
+  },
+  "1089": {
+    "id": 1089,
+    "goodsID": 150,
+    "playerLevel": 89,
+    "numPerDiamond": 276,
+    "numPerGold": 134.39999999999998
+  },
+  "1090": {
+    "id": 1090,
+    "goodsID": 150,
+    "playerLevel": 90,
+    "numPerDiamond": 276,
+    "numPerGold": 134.39999999999998
+  },
+  "1091": {
+    "id": 1091,
+    "goodsID": 150,
+    "playerLevel": 91,
+    "numPerDiamond": 288,
+    "numPerGold": 134.39999999999998
+  },
+  "1092": {
+    "id": 1092,
+    "goodsID": 150,
+    "playerLevel": 92,
+    "numPerDiamond": 288,
+    "numPerGold": 134.39999999999998
+  },
+  "1093": {
+    "id": 1093,
+    "goodsID": 150,
+    "playerLevel": 93,
+    "numPerDiamond": 288,
+    "numPerGold": 134.39999999999998
+  },
+  "1094": {
+    "id": 1094,
+    "goodsID": 150,
+    "playerLevel": 94,
+    "numPerDiamond": 288,
+    "numPerGold": 134.39999999999998
+  },
+  "1095": {
+    "id": 1095,
+    "goodsID": 150,
+    "playerLevel": 95,
+    "numPerDiamond": 288,
+    "numPerGold": 134.39999999999998
+  },
+  "1096": {
+    "id": 1096,
+    "goodsID": 150,
+    "playerLevel": 96,
+    "numPerDiamond": 312,
+    "numPerGold": 136.8421052631579
+  },
+  "1097": {
+    "id": 1097,
+    "goodsID": 150,
+    "playerLevel": 97,
+    "numPerDiamond": 312,
+    "numPerGold": 136.8421052631579
+  },
+  "1098": {
+    "id": 1098,
+    "goodsID": 150,
+    "playerLevel": 98,
+    "numPerDiamond": 312,
+    "numPerGold": 136.8421052631579
+  },
+  "1099": {
+    "id": 1099,
+    "goodsID": 150,
+    "playerLevel": 99,
+    "numPerDiamond": 312,
+    "numPerGold": 136.8421052631579
+  },
+  "1100": {
+    "id": 1100,
+    "goodsID": 150,
+    "playerLevel": 100,
+    "numPerDiamond": 312,
+    "numPerGold": 136.8421052631579
+  },
+  "1101": {
+    "id": 1101,
+    "goodsID": 150,
+    "playerLevel": 101,
+    "numPerDiamond": 342,
+    "numPerGold": 141.41078838174275
+  },
+  "1102": {
+    "id": 1102,
+    "goodsID": 150,
+    "playerLevel": 102,
+    "numPerDiamond": 342,
+    "numPerGold": 141.41078838174275
+  },
+  "1103": {
+    "id": 1103,
+    "goodsID": 150,
+    "playerLevel": 103,
+    "numPerDiamond": 342,
+    "numPerGold": 141.41078838174275
+  },
+  "1104": {
+    "id": 1104,
+    "goodsID": 150,
+    "playerLevel": 104,
+    "numPerDiamond": 342,
+    "numPerGold": 141.41078838174275
+  },
+  "1105": {
+    "id": 1105,
+    "goodsID": 150,
+    "playerLevel": 105,
+    "numPerDiamond": 342,
+    "numPerGold": 141.41078838174275
+  },
+  "1106": {
+    "id": 1106,
+    "goodsID": 150,
+    "playerLevel": 106,
+    "numPerDiamond": 366,
+    "numPerGold": 144.76190476190476
+  },
+  "1107": {
+    "id": 1107,
+    "goodsID": 150,
+    "playerLevel": 107,
+    "numPerDiamond": 366,
+    "numPerGold": 144.76190476190476
+  },
+  "1108": {
+    "id": 1108,
+    "goodsID": 150,
+    "playerLevel": 108,
+    "numPerDiamond": 366,
+    "numPerGold": 144.76190476190476
+  },
+  "1109": {
+    "id": 1109,
+    "goodsID": 150,
+    "playerLevel": 109,
+    "numPerDiamond": 366,
+    "numPerGold": 144.76190476190476
+  },
+  "1110": {
+    "id": 1110,
+    "goodsID": 150,
+    "playerLevel": 110,
+    "numPerDiamond": 366,
+    "numPerGold": 144.76190476190476
+  },
+  "1111": {
+    "id": 1111,
+    "goodsID": 150,
+    "playerLevel": 111,
+    "numPerDiamond": 396,
+    "numPerGold": 152.64367816091954
+  },
+  "1112": {
+    "id": 1112,
+    "goodsID": 150,
+    "playerLevel": 112,
+    "numPerDiamond": 396,
+    "numPerGold": 152.64367816091954
+  },
+  "1113": {
+    "id": 1113,
+    "goodsID": 150,
+    "playerLevel": 113,
+    "numPerDiamond": 396,
+    "numPerGold": 152.64367816091954
+  },
+  "1114": {
+    "id": 1114,
+    "goodsID": 150,
+    "playerLevel": 114,
+    "numPerDiamond": 396,
+    "numPerGold": 152.64367816091954
+  },
+  "1115": {
+    "id": 1115,
+    "goodsID": 150,
+    "playerLevel": 115,
+    "numPerDiamond": 396,
+    "numPerGold": 152.64367816091954
+  },
+  "1116": {
+    "id": 1116,
+    "goodsID": 150,
+    "playerLevel": 116,
+    "numPerDiamond": 420,
+    "numPerGold": 156.44444444444443
+  },
+  "1117": {
+    "id": 1117,
+    "goodsID": 150,
+    "playerLevel": 117,
+    "numPerDiamond": 420,
+    "numPerGold": 156.44444444444443
+  },
+  "1118": {
+    "id": 1118,
+    "goodsID": 150,
+    "playerLevel": 118,
+    "numPerDiamond": 420,
+    "numPerGold": 156.44444444444443
+  },
+  "1119": {
+    "id": 1119,
+    "goodsID": 150,
+    "playerLevel": 119,
+    "numPerDiamond": 420,
+    "numPerGold": 156.44444444444443
+  },
+  "1120": {
+    "id": 1120,
+    "goodsID": 150,
+    "playerLevel": 120,
+    "numPerDiamond": 420,
+    "numPerGold": 156.44444444444443
+  },
+  "1121": {
+    "id": 1121,
+    "goodsID": 150,
+    "playerLevel": 121,
+    "numPerDiamond": 468,
+    "numPerGold": 167.40213523131672
+  },
+  "1122": {
+    "id": 1122,
+    "goodsID": 150,
+    "playerLevel": 122,
+    "numPerDiamond": 468,
+    "numPerGold": 167.40213523131672
+  },
+  "1123": {
+    "id": 1123,
+    "goodsID": 150,
+    "playerLevel": 123,
+    "numPerDiamond": 468,
+    "numPerGold": 167.40213523131672
+  },
+  "1124": {
+    "id": 1124,
+    "goodsID": 150,
+    "playerLevel": 124,
+    "numPerDiamond": 468,
+    "numPerGold": 167.40213523131672
+  },
+  "1125": {
+    "id": 1125,
+    "goodsID": 150,
+    "playerLevel": 125,
+    "numPerDiamond": 468,
+    "numPerGold": 167.40213523131672
+  },
+  "1126": {
+    "id": 1126,
+    "goodsID": 150,
+    "playerLevel": 126,
+    "numPerDiamond": 516,
+    "numPerGold": 177.53424657534245
+  },
+  "1127": {
+    "id": 1127,
+    "goodsID": 150,
+    "playerLevel": 127,
+    "numPerDiamond": 516,
+    "numPerGold": 177.53424657534245
+  },
+  "1128": {
+    "id": 1128,
+    "goodsID": 150,
+    "playerLevel": 128,
+    "numPerDiamond": 516,
+    "numPerGold": 177.53424657534245
+  },
+  "1129": {
+    "id": 1129,
+    "goodsID": 150,
+    "playerLevel": 129,
+    "numPerDiamond": 516,
+    "numPerGold": 177.53424657534245
+  },
+  "1130": {
+    "id": 1130,
+    "goodsID": 150,
+    "playerLevel": 130,
+    "numPerDiamond": 516,
+    "numPerGold": 177.53424657534245
+  },
+  "1131": {
+    "id": 1131,
+    "goodsID": 150,
+    "playerLevel": 131,
+    "numPerDiamond": 564,
+    "numPerGold": 188.17275747508305
+  },
+  "1132": {
+    "id": 1132,
+    "goodsID": 150,
+    "playerLevel": 132,
+    "numPerDiamond": 564,
+    "numPerGold": 188.17275747508305
+  },
+  "1133": {
+    "id": 1133,
+    "goodsID": 150,
+    "playerLevel": 133,
+    "numPerDiamond": 564,
+    "numPerGold": 188.17275747508305
+  },
+  "1134": {
+    "id": 1134,
+    "goodsID": 150,
+    "playerLevel": 134,
+    "numPerDiamond": 564,
+    "numPerGold": 188.17275747508305
+  },
+  "1135": {
+    "id": 1135,
+    "goodsID": 150,
+    "playerLevel": 135,
+    "numPerDiamond": 564,
+    "numPerGold": 188.17275747508305
+  },
+  "1136": {
+    "id": 1136,
+    "goodsID": 150,
+    "playerLevel": 136,
+    "numPerDiamond": 612,
+    "numPerGold": 199.48051948051952
+  },
+  "1137": {
+    "id": 1137,
+    "goodsID": 150,
+    "playerLevel": 137,
+    "numPerDiamond": 612,
+    "numPerGold": 199.48051948051952
+  },
+  "1138": {
+    "id": 1138,
+    "goodsID": 150,
+    "playerLevel": 138,
+    "numPerDiamond": 612,
+    "numPerGold": 199.48051948051952
+  },
+  "1139": {
+    "id": 1139,
+    "goodsID": 150,
+    "playerLevel": 139,
+    "numPerDiamond": 612,
+    "numPerGold": 199.48051948051952
+  },
+  "1140": {
+    "id": 1140,
+    "goodsID": 150,
+    "playerLevel": 140,
+    "numPerDiamond": 612,
+    "numPerGold": 199.48051948051952
+  },
+  "1141": {
+    "id": 1141,
+    "goodsID": 150,
+    "playerLevel": 141,
+    "numPerDiamond": 660,
+    "numPerGold": 208.95899053627764
+  },
+  "1142": {
+    "id": 1142,
+    "goodsID": 150,
+    "playerLevel": 142,
+    "numPerDiamond": 660,
+    "numPerGold": 208.95899053627764
+  },
+  "1143": {
+    "id": 1143,
+    "goodsID": 150,
+    "playerLevel": 143,
+    "numPerDiamond": 660,
+    "numPerGold": 208.95899053627764
+  },
+  "1144": {
+    "id": 1144,
+    "goodsID": 150,
+    "playerLevel": 144,
+    "numPerDiamond": 660,
+    "numPerGold": 208.95899053627764
+  },
+  "1145": {
+    "id": 1145,
+    "goodsID": 150,
+    "playerLevel": 145,
+    "numPerDiamond": 660,
+    "numPerGold": 208.95899053627764
+  },
+  "1146": {
+    "id": 1146,
+    "goodsID": 150,
+    "playerLevel": 146,
+    "numPerDiamond": 768,
+    "numPerGold": 235.58282208588957
+  },
+  "1147": {
+    "id": 1147,
+    "goodsID": 150,
+    "playerLevel": 147,
+    "numPerDiamond": 768,
+    "numPerGold": 235.58282208588957
+  },
+  "1148": {
+    "id": 1148,
+    "goodsID": 150,
+    "playerLevel": 148,
+    "numPerDiamond": 768,
+    "numPerGold": 235.58282208588957
+  },
+  "1149": {
+    "id": 1149,
+    "goodsID": 150,
+    "playerLevel": 149,
+    "numPerDiamond": 768,
+    "numPerGold": 235.58282208588957
+  },
+  "1150": {
+    "id": 1150,
+    "goodsID": 150,
+    "playerLevel": 150,
+    "numPerDiamond": 768,
+    "numPerGold": 235.58282208588957
+  },
+  "1151": {
+    "id": 1151,
+    "goodsID": 150,
+    "playerLevel": 151,
+    "numPerDiamond": 876,
+    "numPerGold": 262.2089552238806
+  },
+  "1152": {
+    "id": 1152,
+    "goodsID": 150,
+    "playerLevel": 152,
+    "numPerDiamond": 876,
+    "numPerGold": 262.2089552238806
+  },
+  "1153": {
+    "id": 1153,
+    "goodsID": 150,
+    "playerLevel": 153,
+    "numPerDiamond": 876,
+    "numPerGold": 262.2089552238806
+  },
+  "1154": {
+    "id": 1154,
+    "goodsID": 150,
+    "playerLevel": 154,
+    "numPerDiamond": 876,
+    "numPerGold": 262.2089552238806
+  },
+  "1155": {
+    "id": 1155,
+    "goodsID": 150,
+    "playerLevel": 155,
+    "numPerDiamond": 876,
+    "numPerGold": 262.2089552238806
+  },
+  "1156": {
+    "id": 1156,
+    "goodsID": 150,
+    "playerLevel": 156,
+    "numPerDiamond": 983.9999999999999,
+    "numPerGold": 286.04651162790697
+  },
+  "1157": {
+    "id": 1157,
+    "goodsID": 150,
+    "playerLevel": 157,
+    "numPerDiamond": 983.9999999999999,
+    "numPerGold": 286.04651162790697
+  },
+  "1158": {
+    "id": 1158,
+    "goodsID": 150,
+    "playerLevel": 158,
+    "numPerDiamond": 983.9999999999999,
+    "numPerGold": 286.04651162790697
+  },
+  "1159": {
+    "id": 1159,
+    "goodsID": 150,
+    "playerLevel": 159,
+    "numPerDiamond": 983.9999999999999,
+    "numPerGold": 286.04651162790697
+  },
+  "1160": {
+    "id": 1160,
+    "goodsID": 150,
+    "playerLevel": 160,
+    "numPerDiamond": 983.9999999999999,
+    "numPerGold": 286.04651162790697
+  },
+  "1161": {
+    "id": 1161,
+    "goodsID": 150,
+    "playerLevel": 161,
+    "numPerDiamond": 1092,
+    "numPerGold": 310.028328611898
+  },
+  "1162": {
+    "id": 1162,
+    "goodsID": 150,
+    "playerLevel": 162,
+    "numPerDiamond": 1092,
+    "numPerGold": 310.028328611898
+  },
+  "1163": {
+    "id": 1163,
+    "goodsID": 150,
+    "playerLevel": 163,
+    "numPerDiamond": 1092,
+    "numPerGold": 310.028328611898
+  },
+  "1164": {
+    "id": 1164,
+    "goodsID": 150,
+    "playerLevel": 164,
+    "numPerDiamond": 1092,
+    "numPerGold": 310.028328611898
+  },
+  "1165": {
+    "id": 1165,
+    "goodsID": 150,
+    "playerLevel": 165,
+    "numPerDiamond": 1092,
+    "numPerGold": 310.028328611898
+  },
+  "1166": {
+    "id": 1166,
+    "goodsID": 150,
+    "playerLevel": 166,
+    "numPerDiamond": 1200,
+    "numPerGold": 329.6703296703297
+  },
+  "1167": {
+    "id": 1167,
+    "goodsID": 150,
+    "playerLevel": 167,
+    "numPerDiamond": 1200,
+    "numPerGold": 329.6703296703297
+  },
+  "1168": {
+    "id": 1168,
+    "goodsID": 150,
+    "playerLevel": 168,
+    "numPerDiamond": 1200,
+    "numPerGold": 329.6703296703297
+  },
+  "1169": {
+    "id": 1169,
+    "goodsID": 150,
+    "playerLevel": 169,
+    "numPerDiamond": 1200,
+    "numPerGold": 329.6703296703297
+  },
+  "1170": {
+    "id": 1170,
+    "goodsID": 150,
+    "playerLevel": 170,
+    "numPerDiamond": 1200,
+    "numPerGold": 329.6703296703297
+  },
+  "1171": {
+    "id": 1171,
+    "goodsID": 150,
+    "playerLevel": 171,
+    "numPerDiamond": 1374,
+    "numPerGold": 368.0428954423592
+  },
+  "1172": {
+    "id": 1172,
+    "goodsID": 150,
+    "playerLevel": 172,
+    "numPerDiamond": 1374,
+    "numPerGold": 368.0428954423592
+  },
+  "1173": {
+    "id": 1173,
+    "goodsID": 150,
+    "playerLevel": 173,
+    "numPerDiamond": 1374,
+    "numPerGold": 368.0428954423592
+  },
+  "1174": {
+    "id": 1174,
+    "goodsID": 150,
+    "playerLevel": 174,
+    "numPerDiamond": 1374,
+    "numPerGold": 368.0428954423592
+  },
+  "1175": {
+    "id": 1175,
+    "goodsID": 150,
+    "playerLevel": 175,
+    "numPerDiamond": 1374,
+    "numPerGold": 368.0428954423592
+  },
+  "1176": {
+    "id": 1176,
+    "goodsID": 150,
+    "playerLevel": 176,
+    "numPerDiamond": 1548,
+    "numPerGold": 401.6580310880829
+  },
+  "1177": {
+    "id": 1177,
+    "goodsID": 150,
+    "playerLevel": 177,
+    "numPerDiamond": 1548,
+    "numPerGold": 401.6580310880829
+  },
+  "1178": {
+    "id": 1178,
+    "goodsID": 150,
+    "playerLevel": 178,
+    "numPerDiamond": 1548,
+    "numPerGold": 401.6580310880829
+  },
+  "1179": {
+    "id": 1179,
+    "goodsID": 150,
+    "playerLevel": 179,
+    "numPerDiamond": 1548,
+    "numPerGold": 401.6580310880829
+  },
+  "1180": {
+    "id": 1180,
+    "goodsID": 150,
+    "playerLevel": 180,
+    "numPerDiamond": 1548,
+    "numPerGold": 401.6580310880829
+  },
+  "1181": {
+    "id": 1181,
+    "goodsID": 150,
+    "playerLevel": 181,
+    "numPerDiamond": 1728,
+    "numPerGold": 435.264483627204
+  },
+  "1182": {
+    "id": 1182,
+    "goodsID": 150,
+    "playerLevel": 182,
+    "numPerDiamond": 1728,
+    "numPerGold": 435.264483627204
+  },
+  "1183": {
+    "id": 1183,
+    "goodsID": 150,
+    "playerLevel": 183,
+    "numPerDiamond": 1728,
+    "numPerGold": 435.264483627204
+  },
+  "1184": {
+    "id": 1184,
+    "goodsID": 150,
+    "playerLevel": 184,
+    "numPerDiamond": 1728,
+    "numPerGold": 435.264483627204
+  },
+  "1185": {
+    "id": 1185,
+    "goodsID": 150,
+    "playerLevel": 185,
+    "numPerDiamond": 1728,
+    "numPerGold": 435.264483627204
+  },
+  "1186": {
+    "id": 1186,
+    "goodsID": 150,
+    "playerLevel": 186,
+    "numPerDiamond": 1902,
+    "numPerGold": 468.1773399014778
+  },
+  "1187": {
+    "id": 1187,
+    "goodsID": 150,
+    "playerLevel": 187,
+    "numPerDiamond": 1902,
+    "numPerGold": 468.1773399014778
+  },
+  "1188": {
+    "id": 1188,
+    "goodsID": 150,
+    "playerLevel": 188,
+    "numPerDiamond": 1902,
+    "numPerGold": 468.1773399014778
+  },
+  "1189": {
+    "id": 1189,
+    "goodsID": 150,
+    "playerLevel": 189,
+    "numPerDiamond": 1902,
+    "numPerGold": 468.1773399014778
+  },
+  "1190": {
+    "id": 1190,
+    "goodsID": 150,
+    "playerLevel": 190,
+    "numPerDiamond": 1902,
+    "numPerGold": 468.1773399014778
+  },
+  "1191": {
+    "id": 1191,
+    "goodsID": 150,
+    "playerLevel": 191,
+    "numPerDiamond": 2076,
+    "numPerGold": 500.8192771084337
+  },
+  "1192": {
+    "id": 1192,
+    "goodsID": 150,
+    "playerLevel": 192,
+    "numPerDiamond": 2076,
+    "numPerGold": 500.8192771084337
+  },
+  "1193": {
+    "id": 1193,
+    "goodsID": 150,
+    "playerLevel": 193,
+    "numPerDiamond": 2076,
+    "numPerGold": 500.8192771084337
+  },
+  "1194": {
+    "id": 1194,
+    "goodsID": 150,
+    "playerLevel": 194,
+    "numPerDiamond": 2076,
+    "numPerGold": 500.8192771084337
+  },
+  "1195": {
+    "id": 1195,
+    "goodsID": 150,
+    "playerLevel": 195,
+    "numPerDiamond": 2076,
+    "numPerGold": 500.8192771084337
+  },
+  "1196": {
+    "id": 1196,
+    "goodsID": 150,
+    "playerLevel": 196,
+    "numPerDiamond": 2340,
+    "numPerGold": 549.8591549295775
+  },
+  "1197": {
+    "id": 1197,
+    "goodsID": 150,
+    "playerLevel": 197,
+    "numPerDiamond": 2340,
+    "numPerGold": 549.8591549295775
+  },
+  "1198": {
+    "id": 1198,
+    "goodsID": 150,
+    "playerLevel": 198,
+    "numPerDiamond": 2340,
+    "numPerGold": 549.8591549295775
+  },
+  "1199": {
+    "id": 1199,
+    "goodsID": 150,
+    "playerLevel": 199,
+    "numPerDiamond": 2340,
+    "numPerGold": 549.8591549295775
+  },
+  "1200": {
+    "id": 1200,
+    "goodsID": 150,
+    "playerLevel": 200,
+    "numPerDiamond": 2340,
+    "numPerGold": 549.8591549295775
+  },
+  "1201": {
+    "id": 1201,
+    "goodsID": 150,
+    "playerLevel": 201,
+    "numPerDiamond": 2598,
+    "numPerGold": 588.8435374149659
+  },
+  "1202": {
+    "id": 1202,
+    "goodsID": 150,
+    "playerLevel": 202,
+    "numPerDiamond": 2598,
+    "numPerGold": 588.8435374149659
+  },
+  "1203": {
+    "id": 1203,
+    "goodsID": 150,
+    "playerLevel": 203,
+    "numPerDiamond": 2598,
+    "numPerGold": 588.8435374149659
+  },
+  "1204": {
+    "id": 1204,
+    "goodsID": 150,
+    "playerLevel": 204,
+    "numPerDiamond": 2598,
+    "numPerGold": 588.8435374149659
+  },
+  "1205": {
+    "id": 1205,
+    "goodsID": 150,
+    "playerLevel": 205,
+    "numPerDiamond": 2598,
+    "numPerGold": 588.8435374149659
+  },
+  "1206": {
+    "id": 1206,
+    "goodsID": 150,
+    "playerLevel": 206,
+    "numPerDiamond": 2862,
+    "numPerGold": 627.3684210526316
+  },
+  "1207": {
+    "id": 1207,
+    "goodsID": 150,
+    "playerLevel": 207,
+    "numPerDiamond": 2862,
+    "numPerGold": 627.3684210526316
+  },
+  "1208": {
+    "id": 1208,
+    "goodsID": 150,
+    "playerLevel": 208,
+    "numPerDiamond": 2862,
+    "numPerGold": 627.3684210526316
+  },
+  "1209": {
+    "id": 1209,
+    "goodsID": 150,
+    "playerLevel": 209,
+    "numPerDiamond": 2862,
+    "numPerGold": 627.3684210526316
+  },
+  "1210": {
+    "id": 1210,
+    "goodsID": 150,
+    "playerLevel": 210,
+    "numPerDiamond": 2862,
+    "numPerGold": 627.3684210526316
+  },
+  "1211": {
+    "id": 1211,
+    "goodsID": 150,
+    "playerLevel": 211,
+    "numPerDiamond": 3120,
+    "numPerGold": 668.0942184154176
+  },
+  "1212": {
+    "id": 1212,
+    "goodsID": 150,
+    "playerLevel": 212,
+    "numPerDiamond": 3120,
+    "numPerGold": 668.0942184154176
+  },
+  "1213": {
+    "id": 1213,
+    "goodsID": 150,
+    "playerLevel": 213,
+    "numPerDiamond": 3120,
+    "numPerGold": 668.0942184154176
+  },
+  "1214": {
+    "id": 1214,
+    "goodsID": 150,
+    "playerLevel": 214,
+    "numPerDiamond": 3120,
+    "numPerGold": 668.0942184154176
+  },
+  "1215": {
+    "id": 1215,
+    "goodsID": 150,
+    "playerLevel": 215,
+    "numPerDiamond": 3120,
+    "numPerGold": 668.0942184154176
+  },
+  "1216": {
+    "id": 1216,
+    "goodsID": 150,
+    "playerLevel": 216,
+    "numPerDiamond": 3384,
+    "numPerGold": 705
+  },
+  "1217": {
+    "id": 1217,
+    "goodsID": 150,
+    "playerLevel": 217,
+    "numPerDiamond": 3384,
+    "numPerGold": 705
+  },
+  "1218": {
+    "id": 1218,
+    "goodsID": 150,
+    "playerLevel": 218,
+    "numPerDiamond": 3384,
+    "numPerGold": 705
+  },
+  "1219": {
+    "id": 1219,
+    "goodsID": 150,
+    "playerLevel": 219,
+    "numPerDiamond": 3384,
+    "numPerGold": 705
+  },
+  "1220": {
+    "id": 1220,
+    "goodsID": 150,
+    "playerLevel": 220,
+    "numPerDiamond": 3384,
+    "numPerGold": 705
+  },
+  "1221": {
+    "id": 1221,
+    "goodsID": 150,
+    "playerLevel": 221,
+    "numPerDiamond": 3816,
+    "numPerGold": 774.0365111561866
+  },
+  "1222": {
+    "id": 1222,
+    "goodsID": 150,
+    "playerLevel": 222,
+    "numPerDiamond": 3816,
+    "numPerGold": 774.0365111561866
+  },
+  "1223": {
+    "id": 1223,
+    "goodsID": 150,
+    "playerLevel": 223,
+    "numPerDiamond": 3816,
+    "numPerGold": 774.0365111561866
+  },
+  "1224": {
+    "id": 1224,
+    "goodsID": 150,
+    "playerLevel": 224,
+    "numPerDiamond": 3816,
+    "numPerGold": 774.0365111561866
+  },
+  "1225": {
+    "id": 1225,
+    "goodsID": 150,
+    "playerLevel": 225,
+    "numPerDiamond": 3816,
+    "numPerGold": 774.0365111561866
+  },
+  "1226": {
+    "id": 1226,
+    "goodsID": 150,
+    "playerLevel": 226,
+    "numPerDiamond": 4248,
+    "numPerGold": 836.220472440945
+  },
+  "1227": {
+    "id": 1227,
+    "goodsID": 150,
+    "playerLevel": 227,
+    "numPerDiamond": 4248,
+    "numPerGold": 836.220472440945
+  },
+  "1228": {
+    "id": 1228,
+    "goodsID": 150,
+    "playerLevel": 228,
+    "numPerDiamond": 4248,
+    "numPerGold": 836.220472440945
+  },
+  "1229": {
+    "id": 1229,
+    "goodsID": 150,
+    "playerLevel": 229,
+    "numPerDiamond": 4248,
+    "numPerGold": 836.220472440945
+  },
+  "1230": {
+    "id": 1230,
+    "goodsID": 150,
+    "playerLevel": 230,
+    "numPerDiamond": 4248,
+    "numPerGold": 836.220472440945
+  },
+  "1231": {
+    "id": 1231,
+    "goodsID": 150,
+    "playerLevel": 231,
+    "numPerDiamond": 4680,
+    "numPerGold": 888.0455407969639
+  },
+  "1232": {
+    "id": 1232,
+    "goodsID": 150,
+    "playerLevel": 232,
+    "numPerDiamond": 4680,
+    "numPerGold": 888.0455407969639
+  },
+  "1233": {
+    "id": 1233,
+    "goodsID": 150,
+    "playerLevel": 233,
+    "numPerDiamond": 4680,
+    "numPerGold": 888.0455407969639
+  },
+  "1234": {
+    "id": 1234,
+    "goodsID": 150,
+    "playerLevel": 234,
+    "numPerDiamond": 4680,
+    "numPerGold": 888.0455407969639
+  },
+  "1235": {
+    "id": 1235,
+    "goodsID": 150,
+    "playerLevel": 235,
+    "numPerDiamond": 4680,
+    "numPerGold": 888.0455407969639
+  },
+  "1236": {
+    "id": 1236,
+    "goodsID": 150,
+    "playerLevel": 236,
+    "numPerDiamond": 5118,
+    "numPerGold": 937.1428571428572
+  },
+  "1237": {
+    "id": 1237,
+    "goodsID": 150,
+    "playerLevel": 237,
+    "numPerDiamond": 5118,
+    "numPerGold": 937.1428571428572
+  },
+  "1238": {
+    "id": 1238,
+    "goodsID": 150,
+    "playerLevel": 238,
+    "numPerDiamond": 5118,
+    "numPerGold": 937.1428571428572
+  },
+  "1239": {
+    "id": 1239,
+    "goodsID": 150,
+    "playerLevel": 239,
+    "numPerDiamond": 5118,
+    "numPerGold": 937.1428571428572
+  },
+  "1240": {
+    "id": 1240,
+    "goodsID": 150,
+    "playerLevel": 240,
+    "numPerDiamond": 5118,
+    "numPerGold": 937.1428571428572
+  },
+  "1241": {
+    "id": 1241,
+    "goodsID": 150,
+    "playerLevel": 241,
+    "numPerDiamond": 5550,
+    "numPerGold": 982.0884955752213
+  },
+  "1242": {
+    "id": 1242,
+    "goodsID": 150,
+    "playerLevel": 242,
+    "numPerDiamond": 5550,
+    "numPerGold": 982.0884955752213
+  },
+  "1243": {
+    "id": 1243,
+    "goodsID": 150,
+    "playerLevel": 243,
+    "numPerDiamond": 5550,
+    "numPerGold": 982.0884955752213
+  },
+  "1244": {
+    "id": 1244,
+    "goodsID": 150,
+    "playerLevel": 244,
+    "numPerDiamond": 5550,
+    "numPerGold": 982.0884955752213
+  },
+  "1245": {
+    "id": 1245,
+    "goodsID": 150,
+    "playerLevel": 245,
+    "numPerDiamond": 5550,
+    "numPerGold": 982.0884955752213
+  },
+  "1246": {
+    "id": 1246,
+    "goodsID": 150,
+    "playerLevel": 246,
+    "numPerDiamond": 5550,
+    "numPerGold": 982.0884955752213
+  },
+  "1247": {
+    "id": 1247,
+    "goodsID": 150,
+    "playerLevel": 247,
+    "numPerDiamond": 5550,
+    "numPerGold": 982.0884955752213
+  },
+  "1248": {
+    "id": 1248,
+    "goodsID": 150,
+    "playerLevel": 248,
+    "numPerDiamond": 5550,
+    "numPerGold": 982.0884955752213
+  },
+  "1249": {
+    "id": 1249,
+    "goodsID": 150,
+    "playerLevel": 249,
+    "numPerDiamond": 5550,
+    "numPerGold": 982.0884955752213
+  },
+  "1250": {
+    "id": 1250,
+    "goodsID": 150,
+    "playerLevel": 250,
+    "numPerDiamond": 5550,
+    "numPerGold": 982.0884955752213
+  }
+}

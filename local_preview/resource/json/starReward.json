@@ -1,0 +1,884 @@
+{
+  "1": {
+    "id": 1,
+    "star": 10,
+    "award1": 656,
+    "num1": 40,
+    "playerLevel": 220
+  },
+  "2": {
+    "id": 2,
+    "star": 20,
+    "award1": 656,
+    "num1": 40,
+    "playerLevel": 220
+  },
+  "3": {
+    "id": 3,
+    "star": 30,
+    "award1": 656,
+    "num1": 40,
+    "playerLevel": 220
+  },
+  "4": {
+    "id": 4,
+    "star": 40,
+    "award1": 656,
+    "num1": 40,
+    "playerLevel": 220
+  },
+  "5": {
+    "id": 5,
+    "star": 50,
+    "award1": 656,
+    "num1": 60,
+    "playerLevel": 220
+  },
+  "6": {
+    "id": 6,
+    "star": 60,
+    "award1": 656,
+    "num1": 60,
+    "playerLevel": 220
+  },
+  "7": {
+    "id": 7,
+    "star": 70,
+    "award1": 656,
+    "num1": 60,
+    "playerLevel": 220
+  },
+  "8": {
+    "id": 8,
+    "star": 80,
+    "award1": 656,
+    "num1": 60,
+    "playerLevel": 220
+  },
+  "9": {
+    "id": 9,
+    "star": 90,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 220
+  },
+  "10": {
+    "id": 10,
+    "star": 100,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 220
+  },
+  "11": {
+    "id": 11,
+    "star": 110,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 220
+  },
+  "12": {
+    "id": 12,
+    "star": 120,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 220
+  },
+  "13": {
+    "id": 13,
+    "star": 130,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 220
+  },
+  "14": {
+    "id": 14,
+    "star": 140,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 220
+  },
+  "15": {
+    "id": 15,
+    "star": 150,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 220
+  },
+  "16": {
+    "id": 16,
+    "star": 160,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 220
+  },
+  "17": {
+    "id": 17,
+    "star": 170,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 220
+  },
+  "18": {
+    "id": 18,
+    "star": 180,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 220
+  },
+  "19": {
+    "id": 19,
+    "star": 10,
+    "award1": 656,
+    "num1": 40,
+    "playerLevel": 225
+  },
+  "20": {
+    "id": 20,
+    "star": 20,
+    "award1": 656,
+    "num1": 40,
+    "playerLevel": 225
+  },
+  "21": {
+    "id": 21,
+    "star": 30,
+    "award1": 656,
+    "num1": 60,
+    "playerLevel": 225
+  },
+  "22": {
+    "id": 22,
+    "star": 40,
+    "award1": 656,
+    "num1": 60,
+    "playerLevel": 225
+  },
+  "23": {
+    "id": 23,
+    "star": 50,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 225
+  },
+  "24": {
+    "id": 24,
+    "star": 60,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 225
+  },
+  "25": {
+    "id": 25,
+    "star": 70,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 225
+  },
+  "26": {
+    "id": 26,
+    "star": 80,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 225
+  },
+  "27": {
+    "id": 27,
+    "star": 90,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 225
+  },
+  "28": {
+    "id": 28,
+    "star": 100,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 225
+  },
+  "29": {
+    "id": 29,
+    "star": 110,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 225
+  },
+  "30": {
+    "id": 30,
+    "star": 120,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 225
+  },
+  "31": {
+    "id": 31,
+    "star": 130,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 225
+  },
+  "32": {
+    "id": 32,
+    "star": 140,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 225
+  },
+  "33": {
+    "id": 33,
+    "star": 150,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 225
+  },
+  "34": {
+    "id": 34,
+    "star": 160,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 225
+  },
+  "35": {
+    "id": 35,
+    "star": 170,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 225
+  },
+  "36": {
+    "id": 36,
+    "star": 180,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 225
+  },
+  "37": {
+    "id": 37,
+    "star": 10,
+    "award1": 656,
+    "num1": 60,
+    "playerLevel": 230
+  },
+  "38": {
+    "id": 38,
+    "star": 20,
+    "award1": 656,
+    "num1": 60,
+    "playerLevel": 230
+  },
+  "39": {
+    "id": 39,
+    "star": 30,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 230
+  },
+  "40": {
+    "id": 40,
+    "star": 40,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 230
+  },
+  "41": {
+    "id": 41,
+    "star": 50,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 230
+  },
+  "42": {
+    "id": 42,
+    "star": 60,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 230
+  },
+  "43": {
+    "id": 43,
+    "star": 70,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "44": {
+    "id": 44,
+    "star": 80,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "45": {
+    "id": 45,
+    "star": 90,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "46": {
+    "id": 46,
+    "star": 100,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "47": {
+    "id": 47,
+    "star": 110,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "48": {
+    "id": 48,
+    "star": 120,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "49": {
+    "id": 49,
+    "star": 130,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "50": {
+    "id": 50,
+    "star": 140,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "51": {
+    "id": 51,
+    "star": 150,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "52": {
+    "id": 52,
+    "star": 160,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "53": {
+    "id": 53,
+    "star": 170,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "54": {
+    "id": 54,
+    "star": 180,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 230
+  },
+  "55": {
+    "id": 55,
+    "star": 10,
+    "award1": 656,
+    "num1": 60,
+    "playerLevel": 235
+  },
+  "56": {
+    "id": 56,
+    "star": 20,
+    "award1": 656,
+    "num1": 60,
+    "playerLevel": 235
+  },
+  "57": {
+    "id": 57,
+    "star": 30,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 235
+  },
+  "58": {
+    "id": 58,
+    "star": 40,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 235
+  },
+  "59": {
+    "id": 59,
+    "star": 50,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 235
+  },
+  "60": {
+    "id": 60,
+    "star": 60,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 235
+  },
+  "61": {
+    "id": 61,
+    "star": 70,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 235
+  },
+  "62": {
+    "id": 62,
+    "star": 80,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 235
+  },
+  "63": {
+    "id": 63,
+    "star": 90,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 235
+  },
+  "64": {
+    "id": 64,
+    "star": 100,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 235
+  },
+  "65": {
+    "id": 65,
+    "star": 110,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 235
+  },
+  "66": {
+    "id": 66,
+    "star": 120,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 235
+  },
+  "67": {
+    "id": 67,
+    "star": 130,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 235
+  },
+  "68": {
+    "id": 68,
+    "star": 140,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 235
+  },
+  "69": {
+    "id": 69,
+    "star": 150,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 235
+  },
+  "70": {
+    "id": 70,
+    "star": 160,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 235
+  },
+  "71": {
+    "id": 71,
+    "star": 170,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 235
+  },
+  "72": {
+    "id": 72,
+    "star": 180,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 235
+  },
+  "73": {
+    "id": 73,
+    "star": 10,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 240
+  },
+  "74": {
+    "id": 74,
+    "star": 20,
+    "award1": 656,
+    "num1": 80,
+    "playerLevel": 240
+  },
+  "75": {
+    "id": 75,
+    "star": 30,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 240
+  },
+  "76": {
+    "id": 76,
+    "star": 40,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 240
+  },
+  "77": {
+    "id": 77,
+    "star": 50,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 240
+  },
+  "78": {
+    "id": 78,
+    "star": 60,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 240
+  },
+  "79": {
+    "id": 79,
+    "star": 70,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 240
+  },
+  "80": {
+    "id": 80,
+    "star": 80,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 240
+  },
+  "81": {
+    "id": 81,
+    "star": 90,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 240
+  },
+  "82": {
+    "id": 82,
+    "star": 100,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 240
+  },
+  "83": {
+    "id": 83,
+    "star": 110,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 240
+  },
+  "84": {
+    "id": 84,
+    "star": 120,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 240
+  },
+  "85": {
+    "id": 85,
+    "star": 130,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 240
+  },
+  "86": {
+    "id": 86,
+    "star": 140,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 240
+  },
+  "87": {
+    "id": 87,
+    "star": 150,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 240
+  },
+  "88": {
+    "id": 88,
+    "star": 160,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 240
+  },
+  "89": {
+    "id": 89,
+    "star": 170,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 240
+  },
+  "90": {
+    "id": 90,
+    "star": 180,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 240
+  },
+  "91": {
+    "id": 91,
+    "star": 10,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 245
+  },
+  "92": {
+    "id": 92,
+    "star": 20,
+    "award1": 656,
+    "num1": 100,
+    "playerLevel": 245
+  },
+  "93": {
+    "id": 93,
+    "star": 30,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 245
+  },
+  "94": {
+    "id": 94,
+    "star": 40,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 245
+  },
+  "95": {
+    "id": 95,
+    "star": 50,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 245
+  },
+  "96": {
+    "id": 96,
+    "star": 60,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 245
+  },
+  "97": {
+    "id": 97,
+    "star": 70,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 245
+  },
+  "98": {
+    "id": 98,
+    "star": 80,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 245
+  },
+  "99": {
+    "id": 99,
+    "star": 90,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 245
+  },
+  "100": {
+    "id": 100,
+    "star": 100,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 245
+  },
+  "101": {
+    "id": 101,
+    "star": 110,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 245
+  },
+  "102": {
+    "id": 102,
+    "star": 120,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 245
+  },
+  "103": {
+    "id": 103,
+    "star": 130,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 245
+  },
+  "104": {
+    "id": 104,
+    "star": 140,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 245
+  },
+  "105": {
+    "id": 105,
+    "star": 150,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 245
+  },
+  "106": {
+    "id": 106,
+    "star": 160,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 245
+  },
+  "107": {
+    "id": 107,
+    "star": 170,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 245
+  },
+  "108": {
+    "id": 108,
+    "star": 180,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 245
+  },
+  "109": {
+    "id": 109,
+    "star": 10,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 250
+  },
+  "110": {
+    "id": 110,
+    "star": 20,
+    "award1": 656,
+    "num1": 120,
+    "playerLevel": 250
+  },
+  "111": {
+    "id": 111,
+    "star": 30,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 250
+  },
+  "112": {
+    "id": 112,
+    "star": 40,
+    "award1": 656,
+    "num1": 160,
+    "playerLevel": 250
+  },
+  "113": {
+    "id": 113,
+    "star": 50,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 250
+  },
+  "114": {
+    "id": 114,
+    "star": 60,
+    "award1": 656,
+    "num1": 200,
+    "playerLevel": 250
+  },
+  "115": {
+    "id": 115,
+    "star": 70,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 250
+  },
+  "116": {
+    "id": 116,
+    "star": 80,
+    "award1": 656,
+    "num1": 240,
+    "playerLevel": 250
+  },
+  "117": {
+    "id": 117,
+    "star": 90,
+    "award1": 656,
+    "num1": 300,
+    "playerLevel": 250
+  },
+  "118": {
+    "id": 118,
+    "star": 100,
+    "award1": 656,
+    "num1": 300,
+    "playerLevel": 250
+  },
+  "119": {
+    "id": 119,
+    "star": 110,
+    "award1": 656,
+    "num1": 300,
+    "playerLevel": 250
+  },
+  "120": {
+    "id": 120,
+    "star": 120,
+    "award1": 656,
+    "num1": 300,
+    "playerLevel": 250
+  },
+  "121": {
+    "id": 121,
+    "star": 130,
+    "award1": 656,
+    "num1": 300,
+    "playerLevel": 250
+  },
+  "122": {
+    "id": 122,
+    "star": 140,
+    "award1": 656,
+    "num1": 300,
+    "playerLevel": 250
+  },
+  "123": {
+    "id": 123,
+    "star": 150,
+    "award1": 656,
+    "num1": 300,
+    "playerLevel": 250
+  },
+  "124": {
+    "id": 124,
+    "star": 160,
+    "award1": 656,
+    "num1": 300,
+    "playerLevel": 250
+  },
+  "125": {
+    "id": 125,
+    "star": 170,
+    "award1": 656,
+    "num1": 300,
+    "playerLevel": 250
+  },
+  "126": {
+    "id": 126,
+    "star": 180,
+    "award1": 656,
+    "num1": 300,
+    "playerLevel": 250
+  }
+}

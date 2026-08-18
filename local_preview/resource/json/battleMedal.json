@@ -1,0 +1,652 @@
+{
+  "1": {
+    "id": 1,
+    "level": 0,
+    "expNeeded": 50,
+    "version": 1
+  },
+  "2": {
+    "id": 2,
+    "level": 1,
+    "expNeeded": 50,
+    "version": 1,
+    "show": 1,
+    "awardNormal1": 2851,
+    "numNormal1": 20,
+    "awardSuper1": 2861,
+    "numSuper1": 40,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "3": {
+    "id": 3,
+    "level": 2,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "4": {
+    "id": 4,
+    "level": 3,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "5": {
+    "id": 5,
+    "level": 4,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "6": {
+    "id": 6,
+    "level": 5,
+    "expNeeded": 50,
+    "version": 1,
+    "show": 1,
+    "awardNormal1": 2851,
+    "numNormal1": 20,
+    "awardSuper1": 2861,
+    "numSuper1": 40,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "7": {
+    "id": 7,
+    "level": 6,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "8": {
+    "id": 8,
+    "level": 7,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "9": {
+    "id": 9,
+    "level": 8,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "10": {
+    "id": 10,
+    "level": 9,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "11": {
+    "id": 11,
+    "level": 10,
+    "expNeeded": 50,
+    "version": 1,
+    "show": 1,
+    "awardNormal1": 2851,
+    "numNormal1": 20,
+    "awardSuper1": 2861,
+    "numSuper1": 40,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "12": {
+    "id": 12,
+    "level": 11,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "13": {
+    "id": 13,
+    "level": 12,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "14": {
+    "id": 14,
+    "level": 13,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "15": {
+    "id": 15,
+    "level": 14,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "16": {
+    "id": 16,
+    "level": 15,
+    "expNeeded": 50,
+    "version": 1,
+    "show": 1,
+    "awardNormal1": 2851,
+    "numNormal1": 20,
+    "awardSuper1": 2861,
+    "numSuper1": 40,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "17": {
+    "id": 17,
+    "level": 16,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "18": {
+    "id": 18,
+    "level": 17,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "19": {
+    "id": 19,
+    "level": 18,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "20": {
+    "id": 20,
+    "level": 19,
+    "expNeeded": 50,
+    "version": 1,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "21": {
+    "id": 21,
+    "level": 20,
+    "version": 1,
+    "show": 1,
+    "awardNormal1": 2851,
+    "numNormal1": 20,
+    "awardSuper1": 2861,
+    "numSuper1": 40,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "22": {
+    "id": 22,
+    "level": 0,
+    "expNeeded": 50,
+    "version": 2
+  },
+  "23": {
+    "id": 23,
+    "level": 1,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 123,
+    "numNormal1": 2,
+    "awardSuper1": 167,
+    "numSuper1": 2,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "24": {
+    "id": 24,
+    "level": 2,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "25": {
+    "id": 25,
+    "level": 3,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "26": {
+    "id": 26,
+    "level": 4,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "27": {
+    "id": 27,
+    "level": 5,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 123,
+    "numNormal1": 2,
+    "awardSuper1": 167,
+    "numSuper1": 2,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "28": {
+    "id": 28,
+    "level": 6,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "29": {
+    "id": 29,
+    "level": 7,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "30": {
+    "id": 30,
+    "level": 8,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "31": {
+    "id": 31,
+    "level": 9,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "32": {
+    "id": 32,
+    "level": 10,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 123,
+    "numNormal1": 2,
+    "awardSuper1": 167,
+    "numSuper1": 2,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "33": {
+    "id": 33,
+    "level": 11,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "34": {
+    "id": 34,
+    "level": 12,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "35": {
+    "id": 35,
+    "level": 13,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "36": {
+    "id": 36,
+    "level": 14,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "37": {
+    "id": 37,
+    "level": 15,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 123,
+    "numNormal1": 2,
+    "awardSuper1": 167,
+    "numSuper1": 2,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "38": {
+    "id": 38,
+    "level": 16,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "39": {
+    "id": 39,
+    "level": 17,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "40": {
+    "id": 40,
+    "level": 18,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "41": {
+    "id": 41,
+    "level": 19,
+    "expNeeded": 50,
+    "version": 2,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "42": {
+    "id": 42,
+    "level": 20,
+    "version": 2,
+    "awardNormal1": 123,
+    "numNormal1": 2,
+    "awardSuper1": 167,
+    "numSuper1": 2,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "43": {
+    "id": 43,
+    "level": 0,
+    "expNeeded": 50,
+    "version": 3
+  },
+  "44": {
+    "id": 44,
+    "level": 1,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 123,
+    "numNormal1": 2,
+    "awardSuper1": 2600,
+    "numSuper1": 20,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "45": {
+    "id": 45,
+    "level": 2,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "46": {
+    "id": 46,
+    "level": 3,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "47": {
+    "id": 47,
+    "level": 4,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "48": {
+    "id": 48,
+    "level": 5,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 123,
+    "numNormal1": 2,
+    "awardSuper1": 2600,
+    "numSuper1": 20,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "49": {
+    "id": 49,
+    "level": 6,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "50": {
+    "id": 50,
+    "level": 7,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "51": {
+    "id": 51,
+    "level": 8,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "52": {
+    "id": 52,
+    "level": 9,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "53": {
+    "id": 53,
+    "level": 10,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 123,
+    "numNormal1": 2,
+    "awardSuper1": 2600,
+    "numSuper1": 20,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "54": {
+    "id": 54,
+    "level": 11,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "55": {
+    "id": 55,
+    "level": 12,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "56": {
+    "id": 56,
+    "level": 13,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "57": {
+    "id": 57,
+    "level": 14,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "58": {
+    "id": 58,
+    "level": 15,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 123,
+    "numNormal1": 2,
+    "awardSuper1": 2600,
+    "numSuper1": 20,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  },
+  "59": {
+    "id": 59,
+    "level": 16,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "60": {
+    "id": 60,
+    "level": 17,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "61": {
+    "id": 61,
+    "level": 18,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "62": {
+    "id": 62,
+    "level": 19,
+    "expNeeded": 50,
+    "version": 3,
+    "awardNormal1": 101,
+    "numNormal1": 50,
+    "awardSuper1": 101,
+    "numSuper1": 100
+  },
+  "63": {
+    "id": 63,
+    "level": 20,
+    "version": 3,
+    "awardNormal1": 123,
+    "numNormal1": 2,
+    "awardSuper1": 2600,
+    "numSuper1": 20,
+    "awardSuper2": 101,
+    "numSuper2": 100
+  }
+}

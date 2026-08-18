@@ -1,0 +1,22 @@
+{
+  "1": {
+    "id": 1,
+    "type": "6RBox",
+    "rewardID": "1512",
+    "num": 1,
+    "CNY": 6,
+    "USD": 0.99,
+    "pushLevel": 10,
+    "name": "firstRechargePack_name_1"
+  },
+  "2": {
+    "id": 2,
+    "type": "30RBox",
+    "rewardID": "21512001",
+    "num": "50",
+    "CNY": 30,
+    "USD": 4.99,
+    "pushLevel": 10,
+    "name": "firstRechargePack_name_2"
+  }
+}

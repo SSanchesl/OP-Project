@@ -1,0 +1,50 @@
+{
+  "1": {
+    "id": 1,
+    "poolId": 1,
+    "awardID": 182,
+    "name": "装备券",
+    "num": 10,
+    "random": 2000
+  },
+  "2": {
+    "id": 2,
+    "poolId": 1,
+    "awardID": 2851,
+    "name": "SR碎片",
+    "num": 20,
+    "random": 2000
+  },
+  "3": {
+    "id": 3,
+    "poolId": 1,
+    "awardID": 2861,
+    "name": "SSR碎片",
+    "num": 10,
+    "random": 2000
+  },
+  "4": {
+    "id": 4,
+    "poolId": 1,
+    "awardID": 227,
+    "name": "空贝洗练石紫",
+    "num": 40,
+    "random": 1500
+  },
+  "5": {
+    "id": 5,
+    "poolId": 1,
+    "awardID": 237,
+    "name": "空贝洗练石橙",
+    "num": 20,
+    "random": 500
+  },
+  "6": {
+    "id": 6,
+    "poolId": 1,
+    "awardID": 101,
+    "name": "钻石",
+    "num": 200,
+    "random": 2000
+  }
+}

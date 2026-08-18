@@ -1,0 +1,32 @@
+{
+  "1": {
+    "rank": 1,
+    "rewardRatio": 0.3,
+    "rewardID1": 114,
+    "rewardNum1": 600
+  },
+  "2": {
+    "rank": 2,
+    "rewardRatio": 0.2,
+    "rewardID1": 114,
+    "rewardNum1": 400
+  },
+  "3": {
+    "rank": 3,
+    "rewardRatio": 0.2,
+    "rewardID1": 114,
+    "rewardNum1": 400
+  },
+  "4": {
+    "rank": 4,
+    "rewardRatio": 0.15,
+    "rewardID1": 114,
+    "rewardNum1": 200
+  },
+  "5": {
+    "rank": 5,
+    "rewardRatio": 0.15,
+    "rewardID1": 114,
+    "rewardNum1": 200
+  }
+}

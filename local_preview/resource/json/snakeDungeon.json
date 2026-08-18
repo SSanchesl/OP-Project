@@ -1,0 +1,72 @@
+{
+  "1": {
+    "id": 1,
+    "difficulty": 0.16,
+    "award1": 113,
+    "num1": 20,
+    "battleBackGround": "bg_paopao_jpg"
+  },
+  "2": {
+    "id": 2,
+    "difficulty": 0.2,
+    "award1": 113,
+    "num1": 20,
+    "battleBackGround": "bg_paopao_jpg"
+  },
+  "3": {
+    "id": 3,
+    "difficulty": 0.24,
+    "award1": 113,
+    "num1": 20,
+    "battleBackGround": "bg_paopao_jpg"
+  },
+  "4": {
+    "id": 4,
+    "difficulty": 0.28,
+    "award1": 113,
+    "num1": 20,
+    "battleBackGround": "bg_paopao_jpg"
+  },
+  "5": {
+    "id": 5,
+    "difficulty": 0.32,
+    "award1": 113,
+    "num1": 20,
+    "battleBackGround": "bg_paopao_jpg"
+  },
+  "6": {
+    "id": 6,
+    "difficulty": 0.44,
+    "award1": 113,
+    "num1": 20,
+    "battleBackGround": "bg_paopao_jpg"
+  },
+  "7": {
+    "id": 7,
+    "difficulty": 0.528,
+    "award1": 113,
+    "num1": 20,
+    "battleBackGround": "bg_paopao_jpg"
+  },
+  "8": {
+    "id": 8,
+    "difficulty": 0.5896,
+    "award1": 113,
+    "num1": 20,
+    "battleBackGround": "bg_paopao_jpg"
+  },
+  "9": {
+    "id": 9,
+    "difficulty": 0.6512,
+    "award1": 113,
+    "num1": 20,
+    "battleBackGround": "bg_paopao_jpg"
+  },
+  "10": {
+    "id": 10,
+    "difficulty": 0.7128,
+    "award1": 113,
+    "num1": 20,
+    "battleBackGround": "bg_paopao_jpg"
+  }
+}

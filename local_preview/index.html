@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Preview local - Epic Voyage (evidencia)</title>
+    <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1"/>
+    <style>
+        html, body { margin:0; padding:0; background:#000; width:100%; height:100%; overflow:hidden; }
+        #gameDiv { position:absolute; top:0; left:0; right:0; bottom:0; }
+        #loginOverlay {
+            position:fixed; inset:0; z-index:1000;
+            display:flex; align-items:center; justify-content:center;
+            background:radial-gradient(circle at center, #1b2a3d 0%, #05070c 100%);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        #loginOverlay.hidden { display:none; }
+        #loginBox {
+            width:280px; padding:28px 24px; border-radius:10px;
+            background:rgba(20,24,34,0.92); border:1px solid #3a4a63;
+            box-shadow:0 8px 30px rgba(0,0,0,0.6);
+        }
+        #loginBox h1 { margin:0 0 4px; font-size:18px; color:#f0c96b; text-align:center; }
+        #loginBox p.sub { margin:0 0 18px; font-size:11px; color:#8ba0bd; text-align:center; }
+        #loginBox label { display:block; font-size:12px; color:#c7d2e0; margin:10px 0 4px; }
+        #loginBox input {
+            width:100%; box-sizing:border-box; padding:8px 10px; border-radius:6px;
+            border:1px solid #445267; background:#0f141d; color:#eee; font-size:14px;
+        }
+        #loginBox input:focus { outline:none; border-color:#f0c96b; }
+        #loginBtn {
+            width:100%; margin-top:18px; padding:10px; border:none; border-radius:6px;
+            background:#c9932f; color:#1a1206; font-weight:bold; font-size:14px; cursor:pointer;
+        }
+        #loginBtn:disabled { opacity:0.6; cursor:default; }
+        #loginBtn:hover:not(:disabled) { background:#e0aa3f; }
+        #loginError { min-height:16px; margin-top:10px; font-size:12px; color:#ff6b6b; text-align:center; }
+        #loginHint { margin-top:14px; font-size:10px; color:#5c6c82; text-align:center; }
+    </style>
+</head>
+<body>
+<div id="loginOverlay">
+    <div id="loginBox">
+        <h1>Epic Voyage — Servidor Local</h1>
+        <p class="sub">Entre com seu usuário e senha (a conta é criada automaticamente no primeiro acesso)</p>
+        <form id="loginForm" autocomplete="off">
+            <label for="loginUser">Usuário</label>
+            <input id="loginUser" name="loginUser" type="text" autocomplete="username" required maxlength="40"/>
+            <label for="loginPass">Senha</label>
+            <input id="loginPass" name="loginPass" type="password" autocomplete="current-password" required minlength="3" maxlength="60"/>
+            <button id="loginBtn" type="submit">Entrar</button>
+            <div id="loginError"></div>
+        </form>
+        <div id="loginHint">Servidor local — só você tem acesso a esse jogo.</div>
+    </div>
+</div>
+<div id="gameDiv" class="egret-player" data-entry-class="Main" data-orientation="auto" data-scale-mode="showAll" data-frame-rate="30"
+     data-content-width="720" data-content-height="1280"
+     data-multi-fingered="2" data-show-fps="true" data-show-log="true" data-show-fps-style="x:0,y:0,size:12,textColor:0xffffff,bgAlpha:0.9">
+</div>
+<script>window.__errors = [];
+window.addEventListener('error', function(e){ window.__errors.push((e.message||'')+' @ '+(e.filename||'')+':'+(e.lineno||'')); });
+</script>
+<script src="js/promise.min_83a6a5d.js"></script>
+<script src="js/lz-string.min_29cb8e16.js"></script>
+<script src="js/egret.min_d9413192.js"></script>
+<script src="js/egret.web.min_b66ab113.js"></script>
+<script src="js/eui.min_493403ce.js"></script>
+<script src="js/md5.min_e712757.js"></script>
+<script src="js/tween.min_6c5a88f9.js"></script>
+<script src="js/dragonBones.min_6252b9c4.js"></script>
+<script src="js/socket.io.min_2e0501e.js"></script>
+<script src="js/assetsmanager.min_2ef412b7.js"></script>
+<script src="js/default.thm_4d02a3c6.js"></script>
+<script src="js/blockmessage.min_9d3b6a1d.js"></script>
+<script src="js/battlelogic.min_72605a19.js"></script>
+<script src="js/game.min_16249d0f.js"></script>
+<script src="js/main.min_21f8f348.js"></script>
+<script>
+    egret.runEgret({renderMode:"webgl", audioType:0, antialias:true});
+</script>
+<script>
+// Corrige dois bugs REAIS do proprio jogo original (jogo compilado,
+// nao e coisa nossa) no sistema de dialogos/tutorial guiado (TSGuideNode)
+// que trava o toque na tela PARA SEMPRE em certas condicoes - e exatamente
+// o "as vezes clico e nao sai" relatado: se voce toca ANTES do
+// "delayTime" configurado pra aquela tela terminar, o jogo original marca
+// "isClick=false" e NUNCA volta a marcar "true" de novo (bug de origem,
+// visivel no codigo minificado: buttonGuideTap so reseta isClick dentro
+// do "if" de sucesso). A partir dai nenhum toque seguinte funciona ate
+// recarregar a pagina. O mesmo padrao existe em playHeroAnimation (usado
+// no efeito de "troca de posicao" antes de uma batalha): se a animacao
+// DragonBones nunca disparar o evento COMPLETE (por qualquer motivo -
+// asset ausente, travamento do WebGL, etc), o toque tambem fica travado
+// pra sempre. Aqui a gente so GARANTE que, depois de cada toque, o estado
+// volta a permitir o proximo toque - sem mudar nenhum outro comportamento
+// (o jogo original ja reseta sozinho quando da certo; so cobrimos os
+// casos em que ele esquece de resetar).
+(function () {
+    var iv = setInterval(function () {
+        if (window.TSGuideNode && TSGuideNode.prototype && !TSGuideNode.prototype.__tapFixApplied) {
+            TSGuideNode.prototype.__tapFixApplied = true;
+
+            var origButtonGuideTap = TSGuideNode.prototype.buttonGuideTap;
+            TSGuideNode.prototype.buttonGuideTap = function () {
+                var node = this;
+                origButtonGuideTap.apply(node, arguments);
+                // bug original: toque antes do delayTime deixa isClick travado em
+                // false pra sempre - reabilita o proximo toque.
+                if (!node.isClick) node.isClick = true;
+            };
+
+            var origPlayHeroAnimation = TSGuideNode.prototype.playHeroAnimation;
+            TSGuideNode.prototype.playHeroAnimation = function () {
+                var node = this;
+                var wasClickable = node.isClick;
+                origPlayHeroAnimation.apply(node, arguments);
+                if (wasClickable) {
+                    // watchdog: se a animacao de troca nunca completar (evento
+                    // COMPLETE do DragonBones nunca dispara), destrava o toque
+                    // mesmo assim depois de alguns segundos.
+                    setTimeout(function () {
+                        if (!node.isClick) {
+                            console.warn("[guide-fix] animacao de troca nao completou a tempo, destravando toque");
+                            try { GuideInfoManager.getInstance().triggerGuide(); } catch (e) { /* ja deve ter avancado por outro caminho */ }
+                            node.isClick = true;
+                        }
+                    }, 4000);
+                }
+            };
+
+            clearInterval(iv);
+        }
+    }, 200);
+})();
+</script>
+<script>
+// Gatilho de login local: no app original quem chama isso e um SDK
+// nativo (Android/iOS) apos o jogador logar la. Nao existe esse SDK no
+// navegador, entao mostramos uma tela de login (usuario+senha, validada
+// pelo servidor via /api/login) e so depois disparamos manualmente com
+// o usuario confirmado, pra identificar seu save no servidor.
+(function () {
+    var USER_KEY = "epicVoyageLocalUser";
+    var lastUser = localStorage.getItem(USER_KEY);
+    // O proprio motor do jogo dispara uma tentativa de reconexao automatica
+    // (TSBrowser.getSdkLoginInfo) ANTES do formulario ser preenchido -
+    // "user" nao pode ser null nesse momento, senao "ts.loginUserInfo.userId"
+    // fica null pra sempre e trava relatorios internos do jogo (reportGameStep)
+    // com "Cannot read properties of null (reading 'toString')". So usamos o
+    // ultimo usuario lembrado (ou um placeholder) ate o login de verdade
+    // (com senha validada) confirmar o usuario real.
+    var user = lastUser || "guest";
+
+    var overlay = document.getElementById("loginOverlay");
+    var form = document.getElementById("loginForm");
+    var userInput = document.getElementById("loginUser");
+    var passInput = document.getElementById("loginPass");
+    var errorBox = document.getElementById("loginError");
+    var loginBtn = document.getElementById("loginBtn");
+
+    if (lastUser) userInput.value = lastUser;
+
+    form.addEventListener("submit", function (ev) {
+        ev.preventDefault();
+        errorBox.textContent = "";
+        loginBtn.disabled = true;
+        loginBtn.textContent = "Entrando...";
+        fetch("/api/login", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ userId: userInput.value.trim(), password: passInput.value })
+        })
+            .then(function (r) { return r.json(); })
+            .then(function (result) {
+                if (!result.ok) {
+                    errorBox.textContent = result.error || "Não foi possível entrar.";
+                    loginBtn.disabled = false;
+                    loginBtn.textContent = "Entrar";
+                    return;
+                }
+                user = userInput.value.trim();
+                localStorage.setItem(USER_KEY, user);
+                overlay.classList.add("hidden");
+                startGameLogin();
+            })
+            .catch(function (e) {
+                errorBox.textContent = "Não consegui falar com o servidor local.";
+                loginBtn.disabled = false;
+                loginBtn.textContent = "Entrar";
+                console.error("[login-local] erro em /api/login", e);
+            });
+    });
+
+    // Ponte nativa que o Android/iOS forneceria normalmente (TSBrowser.excuteFunction
+    // procura essas funcoes em window.*). ToolCommon.enterGame() le isso sem guarda
+    // de undefined, entao precisa existir antes do login prosseguir.
+    window.getSdkLoginInfo = function () {
+        return { userId: user, sign: "" };
+    };
+
+    // ts.readJsonFile(name) (ex: "bagPlus_json") depende de window.loadJsonFunc,
+    // outra ponte nativa que no app original le o JSON criptografado do pacote
+    // local e devolve um ArrayBuffer (o cliente decripta ele mesmo). Aqui os
+    // 423 JSONs de configuracao em resource/json/ ja foram descriptografados
+    // em disco, entao so precisamos buscar o arquivo e devolver o objeto direto.
+    var jsonCache = {};
+    function tryFetchJson(url) {
+        try {
+            var xhr = new XMLHttpRequest();
+            xhr.open("GET", url, false);
+            xhr.send(null);
+            if (xhr.status === 200 || xhr.status === 0) return JSON.parse(xhr.responseText);
+        } catch (e) { /* tenta o proximo local */ }
+        return undefined;
+    }
+    window.loadJsonFunc = function (name) {
+        if (jsonCache.hasOwnProperty(name)) return jsonCache[name];
+        var base = name.replace(/_json$/i, "");
+        // "language-cn_json" etc vivem em resource/language/, nao resource/json/
+        // - tenta o local certo primeiro pra nao gerar 404 desnecessario no
+        // console (so cosmetico, mas polui o log toda vez que abre uma tela).
+        var isLanguageFile = /^language-/i.test(base);
+        var primary = isLanguageFile ? "resource/language/" : "resource/json/";
+        var fallback = isLanguageFile ? "resource/json/" : "resource/language/";
+        var result = tryFetchJson(primary + base + ".json");
+        if (result === undefined) result = tryFetchJson(fallback + base + ".json");
+        if (result === undefined) {
+            console.warn("[loadJsonFunc] nao encontrado:", name);
+            result = null;
+        }
+        jsonCache[name] = result;
+        return result;
+    };
+    var loginStarted = false;
+    function attemptLogin() {
+        if (loginStarted) return;
+        try {
+            window.ts.loginInfo = window.ts.loginInfo || {};
+            console.log("[login-local] entrando como", user);
+            window.ToolCommon.sdkLoginSuccess({
+                userId: user,
+                nickName: user,
+                sdk: "web",
+                security: "",
+                selectServer: ""
+            });
+            loginStarted = true;
+        } catch (e) {
+            // RES/egret ainda nao terminou de inicializar internamente
+            // (window.ts/ToolCommon ja existem, mas RES.getResByUrl ainda
+            // nao esta pronto) - tenta de novo em breve.
+            console.warn("[login-local] tentativa falhou, tentando de novo:", e);
+        }
+    }
+    // So dispara o gatilho de entrar no jogo depois que /api/login confirmou
+    // usuario+senha (chamado pelo handler de submit do formulario, la em cima).
+    function startGameLogin() {
+        var tries = 0;
+        var iv = setInterval(function () {
+            tries++;
+            if (loginStarted) {
+                clearInterval(iv);
+            } else if (window.ts && window.ToolCommon && typeof window.ToolCommon.sdkLoginSuccess === "function") {
+                attemptLogin();
+            } else if (tries > 300) {
+                clearInterval(iv);
+                console.error("[login-local] window.ts/ToolCommon nunca apareceram, abortando gatilho de login");
+            }
+        }, 200);
+    }
+})();
+</script>
+</body>
+</html>

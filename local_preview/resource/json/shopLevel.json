@@ -1,0 +1,52 @@
+{
+  "1": {
+    "level": 1,
+    "startTime": 1,
+    "endTime": 60,
+    "soulShop": "shopLevel_soulShop_1",
+    "arenaShop": "shopLevel_soulShop_1",
+    "snakeShop": "shopLevel_soulShop_1",
+    "expeditionShop": "shopLevel_soulShop_1",
+    "highArenaShop": "shopLevel_soulShop_1"
+  },
+  "2": {
+    "level": 2,
+    "startTime": 61,
+    "endTime": 150,
+    "soulShop": "shopLevel_soulShop_2",
+    "arenaShop": "shopLevel_soulShop_2",
+    "snakeShop": "shopLevel_soulShop_2",
+    "expeditionShop": "shopLevel_soulShop_2",
+    "highArenaShop": "shopLevel_soulShop_2"
+  },
+  "3": {
+    "level": 3,
+    "startTime": 151,
+    "endTime": 300,
+    "soulShop": "shopLevel_soulShop_3",
+    "arenaShop": "shopLevel_soulShop_3",
+    "snakeShop": "shopLevel_soulShop_3",
+    "expeditionShop": "shopLevel_soulShop_3",
+    "highArenaShop": "shopLevel_soulShop_3"
+  },
+  "4": {
+    "level": 4,
+    "startTime": 301,
+    "endTime": 500,
+    "soulShop": "shopLevel_soulShop_4",
+    "arenaShop": "shopLevel_soulShop_4",
+    "snakeShop": "shopLevel_soulShop_4",
+    "expeditionShop": "shopLevel_soulShop_4",
+    "highArenaShop": "shopLevel_soulShop_4"
+  },
+  "5": {
+    "level": 5,
+    "startTime": 501,
+    "endTime": 9999,
+    "soulShop": "shopLevel_soulShop_5",
+    "arenaShop": "shopLevel_soulShop_5",
+    "snakeShop": "shopLevel_soulShop_5",
+    "expeditionShop": "shopLevel_soulShop_5",
+    "highArenaShop": "shopLevel_soulShop_5"
+  }
+}

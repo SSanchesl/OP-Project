@@ -1,0 +1,278 @@
+{
+  "30001": [
+    {
+      "id": 30001,
+      "rank": 1,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 40000,
+      "reward2": 114,
+      "num2": 800
+    },
+    {
+      "id": 30001,
+      "rank": 2,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 36000,
+      "reward2": 114,
+      "num2": 600
+    },
+    {
+      "id": 30001,
+      "rank": 3,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 30000,
+      "reward2": 114,
+      "num2": 500
+    },
+    {
+      "id": 30001,
+      "rank": 4,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 24000,
+      "reward2": 114,
+      "num2": 400
+    },
+    {
+      "id": 30001,
+      "rank": 5,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 20000,
+      "reward2": 114,
+      "num2": 400
+    },
+    {
+      "id": 30001,
+      "rank": 6,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 16000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30001,
+      "rank": 7,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 10000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30001,
+      "rank": 8,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 6000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30001,
+      "rank": 9,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 6000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30001,
+      "rank": 10,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 6000,
+      "reward2": 114,
+      "num2": 200
+    }
+  ],
+  "30002": [
+    {
+      "id": 30002,
+      "rank": 1,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 40000,
+      "reward2": 114,
+      "num2": 800
+    },
+    {
+      "id": 30002,
+      "rank": 2,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 36000,
+      "reward2": 114,
+      "num2": 600
+    },
+    {
+      "id": 30002,
+      "rank": 3,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 30000,
+      "reward2": 114,
+      "num2": 500
+    },
+    {
+      "id": 30002,
+      "rank": 4,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 24000,
+      "reward2": 114,
+      "num2": 400
+    },
+    {
+      "id": 30002,
+      "rank": 5,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 20000,
+      "reward2": 114,
+      "num2": 400
+    },
+    {
+      "id": 30002,
+      "rank": 6,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 16000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30002,
+      "rank": 7,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 10000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30002,
+      "rank": 8,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 6000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30002,
+      "rank": 9,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 6000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30002,
+      "rank": 10,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 6000,
+      "reward2": 114,
+      "num2": 200
+    }
+  ],
+  "30003": [
+    {
+      "id": 30003,
+      "rank": 1,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 40000,
+      "reward2": 114,
+      "num2": 800
+    },
+    {
+      "id": 30003,
+      "rank": 2,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 36000,
+      "reward2": 114,
+      "num2": 600
+    },
+    {
+      "id": 30003,
+      "rank": 3,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 30000,
+      "reward2": 114,
+      "num2": 500
+    },
+    {
+      "id": 30003,
+      "rank": 4,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 24000,
+      "reward2": 114,
+      "num2": 400
+    },
+    {
+      "id": 30003,
+      "rank": 5,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 20000,
+      "reward2": 114,
+      "num2": 400
+    },
+    {
+      "id": 30003,
+      "rank": 6,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 16000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30003,
+      "rank": 7,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 10000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30003,
+      "rank": 8,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 6000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30003,
+      "rank": 9,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 6000,
+      "reward2": 114,
+      "num2": 200
+    },
+    {
+      "id": 30003,
+      "rank": 10,
+      "rewardNum": 2,
+      "reward1": 102,
+      "num1": 6000,
+      "reward2": 114,
+      "num2": 200
+    }
+  ]
+}

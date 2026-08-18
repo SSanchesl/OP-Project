@@ -1,0 +1,92 @@
+{
+  "body": {
+    "heroType": "body",
+    "hpParam": 1.25,
+    "attackParam": 0.86,
+    "armorParam": 1.02,
+    "hpBais": 0,
+    "attackBais": 0,
+    "armorBais": 0
+  },
+  "bodyDamage": {
+    "heroType": "bodyDamage",
+    "hpParam": 1.1,
+    "attackParam": 0.9,
+    "armorParam": 1,
+    "hpBais": 0,
+    "attackBais": 0,
+    "armorBais": 0
+  },
+  "block": {
+    "heroType": "block",
+    "hpParam": 1.05,
+    "attackParam": 0.85,
+    "armorParam": 1.05,
+    "hpBais": 0,
+    "attackBais": 0,
+    "armorBais": 0
+  },
+  "dodge": {
+    "heroType": "dodge",
+    "hpParam": 1.03,
+    "attackParam": 0.87,
+    "armorParam": 1.03,
+    "hpBais": 0,
+    "attackBais": 0,
+    "armorBais": 0
+  },
+  "strength": {
+    "heroType": "strength",
+    "hpParam": 0.82,
+    "attackParam": 1.2,
+    "armorParam": 0.9,
+    "hpBais": 0,
+    "attackBais": 0,
+    "armorBais": 0
+  },
+  "critical": {
+    "heroType": "critical",
+    "hpParam": 0.85,
+    "attackParam": 1.15,
+    "armorParam": 0.87,
+    "hpBais": 0,
+    "attackBais": 0,
+    "armorBais": 0
+  },
+  "criticalDot": {
+    "heroType": "criticalDot",
+    "hpParam": 0.85,
+    "attackParam": 1.15,
+    "armorParam": 0.87,
+    "hpBais": 0,
+    "attackBais": 0,
+    "armorBais": 0
+  },
+  "doubleHit": {
+    "heroType": "doubleHit",
+    "hpParam": 0.84,
+    "attackParam": 1.25,
+    "armorParam": 0.88,
+    "hpBais": 0,
+    "attackBais": 0,
+    "armorBais": 0
+  },
+  "treat": {
+    "heroType": "treat",
+    "hpParam": 0.95,
+    "attackParam": 0.84,
+    "armorParam": 1,
+    "hpBais": 0,
+    "attackBais": 0,
+    "armorBais": 0
+  },
+  "support": {
+    "heroType": "support",
+    "hpParam": 0.95,
+    "attackParam": 0.83,
+    "armorParam": 1,
+    "hpBais": 0,
+    "attackBais": 0,
+    "armorBais": 0
+  }
+}

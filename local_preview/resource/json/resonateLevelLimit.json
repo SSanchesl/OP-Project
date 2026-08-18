@@ -1,0 +1,62 @@
+{
+  "1": {
+    "id": 1,
+    "levelLimit": 65
+  },
+  "2": {
+    "id": 2,
+    "levelLimit": 75
+  },
+  "3": {
+    "id": 3,
+    "levelLimit": 80
+  },
+  "4": {
+    "id": 4,
+    "levelLimit": 85
+  },
+  "5": {
+    "id": 5,
+    "levelLimit": 90
+  },
+  "6": {
+    "id": 6,
+    "levelLimit": 95
+  },
+  "7": {
+    "id": 7,
+    "levelLimit": 100
+  },
+  "8": {
+    "id": 8,
+    "levelLimit": 105
+  },
+  "9": {
+    "id": 9,
+    "levelLimit": 110
+  },
+  "10": {
+    "id": 10,
+    "levelLimit": 115
+  },
+  "11": {
+    "id": 11,
+    "levelLimit": 120
+  },
+  "12": {
+    "id": 12,
+    "levelLimit": 125
+  },
+  "13": {
+    "id": 13,
+    "levelLimit": 130
+  },
+  "14": {
+    "id": 14,
+    "levelLimit": 135
+  },
+  "15": {
+    "id": 15,
+    "levelLimit": 140
+  }
+}

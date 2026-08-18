@@ -1,0 +1,51 @@
+{
+  "1": {
+    "id": 1,
+    "type": "getScore",
+    "contribution": 1
+  },
+  "2": {
+    "id": 2,
+    "type": "kill",
+    "contribution": 50
+  },
+  "3": {
+    "id": 3,
+    "type": "pentaKill",
+    "contribution": 200
+  },
+  "4": {
+    "id": 4,
+    "type": "dayAlive",
+    "para1": 2,
+    "contribution": 100
+  },
+  "5": {
+    "id": 5,
+    "type": "dayAlive",
+    "para1": 3,
+    "contribution": 150
+  },
+  "6": {
+    "id": 6,
+    "type": "dayAlive",
+    "para1": 4,
+    "contribution": 200
+  },
+  "7": {
+    "id": 7,
+    "type": "dayAlive",
+    "para1": 5,
+    "contribution": 250
+  },
+  "8": {
+    "id": 8,
+    "type": "finalAlive",
+    "contribution": 300
+  },
+  "9": {
+    "id": 9,
+    "type": "death",
+    "contribution": -25
+  }
+}

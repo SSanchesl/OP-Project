@@ -1,0 +1,803 @@
+{
+  "911002": {
+    "id": 911002,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 12
+  },
+  "912001": {
+    "id": 912001,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 12
+  },
+  "912002": {
+    "id": 912002,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 8
+  },
+  "912003": {
+    "id": 912003,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "912004": {
+    "id": 912004,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "912005": {
+    "id": 912005,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "912011": {
+    "id": 912011,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "912012": {
+    "id": 912012,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "912013": {
+    "id": 912013,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "912014": {
+    "id": 912014,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "912015": {
+    "id": 912015,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "912021": {
+    "id": 912021,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 60
+  },
+  "912022": {
+    "id": 912022,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 40
+  },
+  "912023": {
+    "id": 912023,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 20
+  },
+  "912024": {
+    "id": 912024,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 10
+  },
+  "912025": {
+    "id": 912025,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "912031": {
+    "id": 912031,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 36
+  },
+  "912032": {
+    "id": 912032,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 36
+  },
+  "912033": {
+    "id": 912033,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 36
+  },
+  "922001": {
+    "id": 922001,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 6
+  },
+  "922002": {
+    "id": 922002,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922003": {
+    "id": 922003,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922004": {
+    "id": 922004,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922005": {
+    "id": 922005,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922011": {
+    "id": 922011,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 6
+  },
+  "922012": {
+    "id": 922012,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922013": {
+    "id": 922013,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922014": {
+    "id": 922014,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922015": {
+    "id": 922015,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922021": {
+    "id": 922021,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 6
+  },
+  "922022": {
+    "id": 922022,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922023": {
+    "id": 922023,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922024": {
+    "id": 922024,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922025": {
+    "id": 922025,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922031": {
+    "id": 922031,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 6
+  },
+  "922032": {
+    "id": 922032,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922033": {
+    "id": 922033,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922034": {
+    "id": 922034,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922035": {
+    "id": 922035,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922041": {
+    "id": 922041,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922042": {
+    "id": 922042,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922043": {
+    "id": 922043,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922044": {
+    "id": 922044,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922045": {
+    "id": 922045,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922051": {
+    "id": 922051,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922052": {
+    "id": 922052,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922053": {
+    "id": 922053,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922054": {
+    "id": 922054,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922055": {
+    "id": 922055,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922061": {
+    "id": 922061,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922062": {
+    "id": 922062,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922063": {
+    "id": 922063,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922064": {
+    "id": 922064,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922065": {
+    "id": 922065,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922071": {
+    "id": 922071,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922072": {
+    "id": 922072,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922073": {
+    "id": 922073,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922074": {
+    "id": 922074,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922075": {
+    "id": 922075,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922081": {
+    "id": 922081,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 6
+  },
+  "922082": {
+    "id": 922082,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922083": {
+    "id": 922083,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922084": {
+    "id": 922084,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922085": {
+    "id": 922085,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922091": {
+    "id": 922091,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 6
+  },
+  "922092": {
+    "id": 922092,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922093": {
+    "id": 922093,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922094": {
+    "id": 922094,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922095": {
+    "id": 922095,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922101": {
+    "id": 922101,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 6
+  },
+  "922102": {
+    "id": 922102,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922103": {
+    "id": 922103,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922104": {
+    "id": 922104,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922105": {
+    "id": 922105,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922111": {
+    "id": 922111,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 6
+  },
+  "922112": {
+    "id": 922112,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922113": {
+    "id": 922113,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922114": {
+    "id": 922114,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922115": {
+    "id": 922115,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922121": {
+    "id": 922121,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 6
+  },
+  "922122": {
+    "id": 922122,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922123": {
+    "id": 922123,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922124": {
+    "id": 922124,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922125": {
+    "id": 922125,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  },
+  "922131": {
+    "id": 922131,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 6
+  },
+  "922132": {
+    "id": 922132,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 4
+  },
+  "922133": {
+    "id": 922133,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922134": {
+    "id": 922134,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 2
+  },
+  "922135": {
+    "id": 922135,
+    "material1": 10001,
+    "Num1": 0,
+    "material2": 10002,
+    "Num2": 0,
+    "material3": 10003,
+    "Num3": 0
+  }
+}

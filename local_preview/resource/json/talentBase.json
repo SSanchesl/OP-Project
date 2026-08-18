@@ -1,0 +1,1296 @@
+{
+  "1": {
+    "id": 1,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 0,
+    "value": 0,
+    "LevelupNum": 50
+  },
+  "2": {
+    "id": 2,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 1,
+    "value": 0.01,
+    "LevelupNum": 60
+  },
+  "3": {
+    "id": 3,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 2,
+    "value": 0.01,
+    "LevelupNum": 70
+  },
+  "4": {
+    "id": 4,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 3,
+    "value": 0.01,
+    "LevelupNum": 90
+  },
+  "5": {
+    "id": 5,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 4,
+    "value": 0.01,
+    "LevelupNum": 110
+  },
+  "6": {
+    "id": 6,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 5,
+    "value": 0.01,
+    "LevelupNum": 130
+  },
+  "7": {
+    "id": 7,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 6,
+    "value": 0.01,
+    "LevelupNum": 150
+  },
+  "8": {
+    "id": 8,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 7,
+    "value": 0.01,
+    "LevelupNum": 170
+  },
+  "9": {
+    "id": 9,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 8,
+    "value": 0.01,
+    "LevelupNum": 190
+  },
+  "10": {
+    "id": 10,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 9,
+    "value": 0.01,
+    "LevelupNum": 220
+  },
+  "11": {
+    "id": 11,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 10,
+    "value": 0.01,
+    "LevelupNum": 250
+  },
+  "12": {
+    "id": 12,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 11,
+    "value": 0.01,
+    "LevelupNum": 280
+  },
+  "13": {
+    "id": 13,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 12,
+    "value": 0.01,
+    "LevelupNum": 310
+  },
+  "14": {
+    "id": 14,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 13,
+    "value": 0.01,
+    "LevelupNum": 340
+  },
+  "15": {
+    "id": 15,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 14,
+    "value": 0.01,
+    "LevelupNum": 380
+  },
+  "16": {
+    "id": 16,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 15,
+    "value": 0.01,
+    "LevelupNum": 420
+  },
+  "17": {
+    "id": 17,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 16,
+    "value": 0.01,
+    "LevelupNum": 460
+  },
+  "18": {
+    "id": 18,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 17,
+    "value": 0.01,
+    "LevelupNum": 510
+  },
+  "19": {
+    "id": 19,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 18,
+    "value": 0.01,
+    "LevelupNum": 560
+  },
+  "20": {
+    "id": 20,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 19,
+    "value": 0.01,
+    "LevelupNum": 610
+  },
+  "21": {
+    "id": 21,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 20,
+    "value": 0.01,
+    "LevelupNum": 650
+  },
+  "22": {
+    "id": 22,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 21,
+    "value": 0.01,
+    "LevelupNum": 690
+  },
+  "23": {
+    "id": 23,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 22,
+    "value": 0.01,
+    "LevelupNum": 730
+  },
+  "24": {
+    "id": 24,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 23,
+    "value": 0.01,
+    "LevelupNum": 780
+  },
+  "25": {
+    "id": 25,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 24,
+    "value": 0.01,
+    "LevelupNum": 830
+  },
+  "26": {
+    "id": 26,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 25,
+    "value": 0.01,
+    "LevelupNum": 880
+  },
+  "27": {
+    "id": 27,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 26,
+    "value": 0.01,
+    "LevelupNum": 930
+  },
+  "28": {
+    "id": 28,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 27,
+    "value": 0.01,
+    "LevelupNum": 990
+  },
+  "29": {
+    "id": 29,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 28,
+    "value": 0.01,
+    "LevelupNum": 1050
+  },
+  "30": {
+    "id": 30,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 29,
+    "value": 0.01,
+    "LevelupNum": 1110
+  },
+  "31": {
+    "id": 31,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 30,
+    "value": 0.01,
+    "LevelupNum": 1180
+  },
+  "32": {
+    "id": 32,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 31,
+    "value": 0.01,
+    "LevelupNum": 1250
+  },
+  "33": {
+    "id": 33,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 32,
+    "value": 0.01,
+    "LevelupNum": 1320
+  },
+  "34": {
+    "id": 34,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 33,
+    "value": 0.01,
+    "LevelupNum": 1400
+  },
+  "35": {
+    "id": 35,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 34,
+    "value": 0.01,
+    "LevelupNum": 1480
+  },
+  "36": {
+    "id": 36,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 35,
+    "value": 0.01,
+    "LevelupNum": 1560
+  },
+  "37": {
+    "id": 37,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 36,
+    "value": 0.01,
+    "LevelupNum": 1650
+  },
+  "38": {
+    "id": 38,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 37,
+    "value": 0.01,
+    "LevelupNum": 1740
+  },
+  "39": {
+    "id": 39,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 38,
+    "value": 0.01,
+    "LevelupNum": 1840
+  },
+  "40": {
+    "id": 40,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 39,
+    "value": 0.01,
+    "LevelupNum": 1940
+  },
+  "41": {
+    "id": 41,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 40,
+    "value": 0.01,
+    "LevelupNum": 2030
+  },
+  "42": {
+    "id": 42,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 41,
+    "value": 0.01,
+    "LevelupNum": 2120
+  },
+  "43": {
+    "id": 43,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 42,
+    "value": 0.01,
+    "LevelupNum": 2210
+  },
+  "44": {
+    "id": 44,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 43,
+    "value": 0.01,
+    "LevelupNum": 2310
+  },
+  "45": {
+    "id": 45,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 44,
+    "value": 0.01,
+    "LevelupNum": 2410
+  },
+  "46": {
+    "id": 46,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 45,
+    "value": 0.01,
+    "LevelupNum": 2520
+  },
+  "47": {
+    "id": 47,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 46,
+    "value": 0.01,
+    "LevelupNum": 2630
+  },
+  "48": {
+    "id": 48,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 47,
+    "value": 0.01,
+    "LevelupNum": 2750
+  },
+  "49": {
+    "id": 49,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 48,
+    "value": 0.01,
+    "LevelupNum": 2870
+  },
+  "50": {
+    "id": 50,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 49,
+    "value": 0.01,
+    "LevelupNum": 2990
+  },
+  "51": {
+    "id": 51,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 50,
+    "value": 0.01,
+    "LevelupNum": 3120
+  },
+  "52": {
+    "id": 52,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 51,
+    "value": 0.01,
+    "LevelupNum": 3250
+  },
+  "53": {
+    "id": 53,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 52,
+    "value": 0.01,
+    "LevelupNum": 3390
+  },
+  "54": {
+    "id": 54,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 53,
+    "value": 0.01,
+    "LevelupNum": 3540
+  },
+  "55": {
+    "id": 55,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 54,
+    "value": 0.01,
+    "LevelupNum": 3690
+  },
+  "56": {
+    "id": 56,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 55,
+    "value": 0.01,
+    "LevelupNum": 3850
+  },
+  "57": {
+    "id": 57,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 56,
+    "value": 0.01,
+    "LevelupNum": 3980
+  },
+  "58": {
+    "id": 58,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 57,
+    "value": 0.01,
+    "LevelupNum": 4110
+  },
+  "59": {
+    "id": 59,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 58,
+    "value": 0.01,
+    "LevelupNum": 4240
+  },
+  "60": {
+    "id": 60,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 59,
+    "value": 0.01,
+    "LevelupNum": 4380
+  },
+  "61": {
+    "id": 61,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 60,
+    "value": 0.01,
+    "LevelupNum": 4520
+  },
+  "62": {
+    "id": 62,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 61,
+    "value": 0.01,
+    "LevelupNum": 4670
+  },
+  "63": {
+    "id": 63,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 62,
+    "value": 0.01,
+    "LevelupNum": 4820
+  },
+  "64": {
+    "id": 64,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 63,
+    "value": 0.01,
+    "LevelupNum": 4970
+  },
+  "65": {
+    "id": 65,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 64,
+    "value": 0.01,
+    "LevelupNum": 5130
+  },
+  "66": {
+    "id": 66,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 65,
+    "value": 0.01,
+    "LevelupNum": 5290
+  },
+  "67": {
+    "id": 67,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 66,
+    "value": 0.01,
+    "LevelupNum": 5460
+  },
+  "68": {
+    "id": 68,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 67,
+    "value": 0.01,
+    "LevelupNum": 5630
+  },
+  "69": {
+    "id": 69,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 68,
+    "value": 0.01,
+    "LevelupNum": 5780
+  },
+  "70": {
+    "id": 70,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 69,
+    "value": 0.01,
+    "LevelupNum": 5930
+  },
+  "71": {
+    "id": 71,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 70,
+    "value": 0.01,
+    "LevelupNum": 6090
+  },
+  "72": {
+    "id": 72,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 71,
+    "value": 0.01,
+    "LevelupNum": 6250
+  },
+  "73": {
+    "id": 73,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 72,
+    "value": 0.01,
+    "LevelupNum": 6420
+  },
+  "74": {
+    "id": 74,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 73,
+    "value": 0.01,
+    "LevelupNum": 6590
+  },
+  "75": {
+    "id": 75,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 74,
+    "value": 0.01,
+    "LevelupNum": 6760
+  },
+  "76": {
+    "id": 76,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 75,
+    "value": 0.01,
+    "LevelupNum": 6940
+  },
+  "77": {
+    "id": 77,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 76,
+    "value": 0.01,
+    "LevelupNum": 7120
+  },
+  "78": {
+    "id": 78,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 77,
+    "value": 0.01,
+    "LevelupNum": 7310
+  },
+  "79": {
+    "id": 79,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 78,
+    "value": 0.01,
+    "LevelupNum": 7500
+  },
+  "80": {
+    "id": 80,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 79,
+    "value": 0.01,
+    "LevelupNum": 7700
+  },
+  "81": {
+    "id": 81,
+    "talentType": "atk",
+    "ability": "attackPercent",
+    "talentLevel": 80,
+    "value": 0.01
+  },
+  "82": {
+    "id": 82,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 0,
+    "value": 0,
+    "LevelupNum": 50
+  },
+  "83": {
+    "id": 83,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 1,
+    "value": 0.01,
+    "LevelupNum": 60
+  },
+  "84": {
+    "id": 84,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 2,
+    "value": 0.01,
+    "LevelupNum": 70
+  },
+  "85": {
+    "id": 85,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 3,
+    "value": 0.01,
+    "LevelupNum": 90
+  },
+  "86": {
+    "id": 86,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 4,
+    "value": 0.01,
+    "LevelupNum": 110
+  },
+  "87": {
+    "id": 87,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 5,
+    "value": 0.01,
+    "LevelupNum": 130
+  },
+  "88": {
+    "id": 88,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 6,
+    "value": 0.01,
+    "LevelupNum": 150
+  },
+  "89": {
+    "id": 89,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 7,
+    "value": 0.01,
+    "LevelupNum": 170
+  },
+  "90": {
+    "id": 90,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 8,
+    "value": 0.01,
+    "LevelupNum": 190
+  },
+  "91": {
+    "id": 91,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 9,
+    "value": 0.01,
+    "LevelupNum": 220
+  },
+  "92": {
+    "id": 92,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 10,
+    "value": 0.01,
+    "LevelupNum": 250
+  },
+  "93": {
+    "id": 93,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 11,
+    "value": 0.01,
+    "LevelupNum": 280
+  },
+  "94": {
+    "id": 94,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 12,
+    "value": 0.01,
+    "LevelupNum": 310
+  },
+  "95": {
+    "id": 95,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 13,
+    "value": 0.01,
+    "LevelupNum": 340
+  },
+  "96": {
+    "id": 96,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 14,
+    "value": 0.01,
+    "LevelupNum": 380
+  },
+  "97": {
+    "id": 97,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 15,
+    "value": 0.01,
+    "LevelupNum": 420
+  },
+  "98": {
+    "id": 98,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 16,
+    "value": 0.01,
+    "LevelupNum": 460
+  },
+  "99": {
+    "id": 99,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 17,
+    "value": 0.01,
+    "LevelupNum": 510
+  },
+  "100": {
+    "id": 100,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 18,
+    "value": 0.01,
+    "LevelupNum": 560
+  },
+  "101": {
+    "id": 101,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 19,
+    "value": 0.01,
+    "LevelupNum": 610
+  },
+  "102": {
+    "id": 102,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 20,
+    "value": 0.01,
+    "LevelupNum": 650
+  },
+  "103": {
+    "id": 103,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 21,
+    "value": 0.01,
+    "LevelupNum": 690
+  },
+  "104": {
+    "id": 104,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 22,
+    "value": 0.01,
+    "LevelupNum": 730
+  },
+  "105": {
+    "id": 105,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 23,
+    "value": 0.01,
+    "LevelupNum": 780
+  },
+  "106": {
+    "id": 106,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 24,
+    "value": 0.01,
+    "LevelupNum": 830
+  },
+  "107": {
+    "id": 107,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 25,
+    "value": 0.01,
+    "LevelupNum": 880
+  },
+  "108": {
+    "id": 108,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 26,
+    "value": 0.01,
+    "LevelupNum": 930
+  },
+  "109": {
+    "id": 109,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 27,
+    "value": 0.01,
+    "LevelupNum": 990
+  },
+  "110": {
+    "id": 110,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 28,
+    "value": 0.01,
+    "LevelupNum": 1050
+  },
+  "111": {
+    "id": 111,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 29,
+    "value": 0.01,
+    "LevelupNum": 1110
+  },
+  "112": {
+    "id": 112,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 30,
+    "value": 0.01,
+    "LevelupNum": 1180
+  },
+  "113": {
+    "id": 113,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 31,
+    "value": 0.01,
+    "LevelupNum": 1250
+  },
+  "114": {
+    "id": 114,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 32,
+    "value": 0.01,
+    "LevelupNum": 1320
+  },
+  "115": {
+    "id": 115,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 33,
+    "value": 0.01,
+    "LevelupNum": 1400
+  },
+  "116": {
+    "id": 116,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 34,
+    "value": 0.01,
+    "LevelupNum": 1480
+  },
+  "117": {
+    "id": 117,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 35,
+    "value": 0.01,
+    "LevelupNum": 1560
+  },
+  "118": {
+    "id": 118,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 36,
+    "value": 0.01,
+    "LevelupNum": 1650
+  },
+  "119": {
+    "id": 119,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 37,
+    "value": 0.01,
+    "LevelupNum": 1740
+  },
+  "120": {
+    "id": 120,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 38,
+    "value": 0.01,
+    "LevelupNum": 1840
+  },
+  "121": {
+    "id": 121,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 39,
+    "value": 0.01,
+    "LevelupNum": 1940
+  },
+  "122": {
+    "id": 122,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 40,
+    "value": 0.01,
+    "LevelupNum": 2030
+  },
+  "123": {
+    "id": 123,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 41,
+    "value": 0.01,
+    "LevelupNum": 2120
+  },
+  "124": {
+    "id": 124,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 42,
+    "value": 0.01,
+    "LevelupNum": 2210
+  },
+  "125": {
+    "id": 125,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 43,
+    "value": 0.01,
+    "LevelupNum": 2310
+  },
+  "126": {
+    "id": 126,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 44,
+    "value": 0.01,
+    "LevelupNum": 2410
+  },
+  "127": {
+    "id": 127,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 45,
+    "value": 0.01,
+    "LevelupNum": 2520
+  },
+  "128": {
+    "id": 128,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 46,
+    "value": 0.01,
+    "LevelupNum": 2630
+  },
+  "129": {
+    "id": 129,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 47,
+    "value": 0.01,
+    "LevelupNum": 2750
+  },
+  "130": {
+    "id": 130,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 48,
+    "value": 0.01,
+    "LevelupNum": 2870
+  },
+  "131": {
+    "id": 131,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 49,
+    "value": 0.01,
+    "LevelupNum": 2990
+  },
+  "132": {
+    "id": 132,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 50,
+    "value": 0.01,
+    "LevelupNum": 3120
+  },
+  "133": {
+    "id": 133,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 51,
+    "value": 0.01,
+    "LevelupNum": 3250
+  },
+  "134": {
+    "id": 134,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 52,
+    "value": 0.01,
+    "LevelupNum": 3390
+  },
+  "135": {
+    "id": 135,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 53,
+    "value": 0.01,
+    "LevelupNum": 3540
+  },
+  "136": {
+    "id": 136,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 54,
+    "value": 0.01,
+    "LevelupNum": 3690
+  },
+  "137": {
+    "id": 137,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 55,
+    "value": 0.01,
+    "LevelupNum": 3850
+  },
+  "138": {
+    "id": 138,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 56,
+    "value": 0.01,
+    "LevelupNum": 3980
+  },
+  "139": {
+    "id": 139,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 57,
+    "value": 0.01,
+    "LevelupNum": 4110
+  },
+  "140": {
+    "id": 140,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 58,
+    "value": 0.01,
+    "LevelupNum": 4240
+  },
+  "141": {
+    "id": 141,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 59,
+    "value": 0.01,
+    "LevelupNum": 4380
+  },
+  "142": {
+    "id": 142,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 60,
+    "value": 0.01,
+    "LevelupNum": 4520
+  },
+  "143": {
+    "id": 143,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 61,
+    "value": 0.01,
+    "LevelupNum": 4670
+  },
+  "144": {
+    "id": 144,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 62,
+    "value": 0.01,
+    "LevelupNum": 4820
+  },
+  "145": {
+    "id": 145,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 63,
+    "value": 0.01,
+    "LevelupNum": 4970
+  },
+  "146": {
+    "id": 146,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 64,
+    "value": 0.01,
+    "LevelupNum": 5130
+  },
+  "147": {
+    "id": 147,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 65,
+    "value": 0.01,
+    "LevelupNum": 5290
+  },
+  "148": {
+    "id": 148,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 66,
+    "value": 0.01,
+    "LevelupNum": 5460
+  },
+  "149": {
+    "id": 149,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 67,
+    "value": 0.01,
+    "LevelupNum": 5630
+  },
+  "150": {
+    "id": 150,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 68,
+    "value": 0.01,
+    "LevelupNum": 5780
+  },
+  "151": {
+    "id": 151,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 69,
+    "value": 0.01,
+    "LevelupNum": 5930
+  },
+  "152": {
+    "id": 152,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 70,
+    "value": 0.01,
+    "LevelupNum": 6090
+  },
+  "153": {
+    "id": 153,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 71,
+    "value": 0.01,
+    "LevelupNum": 6250
+  },
+  "154": {
+    "id": 154,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 72,
+    "value": 0.01,
+    "LevelupNum": 6420
+  },
+  "155": {
+    "id": 155,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 73,
+    "value": 0.01,
+    "LevelupNum": 6590
+  },
+  "156": {
+    "id": 156,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 74,
+    "value": 0.01,
+    "LevelupNum": 6760
+  },
+  "157": {
+    "id": 157,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 75,
+    "value": 0.01,
+    "LevelupNum": 6940
+  },
+  "158": {
+    "id": 158,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 76,
+    "value": 0.01,
+    "LevelupNum": 7120
+  },
+  "159": {
+    "id": 159,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 77,
+    "value": 0.01,
+    "LevelupNum": 7310
+  },
+  "160": {
+    "id": 160,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 78,
+    "value": 0.01,
+    "LevelupNum": 7500
+  },
+  "161": {
+    "id": 161,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 79,
+    "value": 0.01,
+    "LevelupNum": 7700
+  },
+  "162": {
+    "id": 162,
+    "talentType": "hp",
+    "ability": "hpPercent",
+    "talentLevel": 80,
+    "value": 0.01
+  }
+}

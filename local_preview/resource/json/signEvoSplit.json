@@ -1,0 +1,32 @@
+{
+  "1": {
+    "id": 1,
+    "quality": "red1",
+    "resolveID": 240,
+    "resolveNum": 5
+  },
+  "2": {
+    "id": 2,
+    "quality": "red2",
+    "resolveID": 240,
+    "resolveNum": 10
+  },
+  "3": {
+    "id": 3,
+    "quality": "red3",
+    "resolveID": 240,
+    "resolveNum": 15
+  },
+  "4": {
+    "id": 4,
+    "quality": "red4",
+    "resolveID": 240,
+    "resolveNum": 30
+  },
+  "5": {
+    "id": 5,
+    "quality": "red5",
+    "resolveID": 240,
+    "resolveNum": 50
+  }
+}

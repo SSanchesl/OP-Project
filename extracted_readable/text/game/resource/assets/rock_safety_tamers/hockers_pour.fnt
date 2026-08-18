@@ -1,0 +1,12 @@
+{"file":"combat8.png","frames":{
+"0":{"x":344,"y":0,"w":60,"h":82,"offX":2,"offY":2,"sourceW":64,"sourceH":93},
+"1":{"x":464,"y":0,"w":45,"h":80,"offX":2,"offY":3,"sourceW":49,"sourceH":93},
+"2":{"x":163,"y":0,"w":61,"h":81,"offX":2,"offY":2,"sourceW":65,"sourceH":93},
+"3":{"x":404,"y":0,"w":60,"h":82,"offX":2,"offY":2,"sourceW":64,"sourceH":93},
+"4":{"x":163,"y":81,"w":60,"h":80,"offX":2,"offY":3,"sourceW":64,"sourceH":93},
+"5":{"x":102,"y":82,"w":59,"h":81,"offX":2,"offY":3,"sourceW":63,"sourceH":93},
+"6":{"x":224,"y":0,"w":60,"h":82,"offX":2,"offY":2,"sourceW":64,"sourceH":93},
+"7":{"x":223,"y":82,"w":53,"h":80,"offX":2,"offY":3,"sourceW":57,"sourceH":93},
+"8":{"x":284,"y":0,"w":60,"h":82,"offX":2,"offY":2,"sourceW":64,"sourceH":93},
+"9":{"x":102,"y":0,"w":61,"h":82,"offX":2,"offY":2,"sourceW":65,"sourceH":93},
+"折":{"x":0,"y":0,"w":102,"h":93,"offX":2,"offY":0,"sourceW":106,"sourceH":93}}}

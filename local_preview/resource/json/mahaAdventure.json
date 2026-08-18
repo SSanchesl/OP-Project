@@ -1,0 +1,34 @@
+{
+  "1": {
+    "id": 1,
+    "initialGoldID": 131,
+    "nitialGoldNum": 10000,
+    "rateGoldNum": 0,
+    "random": 2000,
+    "eventAction": "dahanghaimaoxiandonghua_shanzi"
+  },
+  "2": {
+    "id": 2,
+    "initialGoldID": 136,
+    "nitialGoldNum": 100,
+    "rateGoldNum": 0,
+    "random": 2000,
+    "eventAction": "dahanghaimaoxiandonghua_suol"
+  },
+  "3": {
+    "id": 3,
+    "initialGoldID": 150,
+    "nitialGoldNum": 100,
+    "rateGoldNum": 0,
+    "random": 2000,
+    "eventAction": "dahanghaimaoxiandonghua_wsp"
+  },
+  "4": {
+    "id": 4,
+    "initialGoldID": 102,
+    "nitialGoldNum": 40000,
+    "rateGoldNum": 0,
+    "random": 3000,
+    "eventAction": "dahanghaimaoxiandonghua_namei"
+  }
+}

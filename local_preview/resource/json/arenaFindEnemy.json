@@ -1,0 +1,62 @@
+{
+  "1": {
+    "id": 1,
+    "rankStart": 6,
+    "rankEnd": 6,
+    "enemyDifficulty1": 0.9,
+    "enemyDifficulty2": 0.7,
+    "enemyDifficulty3": 0.6,
+    "enemyDifficulty4": 0.4,
+    "enemyDifficulty5": 0.2
+  },
+  "2": {
+    "id": 2,
+    "rankStart": 7,
+    "rankEnd": 7,
+    "enemyDifficulty1": 0.8,
+    "enemyDifficulty2": 0.65,
+    "enemyDifficulty3": 0.5,
+    "enemyDifficulty4": 0.4,
+    "enemyDifficulty5": 0.2
+  },
+  "3": {
+    "id": 3,
+    "rankStart": 8,
+    "rankEnd": 10,
+    "enemyDifficulty1": 0.9,
+    "enemyDifficulty2": 0.7,
+    "enemyDifficulty3": 0.5,
+    "enemyDifficulty4": 0.35,
+    "enemyDifficulty5": 0.2
+  },
+  "4": {
+    "id": 4,
+    "rankStart": 11,
+    "rankEnd": 20,
+    "enemyDifficulty1": 0.95,
+    "enemyDifficulty2": 0.87,
+    "enemyDifficulty3": 0.8,
+    "enemyDifficulty4": 0.6,
+    "enemyDifficulty5": 0.4
+  },
+  "5": {
+    "id": 5,
+    "rankStart": 21,
+    "rankEnd": 100,
+    "enemyDifficulty1": 0.95,
+    "enemyDifficulty2": 0.87,
+    "enemyDifficulty3": 0.8,
+    "enemyDifficulty4": 0.65,
+    "enemyDifficulty5": 0.5
+  },
+  "6": {
+    "id": 6,
+    "rankStart": 101,
+    "rankEnd": 999999,
+    "enemyDifficulty1": 0.98,
+    "enemyDifficulty2": 0.86,
+    "enemyDifficulty3": 0.75,
+    "enemyDifficulty4": 0.72,
+    "enemyDifficulty5": 0.7
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "1": {
+    "id": 1,
+    "label1": "NAVY",
+    "label2": "RevolutionArmy",
+    "label3": "4emp",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5
+  },
+  "2": {
+    "id": 2,
+    "label1": "Shichibukai",
+    "label2": "SkyIsland",
+    "label3": "WhiteBeard",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5
+  },
+  "3": {
+    "id": 3,
+    "label1": "StrawHat",
+    "label2": "Undercover",
+    "label3": "Natural",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5
+  },
+  "4": {
+    "id": 4,
+    "label1": "Beast",
+    "label2": "SuperMan",
+    "label3": "Swordsman",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5
+  },
+  "5": {
+    "id": 5,
+    "label1": "Royalty",
+    "label2": "Captain",
+    "label3": "Greedy",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5
+  },
+  "6": {
+    "id": 6,
+    "label1": "Jap",
+    "label2": "Badguy",
+    "label3": "Female",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5
+  },
+  "7": {
+    "id": 7,
+    "label1": "Natural",
+    "label2": "Murloc",
+    "label3": "ThrillerBark",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5
+  }
+}

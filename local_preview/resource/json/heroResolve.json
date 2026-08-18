@@ -1,0 +1,58 @@
+{
+  "white": {
+    "quality": "white",
+    "resolveTo": 111,
+    "singleHeroPrice": 0,
+    "singlePiecePrice": 0,
+    "effectivePieceNum": 0,
+    "resloveMinNum": 1
+  },
+  "green": {
+    "quality": "green",
+    "resolveTo": 111,
+    "singleHeroPrice": 0,
+    "singlePiecePrice": 0,
+    "effectivePieceNum": 0,
+    "resloveMinNum": 1
+  },
+  "blue": {
+    "quality": "blue",
+    "resolveTo": 111,
+    "singleHeroPrice": 1,
+    "singlePiecePrice": 0.05,
+    "effectivePieceNum": 40,
+    "resloveMinNum": 1
+  },
+  "purple": {
+    "quality": "purple",
+    "resolveTo": 111,
+    "singleHeroPrice": 5,
+    "singlePiecePrice": 0.17,
+    "effectivePieceNum": 210,
+    "resloveMinNum": 1
+  },
+  "orange": {
+    "quality": "orange",
+    "resolveTo": 111,
+    "singleHeroPrice": 50,
+    "singlePiecePrice": 1,
+    "effectivePieceNum": 1000,
+    "resloveMinNum": 1
+  },
+  "flickerOrange": {
+    "quality": "flickerOrange",
+    "resolveTo": 111,
+    "singleHeroPrice": 200,
+    "singlePiecePrice": 4,
+    "effectivePieceNum": 2170,
+    "resloveMinNum": 1
+  },
+  "superOrange": {
+    "quality": "superOrange",
+    "resolveTo": 111,
+    "singleHeroPrice": 1000,
+    "singlePiecePrice": 20,
+    "effectivePieceNum": 1655,
+    "resloveMinNum": 1
+  }
+}

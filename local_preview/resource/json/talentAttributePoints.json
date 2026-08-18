@@ -1,0 +1,282 @@
+{
+  "1": {
+    "id": 1,
+    "ability": "hit",
+    "talentAttributePointsLevel": 1,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "2": {
+    "id": 2,
+    "ability": "hit",
+    "talentAttributePointsLevel": 2,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "3": {
+    "id": 3,
+    "ability": "hit",
+    "talentAttributePointsLevel": 3,
+    "value": 0.02,
+    "levelUpNum": 3
+  },
+  "4": {
+    "id": 4,
+    "ability": "hit",
+    "talentAttributePointsLevel": 4,
+    "value": 0.02,
+    "levelUpNum": 4
+  },
+  "5": {
+    "id": 5,
+    "ability": "hit",
+    "talentAttributePointsLevel": 5,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "6": {
+    "id": 6,
+    "ability": "dodge",
+    "talentAttributePointsLevel": 1,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "7": {
+    "id": 7,
+    "ability": "dodge",
+    "talentAttributePointsLevel": 2,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "8": {
+    "id": 8,
+    "ability": "dodge",
+    "talentAttributePointsLevel": 3,
+    "value": 0.02,
+    "levelUpNum": 3
+  },
+  "9": {
+    "id": 9,
+    "ability": "dodge",
+    "talentAttributePointsLevel": 4,
+    "value": 0.02,
+    "levelUpNum": 4
+  },
+  "10": {
+    "id": 10,
+    "ability": "dodge",
+    "talentAttributePointsLevel": 5,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "11": {
+    "id": 11,
+    "ability": "critical",
+    "talentAttributePointsLevel": 1,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "12": {
+    "id": 12,
+    "ability": "critical",
+    "talentAttributePointsLevel": 2,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "13": {
+    "id": 13,
+    "ability": "critical",
+    "talentAttributePointsLevel": 3,
+    "value": 0.02,
+    "levelUpNum": 3
+  },
+  "14": {
+    "id": 14,
+    "ability": "critical",
+    "talentAttributePointsLevel": 4,
+    "value": 0.02,
+    "levelUpNum": 4
+  },
+  "15": {
+    "id": 15,
+    "ability": "critical",
+    "talentAttributePointsLevel": 5,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "16": {
+    "id": 16,
+    "ability": "criticalResist",
+    "talentAttributePointsLevel": 1,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "17": {
+    "id": 17,
+    "ability": "criticalResist",
+    "talentAttributePointsLevel": 2,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "18": {
+    "id": 18,
+    "ability": "criticalResist",
+    "talentAttributePointsLevel": 3,
+    "value": 0.02,
+    "levelUpNum": 3
+  },
+  "19": {
+    "id": 19,
+    "ability": "criticalResist",
+    "talentAttributePointsLevel": 4,
+    "value": 0.02,
+    "levelUpNum": 4
+  },
+  "20": {
+    "id": 20,
+    "ability": "criticalResist",
+    "talentAttributePointsLevel": 5,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "21": {
+    "id": 21,
+    "ability": "criticalDamage",
+    "talentAttributePointsLevel": 1,
+    "value": 0.04,
+    "levelUpNum": 0
+  },
+  "22": {
+    "id": 22,
+    "ability": "criticalDamage",
+    "talentAttributePointsLevel": 2,
+    "value": 0.04,
+    "levelUpNum": 0
+  },
+  "23": {
+    "id": 23,
+    "ability": "criticalDamage",
+    "talentAttributePointsLevel": 3,
+    "value": 0.04,
+    "levelUpNum": 3
+  },
+  "24": {
+    "id": 24,
+    "ability": "criticalDamage",
+    "talentAttributePointsLevel": 4,
+    "value": 0.04,
+    "levelUpNum": 4
+  },
+  "25": {
+    "id": 25,
+    "ability": "criticalDamage",
+    "talentAttributePointsLevel": 5,
+    "value": 0.04,
+    "levelUpNum": 0
+  },
+  "26": {
+    "id": 26,
+    "ability": "criticalDamageResist",
+    "talentAttributePointsLevel": 1,
+    "value": 0.04,
+    "levelUpNum": 0
+  },
+  "27": {
+    "id": 27,
+    "ability": "criticalDamageResist",
+    "talentAttributePointsLevel": 2,
+    "value": 0.04,
+    "levelUpNum": 0
+  },
+  "28": {
+    "id": 28,
+    "ability": "criticalDamageResist",
+    "talentAttributePointsLevel": 3,
+    "value": 0.04,
+    "levelUpNum": 3
+  },
+  "29": {
+    "id": 29,
+    "ability": "criticalDamageResist",
+    "talentAttributePointsLevel": 4,
+    "value": 0.04,
+    "levelUpNum": 4
+  },
+  "30": {
+    "id": 30,
+    "ability": "criticalDamageResist",
+    "talentAttributePointsLevel": 5,
+    "value": 0.04,
+    "levelUpNum": 0
+  },
+  "31": {
+    "id": 31,
+    "ability": "damageUp",
+    "talentAttributePointsLevel": 1,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "32": {
+    "id": 32,
+    "ability": "damageUp",
+    "talentAttributePointsLevel": 2,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "33": {
+    "id": 33,
+    "ability": "damageUp",
+    "talentAttributePointsLevel": 3,
+    "value": 0.02,
+    "levelUpNum": 3
+  },
+  "34": {
+    "id": 34,
+    "ability": "damageUp",
+    "talentAttributePointsLevel": 4,
+    "value": 0.02,
+    "levelUpNum": 4
+  },
+  "35": {
+    "id": 35,
+    "ability": "damageUp",
+    "talentAttributePointsLevel": 5,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "36": {
+    "id": 36,
+    "ability": "damageDown",
+    "talentAttributePointsLevel": 1,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "37": {
+    "id": 37,
+    "ability": "damageDown",
+    "talentAttributePointsLevel": 2,
+    "value": 0.02,
+    "levelUpNum": 0
+  },
+  "38": {
+    "id": 38,
+    "ability": "damageDown",
+    "talentAttributePointsLevel": 3,
+    "value": 0.02,
+    "levelUpNum": 3
+  },
+  "39": {
+    "id": 39,
+    "ability": "damageDown",
+    "talentAttributePointsLevel": 4,
+    "value": 0.02,
+    "levelUpNum": 4
+  },
+  "40": {
+    "id": 40,
+    "ability": "damageDown",
+    "talentAttributePointsLevel": 5,
+    "value": 0.02,
+    "levelUpNum": 0
+  }
+}

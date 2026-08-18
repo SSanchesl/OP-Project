@@ -1,0 +1,51 @@
+{
+  "1": {
+    "id": 1,
+    "costID": 101,
+    "costNum": 0,
+    "raccrocherTime": 2,
+    "VIPNeeded": 0
+  },
+  "2": {
+    "id": 2,
+    "costID": 101,
+    "costNum": 40,
+    "raccrocherTime": 2,
+    "VIPNeeded": 1
+  },
+  "3": {
+    "id": 3,
+    "costID": 101,
+    "costNum": 80,
+    "raccrocherTime": 2,
+    "VIPNeeded": 4
+  },
+  "4": {
+    "id": 4,
+    "costID": 101,
+    "costNum": 120,
+    "raccrocherTime": 2,
+    "VIPNeeded": 7
+  },
+  "5": {
+    "id": 5,
+    "costID": 101,
+    "costNum": 160,
+    "raccrocherTime": 2,
+    "VIPNeeded": 10
+  },
+  "6": {
+    "id": 6,
+    "costID": 101,
+    "costNum": 200,
+    "raccrocherTime": 2,
+    "VIPNeeded": 13
+  },
+  "7": {
+    "id": 7,
+    "costID": 101,
+    "costNum": 240,
+    "raccrocherTime": 2,
+    "VIPNeeded": 17
+  }
+}

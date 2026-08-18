@@ -1,0 +1,37 @@
+{
+  "51": {
+    "id": 51,
+    "type": "answer",
+    "text": "teamDungeonTalk_text_1"
+  },
+  "61": {
+    "id": 61,
+    "type": "answer",
+    "text": "teamDungeonTalk_text_2"
+  },
+  "71": {
+    "id": 71,
+    "type": "answer",
+    "text": "teamDungeonTalk_text_3"
+  },
+  "107": {
+    "id": 107,
+    "type": "quest",
+    "text": "teamDungeonTalk_text_4"
+  },
+  "108": {
+    "id": 108,
+    "type": "quest",
+    "text": "teamDungeonTalk_text_5"
+  },
+  "109": {
+    "id": 109,
+    "type": "quest",
+    "text": "teamDungeonTalk_text_6"
+  },
+  "110": {
+    "id": 110,
+    "type": "quest",
+    "text": "teamDungeonTalk_text_7"
+  }
+}

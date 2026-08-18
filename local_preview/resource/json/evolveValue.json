@@ -1,0 +1,42 @@
+{
+  "1": {
+    "id": 1,
+    "quality": "red1",
+    "evolveCostID1": 102,
+    "num1": 10000,
+    "randomAbilityNum": 4,
+    "randomAbilityMax": 6
+  },
+  "2": {
+    "id": 2,
+    "quality": "red2",
+    "evolveCostID1": 102,
+    "num1": 10000,
+    "randomAbilityNum": 4,
+    "randomAbilityMax": 7
+  },
+  "3": {
+    "id": 3,
+    "quality": "red3",
+    "evolveCostID1": 102,
+    "num1": 10000,
+    "randomAbilityNum": 4,
+    "randomAbilityMax": 8
+  },
+  "4": {
+    "id": 4,
+    "quality": "red4",
+    "evolveCostID1": 102,
+    "num1": 10000,
+    "randomAbilityNum": 4,
+    "randomAbilityMax": 9
+  },
+  "5": {
+    "id": 5,
+    "quality": "red5",
+    "evolveCostID1": 102,
+    "num1": 10000,
+    "randomAbilityNum": 4,
+    "randomAbilityMax": 10
+  }
+}

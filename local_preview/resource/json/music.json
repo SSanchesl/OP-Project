@@ -1,0 +1,162 @@
+{
+  "101": {
+    "id": 101,
+    "type": "bgm",
+    "use": 1,
+    "name": "战斗胜利循环",
+    "file": "bgm_battlevictoryloop_mp3",
+    "sound": 0.425
+  },
+  "102": {
+    "id": 102,
+    "type": "bgm",
+    "use": 1,
+    "name": "战斗失败循环",
+    "file": "bgm_battleloseloop_mp3",
+    "sound": 0.425
+  },
+  "103": {
+    "id": 103,
+    "type": "bgm",
+    "use": 1,
+    "name": "主界面音乐",
+    "file": "bgm_main_mp3",
+    "sound": 0.3
+  },
+  "104": {
+    "id": 104,
+    "type": "bgm",
+    "use": 1,
+    "name": "加林塔战斗音乐",
+    "file": "bgm_battle_mp3",
+    "sound": 0.425
+  },
+  "105": {
+    "id": 105,
+    "type": "bgm",
+    "use": 1,
+    "name": "蛇道战斗音乐",
+    "file": "bgm_battle_mp3",
+    "sound": 0.425
+  },
+  "106": {
+    "id": 106,
+    "type": "bgm",
+    "use": 1,
+    "name": "竞技场战斗音乐",
+    "file": "bgm_arena_mp3",
+    "sound": 0.425
+  },
+  "107": {
+    "id": 107,
+    "type": "bgm",
+    "use": 1,
+    "name": "沙鲁游戏小沙鲁战斗音乐",
+    "file": "bgm_battle_mp3",
+    "sound": 0.425
+  },
+  "108": {
+    "id": 108,
+    "type": "bgm",
+    "use": 1,
+    "name": "沙鲁游戏大沙鲁战斗音乐",
+    "file": "bgm_boss_mp3",
+    "sound": 0.425
+  },
+  "109": {
+    "id": 109,
+    "type": "bgm",
+    "use": 1,
+    "name": "战队夺宝战斗音乐",
+    "file": "bgm_battle_mp3",
+    "sound": 0.425
+  },
+  "201": {
+    "id": 201,
+    "type": "sound",
+    "use": 1,
+    "name": "点击",
+    "file": "sound_click_mp3",
+    "sound": 0.35
+  },
+  "202": {
+    "id": 202,
+    "type": "sound",
+    "use": 1,
+    "name": "点击超大招",
+    "file": "sound_superskill_mp3",
+    "sound": 0.35
+  },
+  "203": {
+    "id": 203,
+    "type": "sound",
+    "use": 1,
+    "name": "打开窗口",
+    "file": "sound_windows_mp3",
+    "sound": 0.35
+  },
+  "204": {
+    "id": 204,
+    "type": "sound",
+    "use": 1,
+    "name": "返回",
+    "file": "sound_return_mp3",
+    "sound": 0.35
+  },
+  "205": {
+    "id": 205,
+    "type": "sound",
+    "use": 1,
+    "name": "关闭",
+    "file": "sound_close_mp3",
+    "sound": 0.35
+  },
+  "206": {
+    "id": 206,
+    "type": "sound",
+    "use": 1,
+    "name": "无法点击",
+    "file": "sound_not_mp3",
+    "sound": 0.35
+  },
+  "207": {
+    "id": 207,
+    "type": "sound",
+    "use": 1,
+    "name": "点击页签",
+    "file": "sound_tabs_mp3",
+    "sound": 0.35
+  },
+  "208": {
+    "id": 208,
+    "type": "sound",
+    "use": 1,
+    "name": "升级",
+    "file": "sound_upgrade_mp3",
+    "sound": 0.425
+  },
+  "210": {
+    "id": 210,
+    "type": "sound",
+    "use": 1,
+    "name": "战斗胜利",
+    "file": "sound_battlevictory_mp3",
+    "sound": 0.425
+  },
+  "211": {
+    "id": 211,
+    "type": "sound",
+    "use": 1,
+    "name": "战斗失败",
+    "file": "sound_battlelose_mp3",
+    "sound": 0.425
+  },
+  "212": {
+    "id": 212,
+    "type": "bgm",
+    "use": 1,
+    "name": "章节过场音乐",
+    "file": "bgm_chapter_mp3",
+    "sound": 0.3
+  }
+}

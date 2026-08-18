@@ -1,0 +1,57 @@
+{
+  "100004001": [
+    {
+      "id": 100004001,
+      "triggerMode": "dragon",
+      "eventID": "musicEvent1",
+      "animationId": 100001001,
+      "music": "guild1_mp3",
+      "volume": 0.3
+    },
+    {
+      "id": 100004001,
+      "triggerMode": "dragon",
+      "eventID": "stopMusic1",
+      "animationId": 100001001,
+      "music": "guild1_mp3",
+      "stopEvent": "stop"
+    }
+  ],
+  "100004002": [
+    {
+      "id": 100004002,
+      "triggerMode": "dragon",
+      "eventID": "musicEvent2",
+      "animationId": 100001001,
+      "music": "guild2_mp3",
+      "volume": 0.3,
+      "isLoop": 1
+    },
+    {
+      "id": 100004002,
+      "triggerMode": "dragon",
+      "eventID": "stopMusic2",
+      "animationId": 100001001,
+      "music": "guild2_mp3",
+      "stopEvent": "stop"
+    }
+  ],
+  "100004003": [
+    {
+      "id": 100004003,
+      "triggerMode": "dragon",
+      "eventID": "musicEvent3",
+      "animationId": 100001001,
+      "music": "guild3_mp3",
+      "volume": 0.4
+    },
+    {
+      "id": 100004003,
+      "triggerMode": "dragon",
+      "eventID": "stopMusic3",
+      "animationId": 100001001,
+      "music": "guild3_mp3",
+      "stopEvent": "stop"
+    }
+  ]
+}

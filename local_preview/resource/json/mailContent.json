@@ -1,0 +1,688 @@
+{
+  "1": {
+    "id": 1,
+    "system": "arenaEveryday",
+    "name": "竞技场每日结算",
+    "mailTitle": "mailContent_mailTitle_1",
+    "content": "mailContent_content_2"
+  },
+  "2": {
+    "id": 2,
+    "system": "guildBOSS",
+    "name": "公会BOSS",
+    "mailTitle": "mailContent_mailTitle_3",
+    "content": "mailContent_content_4"
+  },
+  "3": {
+    "id": 3,
+    "system": "guildGrab",
+    "name": "公会夺宝",
+    "mailTitle": "mailContent_mailTitle_5",
+    "content": "mailContent_content_6"
+  },
+  "4": {
+    "id": 4,
+    "system": "powerfulBOSSAttack",
+    "name": "强敌来袭",
+    "mailTitle": "mailContent_mailTitle_7",
+    "content": "mailContent_content_8"
+  },
+  "5": {
+    "id": 5,
+    "system": "mahaAdventure",
+    "name": "摩诃大冒险",
+    "mailTitle": "mailContent_mailTitle_9",
+    "content": "mailContent_content_10"
+  },
+  "6": {
+    "id": 6,
+    "system": "vip",
+    "name": "VIP礼包",
+    "mailTitle": "mailContent_mailTitle_11",
+    "content": "mailContent_content_12"
+  },
+  "7": {
+    "id": 7,
+    "system": "monthCard",
+    "name": "小月卡奖励",
+    "mailTitle": "mailContent_mailTitle_13",
+    "content": "mailContent_content_14"
+  },
+  "8": {
+    "id": 8,
+    "system": "monthCard",
+    "name": "大月卡奖励",
+    "mailTitle": "mailContent_mailTitle_15",
+    "content": "mailContent_content_16"
+  },
+  "9": {
+    "id": 9,
+    "system": "monthCard",
+    "name": "终身卡奖励",
+    "mailTitle": "mailContent_mailTitle_17",
+    "content": "mailContent_content_18"
+  },
+  "10": {
+    "id": 10,
+    "system": "guild",
+    "name": "恭喜加入公会",
+    "mailTitle": "mailContent_mailTitle_19",
+    "content": "mailContent_content_20"
+  },
+  "11": {
+    "id": 11,
+    "system": "guild",
+    "name": "踢出公会通知",
+    "mailTitle": "mailContent_mailTitle_21",
+    "content": "mailContent_content_22"
+  },
+  "12": {
+    "id": 12,
+    "system": "karinTower",
+    "name": "空岛竞速结算奖励",
+    "mailTitle": "mailContent_mailTitle_23",
+    "content": "mailContent_content_24"
+  },
+  "13": {
+    "id": 13,
+    "system": "hero",
+    "name": "英雄包裹已满",
+    "mailTitle": "mailContent_mailTitle_25",
+    "content": "mailContent_content_26"
+  },
+  "14": {
+    "id": 14,
+    "system": "activity",
+    "name": "7日登录奖励",
+    "mailTitle": "mailContent_mailTitle_27",
+    "content": "mailContent_content_28"
+  },
+  "15": {
+    "id": 15,
+    "system": "activity",
+    "name": "成长任务奖励",
+    "mailTitle": "mailContent_mailTitle_29",
+    "content": "mailContent_content_30"
+  },
+  "16": {
+    "id": 16,
+    "system": "activity",
+    "name": "橙将集结奖励",
+    "mailTitle": "mailContent_mailTitle_31",
+    "content": "mailContent_content_32"
+  },
+  "17": {
+    "id": 17,
+    "system": "activity",
+    "name": "任意充奖励",
+    "mailTitle": "mailContent_mailTitle_33",
+    "content": "mailContent_content_34"
+  },
+  "18": {
+    "id": 18,
+    "system": "activity",
+    "name": "战力大比拼奖励",
+    "mailTitle": "mailContent_mailTitle_35",
+    "content": "mailContent_content_36"
+  },
+  "19": {
+    "id": 19,
+    "system": "activity",
+    "name": "7日充值奖励",
+    "mailTitle": "mailContent_mailTitle_37",
+    "content": "mailContent_content_38"
+  },
+  "20": {
+    "id": 20,
+    "system": "activity",
+    "name": "每日累充奖励",
+    "mailTitle": "mailContent_mailTitle_39",
+    "content": "mailContent_content_40"
+  },
+  "21": {
+    "id": 21,
+    "system": "activity",
+    "name": "累充豪礼奖励",
+    "mailTitle": "mailContent_mailTitle_41",
+    "content": "mailContent_content_42"
+  },
+  "22": {
+    "id": 22,
+    "system": "activity",
+    "name": "累充豪礼排名",
+    "mailTitle": "mailContent_mailTitle_43",
+    "content": "mailContent_content_44"
+  },
+  "23": {
+    "id": 23,
+    "system": "vip",
+    "name": "充值成功",
+    "mailTitle": "mailContent_mailTitle_45",
+    "content": "mailContent_content_46"
+  },
+  "24": {
+    "id": 24,
+    "system": "activity",
+    "name": "抢占先机",
+    "mailTitle": "mailContent_mailTitle_47",
+    "content": "mailContent_content_48"
+  },
+  "25": {
+    "id": 25,
+    "system": "activity",
+    "name": "抢占先机",
+    "mailTitle": "mailContent_mailTitle_49",
+    "content": "mailContent_content_50"
+  },
+  "26": {
+    "id": 26,
+    "system": "activity",
+    "name": "抢占先机",
+    "mailTitle": "mailContent_mailTitle_51",
+    "content": "mailContent_content_52"
+  },
+  "27": {
+    "id": 27,
+    "system": "activity",
+    "name": "抢占先机",
+    "mailTitle": "mailContent_mailTitle_53",
+    "content": "mailContent_content_54"
+  },
+  "28": {
+    "id": 28,
+    "system": "activity",
+    "name": "抢占先机",
+    "mailTitle": "mailContent_mailTitle_55",
+    "content": "mailContent_content_56"
+  },
+  "29": {
+    "id": 29,
+    "system": "activity",
+    "name": "抢占先机",
+    "mailTitle": "mailContent_mailTitle_57",
+    "content": "mailContent_content_58"
+  },
+  "30": {
+    "id": 30,
+    "system": "activity",
+    "name": "抢占先机",
+    "mailTitle": "mailContent_mailTitle_59",
+    "content": "mailContent_content_60"
+  },
+  "31": {
+    "id": 31,
+    "system": "guildBoss",
+    "name": "公会BOSS",
+    "mailTitle": "mailContent_mailTitle_61",
+    "content": "mailContent_content_62"
+  },
+  "32": {
+    "id": 32,
+    "system": "activity",
+    "name": "周常活动",
+    "mailTitle": "mailContent_mailTitle_63",
+    "content": "mailContent_content_64"
+  },
+  "33": {
+    "id": 33,
+    "system": "activity",
+    "name": "装备幸运星",
+    "mailTitle": "mailContent_mailTitle_65",
+    "content": "mailContent_content_66"
+  },
+  "34": {
+    "id": 34,
+    "system": "activity",
+    "name": "强者之路",
+    "mailTitle": "mailContent_mailTitle_67",
+    "content": "mailContent_content_68"
+  },
+  "35": {
+    "id": 35,
+    "system": "activity",
+    "name": "抢占先机",
+    "mailTitle": "mailContent_mailTitle_69",
+    "content": "mailContent_content_70"
+  },
+  "36": {
+    "id": 36,
+    "system": "bossFight",
+    "name": "boss争夺战奖励",
+    "mailTitle": "mailContent_mailTitle_71",
+    "content": "mailContent_content_72"
+  },
+  "37": {
+    "id": 37,
+    "system": "bossFight",
+    "name": "boss争夺战奖励",
+    "mailTitle": "mailContent_mailTitle_73",
+    "content": "mailContent_content_74"
+  },
+  "38": {
+    "id": 38,
+    "system": "bossFight",
+    "name": "boss争夺战奖励",
+    "mailTitle": "mailContent_mailTitle_71",
+    "content": "mailContent_content_75"
+  },
+  "39": {
+    "id": 39,
+    "system": "bossFight",
+    "name": "boss争夺战奖励",
+    "mailTitle": "mailContent_mailTitle_73",
+    "content": "mailContent_content_76"
+  },
+  "40": {
+    "id": 40,
+    "system": "activity",
+    "name": "超必杀改版",
+    "mailTitle": "mailContent_mailTitle_77",
+    "content": "mailContent_content_78"
+  },
+  "41": {
+    "id": 41,
+    "system": "guildBOSS",
+    "name": "公会BOSS",
+    "mailTitle": "mailContent_mailTitle_79",
+    "content": "mailContent_content_80"
+  },
+  "42": {
+    "id": 42,
+    "system": "guildBOSS",
+    "name": "公会BOSS",
+    "mailTitle": "mailContent_mailTitle_79",
+    "content": "mailContent_content_81"
+  },
+  "43": {
+    "id": 43,
+    "system": "guildBOSS",
+    "name": "顶上战争",
+    "mailTitle": "mailContent_mailTitle_82",
+    "content": "mailContent_content_83"
+  },
+  "44": {
+    "id": 44,
+    "system": "guildBOSS",
+    "name": "顶上战争",
+    "mailTitle": "mailContent_mailTitle_84",
+    "content": "mailContent_content_85"
+  },
+  "45": {
+    "id": 45,
+    "system": "guildBOSS",
+    "name": "顶上战争",
+    "mailTitle": "mailContent_mailTitle_86",
+    "content": "mailContent_content_87"
+  },
+  "46": {
+    "id": 46,
+    "system": "guildBOSS",
+    "name": "顶上战争",
+    "mailTitle": "mailContent_mailTitle_88",
+    "content": "mailContent_content_89"
+  },
+  "47": {
+    "id": 47,
+    "system": "activity",
+    "name": "抢占先机",
+    "mailTitle": "mailContent_mailTitle_90",
+    "content": "mailContent_content_91"
+  },
+  "48": {
+    "id": 48,
+    "system": "dragonBallWar",
+    "name": "海域争夺战",
+    "mailTitle": "mailContent_mailTitle_92",
+    "content": "mailContent_content_93"
+  },
+  "49": {
+    "id": 49,
+    "system": "dragonBallWar",
+    "name": "海域争夺战",
+    "mailTitle": "mailContent_mailTitle_94",
+    "content": "mailContent_content_95"
+  },
+  "50": {
+    "id": 50,
+    "system": "dragonBallWar",
+    "name": "海域争夺战",
+    "mailTitle": "mailContent_mailTitle_94",
+    "content": "mailContent_content_96"
+  },
+  "51": {
+    "id": 51,
+    "system": "dragonBallWar",
+    "name": "海域争夺战",
+    "mailTitle": "mailContent_mailTitle_94",
+    "content": "mailContent_content_97"
+  },
+  "52": {
+    "id": 52,
+    "system": "guildBOSS",
+    "name": "顶上战争",
+    "mailTitle": "mailContent_mailTitle_98",
+    "content": "mailContent_content_99"
+  },
+  "53": {
+    "id": 53,
+    "system": "activity",
+    "name": "合服活动",
+    "mailTitle": "mailContent_mailTitle_100",
+    "content": "mailContent_content_101"
+  },
+  "54": {
+    "id": 54,
+    "system": "activity",
+    "name": "合服活动",
+    "mailTitle": "mailContent_mailTitle_102",
+    "content": "mailContent_content_103"
+  },
+  "55": {
+    "id": 55,
+    "system": "activity",
+    "name": "合服活动",
+    "mailTitle": "mailContent_mailTitle_104",
+    "content": "mailContent_content_105"
+  },
+  "56": {
+    "id": 56,
+    "system": "activity",
+    "name": "活动",
+    "mailTitle": "mailContent_mailTitle_106",
+    "content": "mailContent_content_107"
+  },
+  "57": {
+    "id": 57,
+    "system": "activity",
+    "name": "活动",
+    "mailTitle": "mailContent_mailTitle_108",
+    "content": "mailContent_content_109"
+  },
+  "58": {
+    "id": 58,
+    "system": "activity",
+    "name": "活动",
+    "mailTitle": "mailContent_mailTitle_110",
+    "content": "mailContent_content_111"
+  },
+  "59": {
+    "id": 59,
+    "system": "battleMedal",
+    "name": "战令",
+    "mailTitle": "mailContent_mailTitle_112",
+    "content": "mailContent_content_113"
+  },
+  "60": {
+    "id": 60,
+    "system": "activity",
+    "name": "活动",
+    "mailTitle": "mailContent_mailTitle_114",
+    "content": "mailContent_content_115"
+  },
+  "61": {
+    "id": 61,
+    "system": "punkLab",
+    "name": "庞克实验室",
+    "mailTitle": "mailContent_mailTitle_116",
+    "content": "mailContent_content_117"
+  },
+  "62": {
+    "id": 62,
+    "system": "guildGrab",
+    "name": "公会夺宝",
+    "mailTitle": "mailContent_mailTitle_118",
+    "content": "mailContent_content_119"
+  },
+  "63": {
+    "id": 63,
+    "system": "guildGrab",
+    "name": "公会夺宝",
+    "mailTitle": "mailContent_mailTitle_120",
+    "content": "mailContent_content_121"
+  },
+  "64": {
+    "id": 64,
+    "system": "activity",
+    "name": "装备翻翻乐",
+    "mailTitle": "mailContent_mailTitle_122",
+    "content": "mailContent_content_123"
+  },
+  "65": {
+    "id": 65,
+    "system": "activity",
+    "name": "船员集结",
+    "mailTitle": "mailContent_mailTitle_124",
+    "content": "mailContent_content_125"
+  },
+  "66": {
+    "id": 66,
+    "system": "bossFight",
+    "name": "boss争夺战奖励",
+    "mailTitle": "mailContent_mailTitle_126",
+    "content": "mailContent_content_127"
+  },
+  "67": {
+    "id": 67,
+    "system": "bossFight",
+    "name": "boss争夺战奖励",
+    "mailTitle": "mailContent_mailTitle_126",
+    "content": "mailContent_content_128"
+  },
+  "68": {
+    "id": 68,
+    "system": "activity",
+    "name": "空贝大作战",
+    "mailTitle": "mailContent_mailTitle_129",
+    "content": "mailContent_content_130"
+  },
+  "69": {
+    "id": 69,
+    "system": "activity",
+    "name": "秘宝转盘",
+    "mailTitle": "mailContent_mailTitle_131",
+    "content": "mailContent_content_132"
+  },
+  "70": {
+    "id": 70,
+    "system": "globalWar",
+    "name": "顶上战争",
+    "mailTitle": "mailContent_mailTitle_133",
+    "content": "mailContent_content_134"
+  },
+  "71": {
+    "id": 71,
+    "system": "activity",
+    "name": "空贝大作战",
+    "mailTitle": "mailContent_mailTitle_135",
+    "content": "mailContent_content_136"
+  },
+  "72": {
+    "id": 72,
+    "system": "activity",
+    "name": "装备翻翻乐",
+    "mailTitle": "mailContent_mailTitle_137",
+    "content": "mailContent_content_138"
+  },
+  "73": {
+    "id": 73,
+    "system": "activity",
+    "name": "武器铸造",
+    "mailTitle": "mailContent_mailTitle_139",
+    "content": "mailContent_content_140"
+  },
+  "74": {
+    "id": 74,
+    "system": "activity",
+    "name": "登陆奖励",
+    "mailTitle": "mailContent_mailTitle_141",
+    "content": "mailContent_content_142"
+  },
+  "75": {
+    "id": 75,
+    "system": "activity",
+    "name": "装备淬炼",
+    "mailTitle": "mailContent_mailTitle_143",
+    "content": "mailContent_content_144"
+  },
+  "76": {
+    "id": 76,
+    "system": "activity",
+    "name": "空贝淬炼",
+    "mailTitle": "mailContent_mailTitle_145",
+    "content": "mailContent_content_146"
+  },
+  "77": {
+    "id": 77,
+    "system": "activity",
+    "name": "武器淬炼",
+    "mailTitle": "mailContent_mailTitle_147",
+    "content": "mailContent_content_148"
+  },
+  "78": {
+    "id": 78,
+    "system": "activity",
+    "name": "神装武库",
+    "mailTitle": "mailContent_mailTitle_149",
+    "content": "mailContent_content_150"
+  },
+  "79": {
+    "id": 79,
+    "system": "activity",
+    "name": "首充奖励",
+    "mailTitle": "mailContent_mailTitle_151",
+    "content": "mailContent_content_152"
+  },
+  "80": {
+    "id": 80,
+    "system": "activity",
+    "name": "深海大监狱",
+    "mailTitle": "mailContent_mailTitle_153",
+    "content": "mailContent_content_154"
+  },
+  "81": {
+    "id": 81,
+    "system": "activity",
+    "name": "成长之路",
+    "mailTitle": "mailContent_mailTitle_155",
+    "content": "mailContent_content_156"
+  },
+  "82": {
+    "id": 82,
+    "system": "activity",
+    "name": "每日充值得豪礼",
+    "mailTitle": "mailContent_mailTitle_157",
+    "content": "mailContent_content_158"
+  },
+  "83": {
+    "id": 83,
+    "system": "activity",
+    "name": "每日充值得豪礼",
+    "mailTitle": "mailContent_mailTitle_159",
+    "content": "mailContent_content_160"
+  },
+  "84": {
+    "id": 84,
+    "system": "activity",
+    "name": "达标返利",
+    "mailTitle": "mailContent_mailTitle_161",
+    "content": "mailContent_content_162"
+  },
+  "85": {
+    "id": 85,
+    "system": "activity",
+    "name": "下载有礼",
+    "mailTitle": "mailContent_mailTitle_163",
+    "content": "mailContent_content_164"
+  },
+  "86": {
+    "id": 86,
+    "system": "activity",
+    "name": "公会保卫战",
+    "mailTitle": "mailContent_mailTitle_165",
+    "content": "mailContent_content_166"
+  },
+  "87": {
+    "id": 87,
+    "system": "activity",
+    "name": "托尼托尼大转盘",
+    "mailTitle": "mailContent_mailTitle_167",
+    "content": "mailContent_content_168"
+  },
+  "88": {
+    "id": 88,
+    "system": "activity",
+    "name": "达标奖励",
+    "mailTitle": "mailContent_mailTitle_169",
+    "content": "mailContent_content_170"
+  },
+  "89": {
+    "id": 89,
+    "system": "activity",
+    "name": "新年利市",
+    "mailTitle": "mailContent_mailTitle_171",
+    "content": "mailContent_content_172"
+  },
+  "90": {
+    "id": 90,
+    "system": "activity",
+    "name": "新春驱兽",
+    "mailTitle": "mailContent_mailTitle_173",
+    "content": "mailContent_content_174"
+  },
+  "91": {
+    "id": 91,
+    "system": "activity",
+    "name": "跨服团本",
+    "mailTitle": "mailContent_mailTitle_175",
+    "content": "mailContent_content_176"
+  },
+  "92": {
+    "id": 92,
+    "system": "activity",
+    "name": "跨服团本",
+    "mailTitle": "mailContent_mailTitle_175",
+    "content": "mailContent_content_177"
+  },
+  "93": {
+    "id": 93,
+    "system": "activity",
+    "name": "跨服团本",
+    "mailTitle": "mailContent_mailTitle_178",
+    "content": "mailContent_content_179"
+  },
+  "94": {
+    "id": 94,
+    "system": "activity",
+    "name": "限时置换",
+    "mailTitle": "mailContent_mailTitle_180",
+    "content": "mailContent_content_181"
+  },
+  "95": {
+    "id": 95,
+    "system": "activity",
+    "name": "个人团本",
+    "mailTitle": "mailContent_mailTitle_182",
+    "content": "mailContent_content_183"
+  },
+  "96": {
+    "id": 96,
+    "system": "activity",
+    "name": "香克斯宝库",
+    "mailTitle": "mailContent_mailTitle_184",
+    "content": "mailContent_content_185"
+  },
+  "97": {
+    "id": 97,
+    "system": "activity",
+    "name": "培波的逐梦夺宝",
+    "mailTitle": "mailContent_mailTitle_186",
+    "content": "mailContent_content_187"
+  },
+  "98": {
+    "id": 98,
+    "system": "infinitePrison",
+    "name": "无限监狱",
+    "mailTitle": "mailContent_mailTitle_188",
+    "content": "mailContent_content_189"
+  }
+}

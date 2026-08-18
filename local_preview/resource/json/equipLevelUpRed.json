@@ -1,0 +1,254 @@
+{
+  "3301": {
+    "equipId": 3301,
+    "equipStar": 5,
+    "needEquipId": "3301,3311,3321,3331,3341,3351,3361",
+    "equipRed": 3401,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3302": {
+    "equipId": 3302,
+    "equipStar": 5,
+    "needEquipId": "3302,3312,3322,3332,3342,3352,3362",
+    "equipRed": 3402,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3303": {
+    "equipId": 3303,
+    "equipStar": 5,
+    "needEquipId": "3303,3313,3323,3333,3343,3353,3363",
+    "equipRed": 3403,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3304": {
+    "equipId": 3304,
+    "equipStar": 5,
+    "needEquipId": "3304,3314,3324,3334,3344,3354,3364",
+    "equipRed": 3404,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3311": {
+    "equipId": 3311,
+    "equipStar": 5,
+    "needEquipId": "3301,3311,3321,3331,3341,3351,3361",
+    "equipRed": 3411,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3312": {
+    "equipId": 3312,
+    "equipStar": 5,
+    "needEquipId": "3302,3312,3322,3332,3342,3352,3362",
+    "equipRed": 3412,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3313": {
+    "equipId": 3313,
+    "equipStar": 5,
+    "needEquipId": "3303,3313,3323,3333,3343,3353,3363",
+    "equipRed": 3413,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3314": {
+    "equipId": 3314,
+    "equipStar": 5,
+    "needEquipId": "3304,3314,3324,3334,3344,3354,3364",
+    "equipRed": 3414,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3321": {
+    "equipId": 3321,
+    "equipStar": 5,
+    "needEquipId": "3301,3311,3321,3331,3341,3351,3361",
+    "equipRed": 3421,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3322": {
+    "equipId": 3322,
+    "equipStar": 5,
+    "needEquipId": "3302,3312,3322,3332,3342,3352,3362",
+    "equipRed": 3422,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3323": {
+    "equipId": 3323,
+    "equipStar": 5,
+    "needEquipId": "3303,3313,3323,3333,3343,3353,3363",
+    "equipRed": 3423,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3324": {
+    "equipId": 3324,
+    "equipStar": 5,
+    "needEquipId": "3304,3314,3324,3334,3344,3354,3364",
+    "equipRed": 3424,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3331": {
+    "equipId": 3331,
+    "equipStar": 5,
+    "needEquipId": "3301,3311,3321,3331,3341,3351,3361",
+    "equipRed": 3431,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3332": {
+    "equipId": 3332,
+    "equipStar": 5,
+    "needEquipId": "3302,3312,3322,3332,3342,3352,3362",
+    "equipRed": 3432,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3333": {
+    "equipId": 3333,
+    "equipStar": 5,
+    "needEquipId": "3303,3313,3323,3333,3343,3353,3363",
+    "equipRed": 3433,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3334": {
+    "equipId": 3334,
+    "equipStar": 5,
+    "needEquipId": "3304,3314,3324,3334,3344,3354,3364",
+    "equipRed": 3434,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3341": {
+    "equipId": 3341,
+    "equipStar": 5,
+    "needEquipId": "3301,3311,3321,3331,3341,3351,3361",
+    "equipRed": 3441,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3342": {
+    "equipId": 3342,
+    "equipStar": 5,
+    "needEquipId": "3302,3312,3322,3332,3342,3352,3362",
+    "equipRed": 3442,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3343": {
+    "equipId": 3343,
+    "equipStar": 5,
+    "needEquipId": "3303,3313,3323,3333,3343,3353,3363",
+    "equipRed": 3443,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3344": {
+    "equipId": 3344,
+    "equipStar": 5,
+    "needEquipId": "3304,3314,3324,3334,3344,3354,3364",
+    "equipRed": 3444,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3351": {
+    "equipId": 3351,
+    "equipStar": 5,
+    "needEquipId": "3301,3311,3321,3331,3341,3351,3361",
+    "equipRed": 3451,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3352": {
+    "equipId": 3352,
+    "equipStar": 5,
+    "needEquipId": "3302,3312,3322,3332,3342,3352,3362",
+    "equipRed": 3452,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3353": {
+    "equipId": 3353,
+    "equipStar": 5,
+    "needEquipId": "3303,3313,3323,3333,3343,3353,3363",
+    "equipRed": 3453,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3354": {
+    "equipId": 3354,
+    "equipStar": 5,
+    "needEquipId": "3304,3314,3324,3334,3344,3354,3364",
+    "equipRed": 3454,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3361": {
+    "equipId": 3361,
+    "equipStar": 5,
+    "needEquipId": "3301,3311,3321,3331,3341,3351,3361",
+    "equipRed": 3461,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3362": {
+    "equipId": 3362,
+    "equipStar": 5,
+    "needEquipId": "3302,3312,3322,3332,3342,3352,3362",
+    "equipRed": 3462,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3363": {
+    "equipId": 3363,
+    "equipStar": 5,
+    "needEquipId": "3303,3313,3323,3333,3343,3353,3363",
+    "equipRed": 3463,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  },
+  "3364": {
+    "equipId": 3364,
+    "equipStar": 5,
+    "needEquipId": "3304,3314,3324,3334,3344,3354,3364",
+    "equipRed": 3464,
+    "needEquipStar": 0,
+    "needEquipLevel": 1,
+    "needEquipNum": 1
+  }
+}

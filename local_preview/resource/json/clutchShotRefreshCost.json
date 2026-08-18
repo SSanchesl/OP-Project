@@ -1,0 +1,20 @@
+{
+  "1": {
+    "ID": 1,
+    "clutchShotQuality": "SR",
+    "costID": 579,
+    "costNum": 10
+  },
+  "2": {
+    "ID": 2,
+    "clutchShotQuality": "SSR",
+    "costID": 579,
+    "costNum": 25
+  },
+  "3": {
+    "ID": 3,
+    "clutchShotQuality": "UR",
+    "costID": 579,
+    "costNum": 50
+  }
+}

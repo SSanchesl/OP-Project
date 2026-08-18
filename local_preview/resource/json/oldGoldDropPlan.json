@@ -1,0 +1,1982 @@
+{
+  "10001": [
+    {
+      "id": 10001,
+      "group": 1,
+      "awardID": 218,
+      "num": 15,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 1,
+      "awardID": 218,
+      "num": 15,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10001,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10001,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10001,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "10011": [
+    {
+      "id": 10011,
+      "group": 1,
+      "awardID": 218,
+      "num": 35,
+      "random": 1000
+    },
+    {
+      "id": 10011,
+      "group": 1,
+      "awardID": 218,
+      "num": 35,
+      "random": 1000
+    },
+    {
+      "id": 10011,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10011,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10011,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10011,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "10021": [
+    {
+      "id": 10021,
+      "group": 1,
+      "awardID": 218,
+      "num": 15,
+      "random": 1000
+    },
+    {
+      "id": 10021,
+      "group": 1,
+      "awardID": 218,
+      "num": 15,
+      "random": 1000
+    },
+    {
+      "id": 10021,
+      "group": 2,
+      "awardID": 228,
+      "num": 10,
+      "random": 1000
+    },
+    {
+      "id": 10021,
+      "group": 2,
+      "awardID": 228,
+      "num": 10,
+      "random": 1000
+    },
+    {
+      "id": 10021,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10021,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "10031": [
+    {
+      "id": 10031,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10031,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10031,
+      "group": 2,
+      "awardID": 228,
+      "num": 13,
+      "random": 1000
+    },
+    {
+      "id": 10031,
+      "group": 2,
+      "awardID": 228,
+      "num": 13,
+      "random": 1000
+    },
+    {
+      "id": 10031,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10031,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "10041": [
+    {
+      "id": 10041,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10041,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10041,
+      "group": 2,
+      "awardID": 228,
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10041,
+      "group": 2,
+      "awardID": 228,
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10041,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10041,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "10051": [
+    {
+      "id": 10051,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10051,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10051,
+      "group": 2,
+      "awardID": 228,
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10051,
+      "group": 2,
+      "awardID": 228,
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10051,
+      "group": 3,
+      "awardID": 238,
+      "num": 3,
+      "random": 1000
+    },
+    {
+      "id": 10051,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 111.111111111111
+    }
+  ],
+  "10061": [
+    {
+      "id": 10061,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10061,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10061,
+      "group": 2,
+      "awardID": 228,
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10061,
+      "group": 2,
+      "awardID": 228,
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10061,
+      "group": 3,
+      "awardID": 238,
+      "num": 3,
+      "random": 1000
+    },
+    {
+      "id": 10061,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 666.666666666666
+    }
+  ],
+  "10071": [
+    {
+      "id": 10071,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10071,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10071,
+      "group": 2,
+      "awardID": 228,
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10071,
+      "group": 2,
+      "awardID": 228,
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10071,
+      "group": 3,
+      "awardID": 238,
+      "num": 3,
+      "random": 1000
+    },
+    {
+      "id": 10071,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 2333.33333333334
+    }
+  ],
+  "10081": [
+    {
+      "id": 10081,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10081,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10081,
+      "group": 2,
+      "awardID": 228,
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10081,
+      "group": 2,
+      "awardID": 228,
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10081,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 1000
+    },
+    {
+      "id": 10081,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 1000
+    }
+  ],
+  "10091": [
+    {
+      "id": 10091,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10091,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10091,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10091,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10091,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 1000
+    },
+    {
+      "id": 10091,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 111.111111111112
+    }
+  ],
+  "10101": [
+    {
+      "id": 10101,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10101,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10101,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10101,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10101,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 1000
+    },
+    {
+      "id": 10101,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1000
+    }
+  ],
+  "10111": [
+    {
+      "id": 10111,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10111,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10111,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10111,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10111,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 1000
+    },
+    {
+      "id": 10111,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 9000.00000000003
+    }
+  ],
+  "10121": [
+    {
+      "id": 10121,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10121,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10121,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10121,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10121,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 10121,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 428.57142857143
+    }
+  ],
+  "10131": [
+    {
+      "id": 10131,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10131,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10131,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10131,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10131,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 10131,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 2333.33333333334
+    }
+  ],
+  "10141": [
+    {
+      "id": 10141,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10141,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10141,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10141,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 10141,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 1000
+    },
+    {
+      "id": 10141,
+      "group": 3,
+      "awardID": 238,
+      "num": 8,
+      "random": 1000
+    }
+  ],
+  "20001": [
+    {
+      "id": 20001,
+      "group": 1,
+      "awardID": 218,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 20001,
+      "group": 1,
+      "awardID": 218,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 20001,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20001,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20001,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20001,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "20011": [
+    {
+      "id": 20011,
+      "group": 1,
+      "awardID": 218,
+      "num": 40,
+      "random": 1000
+    },
+    {
+      "id": 20011,
+      "group": 1,
+      "awardID": 218,
+      "num": 40,
+      "random": 1000
+    },
+    {
+      "id": 20011,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20011,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20011,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20011,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "20021": [
+    {
+      "id": 20021,
+      "group": 1,
+      "awardID": 218,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 20021,
+      "group": 1,
+      "awardID": 218,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 20021,
+      "group": 2,
+      "awardID": 228,
+      "num": 12,
+      "random": 1000
+    },
+    {
+      "id": 20021,
+      "group": 2,
+      "awardID": 228,
+      "num": 12,
+      "random": 1000
+    },
+    {
+      "id": 20021,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20021,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "20031": [
+    {
+      "id": 20031,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20031,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20031,
+      "group": 2,
+      "awardID": 228,
+      "num": 15,
+      "random": 1000
+    },
+    {
+      "id": 20031,
+      "group": 2,
+      "awardID": 228,
+      "num": 15,
+      "random": 1000
+    },
+    {
+      "id": 20031,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20031,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "20041": [
+    {
+      "id": 20041,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20041,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20041,
+      "group": 2,
+      "awardID": 228,
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 20041,
+      "group": 2,
+      "awardID": 228,
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 20041,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20041,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "20051": [
+    {
+      "id": 20051,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20051,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20051,
+      "group": 2,
+      "awardID": 228,
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 20051,
+      "group": 2,
+      "awardID": 228,
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 20051,
+      "group": 3,
+      "awardID": 238,
+      "num": 3,
+      "random": 1000
+    },
+    {
+      "id": 20051,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 1500
+    }
+  ],
+  "20061": [
+    {
+      "id": 20061,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20061,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20061,
+      "group": 2,
+      "awardID": 228,
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 20061,
+      "group": 2,
+      "awardID": 228,
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 20061,
+      "group": 3,
+      "awardID": 238,
+      "num": 3,
+      "random": 1000
+    },
+    {
+      "id": 20061,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 8999.99999999999
+    }
+  ],
+  "20071": [
+    {
+      "id": 20071,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20071,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20071,
+      "group": 2,
+      "awardID": 228,
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 20071,
+      "group": 2,
+      "awardID": 228,
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 20071,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 1000
+    },
+    {
+      "id": 20071,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 250
+    }
+  ],
+  "20081": [
+    {
+      "id": 20081,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20081,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20081,
+      "group": 2,
+      "awardID": 228,
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 20081,
+      "group": 2,
+      "awardID": 228,
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 20081,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 1000
+    },
+    {
+      "id": 20081,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 1000
+    }
+  ],
+  "20091": [
+    {
+      "id": 20091,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20091,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20091,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20091,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20091,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 1000
+    },
+    {
+      "id": 20091,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1500
+    }
+  ],
+  "20101": [
+    {
+      "id": 20101,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20101,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20101,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20101,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20101,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 20101,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1000
+    }
+  ],
+  "20111": [
+    {
+      "id": 20111,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20111,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20111,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20111,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20111,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 20111,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 666.666666666668
+    }
+  ],
+  "20121": [
+    {
+      "id": 20121,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20121,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20121,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20121,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20121,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 20121,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 4000.00000000002
+    }
+  ],
+  "20131": [
+    {
+      "id": 20131,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20131,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20131,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20131,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20131,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 1000
+    },
+    {
+      "id": 20131,
+      "group": 3,
+      "awardID": 238,
+      "num": 8,
+      "random": 250
+    }
+  ],
+  "20141": [
+    {
+      "id": 20141,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20141,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20141,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20141,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 20141,
+      "group": 3,
+      "awardID": 238,
+      "num": 8,
+      "random": 1000
+    },
+    {
+      "id": 20141,
+      "group": 3,
+      "awardID": 238,
+      "num": 8,
+      "random": 1000
+    }
+  ],
+  "30001": [
+    {
+      "id": 30001,
+      "group": 1,
+      "awardID": 218,
+      "num": 25,
+      "random": 1000
+    },
+    {
+      "id": 30001,
+      "group": 1,
+      "awardID": 218,
+      "num": 25,
+      "random": 1000
+    },
+    {
+      "id": 30001,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30001,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30001,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30001,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "30011": [
+    {
+      "id": 30011,
+      "group": 1,
+      "awardID": 218,
+      "num": 45,
+      "random": 1000
+    },
+    {
+      "id": 30011,
+      "group": 1,
+      "awardID": 218,
+      "num": 45,
+      "random": 1000
+    },
+    {
+      "id": 30011,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30011,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30011,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30011,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "30021": [
+    {
+      "id": 30021,
+      "group": 1,
+      "awardID": 218,
+      "num": 25,
+      "random": 1000
+    },
+    {
+      "id": 30021,
+      "group": 1,
+      "awardID": 218,
+      "num": 25,
+      "random": 1000
+    },
+    {
+      "id": 30021,
+      "group": 2,
+      "awardID": 228,
+      "num": 14,
+      "random": 1000
+    },
+    {
+      "id": 30021,
+      "group": 2,
+      "awardID": 228,
+      "num": 14,
+      "random": 1000
+    },
+    {
+      "id": 30021,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30021,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "30031": [
+    {
+      "id": 30031,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30031,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30031,
+      "group": 2,
+      "awardID": 228,
+      "num": 17,
+      "random": 1000
+    },
+    {
+      "id": 30031,
+      "group": 2,
+      "awardID": 228,
+      "num": 17,
+      "random": 1000
+    },
+    {
+      "id": 30031,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30031,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "30041": [
+    {
+      "id": 30041,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30041,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30041,
+      "group": 2,
+      "awardID": 228,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 30041,
+      "group": 2,
+      "awardID": 228,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 30041,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30041,
+      "group": 3,
+      "awardID": 238,
+      "num": "",
+      "random": ""
+    }
+  ],
+  "30051": [
+    {
+      "id": 30051,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30051,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30051,
+      "group": 2,
+      "awardID": 228,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 30051,
+      "group": 2,
+      "awardID": 228,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 30051,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 1000
+    },
+    {
+      "id": 30051,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 111.111111111111
+    }
+  ],
+  "30061": [
+    {
+      "id": 30061,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30061,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30061,
+      "group": 2,
+      "awardID": 228,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 30061,
+      "group": 2,
+      "awardID": 228,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 30061,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 1000
+    },
+    {
+      "id": 30061,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 666.666666666666
+    }
+  ],
+  "30071": [
+    {
+      "id": 30071,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30071,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30071,
+      "group": 2,
+      "awardID": 228,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 30071,
+      "group": 2,
+      "awardID": 228,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 30071,
+      "group": 3,
+      "awardID": 238,
+      "num": 4,
+      "random": 1000
+    },
+    {
+      "id": 30071,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 2333.33333333334
+    }
+  ],
+  "30081": [
+    {
+      "id": 30081,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30081,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30081,
+      "group": 2,
+      "awardID": 228,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 30081,
+      "group": 2,
+      "awardID": 228,
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 30081,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 1000
+    },
+    {
+      "id": 30081,
+      "group": 3,
+      "awardID": 238,
+      "num": 5,
+      "random": 1000
+    }
+  ],
+  "30091": [
+    {
+      "id": 30091,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30091,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30091,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30091,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30091,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 30091,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 111.111111111112
+    }
+  ],
+  "30101": [
+    {
+      "id": 30101,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30101,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30101,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30101,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30101,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 30101,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 1000
+    }
+  ],
+  "30111": [
+    {
+      "id": 30111,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30111,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30111,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30111,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30111,
+      "group": 3,
+      "awardID": 238,
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 30111,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 9000.00000000003
+    }
+  ],
+  "30121": [
+    {
+      "id": 30121,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30121,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30121,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30121,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30121,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 1000
+    },
+    {
+      "id": 30121,
+      "group": 3,
+      "awardID": 238,
+      "num": 8,
+      "random": 428.57142857143
+    }
+  ],
+  "30131": [
+    {
+      "id": 30131,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30131,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30131,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30131,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30131,
+      "group": 3,
+      "awardID": 238,
+      "num": 7,
+      "random": 1000
+    },
+    {
+      "id": 30131,
+      "group": 3,
+      "awardID": 238,
+      "num": 8,
+      "random": 2333.33333333334
+    }
+  ],
+  "30141": [
+    {
+      "id": 30141,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30141,
+      "group": 1,
+      "awardID": 218,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30141,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30141,
+      "group": 2,
+      "awardID": 228,
+      "num": "",
+      "random": ""
+    },
+    {
+      "id": 30141,
+      "group": 3,
+      "awardID": 238,
+      "num": 8,
+      "random": 1000
+    },
+    {
+      "id": 30141,
+      "group": 3,
+      "awardID": 238,
+      "num": 9,
+      "random": 1000
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "10001": {
+    "id": 10001,
+    "name": "kongdi",
+    "isMove": 1,
+    "visualFiledLength": 3,
+    "differentMaterialIsShow": 3,
+    "moveShow": 3
+  },
+  "10002": {
+    "id": 10002,
+    "name": "senlin",
+    "isMove": 1,
+    "visualFiledLength": 1,
+    "differentMaterialIsShow": 1,
+    "moveShow": 1,
+    "isTips": 1
+  },
+  "10003": {
+    "id": 10003,
+    "name": "fangwu",
+    "isMove": 1,
+    "visualFiledLength": 0,
+    "differentMaterialIsShow": 0,
+    "moveShow": 1,
+    "isTips": 1
+  },
+  "10004": {
+    "id": 10004,
+    "name": "hai",
+    "isMove": 1,
+    "visualFiledLength": 3,
+    "differentMaterialIsShow": 3,
+    "moveShow": 3,
+    "needItem": 911002
+  },
+  "10005": {
+    "id": 10005,
+    "name": "shan",
+    "isMove": 0,
+    "visualFiledLength": 3,
+    "differentMaterialIsShow": 3,
+    "moveShow": 0
+  }
+}

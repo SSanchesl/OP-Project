@@ -1,0 +1,290 @@
+{
+  "10001": [
+    {
+      "id": 10001,
+      "group": 1,
+      "award": 828,
+      "name": "霸王色",
+      "num": 12,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 1,
+      "award": 828,
+      "name": "霸王色",
+      "num": 14,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 1,
+      "award": 828,
+      "name": "霸王色",
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 1,
+      "award": 828,
+      "name": "霸王色",
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 1,
+      "award": 828,
+      "name": "霸王色",
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 8,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 10,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 12,
+      "random": 1000
+    },
+    {
+      "id": 10001,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 14,
+      "random": 1000
+    }
+  ],
+  "10002": [
+    {
+      "id": 10002,
+      "group": 1,
+      "award": 830,
+      "name": "武装色",
+      "num": 12,
+      "random": 1000
+    },
+    {
+      "id": 10002,
+      "group": 1,
+      "award": 830,
+      "name": "武装色",
+      "num": 14,
+      "random": 1000
+    },
+    {
+      "id": 10002,
+      "group": 1,
+      "award": 830,
+      "name": "武装色",
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10002,
+      "group": 1,
+      "award": 830,
+      "name": "武装色",
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 10002,
+      "group": 1,
+      "award": 830,
+      "name": "武装色",
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 10002,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 10002,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 8,
+      "random": 1000
+    },
+    {
+      "id": 10002,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 10,
+      "random": 1000
+    },
+    {
+      "id": 10002,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 12,
+      "random": 1000
+    },
+    {
+      "id": 10002,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 14,
+      "random": 1000
+    }
+  ],
+  "10003": [
+    {
+      "id": 10003,
+      "group": 1,
+      "award": 829,
+      "name": "见闻色",
+      "num": 12,
+      "random": 1000
+    },
+    {
+      "id": 10003,
+      "group": 1,
+      "award": 829,
+      "name": "见闻色",
+      "num": 14,
+      "random": 1000
+    },
+    {
+      "id": 10003,
+      "group": 1,
+      "award": 829,
+      "name": "见闻色",
+      "num": 16,
+      "random": 1000
+    },
+    {
+      "id": 10003,
+      "group": 1,
+      "award": 829,
+      "name": "见闻色",
+      "num": 18,
+      "random": 1000
+    },
+    {
+      "id": 10003,
+      "group": 1,
+      "award": 829,
+      "name": "见闻色",
+      "num": 20,
+      "random": 1000
+    },
+    {
+      "id": 10003,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 6,
+      "random": 1000
+    },
+    {
+      "id": 10003,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 8,
+      "random": 1000
+    },
+    {
+      "id": 10003,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 10,
+      "random": 1000
+    },
+    {
+      "id": 10003,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 12,
+      "random": 1000
+    },
+    {
+      "id": 10003,
+      "group": 2,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 14,
+      "random": 1000
+    }
+  ],
+  "10004": [
+    {
+      "id": 10004,
+      "group": 1,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 156,
+      "random": 1000
+    },
+    {
+      "id": 10004,
+      "group": 1,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 158,
+      "random": 1000
+    },
+    {
+      "id": 10004,
+      "group": 1,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 160,
+      "random": 1000
+    },
+    {
+      "id": 10004,
+      "group": 1,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 162,
+      "random": 1000
+    },
+    {
+      "id": 10004,
+      "group": 1,
+      "award": 827,
+      "name": "气魄初级",
+      "num": 164,
+      "random": 1000
+    }
+  ]
+}

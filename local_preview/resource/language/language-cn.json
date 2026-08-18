@@ -1,0 +1,5644 @@
+{
+    "City": {
+        "achievementBtn_label": "成 就",
+        "taskBtn_label": "任 务",
+        "friendBtn_label": "好 友",
+        "mailBtn_label": "邮 件",
+        "backPackBtn_label": "背 包",
+        "islandBtn_label": "长环岛冒险",
+        "rechargeBtn_label": "特惠礼包",
+        "welfareBtn_label": "福利",
+        "VipBtn_label": "特权",
+        "newUserActBtn_label": "迎新活动",
+        "serverOpenActBtn_label": "开服庆典",
+        "holiDayActBtn_label": "节日活动",
+        "limitTimeActBtn_label": "限时活动",
+        "rankActBtn_label": "重奖冲榜",
+        "id1": "倒计时结束之后就可以领取奖励了",
+        "firstRechargeBtn_label": "首充送",
+        "rechargePushBtn_label": "V{0}获取",
+        "monthCardBtn_label": "月卡",
+        "globalWarBtn_label": "顶上战争",
+        "id2": "{0}天{1}小时",
+        "id3": "{0}小时{1}分钟",
+        "id4": "{0}分钟",
+        "sevenDayLoginBtn_label": "登录送",
+        "signActBtn_label": "空贝活动",
+        "weaponActBtn_label": "武器活动",
+        "equipActBtn_label": "装备活动",
+        "turntableActBtn_label": "转盘活动",
+        "dragonBallBattleBtn_label": "争夺战",
+        "heroActBtn_label": "英雄活动",
+        "id5": "<font color=0xffec50 size=18 stroke=2 strokeColor=0x230b00>永久持续</font>",
+        "EveryDayRechangeActBtn_label": "连充豪礼",
+        "bountyTaskActBtn_label": "成长之路",
+        "downloadRewardBtn_label": "下载有礼",
+        "questionBtn_label": "问卷",
+        "combinedServiceActBtn_label": "合服活动",
+        "bindBtn_label": "绑定有礼",
+        "christmasActBtn_label": "圣诞活动",
+        "newYearActBtn_label": "新春活动",
+        "weChatBtn_label": "公众号",
+        "oldUserActBtn_label": "老用户",
+        "discountShopActBtn_label": "折扣商城",
+        "newHeroChallengeActBtn_label": "新英雄",
+        "thousandDrawBtn_label": "千抽狂欢"
+    },
+    "WeaponDiff": {
+        "changToNewBtn_label": "更 换",
+        "attributeBtn_label": "属性筛选",
+        "wearBtn_label": "穿戴",
+        "WeaponDiff0_text": "筛选:",
+        "WeaponDiff1_text": "没有找到您想要的武器",
+        "WeaponDiff3_text": "- 已装备 -",
+        "titleLab_text": "英雄背包"
+    },
+    "Home": {
+        "goldNum_text": "{0}/小时",
+        "expNum_text": "{0}/小时",
+        "expCapsuleNum_text": "{0}/小时",
+        "evolveCapsuleNum_text": "{0}/小时",
+        "id1": "<font color=0x3bf754>{0}</font>关后可领奖",
+        "id2": "请先完成主线{0}，才能继续下面的关卡哦~",
+        "id3": "可领奖",
+        "rewardTitleLab_text": "奖励"
+    },
+    "FiltratePanel": {
+        "id1": "{0}号位",
+        "id2": "英雄一键选中",
+        "id3": "空贝一键选中",
+        "id4": "武器一键选中",
+        "id5": "空贝套装筛选",
+        "id6": "空贝属性筛选",
+        "id7": "武器属性筛选",
+        "id8": "装备一键选中",
+        "id9": "N品质英雄",
+        "id10": "R品质英雄",
+        "id11": "SR品质英雄",
+        "id14": "全部取消",
+        "id15": "全部选中",
+        "id16": "回到初始设定",
+        "id17": "白色品质",
+        "id18": "绿色品质",
+        "id19": "蓝色品质",
+        "id20": "紫色品质",
+        "id21": "枪",
+        "id22": "岚",
+        "id23": "铁",
+        "id24": "月",
+        "id25": "纸",
+        "confirmBtn_label": "确  定",
+        "cancelBtn_label": "取  消"
+    },
+    "HeroList": {
+        "id1": "背包已经满级！",
+        "id2": "品级",
+        "id3": "等级",
+        "id4": "战力",
+        "id5": "没有英雄碎片哦",
+        "id6": "全部",
+        "id7": "攻",
+        "id8": "防",
+        "id9": "辅",
+        "id10": "终结技即将开放！",
+        "heroListTabBtn_label": "英 雄",
+        "superSkillTabBtn_label": "终结技",
+        "heroDebrisTabBtn_label": "碎 片",
+        "heroHandBookTabBtn_label": "图 鉴",
+        "heroBookLab_text": "默认",
+        "heroBookRedLab_text": "升红",
+        "heroListLab1_text": "终结技",
+        "heroListLab2_text": "终结技共鸣",
+        "heroListLab3_text": "已激活",
+        "resonanceTipsLab_text": "{0}级开放终结技共鸣",
+        "id11": "1.主位可以放入SSR或UR并且等级大于1级的终结技\n\n2.放入主终结技后，右侧可以放入品质相同或更低，且等级为1级的终结技\n\n3.共鸣终结技的星级、被动效果保持原状，仅共鸣终结技等级\n\n4.共鸣位的终结技移除后，该共鸣位有12小时的冷却时间，冷却时间结束后才可放入新的终结技，可用100钻石刷新CD\n\n5.主位终结技只可放入/更换，更换无cd、无消耗，主位终结技不可取下",
+        "id12": "花费{0}钻石可以立即刷新冷却时间，是否刷新？",
+        "id13": "确 定",
+        "id14": "取 消",
+        "allLab_text": "全部",
+        "attactLab_text": "攻",
+        "defenseLab_text": "防",
+        "subLab_text": "辅"
+    },
+    "PackMain": {
+        "id1": "装备背包是空的哦",
+        "id2": "空贝背包是空的哦",
+        "id3": "武器背包是空的哦",
+        "id4": "材料背包是空的哦",
+        "id5": "筛选:",
+        "id6": "套装筛选",
+        "id7": "属性筛选",
+        "materialsTabBtn_label": "材 料",
+        "equipTabBtn_label": "装 备",
+        "emptyShellTabBtn_label": "空 贝",
+        "weaponTabBtn_label": "武 器",
+        "titleLab_text": "背包",
+        "emptyShellLab_text": "筛选:",
+        "weaponLab_text": "筛选:",
+        "emptyShellSuitBtn_label": "套装筛选",
+        "emptyShellAttributeBtn_label": "属性筛选",
+        "weaponAttributeBtn_label": "属性筛选",
+        "oneKeyMergeBtn_label": "一键合成"
+    },
+    "PackItemInfo": {
+        "id1": "当前数量:",
+        "id2": "详 情",
+        "id3": "合 成",
+        "id4": "出  售",
+        "id5": "打 开",
+        "id6": "无法出售",
+        "PackItemInfo0_text": "当前数量:",
+        "particularsDetailsBtn_label": "详 情",
+        "summonHeroBtn_label": "合 成",
+        "summonBtn_label": "合 成",
+        "particularsBtn_label": "详 情",
+        "sellBtn_label": "出  售",
+        "compoundBtn_label": "合 成",
+        "openBoxBtn_label": "打 开",
+        "openChooseBoxBtn_label": "打 开",
+        "usableBtn_label": "打 开",
+        "noSell_text": "无法出售"
+    },
+    "BaseHeroPanel": {
+        "id1": "资质：{0}",
+        "id2": "等级：{0}/{1}",
+        "handBookBtn_label": "图鉴",
+        "BaseHeroPanel1_text": "攻击",
+        "BaseHeroPanel2_text": "生命",
+        "BaseHeroPanel3_text": "防御",
+        "BaseHeroPanel4_text": "速度",
+        "heroInfoBtn_label": "信息",
+        "heroSkillBtn_label": "技能",
+        "stampBtn_label": "空贝",
+        "heroSkinBtn_label": "皮肤"
+    },
+    "HeroMainInfo": {
+        "id1": "需要英雄觉醒!",
+        "id2": "英雄已满级!",
+        "id4": "英雄无法升级，需要觉醒提升星级！",
+        "id5": "处于次元机器中的英雄无法培养",
+        "id6": "需要升级次元机器",
+        "id7": "生命",
+        "id8": "攻击",
+        "id9": "防御",
+        "id10": "速度",
+        "id11": "强化材料不足!",
+        "id12": "继续强化需要玩家等级{0}级!",
+        "id13": "没有装备可以强化！",
+        "id14": "此英雄正在派遣中，是否立即结算派遣奖励，并继续当前操作（奖励将通过邮件发送）",
+        "id15": "确 定",
+        "id16": "取 消",
+        "id17": "玩家达到{0}级解锁武器位",
+        "id18": "玩家达到{0}级解锁指针位",
+        "id19": "没有装备可以穿戴",
+        "id20": "没有更好的装备可以替换",
+        "resolveBtn_label": "拆分成碎片",
+        "evolveBtn_label": "突 破",
+        "oneStepWearBtn_label": "一键换装",
+        "equipAKeyLevelUpBtn_label": "一键强化",
+        "trainUpBtn_label": "培 养",
+        "levelUpBtn_label": "升 级",
+        "oneKeyLevelUpBtn_label": "一键升级",
+        "HeroMainInfo0_text": "碎片可用于同名英雄高星级觉醒",
+        "wearError": "未穿任何装备",
+        "wearDownBtn_label": "一键卸下",
+        "resonanceValue": "共鸣中无法升级"
+    },
+    "HeroMainSkill": {
+        "HeroMainSkill0_text": "羁  绊"
+    },
+    "HeroFetterItem": {
+        "id1": "-未激活-"
+    },
+    "HeroMainStamp": {
+        "oneStepWearBtn_label": "一键换装",
+        "id2": "已激活套装总属性：",
+        "id3": "未激活套装属性",
+        "id4": "集齐6个同种空贝后激活",
+        "stampSuitPageBtn_label": "套 装",
+        "id6": "当前:",
+        "signAKeyLevelUpBtn_label": "一键强化",
+        "id7": "强化材料不足!",
+        "id8": "继续强化需要玩家等级{0}级!",
+        "id9": "没有空贝可以强化！",
+        "stampAttrLab_text": "已激活套装总属性：",
+        "noActivateLab_text": "未激活套装属性",
+        "activationConditionsLab_text": "集齐6个同种空贝后激活"
+    },
+    "HeroMainStampViewData": {
+        "id1": "无套装属性",
+        "id2": "风贝套装",
+        "id3": "炎贝套装",
+        "id4": "排击贝套装",
+        "id5": "水贝套装",
+        "id6": "闪光贝套装",
+        "id7": "音贝套装"
+    },
+    "HeroStampSuitTip": {
+        "id1": "{0}套装:{1}/6",
+        "id2": "6个{0}空贝总星数达到{1}星",
+        "id5": "未激活",
+        "id6": "已激活",
+        "id7": "无",
+        "id8": "风",
+        "id9": "炎",
+        "id10": "排击",
+        "id11": "水",
+        "id12": "闪光",
+        "id13": "音",
+        "HeroStampSuitTip0_text": "当前空贝总星级:",
+        "stampAttrLab_text": "已激活套装总属性:",
+        "HeroStampSuitTip1_text": "空贝套装仅在同时穿戴6个同种空贝后激活",
+        "titleLab_text": "空贝套装"
+    },
+    "HeroStampSuitAttrViewData": {
+        "id1": "已激活",
+        "id2": "未激活"
+    },
+    "signLevelUpViewData": {
+        "id1": "可解锁{0}级套装属性",
+        "id2": "无属性",
+        "id3": "品级:{0}"
+    },
+    "SignLevelUp": {
+        "levelUpBtn_label": "强 化",
+        "starUpBtn_label": "升 星",
+        "levelUpTabBtn_label": "强 化",
+        "starUpTabBtn_label": "升 星",
+        "id4": "强化{0}次",
+        "id5": "无法升星,空贝等级需要达到{0}级！",
+        "id6": "无法升星，需要材料不足！",
+        "id7": "需要玩家达到{0}级！",
+        "id8": "强化{0}级后可升星",
+        "SignLevelUp0_text": "剩余",
+        "SignLevelUp1_text": "精炼材料",
+        "SignLevelUp2_text": "剩余",
+        "SignLevelUp3_text": "剩余",
+        "oneKeyLevelUpBtn_label": "一键强化",
+        "titleLab_text": "属性精炼",
+        "resetBtn_label": "洗炼",
+        "resetTabBtn_label": "洗 炼",
+        "stampStarQuality_text": "品级 <font color=0xfff4dc>{0}</font>"
+    },
+    "StampDetal": {
+        "id1": "已满级！",
+        "unfixBtn_label": "卸 下",
+        "changeBtn_label": "更 换",
+        "strengthBtn_label": "精 炼",
+        "strengthTwoBtn_label": "精 炼",
+        "doCancelBtn_label": "取消",
+        "doSureBtn_label": "选中",
+        "resonanceLab_text": "共鸣中无法操作"
+    },
+    "StampAttrsDetalListItemViewData": {
+        "id1": "已满级！"
+    },
+    "StampDetalItem": {
+        "id1": "绿色品质空贝无副属性",
+        "stampStarQuality_text": "品级 <font color=0xfff4dc>{0}</font>"
+    },
+    "HeroEvolve": {
+        "id1": "需培养{0}个{1}及以上品质的英雄（等级≥{2}）",
+        "id2": "基础属性提升",
+        "id3": "基础生命",
+        "id4": "基础攻击",
+        "id5": "新技能解锁",
+        "id6": "技能等级提升",
+        "id7": "本次突破未提升等级",
+        "id8": "突 破",
+        "titleLab_text": "属性突破",
+        "HeroEvolve0_text": "基础属性提升",
+        "HeroEvolve1_text": "基础生命",
+        "HeroEvolve2_text": "基础攻击",
+        "evolveBtn_label": "突 破"
+    },
+    "heroCommon": {
+        "id1": "点亮图鉴 ",
+        "id2": "生命",
+        "id3": "攻击",
+        "id4": "防御",
+        "id5": "速度",
+        "id6": "绿色品质空贝无副属性",
+        "id11": "武器"
+    },
+    "viewCommon": {
+        "id1": "2件套",
+        "id2": "3件套",
+        "id3": "4件套",
+        "id4": "信息",
+        "id5": "技能",
+        "id6": "装备",
+        "id7": "空贝",
+        "id8": "风",
+        "id9": "风贝",
+        "id10": "炎",
+        "id11": "炎贝",
+        "id12": "排击",
+        "id13": "排击贝",
+        "id14": "水",
+        "id15": "水贝",
+        "id16": "闪光",
+        "id17": "闪光贝",
+        "id18": "音",
+        "id19": "音贝",
+        "id20": "好友",
+        "id21": "好友申请",
+        "id22": "申请列表",
+        "id24": "在线",
+        "id25": "{0}天前",
+        "id26": "{0}小时前",
+        "id27": "{0}分钟前",
+        "id28": "l{0}/{1}",
+        "id29": "英雄",
+        "id30": "终结技"
+    },
+    "EquipDetal": {
+        "unfixBtn_label": "卸 下",
+        "changeBtn_label": "更 换",
+        "wearBtn_label": "穿 戴",
+        "refineBtn_label": "精 炼",
+        "refineBtn1_label": "精 炼",
+        "resonanceLab_text": "装备属性已共鸣"
+    },
+    "AttrsExplainDesViewData": {
+        "id1": "[{0}]"
+    },
+    "EarringInfo": {
+        "id1": "升 级",
+        "id2": "进 阶",
+        "id3": "<font color=0xFFFFFF>未激活</font>",
+        "resonanceLab_text": "指针属性已共鸣"
+    },
+    "EarringEvolve": {
+        "id1": "需要英雄{0}级",
+        "id2": "<font color=0xFFFFFF>未激活</font>",
+        "id3": "剩余",
+        "id4": "进 阶",
+        "titleLab_text": "永久指针进阶",
+        "EarringEvolve1_text": "剩余",
+        "evolveBtn_label": "进 阶"
+    },
+    "EarringLevelUp": {
+        "id1": "升级{0}次",
+        "id4": "进阶成功！",
+        "levelUpBtn_label": "升 级",
+        "oneKeyLevelUpBtn_label": "一键升级",
+        "titleLab_text": "永久指针升级",
+        "EarringLevelUp1_text": "剩余"
+    },
+    "EarringLevelFull": {
+        "EarringLevelFull1_text": "已升至满级",
+        "sureBtn_label": "确 定",
+        "titleLab_text": "永久指针"
+    },
+    "EarringLevelUpViewData": {
+        "id1": "等级{0}"
+    },
+    "EquipChange": {
+        "EquipChange1_text": "- 已装备 -",
+        "changToNewBtn_label": "更 换"
+    },
+    "equipInfoManager": {
+        "id1": "帽子",
+        "id2": "衣服",
+        "id3": "裤子",
+        "id4": "鞋子"
+    },
+    "HeroMainWakeUp": {
+        "id1": "觉醒材料数量不足",
+        "id2": "绿色以下品质英雄无法觉醒",
+        "basicsHPLabel_text": "基础生命",
+        "basicsAttackLabel_text": "基础攻击",
+        "wakeupBtn_label": "觉 醒",
+        "id6": "上限Lv{0}",
+        "id7": "资质{0}",
+        "detailsBtn_label": "详情",
+        "id8": "需要的共鸣英雄总资质不足\n<font color=0xFF0000>{0}</font>/{1}",
+        "id9": "前往查看",
+        "connectAttrTips": "属性已共鸣",
+        "connectLevelTips": "上限已共鸣",
+        "connectTalentTips": "资质已共鸣",
+        "goToHeroLinkBtn_label": "去提升",
+        "limitTipsLabel_text": "无法觉醒，需要共鸣等级达到{0}级"
+    },
+    "StampWear": {
+        "attributeBtn_label": "属性筛选",
+        "suitBtn_label": "套装筛选",
+        "StampWear0_text": "筛选:",
+        "id11": "没有找到您想要的空贝",
+        "titleLab_text": "空贝背包",
+        "id13": "已满级！",
+        "StampWear5_text": "- 已装备 -",
+        "id16": "穿戴",
+        "id17": "更换"
+    },
+    "HeroMainQiGong": {
+        "detailsBtn_label": "详情",
+        "openLevel": "【一键修炼】将在{0}级开放",
+        "onceTrainBtn_label": "一键修炼",
+        "HeroMainQiGong0_text": "基础生命",
+        "HeroMainQiGong1_text": "基础攻击",
+        "HeroMainQiGong2_text": "基础防御",
+        "HeroMainQiGong5_text": "修炼会随机改变3项基础属性",
+        "HeroMainQiGong6_text": "英雄突破可以提升属性修炼上限",
+        "HeroMainQiGong7_text": "基础生命",
+        "HeroMainQiGong8_text": "基础攻击",
+        "HeroMainQiGong9_text": "基础防御",
+        "HeroMainQiGong10_text": "本次修炼属性变化",
+        "HeroMainQiGong11_text": "战斗力",
+        "HeroMainQiGong12_text": "剩余",
+        "trainOneBtn_label": "修 炼",
+        "trainTenBtn_label": "十倍修炼",
+        "cancelBtn_label": "取 消",
+        "saveAttrBtn_label": "保 存",
+        "baseHpLabel_text": "基础生命",
+        "baseAttackLabel_text": "基础攻击",
+        "baseArmorLabel_text": "基础防御"
+    },
+    "HeroMainLimitEvolve": {
+        "id1": "需英雄觉醒{0}星开启!!",
+        "id2": "总属性：",
+        "id3": "需英雄升级到{0}级开放!!",
+        "id5": "潜能已满级!!",
+        "id6": "基础攻击",
+        "id7": "基础生命",
+        "id8": "突破英雄碎片数量不足",
+        "id9": "剩余",
+        "id10": "下一级{0}",
+        "id11": "潜能未开启",
+        "id12": "基础攻击",
+        "id13": "基础生命",
+        "evolveBtn_label": "突 破",
+        "activeBtn_label": "激 活",
+        "limitEvolveBtn_label": "强化修炼",
+        "detailsBtn_label": "详情",
+        "HeroMainLimitEvolve0_text": "总属性：",
+        "HeroMainLimitEvolve13_text": "剩余",
+        "limitEvolveNotOpenLabel_text": "潜能未开启",
+        "costTip": "需要消耗<font color=0xFF0000>{0}</font>{1}，是否确认重置潜能？",
+        "tips1": "被共鸣英雄潜能无法重置",
+        "tips2": "该英雄没有修炼潜能，无法重置",
+        "limitEvolveOnceBtn_label": "一键修炼"
+    },
+    "SummonTypePageViewData": {
+        "id1": "{0}后免费",
+        "id2": "本次抽卡免费",
+        "id3": "今日UP {0}"
+    },
+    "SuperSkillMain": {
+        "id1": "是否消耗<font color=0x9b2a22>{0}{1}</font>重置终结技？\n（<font color=0x9b2a22>共返还{2}</font>）",
+        "id2": "确定",
+        "id3": "取消",
+        "id4": "终结技已满级",
+        "id5": "{0}{1}",
+        "resetBtn_label": "重置",
+        "SuperSkillMain1_text": "等级：",
+        "SuperSkillMain2_text": "被动总等级：",
+        "id9": "能量消耗：{0}",
+        "forgingBtn_label": "洗 炼",
+        "evolveBtn_label": "进 阶",
+        "levelUpBtn_label": "升 级",
+        "aKeyLevelUpBtn_label": "一键升级",
+        "id10": "启用中",
+        "id11": "点击启用",
+        "id12": "启用终结技成功！",
+        "id13": "紫色阶段才能洗炼被动技能！",
+        "id14": "是否消耗{0}个{1}激活终结技？",
+        "id15": "是否启用该终结技？",
+        "id16": "该技能正在启用中",
+        "id17": "已升至最高阶",
+        "id18": "激活该终结技后解锁",
+        "id19": "被动总等级达到4级获得",
+        "id20": "被动总等级达到7级获得",
+        "id21": "被动总等级达到10级获得",
+        "titleLab_text": "终结技",
+        "SuperSkillMain3_text": "共鸣中无法升级",
+        "id22": "\n该终结技处于共鸣中，重置后被共鸣的终结技状态也会改变。"
+    },
+    "SuperSkillAdvance": {
+        "id3": "随机升级一条被动",
+        "id4": "解锁并获得随机一条一级被动",
+        "id5": "确定",
+        "id6": "取消",
+        "id7": "本次进阶会取消当前未保存的洗炼结果，是否进阶？",
+        "titleLab_text": "进阶",
+        "advanceBtn_label": "进阶"
+    },
+    "SuperSkillResetItemListItem": {
+        "id1": "该技能未开放"
+    },
+    "SuperSkillReset": {
+        "passivityLabel_text": "被动总等级：{0}",
+        "resetBtn_label": "洗 炼",
+        "revocationBtn_label": "撤 销",
+        "saveBtn_label": "保 存",
+        "id1": "是否确认保存？",
+        "id2": "确定",
+        "id3": "取消",
+        "id4": "是否消耗{0}{1}洗炼被动技能？",
+        "id5": "是否消耗{0}{1}洗炼被动技能？\n\n(锁定被动技能额外消耗{2}{3})",
+        "titleLab_text": "技能洗炼"
+    },
+    "SuperSkillAdvanceSucceed": {
+        "SuperSkillAdvanceSucceed1_text": "百分比伤害提升",
+        "SuperSkillAdvanceSucceed2_text": "新增被动",
+        "id1": "随机升级一条被动",
+        "id2": "解锁并获得随机一条一级被动",
+        "confirmBtn_label": "确 定",
+        "titleLab_text": "进阶成功"
+    },
+    "ToolCommon": {
+        "id3": "风贝",
+        "id4": "炎贝",
+        "id5": "排击贝",
+        "id6": "闪光贝",
+        "id7": "水贝",
+        "id8": "音贝",
+        "id9": "天前",
+        "id10": "小时前",
+        "id11": "分钟前",
+        "id12": "年",
+        "id13": "月",
+        "id14": "日",
+        "id15": "未上榜",
+        "id16": "万",
+        "id17": "亿",
+        "id18": "已满级！",
+        "id19": "{0}折",
+        "id20": "在线",
+        "id21": "公会等级:{0}",
+        "id22": "竞技场排名",
+        "id23": "第{0}名",
+        "id24": "最高层数",
+        "id25": "第{0}层",
+        "id26": "当前剧情关卡",
+        "id27": "当前等级",
+        "id28": "历史最高战力",
+        "id29": "第{0}层",
+        "id30": "公会",
+        "id31": "聊天系统已关闭",
+        "id32": "发言太快了...",
+        "id33": "聊天消息不能为空",
+        "num1": "一",
+        "num2": "二",
+        "num3": "三",
+        "num4": "四",
+        "num5": "五",
+        "id34": "{0}月{1}日",
+        "id35": "{0}月{1}日{2}"
+    },
+    "EquipLevelUp": {
+        "levelUpTabBtn_label": "强 化",
+        "starUpTabBtn_label": "升 星",
+        "levelUpBtn_label": "强 化",
+        "oneKeyLevelUpBtn_label": "一键强化",
+        "equipLevelUp1_text": "精炼材料",
+        "starUpBtn_label": "升 星",
+        "titleLab_text": "装备精炼",
+        "EquipLevelUp0_text": "剩余",
+        "EquipLevelUp1_text": "剩余",
+        "EquipLevelUp3_text": "品级增加将提升主属性的数值",
+        "id1": "需要玩家达到{0}级！",
+        "id2": "需要装备等级达到{0}级！",
+        "id3": "品级:{0}"
+    },
+    "EquipOneKeyLevelUp": {
+        "id1": "等级+{0}",
+        "oneKeyLevelUpBtn_label": "一键强化",
+        "titleLab_text": "强化预览",
+        "EquipOneKeyLevelUp0_text": "消耗材料"
+    },
+    "EquipDetalItem": {
+        "EquipDetalItem0_text": "装备套装",
+        "EquipDetalItem1_text": "无套装属性",
+        "equipStarQuality_text": "品级 <font color=0xfff4dc>{0}</font>"
+    },
+    "EquipListByType": {
+        "EquipListByType0_text": "没有找到您想要的装备",
+        "titleLab_text": "选择穿戴装备"
+    },
+    "WeaponLevelUp": {
+        "id1": "强 化",
+        "id2": "升 星",
+        "id3": "需要玩家达到{0}级",
+        "id4": "强化{0}次",
+        "id5": "已升至最高等级",
+        "id6": "攻击：",
+        "id7": "精炼材料",
+        "id8": "剩余",
+        "id9": "已升至最高星级",
+        "id10": "一键强化",
+        "id11": "品级",
+        "titleLab_text": "武器精炼",
+        "levelUpTabBtn_label": "强化",
+        "starUpTabBtn_label": "升星",
+        "WeaponLevelUp5_text": "品级增加将提升主属性的数值",
+        "WeaponLevelUp1_text": "攻击：",
+        "WeaponLevelUp2_text": "精炼材料",
+        "WeaponLevelUp3_text": "剩余",
+        "WeaponLevelUp4_text": "剩余",
+        "levelUpBtn_label": "强 化",
+        "oneKeyLevelUpBtn_label": "一键强化",
+        "starUpBtn_label": "升 星"
+    },
+    "WeaponInfoTip": {
+        "id1": "武器",
+        "weaponStarQuality_text": "品级 <font color=0xfff4dc>{0}</font>",
+        "posName_text": "武器"
+    },
+    "WeaponInfoItem": {
+        "id1": "武器",
+        "weaponStarQuality_text": "品级 <font color=0xfff4dc>{0}</font>"
+    },
+    "WeaponInfo": {
+        "weaponDownBtn_label": "卸 下",
+        "weaponChangeBtn_label": "更 换",
+        "levelUpBtn_label": "精 炼",
+        "wearBtn_label": "穿 戴",
+        "weaponNotWearLevelUpBtn_label": "精 炼",
+        "weaponFromLevelUpBtn_label": "精 炼",
+        "resonanceLab_text": "武器属性已共鸣"
+    },
+    "TempleTrialRank": {
+        "id1": "第{0}层",
+        "titleLab_text": "通缉排行",
+        "TempleTrialRank0_text": "排名",
+        "TempleTrialRank1_text": "角色名",
+        "TempleTrialRank2_text": "战斗力",
+        "TempleTrialRankText": "试炼关卡",
+        "UnEndTrialRankText": "总星数",
+        "emptyItem_1_1_text": "暂无玩家上榜",
+        "TempleTrialRank7_text": "我的排行",
+        "TempleTrialRank8_text": "未上榜"
+    },
+    "TempleTrial": {
+        "id1": "购买次数今日已达上限！",
+        "id2": "购买<font color={0}>{1}次深海大监狱次数</font>，需要消耗<font color={2}>{3}{4}</font>，是否购买?",
+        "id4": "第{0}关",
+        "id6": "敬请期待新关卡！",
+        "id7": "  这里是精神时光屋，可以去到过去、现在、未来，与不同的敌人进行战斗",
+        "id10": "1.每天可以获得5次挑战奖励\n\n\n2.挑战成功不扣除次数，失败将扣除次数\n\n\n3.更高的vip可以购买更多的挑战次数",
+        "titleLab_text": "深海大监狱",
+        "TempleTrial0_text": "关卡奖励",
+        "TempleTrial4_text": "关卡效果",
+        "trialCount_text": "剩余次数:<font color=0xFF7D2F>{0}/{1}</font>",
+        "id8": "1、关卡挑战次数每日凌晨6点重置，剩余挑战次数将被清零重置。\n\n2、通关一个普通关卡都能获得关卡奖励，每五关可领取关卡宝箱。\n\n3、关卡层数越高，奖励越丰厚。\n\n4、每日挑战次数10次，玩家可以消耗钻石购买次数。\n\n5、战斗失败将扣除挑战次数，次数2小时恢复一次。\n\n6、不同的环境都有不同的环境效果，具体效果玩家可点击效果图标查看。",
+        "challengeBtn_label": "挑战"
+    },
+    "TempleTrialEverydayAward": {
+        "id1": "有未领取的每日奖励！是否确定退出该界面？\n\n（可以再次回来领取）",
+        "id2": "确定",
+        "id3": "取消",
+        "sureBtn_label": "领 取",
+        "titleLab_text": "试炼奖励",
+        "TempleTrialEverydayAward0_text": "您昨天最高达到:",
+        "TempleTrialEverydayAward1_text": "试炼",
+        "TempleTrialEverydayAward2_text": "已领取"
+    },
+    "TempleBoxItem": {
+        "id1": "第{0}关",
+        "id2": "奖励已经领取过"
+    },
+    "ReceiveAwardPanel": {
+        "titleLab_text": "奖 励"
+    },
+    "HeroBagUpgrade": {
+        "id1": "是否花费{0}钻石扩充英雄背包？",
+        "desLab_text": "是否确定扩充背包？",
+        "confirmBtn_label": "确 定",
+        "cancelBtn_label": "取 消",
+        "titleLab_text": "提示"
+    },
+    "BossFightingListItem": {
+        "id1": "参与：{0}人",
+        "id2": "</font><font color=0xFDC57D>暂无</font>",
+        "id3": "{0}(等级{1})",
+        "id4": "正在参与中",
+        "id8": "需要{0}级开放！",
+        "id10": "复活倒计时：{0}",
+        "id11": "{0}级开放",
+        "BossFightListItem0_text": "已死亡",
+        "awardBtn_label": "奖励预览"
+    },
+    "BossFightingPanel": {
+        "id1": "达到购买上限",
+        "id2": "购买<font color=0xf76b48>{oneTimeGet}次BOSS挑战次数</font>，需要消耗<font color=0xf76b48>{oneTimeCost}{0}</font>，是否确定?",
+        "titleLab_text": "BOSS争夺战",
+        "BossFightingPanel0_text": "挑战券"
+    },
+    "BossFightMain": {
+        "id1": "复活倒计时:",
+        "id2": "冷却中...({0})",
+        "id4": "复活中...({0})",
+        "id5": "1、挑战BOSS后将获得丰厚奖励，奖励通过邮件发放。\n\n2、奖励类型分别为归属奖励、排名奖励与参与奖励，仅伤害排行中第1名能获得排名奖励。\n\n3、BOSS被击败时拥有归属权的玩家将获得归属奖励，BOSS存活期间玩家可参与归属权争夺，每名玩家只能对拥有归属权的玩家进行挑战3次。\n\n4、参与BOSS争夺战的玩家都将获得参与奖励，参与奖励为随机获得，玩家可从奖励预览中查看参与奖励随机池。\n\n5、BOSS仅在每天9:00~22:00之间刷新",
+        "id6": "达到购买上限",
+        "id7": "购买<font color=0xf76b48>{oneTimeGet}次BOSS挑战次数</font>，需要消耗<font color=0xf76b48>{oneTimeCost}{0}</font>，是否确定?",
+        "id10": "正参与另一个BOSS的争夺",
+        "id11": "请先参与BOSS的争夺",
+        "id12": "以BOSS被杀时的归属为准，奖励邮件发放",
+        "BossFightMain4_text": "暂无人获得BOSS归属",
+        "BossFightMain36_text": "奖励翻倍",
+        "BossFightMain37_text": "自动战斗",
+        "BossFightMain5_text": "BOSS已被击杀",
+        "battleBtn_label": "战 斗",
+        "onceChangeBtn_label": "挑 战",
+        "doubleChangeBtn_label": "双倍挑战",
+        "titleLab_text": "BOSS争夺战",
+        "BossFightMain39_text": "归属奖励",
+        "BossFightMain40_text": "伤害排行",
+        "BossFightMain38_text": "挑战券",
+        "awardBtn_label": "奖励预览",
+        "snatchBtn_label": "抢夺",
+        "BossFightMain1_text": "以BOSS被杀时的归属为准，奖励邮件发放",
+        "BossFightMain2_text": "以BOSS被杀时的归属为准，奖励邮件发放",
+        "emptyItem_1_1_text": "暂无人挑战该BOSS",
+        "BossFightMain30_text": "归属自己"
+    },
+    "BossFightingAward": {
+        "BossFightingAward0_text": "归属奖励和排名奖励通过邮件发放",
+        "titleLab_text": "奖励预览",
+        "BossFightingAward1_text": "归属奖励",
+        "BossFightingAward2_text": "排行奖励",
+        "BossFightingAward3_text": "随机获得"
+    },
+    "BossPanel": {
+        "id1": "{0}级开放",
+        "id2": "次数：{0}",
+        "titleLab_text": "BOSS",
+        "dungeonNotOpenTips": "暂无开启的团本"
+    },
+    "ShaLuGame": {
+        "id1": "有未领取的每日奖励！是否确定退出该界面？（可以再次回来领取）",
+        "id2": "确 定",
+        "id3": "取 消",
+        "id4": "1、该玩法每日开启一次，海上列车每日凌晨6点重置。\n\n2、关卡难度越高，奖励越丰厚。\n\n3、每日奖励依据每日22点结算时通关的最高关卡给予玩家对应奖励。\n\n4、海上列车是1V1玩法，通过六节普通车厢后到达BOSS车厢，击败BOSS后进入下一辆列车。\n\n5、每个关卡的怪物都有不同的特性，选择最合适的英雄应战吧！",
+        "titleLab_text": "海上列车",
+        "lifeUpBtn_label": "注射激素",
+        "awardBtn_label": "每日奖励",
+        "battleBtn_label": "挑 战",
+        "ShaLuGame0_text": "跳过战斗",
+        "startBtn_label": "开 启"
+    },
+    "ShaLuEnemyHead": {
+        "ShaLuEnemyHead0_text": "已击败"
+    },
+    "ShaLuFastSetBattleTeam": {
+        "id1": "上阵阵容为空，请先修改阵容",
+        "id2": "确  定",
+        "id3": "取  消",
+        "id4": "确定阵容后今日挑战过程中无法更换上阵的英雄,是否确定？（英雄数据也不再更新）",
+        "changeTeamBtn_label": "修改阵容",
+        "sureTeamBtn_label": "确定阵容",
+        "titleLab_text": "上阵英雄",
+        "ShaLuFastSetBattleTeam1_text": "1",
+        "ShaLuFastSetBattleTeam2_text": "2",
+        "ShaLuFastSetBattleTeam3_text": "3",
+        "ShaLuFastSetBattleTeam4_text": "4",
+        "ShaLuFastSetBattleTeam5_text": "5",
+        "ShaLuFastSetBattleTeam6_text": "6",
+        "ShaLuFastSetBattleTeam7_text": "7",
+        "ShaLuFastSetBattleTeam8_text": "8",
+        "ShaLuFastSetBattleTeam9_text": "9",
+        "ShaLuFastSetBattleTeam10_text": "10"
+    },
+    "ShaLuSetBattleTeam": {
+        "id2": "同名英雄无法上阵超过一个!",
+        "id3": "上阵已满，最多上阵10人！",
+        "id4": "上阵阵容为空，请先修改阵容",
+        "id5": "确定阵容后今日挑战过程中无法更换上阵的英雄,是否确定？（英雄数据也不再更新）",
+        "id6": "确  定",
+        "id7": "取  消",
+        "id8": "共鸣英雄只能上阵其中一个",
+        "titleLab_text": "选择出场英雄",
+        "sureBtn_label": "确 定",
+        "ShaLuSetBattleTeam0": "英雄列表"
+    },
+    "ShaLuDayAward": {
+        "sureBtn_label": "领 取",
+        "ShaLuDayAward0_text": "每日奖励",
+        "ShaLuDayAward1_text": "奖励",
+        "trialNumber_text": "您昨日最高达到:{0}车厢",
+        "titleLab_text": "关卡奖励",
+        "ShaLuDayAward2_text": "已领取"
+    },
+    "ShaLuDayAwardListItem": {
+        "trialNumber_text": "第{0}关"
+    },
+    "BeanToHero": {
+        "id1": "已选择复活人数：<font color=0x96281F>{0}</font>",
+        "id2": "英雄已是满血状态",
+        "id3": "请选择需要复活的英雄",
+        "id4": "激素不足",
+        "BeanToHero1_text": "需要消耗:",
+        "lifeUpBtn_label": "注 射",
+        "titleLab_text": "注射激素"
+    },
+    "ShaLuMyHeros": {
+        "ShaLuMyHeros0_text": "- 拖动头像改变队员顺序 -",
+        "startBattleBtn_label": "开始挑战",
+        "lifeUpBtn_label": "注射激素",
+        "titleLab_text": "布阵",
+        "ShaLuMyHeros1_text": "1",
+        "ShaLuMyHeros2_text": "2",
+        "ShaLuMyHeros3_text": "3",
+        "ShaLuMyHeros4_text": "4",
+        "ShaLuMyHeros5_text": "5",
+        "ShaLuMyHeros6_text": "6",
+        "ShaLuMyHeros7_text": "7",
+        "ShaLuMyHeros8_text": "8",
+        "ShaLuMyHeros9_text": "9",
+        "ShaLuMyHeros10_text": "10"
+    },
+    "ChapterMain": {
+        "id1": "通关普通难度后解锁!",
+        "id2": "通关困难难度后解锁!",
+        "id3": "章",
+        "id4": "奖励已领取！",
+        "id5": "通关噩梦难度后解锁!",
+        "id6": "通过该章节可以获得以下奖励",
+        "id7": "通关当前章节开启下一章节",
+        "chapterNumLab_text": "第{0}章",
+        "lessonProgress_text": "关卡进度：<font color=0xFFAD1E>{0}/{1}</font>",
+        "simplenessBtn_label": "普通",
+        "diffcultyBtn_label": "困难",
+        "nightmareBtn_label": "噩梦",
+        "hellBtn_label": "地狱",
+        "titleLab_text": "章节地图"
+    },
+    "ChapterPointItem": {
+        "id1": "奖励已领取！",
+        "id2": "通过该关卡可以获得以下奖励"
+    },
+    "ChapterAwardPanel": {
+        "titleLab_text": "奖励预览"
+    },
+    "HeroWakeUpChose": {
+        "id1": "请选择穿越英雄",
+        "id2": "请选择材料碎片",
+        "id3": "请选择材料英雄",
+        "id4": "橙色英雄才可进行时空穿越",
+        "id5": "材料英雄数量已满",
+        "id6": "当前碎片材料数量不足！",
+        "id7": "碎片材料只能选取一种",
+        "id8": "该英雄在 主线关卡阵容 中上阵，是否解除锁定？",
+        "id9": "确 定",
+        "id10": "取 消",
+        "id11": "是否将该英雄拆分成碎片？",
+        "id12": "请选择英雄",
+        "id13": "没有符合的英雄哦",
+        "id14": "消耗的英雄会返还所有升级材料",
+        "id15": "英雄要求：0星1级,且没有已升级的同名英雄",
+        "id16": "达到3星的SS和SSS英雄可以进行传承,快去培养吧！",
+        "id17": "选择传承英雄",
+        "id18": "选择目标英雄",
+        "id19": "一次只可选择一个传承英雄",
+        "id20": "一次只可选择一个目标英雄",
+        "id21": "没有符合的材料英雄哦",
+        "chosedBtn_label": "确 定"
+    },
+    "AltarPanel": {
+        "titleLab_text": "祭坛",
+        "heroExchangeBtn_label": "互换",
+        "equipRedBtn_label": "升红",
+        "heroRebirthBtn_label": "重生",
+        "heroDecomposeBtn_label": "分解",
+        "weaponRebirthBtn_label": "重生",
+        "weaponDecomposeBtn_label": "分解",
+        "weaponRedBtn_label": "升红",
+        "signRebirthBtn_label": "重生",
+        "signDecomposeBtn_label": "分解",
+        "equipRebirthBtn_label": "重生",
+        "equipDecomposeBtn_label": "分解"
+    },
+    "AltarInfoManger": {
+        "id1": "竞技场队伍不能为空，无法解锁",
+        "id2": "该英雄在 竞技场防守阵容 中上阵，是否解除锁定并选中？",
+        "id3": "确定",
+        "id4": "取消"
+    },
+    "AltarMainHero": {
+        "rebirthTabBtn_label": "重生",
+        "decomposeTabBtn_label": "分解",
+        "inheritTapBtn_label": "传承",
+        "titleLab_text": "祭坛",
+        "exchangeTapBtn_label": "互换"
+    },
+    "AltarMainOther": {
+        "rebirthTabBtn_label": "重生",
+        "decomposeTabBtn_label": "分解",
+        "titleLab_text": "祭坛",
+        "redTabBtn_label": "升红"
+    },
+    "AltarInherit": {
+        "id1": "1、只有三星及以上SSR英雄和UR英雄可以传承\n2、目标英雄可以选择与传承英雄相同品质且已获得的0星1级英雄。\n3、目标英雄可传承英雄的星级、等级、潜能\n4、传承消耗50目标英雄碎片\n5、存在升级过的同名英雄时，无法将该英雄作为目标英雄\n6、传承英雄体术全满时，可以将体术传承给目标英雄，否则将返还传承英雄消耗的所有耐力卡和金币",
+        "id2": "请先选择传承英雄",
+        "id3": "请先选择目标英雄",
+        "lab1_text": "材料消耗",
+        "sureBtn_label": "传 承",
+        "lab2_text": "传承继承英雄的星级、等级、潜能",
+        "lab3_text": "请选择需要传承的英雄和目标英雄",
+        "chooseLab_text": "{0}/{1}",
+        "id4": "选择传承的英雄中包含{0}品质，是否确定传承？"
+    },
+    "AltarRebirth": {
+        "id1": "1、返还所有装备、武器、空贝\n\n2、返还永久指针升级和进阶消耗的所有磁石、磁粉\n\n3、返还英雄升级、突破消耗的所有经验卡、突破卡\n\n4、返还体术修炼消耗的100%的耐力卡\n\n5、返还成长消耗的100%金币\n\n6、返还觉醒消耗的所有英雄碎片\n\n7、返还潜能消耗的所有修炼卡和突破卡\n\n8、返还霸气修炼消耗的所有气魄\n\n9、返还天赋提升中消耗的所有药剂",
+        "id2": "1、返还100%的晶粉\n\n2、返还100%的金币\n\n3、根据星级按照一定折损返还晶石，不同星级折损不同",
+        "id3": "1、返还100%的锻造石\n\n2、返还100%的金币\n\n3、根据星级按照一定折损返还精铁，不同星级折损不同",
+        "id4": "请先选择需要重生的英雄！",
+        "id5": "选中重生的英雄中包含 {0} 品质，是否确定重生？",
+        "id7": "确 定",
+        "id8": "取 消",
+        "id9": "是否花费{0}钻石对英雄进行重生？",
+        "id10": "请先选择需要重生的空贝！",
+        "id11": "选中重生的空贝中包含 <font color=0xff9046 strokecolor=0xcb1e11>橙色</font> 品质，是否确定重生？",
+        "id12": "是否花费{0}钻石对选中的空贝进行重生？",
+        "id13": "请先选择需要重生的武器！",
+        "id14": "选中重生的武器中包含 <font color=0xff9046 strokecolor=0xcb1e11>橙色</font> 品质，是否确定重生？",
+        "id15": "是否花费{0}钻石对选中的武器进行重生？",
+        "id16": "请先选择需要重生的装备！",
+        "id17": "选中重生的装备中包含 <font color=0xff9046 strokecolor=0xcb1e11>橙色</font> 品质，是否确定重生？",
+        "id18": "是否花费{0}钻石对选中的装备进行重生？",
+        "id19": "暂无可重生的{0}",
+        "id20": "请选中需要重生的{0}",
+        "id21": "英雄",
+        "id22": "空贝",
+        "id23": "武器",
+        "id24": "装备",
+        "id25": "选中重生的英雄中包含在庞克实验室派遣的英雄，是否立即结算派遣奖励，并继续当前操作（奖励将通过邮件发送）",
+        "id26": "1、返还100%的强化石\n\n2、返还100%的金币\n\n3、根据星级按照一定折损返还精炼石，不同星级折损不同",
+        "id27": "该英雄共鸣了其他英雄，重生后被共鸣的英雄状态也会变化，是否确定重生?",
+        "AltarRebirth0_text": "重生获得",
+        "AltarRebirth1_text": "保留星级",
+        "rebirthBtn_label": "重 生",
+        "id28": "当前重生的为旧版英雄，仅能进行不保留星级的重生，且会额外返还旧版本升星和潜能突破消耗的觉醒石，是否确定?",
+        "id29": "该英雄在海域争夺战中上阵，重生后会下阵，是否确定重生?",
+        "id30": "选中重生的空贝已经进化，重生后进化的属性不保留，是否确定重生?",
+        "luckTips": "当前重生的装备幸运值为{0}，重生后幸运值清零，是否确定重生？",
+        "noItemLabValue0": "<font size=25>请选中需要重生的英雄</font>\n<font size=18>（共鸣英雄需要从共鸣系统中下阵后才能重生）</font>",
+        "noItemLabValue1": "请选中需要重生的空贝",
+        "noItemLabValue2": "请选中需要重生的武器",
+        "noItemLabValue3": "请选中需要重生的装备"
+    },
+    "AltarDecompose": {
+        "id1": "请先选择需要分解的{0}！",
+        "id2": "无法分解所有英雄！",
+        "id3": "选中分解的英雄碎片中包含 {0} 品质，是否确定分解？",
+        "id5": "确定",
+        "id6": "取消",
+        "id8": "选中分解的空贝中包含 <font color=0xff9046 strokecolor=0xcb1e11>橙色</font> 品质，是否确定分解？",
+        "id10": "选中分解的武器中包含 <font color=0xff9046 strokecolor=0xcb1e11>橙色</font> 品质，是否确定分解？",
+        "id12": "选中分解的装备中包含 <font color=0xff9046 strokecolor=0xcb1e11>橙色</font> 品质，是否确定分解？",
+        "id13": "暂无可分解的{0}",
+        "id14": "请选中需要分解的{0}",
+        "id15": "英雄碎片",
+        "id16": "空贝或进化贝",
+        "id17": "武器",
+        "id18": "装备",
+        "id19": "所有{0}",
+        "id20": "选中分解的英雄中包含在庞克实验室派遣的英雄，是否立即结算派遣奖励，并继续当前操作（奖励将通过邮件发送）",
+        "id21": "可分解的英雄碎片",
+        "filtrateBtn_label": "快速筛选",
+        "decomposeBtn_label": "分 解",
+        "previewBtn_label": "分解预览",
+        "AltarDecompose1_text": "待分解",
+        "selectAllBtn_label": "一键选中",
+        "id22": "1、满足英雄升星及潜能后，多余的碎片才能分解\n\n2、若UR使用万能卡碎片升星，使用的万能卡碎片数量不计入UR碎片分解要求的数量",
+        "decomposEvoSignTips": "选中分解的空贝已经进化，是否确认分解"
+    },
+    "CounterpartTips": {
+        "confirm_label": "确 定",
+        "cancel_label": "取 消",
+        "sure_label": "确 定",
+        "titleLab_text": "提 示"
+    },
+    "QiangDiMain": {
+        "id1": "购买次数今日已达上限！",
+        "id2": "购买<font color=0xf76b48>{oneTimeGet}次BOSS挑战次数</font>，需要消耗<font color=0xf76b48>{oneTimeCost}{0}</font>，是否确定?",
+        "id3": "将在",
+        "id4": "后到达",
+        "noRankLab_text": "暂未上榜",
+        "id6": "我的排名：",
+        "id7": "·三波BOSS依次到达，本服所有玩家一起进攻\n\n·击败BOSS后根据伤害排行获得奖励\n\n·击败全部三个BOSS后，将出现新一批的BOSS",
+        "id8": "·常驻",
+        "id9": "·无",
+        "id10": "·每个BOSS被击杀后，根据伤害排名通过邮件发放\n\n·结算奖励有一定延迟",
+        "id11": "1、三波BOSS依次到达，本服所有玩家一起进攻\n\n2、击败BOSS后根据伤害排行获得奖励\n\n3、击败全部三个BOSS后，将出现新一批的BOSS\n\n4、每个BOSS被击杀后，根据伤害排名通过邮件发放，结算奖励有一定延迟\n\n5.挑战次数每日6:00刷新",
+        "id12": "BOSS未到达",
+        "id13": "BOSS已死亡",
+        "titleLab_text": "强敌来袭",
+        "QiangDiMain0_text": "挑战次数",
+        "QiangDiMain2_text": "结算奖励",
+        "QiangDiMain3_text": "我的排名",
+        "QiangDiMain4_text": "跳过战斗",
+        "QiangDiMain5_text": "参与挑战才可以获得奖励",
+        "battleBtn_label": "挑 战"
+    },
+    "QiangDiDamagePage": {
+        "QiangDiDamagePage0_text": "我的排行",
+        "notOnRank_text": "未上榜",
+        "titleLab_text": "伤害排行",
+        "id1": "暂无玩家上榜"
+    },
+    "QiangDiAwardListItem": {
+        "QiangDiAwardItem0_text": "排名结算奖励"
+    },
+    "CommonErrorTips": {
+        "id1": "确  定",
+        "id2": "错误"
+    },
+    "CounterpartMain": {
+        "resourceBtn_label": "剩余 {0} 次",
+        "equipBtn_label": "剩余 {0} 次",
+        "shellBtn_label": "剩余 {0} 次",
+        "titleLab_text": "副 本"
+    },
+    "OpenLimit": {
+        "id1": "<font color=0xffc446 size=24>【{1}】</font><font size=24>将在{0}级开放</font>",
+        "id4": "请先完成任务{0}后开放{1}",
+        "id6": "达到公会等级{0}开放{1}",
+        "id2": "<font color=0xffc446 size=24>【{0}】</font><font size=24>将在{1}天后开放</font>"
+    },
+    "SummonMain": {
+        "onceFree_text": "本次免费",
+        "onceFreeLeft_text": "{0}后免费",
+        "tenTipsLab_text": "<font color=0xffe4ba>10连抽必得</font><font color=0xfef05f>SR</font><font color=0xffe4ba>英雄</font>",
+        "summonOnceBtn_label": "抽一次",
+        "summonTenBtn_label": "抽十次",
+        "id1": "恭喜<font color=0xf0aa09>{0}</font>抽到<font color=0xfffd41>{1}</font>英雄<font color=0x10f5fd>{2}</font>"
+    },
+    "MaterialNotEnoughTips": {
+        "leftNumLabel_text": "当前拥有数量：{0}",
+        "tipsValue1": "数量不足",
+        "titleLab_text": "材料不足"
+    },
+    "DiamondTips": {
+        "infoLab_text": "您的钻石不足，是否前往充值",
+        "confirm_label": "前往",
+        "cancel_label": "取消",
+        "titleLab_text": "提示"
+    },
+    "SummonEnergyTips": {
+        "infoLab_text": "高级召唤每80次，可随机抽取一名SSR英雄（在心愿单中随机）。终身卡用户专享特权。",
+        "energy_text": "- 能量未满 -",
+        "ssLab_text": "随机SSR英雄",
+        "summonBtn_label": "领取",
+        "gotoBtn_label": "前往购买",
+        "titleLab_text": "终身卡特权"
+    },
+    "HeroCardPoolDisplay": {
+        "title1Lab_text": "概率提升",
+        "info1Lab_text": "占SSR英雄出现概率的80%",
+        "title2Lab_text": "奖励预览",
+        "viewTitleLab_text": "概率预览",
+        "titleLab_text": "奖励预览"
+    },
+    "CommonCounterpart": {
+        "lessonLab_text": "第{0}关",
+        "id3": "请完成上一关",
+        "id4": "等级不足，需要{0}级",
+        "id5": "1、关卡挑战次数每日凌晨6点重置，剩余挑战次数将被清零重置。\n\n2、每关的扫荡功能只在首次挑战完成后开启。\n\n3、关卡难度越高，奖励越丰厚。\n\n4、每日挑战次数2次，玩家可消耗钻石购买额外挑战次数。\n\n5、战斗失败不扣除挑战次数。",
+        "leftTimeLab_text": "剩余次数：<font color=0xffb128>{0}/{1}</font>",
+        "infoLab_text": "<font><u>详情</u></font>",
+        "id6": "1、关卡挑战次数每日凌晨6点重置，剩余挑战次数将被清零重置。\n\n2、每关的扫荡功能只在首次挑战完成后开启。\n\n3、关卡难度越高，奖励越丰厚。\n\n4、玩家可通过本关奖励查看当前关卡掉落的装备品质。\n\n5、每日挑战次数2次，玩家可以消耗钻石购买额外挑战次数。\n\n6、战斗失败不扣除挑战次数。",
+        "id7": "1、关卡挑战次数每日凌晨6点重置，剩余挑战次数将被清零重置。\n\n2、每关的扫荡功能只在首次挑战完成后开启。\n\n3、关卡难度越高，奖励越丰厚。\n\n4、周一、周三、周五在三种类型中随机掉落，周二、周四、周六在另外三种类型中随机掉落，周日在所有类型中随机掉落。\n\n5、每日挑战次数2次，玩家可以消耗钻石购买额外挑战次数。\n\n6、战斗失败不扣除挑战次数。"
+    },
+    "CounterpartLesson": {
+        "lessonLab_text": "第{0}关"
+    },
+    "ArenaMainViewData": {
+        "id1": "战力 {0}",
+        "id5": "购买到达上限",
+        "id6": "购买<font color={0}>{1}</font>次竞技场次数，需要消耗\n<font color={2}>{3}</font>钻石，是否确定？"
+    },
+    "ArenaMain": {
+        "id1": "有未领取的每日奖励！是否确定退出该界面？（可以再次回来领取）",
+        "id2": "确  定",
+        "id3": "取  消",
+        "changeEnemyBtn_label": "刷 新",
+        "battleTimeLab_text": "挑战剩余次数：<font color=0xf9d239>{0}/{1}</font>",
+        "titleLab_text": "竞技场",
+        "id4": "购买到达上限",
+        "id5": "1.竞技场在每天晚上的9:00进行奖励结算 \n 2.达到新的历史最高排名阶段时，可以领取丰厚的阶段的奖励 \n 3.攻击次数每天6:00将会重置到5次",
+        "id6": "请先设置防守阵容",
+        "recordBtn_label": "记录",
+        "rewardBtn_label": "奖励",
+        "denfenceBtn_label": "阵容",
+        "selfRankLab_text": "我的排名：<font size=22 color=0xe65618>{0}</font>"
+    },
+    "BattleSaveTeam": {
+        "id2": "同名英雄无法上阵超过一个\n同名英雄用于高星级觉醒",
+        "id3": "上阵位已满",
+        "id11": "共鸣英雄已上阵",
+        "titleLab_text": "我方阵容",
+        "id12": "此英雄已在其他阵容上阵",
+        "tips": "该英雄已在{0}中上阵，是否选择更换？（{0}中将卸除该英雄）"
+    },
+    "ArenaRewardTips": {
+        "tipsLab_text": "每天22：00结算",
+        "rewardTitleLab_text": "每日结算奖励",
+        "curRankLab_text": "您当前排名：{0}",
+        "rewardLab_text": "奖励",
+        "lab1_text": "当前没有可领取奖励",
+        "titleLab_text": "奖励"
+    },
+    "ArenaRewardTipsViewData": {
+        "id1": "处于第{0}排名段",
+        "id3": "处于{0}+排名段",
+        "id4": "处于{0}-{1}排名段",
+        "id5": "昨日排行：暂无",
+        "id6": "昨日排行：{0}",
+        "id7": "领取",
+        "id8": "已领取"
+    },
+    "HeroEquipAndStampShow": {
+        "tipLabel_text": "提示：部分玩法英雄实际属性与当前显示不一致，具体以实际属性为准。",
+        "qualificationsLab_text": "资质：{0}",
+        "titleLab_text": "英雄信息",
+        "detailBtn_label": "详情"
+    },
+    "HeroEquipAndStampShowViewData": {
+        "id0": "装备",
+        "id1": "空贝"
+    },
+    "ItemsTips": {
+        "pieceBtn_label": "详  情",
+        "chooseBoxBtn_label": "详  情",
+        "countLab_text": "当前数量：{0}"
+    },
+    "CommonCounterpartViewData": {
+        "id1": "资源副本",
+        "id2": "装备副本",
+        "id3": "空贝副本",
+        "id4": "关卡奖励",
+        "id5": "今日掉落"
+    },
+    "HelpTips": {
+        "titleLab": "帮助"
+    },
+    "ArenaRecord": {
+        "titleLab_text": "记录"
+    },
+    "ArenaOtherInfo": {
+        "lab1_text": "当前排名",
+        "jialintaLabel1_text": "击败后可前进",
+        "jialintaLabel2_text": "海里",
+        "jialintaLabel3_text": "海里",
+        "jialintaServerlab_text": "{0}区{1}",
+        "id2": "击败比自己里程多的前进7米\n击败比自己里程少的前进5米",
+        "id3": "确  定",
+        "id4": "取  消",
+        "tipsLab": "点击英雄查看详细信息！"
+    },
+    "ArenaOtherInfoViewData": {
+        "titleLab1": "敌方阵容",
+        "titleLab2": "前进遭遇敌人",
+        "titleLab3": "防守阵容",
+        "titleLab4": "我方阵容"
+    },
+    "ArenaMyTeam": {
+        "titleLab_text": "我方阵容"
+    },
+    "ArenaRank": {
+        "titleLab_text": "排行榜"
+    },
+    "LongRoundaboutAdventureShop": {
+        "titleLab_text": "商店",
+        "tipsLab_text": "限购数量在下一轮刷新",
+        "lab1_text": "欢迎光临，这里的道具有意想不到的效果"
+    },
+    "LongRoundaboutAdventureFinish": {
+        "lab1_text": "获得奖励",
+        "tipsLab_text": "重置地图将归零所有道具已经冒险金币数量",
+        "closeBtn_label": "确 定"
+    },
+    "LongRoundaboutAdventure": {
+        "titleLab_text": "长环岛冒险",
+        "lab1_text": "拥有道具",
+        "id1": "使用自选骰子可以任选前进步数，是否使用？",
+        "id2": "使用舰炮轰炸可以消灭一个指定敌人，是否使用？",
+        "id3": "使用吸金石可以获得下次前进途径上的金币，是否使用？",
+        "id4": "1、玩家通过骰子决定前进步数\n\n2、本玩法中的道具可以在冒险中商店或路程中获得\n\n3、每次获得的金币进入下一层将会重置\n\n4、金币只能在此玩法中使用\n\n5、道具介绍\n 任选骰子：可以自己选择前进步数\n 舰炮轰炸：玩家选择消灭一个敌人\n 吸金石：可以获取玩家前进路径上的金币\n\n6、陷阱介绍\n 敌人：玩家进入战斗，胜利后获得耐力卡\n 问答：海贼相关的趣味问题，答题成功后获得耐力卡\n 岔路：玩家按照格子上指示的方向往前走",
+        "timeLab_text": "剩余次数：<font color=0xfeaf35>{0}/{1}</font>",
+        "id5": "次数不足",
+        "id6": "已达到购买上限",
+        "id7": "vip不足",
+        "id8": "购买{oneTimeGet}个骰子需要消耗{oneTimeCost}{0}，是否确定",
+        "id9": "道具不足",
+        "closeBtn_label": "取消",
+        "shopBtn_label": "商店"
+    },
+    "SnakeMain": {
+        "titleLab_text": "超新星激斗",
+        "snakeBeanBtn_label": "复 活",
+        "id1": "1.超新星激斗每天6:00重置\n\n2.未领取的阶段奖励将通过邮件发送\n\n3.超新星激斗中阵亡的英雄，在本次挑战中不可再次使用\n\n4.通关第10关后可以进行扫荡",
+        "id2": "请先领取宝箱奖励！",
+        "id3": "玩家VIP等级不足！",
+        "id4": "请先通关蛇道才能扫荡！",
+        "id5": "扫荡次数不足",
+        "id6": "是否消耗{0}钻石进行扫荡？",
+        "id7": "本次扫荡需要VIP{0}，是否前往查看VIP特权?"
+    },
+    "SnakeChapter": {
+        "lab1_text": "已击败",
+        "lessonLab_text": "第{0}关"
+    },
+    "SnakeMainRewardItem": {
+        "lessonLab_text": "第{0}关"
+    },
+    "SnakeBeanToHero": {
+        "titleLab_text": "激素复活",
+        "lifeUpBtn_label": "复 活",
+        "choseNumText_text": "已选择复活人数：<font color=0x9d3229>{0}</font>",
+        "lab1_text": "需要消耗",
+        "id1": "请选择需要复活的英雄",
+        "id2": "激素不足",
+        "id3": "英雄已是满血状态"
+    },
+    "HomeGainTips": {
+        "onHookTimeLab_text": "挂机时间：<font color=0xffe932>{0}</font>",
+        "lab1_text": "随机掉落",
+        "lab2_text": "挂机效率",
+        "closeBtn_label": "确 定",
+        "vipEfficiencyLab_text": "提升到VIP{0}挂机效率增加{1}%",
+        "globalWarWelfareBtn_label": "顶上战争增益"
+    },
+    "CurrentEfficiency": {
+        "gainLab_text": "{0}/小时"
+    },
+    "UserLevelUp": {
+        "lab1_text": "新系统开放"
+    },
+    "SystemItem": {
+        "openLevelLab_text": "{0}级开放"
+    },
+    "SnakeCloseWarn": {
+        "lab1_text": "（可以再次回来领取）",
+        "backBtn_label": "去领取",
+        "cancelBtn_label": "仍然退出",
+        "errorLabel_text": "有已解锁的宝箱没有领取！是否确定退出该界面？"
+    },
+    "SnakeFastBattle": {
+        "titleLab_text": "快速闯关",
+        "currnetLessonLab_text": "第{0}关",
+        "lab1_text": "敌方阵容",
+        "lab2_text": "我方阵容",
+        "isBattleTimeLabel_text": "快速闯关中...",
+        "changeMyTeamBtn_label": "调整阵容",
+        "nextBattleBtn_label": "继续战斗",
+        "gotoBeanBtn_label": "激素复活",
+        "endBattleBtn_label": "已完成闯关",
+        "id9": "蛇道已经刷新，请重新挑战！",
+        "id7": "己方英雄已全部死亡,不能继续战斗！"
+    },
+    "LongRoundaboutAdventureShopListItem": {
+        "limitLab_text": "限购:{0}",
+        "buyBtn_label": "购 买",
+        "id1": "是否花费{0}钻石购买此道具?"
+    },
+    "LongRoundaboutAdventureFree": {
+        "closeBtn_label": "取消"
+    },
+    "BattleCallBack": {
+        "id1": "返回认为逃跑，将不会得到战斗奖励",
+        "id2": "检测到玩家未设置好友切磋进攻阵容，请先设置阵容",
+        "id3": "前往阵容",
+        "id4": "取消"
+    },
+    "MahaAdventure": {
+        "titleLab_text": "航海大冒险",
+        "timeLab_text": "挑战次数：<font color=0xecbf6a>{0}</font>",
+        "id1": "1、关卡探索次数每日凌晨6点重置，剩余探索次数将被清零重置。\n\n2、为遭遇敌船情况下，每次探索都有概率获得敌船召唤券，消耗后可主动召唤敌船。\n\n3、好友求助中可以帮助好友击败敌船，击败后双方都能获得对应奖励。\n\n4、敌船每日挑战次数10次，玩家可以消耗钻石购买挑战次数。\n\n5、探索次数每日5次，每4小时恢复一次。",
+        "leftSummonLab_text": "剩余:<font color=0xf2a557>{0}</font>"
+    },
+    "MahaAdventureBoss": {
+        "timeLab_text": "挑战次数：<font color=0xecbf6a>{0}</font>",
+        "battleBtn_label": "挑 战",
+        "lab1_text": "跳过战斗",
+        "backBtn_label": "返 回",
+        "rewardTipsBtn_label": ""
+    },
+    "MahaAdventureFriendHelp": {
+        "timeLab_text": "挑战次数：<font color=0xecbf6a>{0}</font>",
+        "titleLab_text": "好友助阵"
+    },
+    "MahaFriendHelpListItem": {
+        "lab1_text": "敌船",
+        "lab0_text": "跳过战斗",
+        "battleBtn_2_text": "助阵"
+    },
+    "MahaAdventureSingleton": {
+        "id1": "达到购买上限",
+        "id2": "购买<font color={0}>{1}次敌船挑战次数</font>，需要消耗<font color={2}>{3}{4}</font>，是否确定?"
+    },
+    "TimeLeapMain": {
+        "titleLab_text": "庞克实验室",
+        "id1": "已更换",
+        "id2": "恭喜开启新的英雄派遣位",
+        "id3": "1、一共有三座实验室，每个实验室都有10名守军，击败守军后可以获得丰厚奖励，并且达到一定时间后能够持续获得挂机奖励。\n2、玩家需要达到要求的资质，才能挑战守卫，总资质为共鸣中所有英雄的资质总和。\n3、挂机奖励达到上限后不再产生奖励\n4、成功挑战一位守军后，才能挑战下一个守军，两次挑战间隔10小时。\n5、通关s实验室后才能挑战ss实验室",
+        "id4": "派遣成功",
+        "tipsBtn_label": "规则",
+        "qualificationLab_text": "当前总资质：{0}",
+        "resonanceBtn_label": "去共鸣",
+        "id5": "需要等级{0}开启",
+        "lab1_text": "通关S实验室解锁"
+    },
+    "TimeLeapDispatchItem": {
+        "ingLab_text": "派遣时长:{0}(时长满后产生奖励)",
+        "endLab_text": "掉落已达上限",
+        "lab1_text": "掉落",
+        "pieceLab_text": "已获得碎片：{0}/{1}",
+        "dispatchBtn_label": "领 取",
+        "id1": "暂时无法更换角色",
+        "id2": "更换派遣英雄将直接结算当前奖励，按派遣周期计算奖励（超出部分没有奖励），是否继续",
+        "id3": "更换新的派遣英雄"
+    },
+    "TimeLeapDispatchItemViewData": {
+        "id1": "更 换",
+        "id2": "更 换"
+    },
+    "TimeLeapEmptyItem": {
+        "timeinfoLab_text": "{0}小时",
+        "infoLab_text": "必定掉落该英雄碎片",
+        "dispatchBtn_label": "派遣",
+        "id1": "请先选择需要派遣的英雄",
+        "lab1_text": "时 间",
+        "lab2_text": "放入英雄"
+    },
+    "TimeLeapEnemyItem": {
+        "infoLab_text": "击败守军后开放英雄派遣",
+        "enemyLevelLab_text": "守卫等级：{0}级",
+        "battleBtn_label": "挑 战",
+        "lab1_text": "战斗力"
+    },
+    "TimeLeapChooseHero": {
+        "noHeroLab_text": "尚未拥有{0}级英雄",
+        "sureBtn_label": "确 定",
+        "cancelBtn_label": "取 消",
+        "infoLab_text": "{0}仅能派遣{1}级英雄",
+        "id1": "该英雄已经被选中",
+        "id2": "该英雄已被派遣",
+        "id3": "请选择要派遣的英雄"
+    },
+    "TimeLeapChooseHeroViewData": {
+        "id1": "请选择派遣英雄"
+    },
+    "MahaAdventureBattleRewardTips": {
+        "titleLab_text": "奖励预览",
+        "id1": "归属奖励",
+        "id2": "挑战奖励",
+        "id3": "击杀奖励"
+    },
+    "MarketMain": {
+        "titleLab_text": "市场",
+        "countDownTime_text": "刷新时间：{0}",
+        "marketBtn_label": "普通市场",
+        "vipMarketBtn_label": "VIP市场",
+        "refreshBtn_2_0_text": "刷新(",
+        "freeRefreshBtn_label": "免费刷新({0})",
+        "id2": "确认刷新",
+        "id3": "是否花费市场刷新券刷新？（剩余{0}张）",
+        "id4": "1、普通市场每2小时获得1次免费刷新次数，VIP市场每6小时获得一次免费刷新次数\n\n2、普通市场免费刷新次数用完后，可以使用钻石继续刷新\n\n3、市场中会随机刷出折扣商品，可以以更低的价格购买"
+    },
+    "MarketMainViewData": {
+        "id1": "{0})",
+        "id2": "玩家等级到达<font color=0xff7010>{0}</font>级后，刷新Vip市场将会有机会出现",
+        "id3": "欢迎来到市场采购哦",
+        "id4": "玩家等级到达<font color=0xff7010>{0}</font>级后，刷新普通市场将会有机会出现",
+        "id5": "次数不足"
+    },
+    "MarketItem": {
+        "lab1_text": "已售罄",
+        "buyBtn_label": "购买"
+    },
+    "NormalMarketListItem": {
+        "id1": "需要VIP{0}"
+    },
+    "EntrustMain": {
+        "refreshBtn_label": "刷新",
+        "titleLab_text": "委托任务",
+        "addNewBtn_label": "新增委托",
+        "entrustSupportBtn_label": "好友助战",
+        "id1": "1.委托每天早上6：00将会自然刷新\n\n2.使用委托书增加的委托将会在第二天的6：00消失\n\n3.VIP可以增加每天自然刷新的委托数量",
+        "id2": "是否确定使用{0}{1},来重新随机当前没有进行中的委托？（共{2}个）",
+        "id3": "刷新成功"
+    },
+    "EntrustItem": {
+        "lab1_text": "奖励"
+    },
+    "EntrustBook": {
+        "titleLab_text": "新增委托",
+        "EntrustBook7_text": "(注：新增的委托将在第二天的6:00消失)",
+        "id1": "未领取奖励的委托如果数量>={0}，\n将不进行每天的自动刷新，请尽快领取奖励！"
+    },
+    "EntrustSupport": {
+        "titleLab_text": "好友助战",
+        "rewardLab_text": "助战奖励({0}/{1})",
+        "lab1_text": "收起",
+        "rewardBtn_label": "领 取",
+        "lab2_text": "助战记录",
+        "changeHeroBtn_label": "替换"
+    },
+    "EntrustState": {
+        "titleLab_text": "委托任务",
+        "lab1_text": "奖励",
+        "completeBtn_label": "完 成",
+        "finishBtn_label": "加 速",
+        "leftTimeLab_text": "剩余时间：{0}",
+        "battleBtn_label": "讨 伐",
+        "id1": "是否确定使用{0}钻石,来加速\n并完成该项委托任务？"
+    },
+    "EntrustBattle": {
+        "titleLab_text": "派遣",
+        "startBtn_label": "一键上阵",
+        "startBattleBtn_label": "确 认",
+        "id2": "上阵已满",
+        "id3": "英雄品质不符合要求",
+        "id4": "好友只能上阵一个",
+        "id5": "每天仅可助战一次",
+        "id6": "该好友的英雄今天已被借10次，无法再助阵",
+        "id7": "英雄不符合等级要求",
+        "id8": "英雄类型不符合",
+        "id9": "上阵英雄不足",
+        "myHeroBtn_label": "我的英雄",
+        "friendHeroBtn_label": "好友助战"
+    },
+    "EntrustLineup": {
+        "lab1_text": "需要等级"
+    },
+    "EntrustChooseSupportHero": {
+        "titleLab_text": "更换助战",
+        "sureBtn_label": "确 定",
+        "id1": "请选择英雄"
+    },
+    "CounterpartBuyTips": {
+        "id1": "已经达到购买上限",
+        "str4": "装备",
+        "str2": "突破",
+        "str1": "经验",
+        "str5": "空贝",
+        "str6": "锻造石",
+        "str7": "晶粉",
+        "id11": "购买<font color=0xf76b48>{oneTimeGet}次{0}副本次数</font>，\n需要消耗<font color=0xf76b48>{oneTimeCost}{1}</font>，是否确定？",
+        "str8": "强化石"
+    },
+    "UIWindowManager": {
+        "id1": "本次购买需要VIP{0}，是否前往查看VIP特权?",
+        "id3": "数量不足",
+        "id4": "您已被会长踢出公会！",
+        "id5": "阵容发生了变化，是否确认修改阵容？",
+        "id6": "确认修改",
+        "id7": "不修改",
+        "id8": "请先加入公会",
+        "id9": "未开放",
+        "id10": "·先击败7个小沙鲁,才能挑战沙鲁本体\n\n·通关沙鲁游戏,可以使每天领取的宝箱奖励更好\n\n·沙鲁游戏是1V1的战斗",
+        "id11": "·早上6:00重置次数",
+        "id12": "·无",
+        "id13": "·每天可以领取一次宝箱奖励\n\n·宝箱奖励每天6:00更新",
+        "id14": "1.每个公会将在0点匹配{0}个公会，抢夺敌方公会的公会币\n\n2.我方公会也会被敌方抢夺公会币但不计入结算\n\n3.当前匹配到的公会被完全抢夺后将刷新出下一个公会，第{0}个公会被完全抢夺之后不再刷新",
+        "id15": "匹配时间  每天早上0：00\n\n开启时间  每天早上9：00\n\n结算时间  每天晚上21：00",
+        "id16": "每日0点匹配时最少有十个公会成员\n\n公会等级达到4级",
+        "id17": "结算时，根据抢夺到公会币的总数进行平均分配，具体数量为  抢夺到的总数/公会成员数量（当天加入的玩家不参与战斗和分配）贡献前5名将获得额外奖励。当抢夺公会币数量相同时，按照时间先后排名。",
+        "id18": "不同的区服依据开服时间的长短分配在不同的赛区，同一赛区开服时间邻近的区服将匹配在一起进行战斗。\n\n在海选中进入到前64名的玩家可以参加淘汰赛。\n\n所有玩家都可以对淘汰赛的战斗结果进行竞猜，竞猜成功即可获得丰厚奖励。\n\n淘汰赛上阵阵容为前一日的竞技场结算阵容，每天更新",
+        "id19": "周一为报名时间\n\n周二为海选\n\n周三至周六为晋级赛",
+        "id20": "需要预先进行报名。\n\n竞猜无需条件。",
+        "id21": "未及时领取的奖励，将通过邮件进行发放。\n\n竞猜失败后，将通过邮件返还80%的竞猜金币",
+        "id22": "·每周进行一次的海域争夺战，匹配三个公会进行海域争夺战\n\n·有6个石碑情报分布在地图中，玩家通过探索每个地图的点发现石碑情报\n\n·每个公会成员只能看到己方公会发现的石碑情报\n\n·通过占领情报点来占有该区域的石碑情报，通过占领区域内的非情报点来增加己方作战buff",
+        "id23": "·开启时间：每周六早上9:00\n\n·结算时间：每周日晚上21:00",
+        "id24": "·海域争夺战需要每个公会的会长/副会长进行报名\n\n·公会必须满足公会活跃度达到5000才能报名\n\n·报名截止每周五晚上24:00\n\n本周五24:00之后加入公会的成员，无法参与海域争夺战的战斗",
+        "id25": "·在结算时，根据公会各自占有的石碑情报数量进行排名，队员根据公会的名次获得奖励（若两个公会拥有石碑情报数相同，则按照天梯榜定胜负）\n\n·结算时公会的天梯段位将会增加荣耀币的奖励数量",
+        "id26": "• 每轮空岛竞速持续2天\n• 每次前进或者击败对手可以增加里程\n• 每轮结束后根据本服排名发放结算奖励",
+        "id27": "• 每轮持续2天，循环开启\n• 开启时间为早上6：00\n• 结算时间为晚上22：00",
+        "id28": "• 无",
+        "id29": "• 结算时，根据玩家最后的本服排名，通过邮件发放结算奖励\n• 每轮重置时，未领取的鸡腿和宝箱将不会保留",
+        "id30": "请先完成任务：{0}",
+        "id31": "{0}天{1}小时后开启顶上战争",
+        "id32": "{0}小时{1}分钟后开启顶上战争",
+        "id33": "{1}分钟后开启顶上战争",
+        "id34": "钻石充值功能未开放",
+        "id35": "跨服战未开启!",
+        "id36": "未找到数据",
+        "gvgNoOpenTips": "开服32周后开放",
+        "gvgNoOpenTips1": "海岛求生即将开启，敬请期待",
+        "tip1": "敬请期待"
+    },
+    "CommonItemGetTips": {
+        "lab1_text": "点击空白处退出"
+    },
+    "CommonItemGetTipsViewData": {
+        "id1": "<font color=0xffffff>消耗</font><font color={0}>{1}",
+        "id2": "金币</font> ",
+        "id3": "钻石</font>"
+    },
+    "EntrustSupportViewData": {
+        "id1": "您的好友 <font color=0x69d24e>{0}</font> 使用了你的助阵英雄,",
+        "id3": "<font color=0x69d24e>但是奖励已满,无法继续获取</font>",
+        "id4": "收到奖励<font color=0x69d24e>{0}</font>X{1}",
+        "id5": "今日助战次数已用完"
+    },
+    "ArenaRankItem": {
+        "lab1_text": "我的排行"
+    },
+    "BattleStart": {
+        "id1": "需要战力:{0}",
+        "id2": "同名英雄无法上阵超过一个\n同名英雄用于高星级觉醒",
+        "id3": "上阵位已满",
+        "id4": "只有{0}级以上英雄才能上阵",
+        "id7": "已经死亡的英雄无法参加战斗",
+        "id8": "选择上阵英雄",
+        "id9": "请先进行引导，完成上阵！",
+        "id10": "部分英雄才拥有终结技\n\n\n\n终结技通过羁绊进行解锁和升级\n\n\n\n激活终结技的英雄上阵后，同时上阵其终结技\n\n\n\n可以通过拖拽来改变战斗中终结技的触发顺序",
+        "snakeWarn_text": "——仅{0}级以上英雄可上阵——",
+        "id12": "仅{0}级以上英雄可上阵",
+        "startBtn_label": "挑 战",
+        "id11": "共鸣英雄已上阵",
+        "id13": "当前未选择终结技，是否前往选择？",
+        "id14": "前往选择",
+        "id15": "直接战斗"
+    },
+    "SummonOneSuccess": {
+        "onceFree_text": "本次免费",
+        "summonOnceBtn_label": "抽一次",
+        "summonTenBtn_label": "抽十次"
+    },
+    "SummonOneSuccessViewData": {
+        "id1": "(8.5折)"
+    },
+    "SummonTenSuccess": {
+        "onceFree_text": "本次免费",
+        "summonOnceBtn_label": "抽一次",
+        "summonTenBtn_label": "抽十次"
+    },
+    "SummonTenSuccessViewData": {
+        "id1": "(8.5折)"
+    },
+    "SummaryPveSuccess": {
+        "leftTimeLab_text": "剩余次数：<font color=0xffb128>{0}</font>",
+        "backBtn_label": "返 回",
+        "againBattleBtn_label": "再次挑战",
+        "battleSummaryBtn_label": "战斗统计"
+    },
+    "SummaryPveSuccessViewData": {
+        "id1": "战斗总伤害:{0}",
+        "id2": "当前排名:{0}",
+        "id3": "距排名提升还需要:{0}",
+        "id4": "公会活跃度:{0}",
+        "id5": "BOSS剩余血量:{0}%",
+        "id6": "公会活跃度:+"
+    },
+    "SummaryDefeated": {
+        "lab1_text": "通过以下途径提升队伍实力",
+        "id3": "战斗总伤害:{0}",
+        "id4": "公会活跃度:{0}",
+        "backBtn_label": "返 回",
+        "battleSummaryBtn_label": "战斗统计",
+        "btn0_label": "召唤",
+        "btn1_label": "英雄",
+        "btn2_label": "终结技"
+    },
+    "CombatStatistics": {
+        "titleLab_text": "战斗统计"
+    },
+    "CombatStatisticsItem": {
+        "lab1_text": "英雄",
+        "lab2_text": "伤害",
+        "lab3_text": "治疗/护盾",
+        "lab4_text": "承伤",
+        "lab5_text": "终结技"
+    },
+    "ChatMain": {
+        "titleLab_text": "聊 天",
+        "systemBtn_label": "系 统",
+        "guildBtn_label": "公 会",
+        "worldBtn_label": "世 界",
+        "inputValue_prompt": "点击输入...",
+        "sendBtn_label": "发送",
+        "noLab_text": "没有新的消息哦",
+        "id2": "请加入公会",
+        "id3": "发言太快了...",
+        "id4": "字数不能超过{0}"
+    },
+    "SummonMainViewData": {
+        "id1": "普通召唤",
+        "id2": "好友召唤",
+        "id3": "高级召唤",
+        "id4": "(8.5折)"
+    },
+    "TaskMainTips": {
+        "lab1_text": "任务需求",
+        "lab2_text": "奖励",
+        "gotoBtn_label": "前 往",
+        "completeBtn_label": "领 取"
+    },
+    "TaskMainBaseViewData": {
+        "id1": "任 务",
+        "id2": "成 就"
+    },
+    "TaskMainBase": {
+        "id1": "1.每日任务每天可完成一次\n\n2.每日任务在早上6：00刷新\n\n3.成就任务只能完成一次\n\n4. 跨服团本开放后，会增加完成20个日常任务的宝箱奖励（随机产出团本钥匙或团本票）",
+        "taskBtn_label": "任 务",
+        "achievementBtn_label": "成 就"
+    },
+    "TaskMain": {
+        "lab1_text": "完成日常任务",
+        "onceReceiveBtn_label": "一键领取",
+        "tips1": "暂无可领取任务"
+    },
+    "TaskMainViewData": {
+        "id1": "{0}个"
+    },
+    "TaskItemViewData": {
+        "id1": "日常",
+        "lab2_text": "奖励",
+        "id2": "当前任务进度{0}/{1}",
+        "id3": "成就"
+    },
+    "TaskListItem": {
+        "receiveBtn_label": "领 取",
+        "pageBtn_label": "前 往",
+        "notFinish_label": "未完成",
+        "receivedLab_text": "已领取"
+    },
+    "AchievementListItem": {
+        "receiveBtn_label": "领 取",
+        "pageBtn_label": "前 往",
+        "notFinish_label": "未完成",
+        "receivedLab_text": "已领取"
+    },
+    "FriendBase": {
+        "titleLab_text": "好友",
+        "friendBtn_label": "好友",
+        "findBtn_label": "好友申请",
+        "applyBtn_label": "申请列表",
+        "blacklistBtn_label": "黑名单"
+    },
+    "FriendFind": {
+        "queryKey_prompt": "请输入玩家名字",
+        "lab1_text": "好友推荐",
+        "changeRadomBtn_label": "换一批",
+        "id1": "请先输入玩家名字",
+        "id3": "无法添加自己为好友!",
+        "id4": "找不到您要查找的名字！"
+    },
+    "RandomFriendListItem": {
+        "id1": "已申请"
+    },
+    "FriendHeat": {
+        "la1_text": "每天6:00刷新",
+        "receiveAndSendBtn_label": "一键领取和赠送",
+        "setBattleTeamBtn_label": "进攻阵容",
+        "friendCountLab_text": "好友数量：<font size=28 color=0xFFDE55 stroke=3 strokeColor=0x4F2D12>{0}</font>"
+    },
+    "FriendMainListItem": {
+        "id1": "每日赠送好友爱心已达上限{0}个",
+        "id3": "每日领取好友爱心已达上限{0}个"
+    },
+    "SignetCounterpartTipsItemViewData": {
+        "id1": "[排击贝碎片]",
+        "id2": "[闪光贝碎片]",
+        "id3": "[音贝碎片]",
+        "id4": "[风贝碎片]",
+        "id5": "[炎贝碎片]",
+        "id6": "[水贝碎片]",
+        "id7": "[通用碎片]",
+        "id8": "周一、周三、周五、周日开放",
+        "id9": "周二、周四、周六、周日开放"
+    },
+    "EquipCounterpartTips": {
+        "titleLab_text": "[概率掉落]"
+    },
+    "FriendInfo": {
+        "titleLab_text": "玩家信息",
+        "sendMailBtn_label": "发邮件",
+        "id1": "是否确定删除该好友",
+        "id2": "确认",
+        "id3": "取消",
+        "id4": "好友信息",
+        "id5": "阵 容",
+        "id6": "切磋",
+        "id7": "发邮件",
+        "id8": "好友请求已发送！",
+        "battleBtn_label": "切磋",
+        "lab1_text": "阵容",
+        "id9": "是否确定将该玩家加入黑名单"
+    },
+    "FriendFindViewData": {
+        "id1": "申 请"
+    },
+    "BroadcastSingleton": {
+        "id1": "<font color=0xffe61a>[系统]:</font>"
+    },
+    "SummonSingleton": {
+        "id1": "英雄包裹已满！是否前往背包拆解重复英雄或购买背包上限？",
+        "id3": "英雄包裹剩余位置不足！是否前往背包拆解重复英雄或购买背包上限？",
+        "id5": "前往",
+        "id6": "取消"
+    },
+    "ResourceCounterpart": {
+        "expBtn_label": "经验",
+        "evolveBtn_label": "突破",
+        "stoneBtn_label": "锻造石",
+        "powderBtn_label": "晶粉",
+        "enhancedBtn_label": "强化石"
+    },
+    "PieceCompound": {
+        "compoundBtn_label": "合 成",
+        "tipsLab_text": "注：已存在整卡的英雄将自动转化为碎片"
+    },
+    "FriendShipInfoListItem": {
+        "id1": "{0} {1}",
+        "id2": "未激活",
+        "titleLab_text": "激活羁绊",
+        "activityFriendShipBtn_label": "激活",
+        "goToBtn_label": "获取",
+        "HeroFriendShipItem0_text": "已激活"
+    },
+    "HeroItemTips": {
+        "infoBtn_label": "详  情",
+        "id2": "敬请期待",
+        "notOpenTips_text": "敬请期待"
+    },
+    "HeroGetWay": {
+        "titleLab_text": "获取途径",
+        "HeroGetWay0_text": "获取途径"
+    },
+    "BuyTips": {
+        "lab1_text": "是否确认兑换",
+        "cancelBtn_label": "取 消",
+        "sureBtn_label": "确 定",
+        "titleLab_text": "提 示"
+    },
+    "skillTipsViewData": {
+        "id1": "觉醒{0}星升到下一级",
+        "id2": "已满级",
+        "id3": "觉醒{0}星激活",
+        "id5": "物理攻击",
+        "id6": "主动技能",
+        "id7": "被动技能",
+        "id8": "终结技",
+        "id9": "潜能",
+        "id10": "物理",
+        "id11": "主动",
+        "id12": "被动",
+        "id13": "{0}增加{1};",
+        "id14": "觉醒红{0}星升到下一级",
+        "id15": "觉醒红{0}星激活"
+    },
+    "OpenBox": {
+        "id1": "打 开",
+        "openBoxBtn_label": "打 开",
+        "usableBtn_label": "打 开"
+    },
+    "ActivityChoseRewardTip": {
+        "id1": "请选择奖励！",
+        "id2": "可以获得以下一个奖励",
+        "id3": "从以下奖励中选取一个",
+        "sureBtn_label": "确 定"
+    },
+    "DragonPromise": {
+        "titleLab_text": "全知之树",
+        "chooseBtn1_label": "任选SR",
+        "chooseBtn2_label": "任选SSR",
+        "id1": "1、消耗一定数量的历史石碑可以召唤指定SR或SSR英雄，同时获得与消耗的石碑数量相同的探索度\n\n2、VIP达到一定等级之后可以消耗探索度兑换UR碎片",
+        "discountLab_text": "（首次6折）"
+    },
+    "DragonPromisePool": {
+        "titleLab_text": "奖励预览",
+        "srBtn_label": "SR级",
+        "ssrBtn_label": "SSR级"
+    },
+    "TotalRank": {
+        "titleLab_text": "排行榜",
+        "btnGroup_0_label": "战力榜",
+        "btnGroup_1_label": "等级榜",
+        "btnGroup_2_label": "关卡榜",
+        "btnGroup_3_label": "深海大监狱",
+        "btnGroup_4_label": "海上列车榜",
+        "btnGroup_5_label": "公会榜",
+        "btnGroup_6_label": "竞技榜",
+        "emptyItem_1_1_text": "暂无排行榜信息"
+    },
+    "DragonPromiseChoose": {
+        "titleLab_text": "英雄召唤",
+        "sureBtn_label": "确 定",
+        "id1": "请选择要召唤的英雄",
+        "id2": "是否确定召唤{0}?",
+        "id3": "石碑数量不足"
+    },
+    "DragonPromiseVip": {
+        "titleLab_text": "VIP8特权",
+        "lab1_text": "VIP{0}以上用户每消耗5个历史石碑可以获得随机UR英雄的10个碎片（UR心愿单中选择）",
+        "lab2_text": "共可领取{0}次",
+        "receiveBtn_label": "一键领取",
+        "lab_text": "随机UR英雄碎片*10"
+    },
+    "TotalRankViewData": {
+        "id1": "战力榜",
+        "id1value": "战斗力:{0}",
+        "id2": "等级榜",
+        "id2value": "等级:{0}",
+        "id3": "关卡榜",
+        "id3value": "关卡:{0}",
+        "id4": "深海大监狱榜",
+        "id4value": "深海大监狱第{0}层",
+        "id5": "海上列车榜",
+        "id5value": "海上列车第{0}层",
+        "id6": "公会榜",
+        "id6value": "公会等级:{0}",
+        "id7": "竞技榜",
+        "id7value": "排名:{0}",
+        "id8": "我的排名:<font color=0xfeca14>{0}</font>",
+        "id9": "我的公会:<font color=0xfeca14>{0}</font>",
+        "id10": "无 未上榜",
+        "id11": "第{0}名",
+        "id12": "未上榜",
+        "id13": "公会等级:<font color=0xfeca14>Lv.{0}</font>"
+    },
+    "attrChangeShow": {
+        "id1": "{0}提升",
+        "id2": "{0}降低"
+    },
+    "BuyGoldPanel": {
+        "id1": "还可购买<font color=0x29e779>{0}</font>次",
+        "id2": "本次免费",
+        "id4": "是否花费{0}钻石购买金币？",
+        "id5": "今日购买次数已达上限！",
+        "id6": "小概率",
+        "id7": "大概率",
+        "id8": "必定",
+        "id9": "本次购买需要VIP{0}",
+        "id10": "购买次数已达上限",
+        "BuyGoldPanel0_text": "等级越高，\n每次购买获得的金币越多！\n购买次数每天<font color=0x00ff69>6点</font>重置。",
+        "probabilityLab_text": "本次<font color=0x07f762>{0}</font>翻倍!"
+    },
+    "MailFriendSimpleInfoViewData": {
+        "id1": "<font color=0xec6225 size=24>{0}</font>",
+        "id2": "今天"
+    },
+    "MailPanel": {
+        "id1": "是否删除所有已读邮件？\n",
+        "id2": "<font color=0x9F2828>（有物品未领取的不会删除）</font>",
+        "id3": "确 定",
+        "id4": "取 消",
+        "id5": "无可收取的附件！",
+        "id6": "系 统",
+        "id7": "好 友",
+        "id8": "公 告",
+        "id9": "暂时没有新邮件哦~",
+        "id10": "暂无公告",
+        "sendMailBtn_label": "发邮件",
+        "deleteFriendMaillBtn_label": "一键删除",
+        "deleteBtn_label": "一键删除",
+        "getBtn_label": "一键领取",
+        "titleLab_text": "邮件",
+        "mailBtn_label": "邮 件",
+        "friendBtn_label": "好 友",
+        "noticeBtn_label": "公 告"
+    },
+    "MailItemInfoViewData": {
+        "id1": "今天",
+        "id2": "{0}天"
+    },
+    "SendFriendMailChosePage": {
+        "id1": "暂未添加好友哦",
+        "titleLab_text": "发邮件"
+    },
+    "MailDetails": {
+        "id1": "发件人：{0}",
+        "id2": "删除",
+        "getBtn_label": "领 取",
+        "titleLab_text": "邮件"
+    },
+    "FriendMailInfo": {
+        "id1": "请输入要发送的内容",
+        "id2": "内容最多{0}个字",
+        "id3": "确定",
+        "id4": "取消",
+        "id5": "是否确定发送此封邮件？",
+        "id6": "是否确定删除此封邮件和所有回复？",
+        "FriendMailInfo0_text": "温馨提示：官方不会以任何形式发送个人邮件给玩家",
+        "sendBtn_label": "发 送",
+        "titleLab_text": "邮件"
+    },
+    "BattleStartSuperSkillTips": {
+        "emptyLab_text": "暂无启用的终结技，是否跳转至终结技界面？",
+        "changeBtn_label": "更 换",
+        "id1": "一",
+        "id2": "二",
+        "id3": "三",
+        "id4": "四",
+        "id7": "{0}终结技已装备在阵容{1}中，是否选择更换？（保存后起效）",
+        "id5": "确 定",
+        "id6": "取 消"
+    },
+    "BattleSuperSkill": {
+        "lab1_text": "自动"
+    },
+    "TotalRankItem": {
+        "lab0_text": "我的排名",
+        "id1": "公会等级:<font size=30>{0}</font>"
+    },
+    "ShopMain": {
+        "id1": "去公会",
+        "id2": "去祭坛",
+        "id3": "去激斗",
+        "id4": "去竞技场",
+        "id5": "是否要刷新商店？",
+        "id6": "{0}天",
+        "id7": "{0}时",
+        "id8": "{0}分",
+        "id9": "{0}秒",
+        "id10": "{0}后自动刷新",
+        "id11": "1. 商店每隔一定时间会自动刷新一次\n2. 自动刷新不会消耗资源\n3. 自动刷新将重置商店中商品的数量",
+        "id12": "刷 新",
+        "id13": "竞技场商店",
+        "id14": "祭坛商店",
+        "id15": "激斗商店",
+        "id16": "公会商店",
+        "shopLevelLab_text": "商店等级:{0}",
+        "id17": "赏金商店",
+        "id18": "去悬赏",
+        "devid19": "去团本",
+        "devid20": "团本商店"
+    },
+    "ShopTabListItem": {
+        "id1": "祭坛商店",
+        "id2": "(高级)\n祭坛商店",
+        "id3": "竞技场商店",
+        "id4": "激斗商店",
+        "id5": "公会商店",
+        "ShopMain_label": "刷 新"
+    },
+    "CommonRule": {
+        "titleLab_text": "规则帮助",
+        "id1": "玩法介绍",
+        "id2": "活动时间",
+        "id3": "参加条件",
+        "id4": "结算规则"
+    },
+    "JialintaLevelMore": {
+        "titleLab_text": "等级加成",
+        "ruleDes_text": "玩家等级达到180级及以上，宝箱奖励和排名奖励中的超神水将会受到加成：",
+        "ruleDes_lineSpacing": "8"
+    },
+    "SettingMain": {
+        "id1": "服务器版本号:{0}",
+        "id2": "音乐",
+        "id3": "音效",
+        "id4": "<font size=20>Lv</font>{0}",
+        "switchUserBtn_label": "切换区服",
+        "switchAccountBtn_label": "切换账号",
+        "CDKEYBtn_label": "激活码兑换",
+        "titleLab_text": "设置",
+        "languageBtn_label": "切换语言",
+        "serverNameLab_text": "当前服务器：{0}",
+        "accountIdLab_text": "平台Id：{0}",
+        "copyIdBtn_label": "复制",
+        "tip": "复制成功"
+    },
+    "SoundItemViewData": {
+        "id1": "音乐",
+        "id2": "音效",
+        "id3": "开",
+        "id4": "关"
+    },
+    "ShopItemListItem": {
+        "id1": "库存:{0}",
+        "id2": "已售空",
+        "id3": "图鉴点亮后才能兑换"
+    },
+    "LongRoundaboutAdventureMap": {
+        "id1": "投出6点，成功突破栅栏"
+    },
+    "JialintaMain": {
+        "notOpenLable_text": "-未开放-",
+        "titleLab_text": "空岛竞速",
+        "layerLab1_text": "当前里程",
+        "layerLab2_text": "海里",
+        "rankText_text": "第{0}名",
+        "showLevelMoreBtn_label": "等级加成",
+        "awardBtn_label": "奖励",
+        "id2": "购买次数今日已达上限！",
+        "id3": "购买<font color=0xf76b48>{oneTimeGet}个空岛鸡腿</font>,消耗<font color=0xf76b48>{oneTimeCost}{0}</font>,是否确定? (注：每天六点空岛鸡腿重置为10次)",
+        "id6": "购买<font color=0xf76b48>{0}次空岛前进次数</font>,需要消耗<font color=0xf76b48>{1}{2}</font>,是否确定?",
+        "id9": "+{0}%",
+        "id10": "空岛竞速暂未开放",
+        "lab1_text": "自动领取",
+        "noRankLab_text": "未上榜"
+    },
+    "JialintaLevelMoreViewData": {
+        "id1": "等级达到{0}级:",
+        "id2": "+{0}%"
+    },
+    "JialintaRankAward": {
+        "titleLab_text": "排名奖励",
+        "awardDesLab_text": "排行奖励预览",
+        "leftTimeLab_text": "剩余：{0}小时结算",
+        "rewardBtn_label": "奖励",
+        "upRewardBtn_label": "进阶奖励"
+    },
+    "JialintaRankAwardViewData": {
+        "id1": "奖励",
+        "id2": "开服{0}天后奖励将升级到进阶奖励",
+        "id3": "已升级至进阶奖励"
+    },
+    "SuperSkillPassiveTips": {
+        "tipsLab_text": "被动技能加成对竞技场阵容中本队所有英雄生效",
+        "id1": "终结技伤害+{0}%"
+    },
+    "FriendHeatViewData": {
+        "id1": "你目前没有好友申请"
+    },
+    "RechargePanel": {
+        "lab1_text": "再充值<font color=0x8fe0e4>{0}</font>到达VIP{1}",
+        "privilegeBtn_label": "VIP特权",
+        "maxLab_text": "VIP已满级",
+        "id1": ""
+    },
+    "RechargePanelViewData": {
+        "id1": "{0}钻石",
+        "id2": "限购：{0}"
+    },
+    "VIPPanel": {
+        "titleLab_text": "VIP特权",
+        "maxLab_text": "VIP已满级",
+        "rechargeBtn_label": "立即充值",
+        "receiveBtn_label": "领取",
+        "lab_text": "再充值<font color=0x8fe0e4>{0}</font>到达VIP{1}",
+        "id1": "",
+        "welfareLab_text": "VIP{0}福利",
+        "giftLab_text": "VIP{0}特权礼包",
+        "id2": "将消耗{0}{1}购买VIP{2}特权礼包，是否继续?",
+        "receivedBtn_label": "已领取",
+        "receivedBtn1_label": "已购买"
+    },
+    "QiangDiAwardPage": {
+        "titleLab_text": "试炼奖励"
+    },
+    "Login": {
+        "id1": "请输入用户名",
+        "id2": "请选择游戏服务器",
+        "id3": "新世界的神\n抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当\n适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活",
+        "id4": "点击输入账号",
+        "id5": "点击输入密码",
+        "id6": "登录渠道错误",
+        "Login1_size": 15,
+        "tipInfo": "{0}\n抵制不良游戏 拒绝盗版游戏 注意自我保护 谨防受骗上当\n适度游戏益脑 沉迷游戏伤身 合理安排时间 享受健康生活",
+        "userNameInput_prompt": "点击输入账号",
+        "passwordInput_prompt": "点击输入密码",
+        "ageTips": "1.本游戏是一款2D放置卡牌手机网络游戏，适用于年龄满16周岁及以上用户，建议未成年人在家长的监护下使用游戏产品。\n2本游戏基于架空的故事背景与幻想世界观，剧情简单且积极向上，在游戏中，玩家通过参与各种玩法收集英雄，组建属于自己的冒险团队。通过持续养成英雄，使得英雄小队战斗力得到持续提升。通过合理的策略搭配赢得场场战斗胜利。游戏中有基于文字的陌生人社交系统。\n3、根据国家相关要求，游戏中有用户实名认证系统，未通过实名认证的用户不可进入游戏，认证为未成年人的用户除周五、周六、周日及法定节假日每日20时至21日时外其他时间均不可进入游戏。游戏中部分玩法和道具需要付费，认证为未成年人的用户将接受以下管理:未满12周岁的用户不能付费; 12周岁以上未满16周岁的用户，单次充值金额不得超过50元人民币，每月充值金额累计不得超过200元人民币; 16周岁以上的未成年人用户，单次充值金额不得超过100元人民币，每月充值金额累计不得超过400元人民币。",
+        "logoutBtn_label": "点击换区"
+    },
+    "MahaAdventureFriendHelpViewData": {
+        "id1": "暂无好友敌船"
+    },
+    "JialintaRankPage": {
+        "titleLab_text": "排行榜",
+        "selfServerBtn_label": "本服排名",
+        "allServerBtn_label": "全服排名",
+        "emptyItem_1_1_text": "无人上榜"
+    },
+    "JialintaRankItem": {
+        "jialintalab1_text": "我的排行",
+        "jialintaLayerLab0_text": "",
+        "jialintaLayerLab1_text": "海里"
+    },
+    "TrialPanel": {
+        "titleLab_text": "试炼",
+        "snakeBtn_3_1_text": "{0}级开放",
+        "adventureBtn_3_1_text": "{0}级开放",
+        "islandBtn_3_1_text": "{0}级开放",
+        "hakiBtn_3_1_text": "{0}级开放"
+    },
+    "WeaponDiffViewData": {
+        "id1": "没有找到您想要的武器"
+    },
+    "MahaAdventureBossKillTips": {
+        "titleLab_text": "挑战成功",
+        "lab1_text": "敌船已经被您成功击败",
+        "closeBtn_label": "确 定"
+    },
+    "OneStepSignChose": {
+        "titleLab_text": "空贝套装",
+        "sureBtn_label": "确 定"
+    },
+    "SummaryPvpSuccess": {
+        "tipLab_text": "平局时按照双方总战力判定胜负",
+        "backBtn_label": "返 回",
+        "battleSummaryBtn_label": "战斗统计"
+    },
+    "SummaryPvpSuccessViewData": {
+        "id1": "排行提升至<font size=46 color=0xb1120a>{0}</font>名"
+    },
+    "SummaryPvpDefeated": {
+        "tipLab_text": "平局时按照双方总战力判定胜负",
+        "lab_text": "通过以下途径提升队伍实力",
+        "backBtn_label": "返 回",
+        "battleSummaryBtn_label": "战斗统计",
+        "btn0_label": "召唤",
+        "btn1_label": "英雄",
+        "btn2_label": "终结技"
+    },
+    "SignStarUpChose": {
+        "id1": "材料空贝数量已满",
+        "id2": "先在祭坛重生才能选为材料",
+        "id3": "没有符合的材料空贝哦",
+        "titleLab_text": "选择材料空贝",
+        "tipsInfoLab_text": "材料空贝必须是初始0星1级"
+    },
+    "TheWildAdventure": {
+        "titleLab_text": "恐怖三桅帆",
+        "leftTimeLab_text": "剩余 <font color=0xfeaf35>{0}/{1}</font>",
+        "resetBtn_1_text": "重置地图",
+        "resetBtn_2_text": "(剩余:{0}次)",
+        "lab2_text": "剩余",
+        "id1": "已达购买上限",
+        "id2": "Vip等级不足,需要vip{0}",
+        "id3": "购买{0}次移动次数需要消耗{1}{2}，是否确定",
+        "id4": "是否要重置本层地图，重置地图不恢复行动力，是否确定重置",
+        "id5": "重置本层地图需要花费{0}{1}，重置地图不恢复行动力，是否确定重置",
+        "id6": "1、玩家每走一步会浮现出周围的格子\n\n2、探索新格子将会消耗体力，已走过的格子不消耗体力\n\n3、体力每半小时恢复一点\n\n4、每天有三次免费重置地图的机会，超出要花费钻石"
+    },
+    "ArenaRecordViewData": {
+        "id1": "没有任何记录",
+        "id8": "-刚刚-",
+        "id2": "-10分钟前-",
+        "id3": "-30分钟前-",
+        "id4": "-1小时前-",
+        "id5": "-今天-",
+        "id6": "-昨天-",
+        "id7": "-几天前-",
+        "id9": "排名"
+    },
+    "SnakeBeanToHeroViewData": {
+        "id1": "暂无英雄需要复活"
+    },
+    "EquipListByTypeViewData": {
+        "id1": "没有找到您想要的装备"
+    },
+    "RechristenPanel": {
+        "id1": "名字不能为空!",
+        "id2": "含有敏感词汇!",
+        "id3": "点击输入名称",
+        "id4": "名字最多{0}个汉字!",
+        "id6": "是否确定更改名字？",
+        "RechristenPanel0_text": "请输入你想修改的名字",
+        "confirmBtn_label": "确 定",
+        "titleLab_text": "名称修改",
+        "free_text": "本次免费",
+        "importText_prompt": "点击输入名称"
+    },
+    "ChangeHeadIcon": {
+        "titleLab_text": "头像设置",
+        "confirmBtn_label": "确  定",
+        "confirmBoxBtn_label": "确定穿戴",
+        "heroIconBtn_label": "头像",
+        "boxIconBtn_label": "头像框"
+    },
+    "EntrustBattleViewData": {
+        "id1": "没有找到符合上阵条件的英雄"
+    },
+    "CDKEYPanel": {
+        "titleLab_text": "激活码兑换",
+        "id2": "请输入激活码",
+        "conversionBtn_label": "兑 换"
+    },
+    "TeamBoss": {
+        "titleLab_text": "公会BOSS",
+        "teambossLab1_text": "挑战剩余次数：",
+        "passBattleBtn_label": "跳过战斗",
+        "awardBtn_label": "奖励",
+        "rankBtn_label": "排行",
+        "leftHourLab_text": "本轮剩余：{0}小时",
+        "notOpenLab_text": "本轮已结束",
+        "id1": "1.每打掉一boss的一定血量，boss将会获得一层buff，重新进入战斗buff将重新累计。\n\n2.每天22：00进行公会boss结算\n\n3.公会boss按照伤害进行排名，奖励通过邮件发放\n\n4.每天早上6：00刷新boss和挑战次数",
+        "id2": "购买<font color=0xf76b48>{oneTimeGet}次BOSS挑战次数</font>，需要消耗<font color=0xf76b48>{oneTimeCost}{0}</font>，是否确定?",
+        "id5": "购买次数今日已达上限！"
+    },
+    "SaDanRedPacketListItem": {
+        "id1": "公会{0}级解锁",
+        "id2": "VIP{0}解锁",
+        "id3": "已领取",
+        "id4": "领 取"
+    },
+    "TechReset": {
+        "titleLab_text": "提示",
+        "cancelBtn_label": "取消",
+        "resetBtn_label": "确定",
+        "id1": "暂未升级科技点"
+    },
+    "TechLevelUp": {
+        "infoLab_text": "需花费",
+        "levelFullLab_text": "当前科技已满级",
+        "userLevelNeedLab_text": "需要玩家等级{0}级",
+        "cofirmBtn_label": "确 定",
+        "id1": "需要前置科技{0}级"
+    },
+    "TechLevelUpViewData": {
+        "id1": "新科技激活",
+        "id2": "升级",
+        "id3": "激 活",
+        "id4": "升 级"
+    },
+    "TeamBossRankPage": {
+        "titleLab_text": "排行榜",
+        "emptyItem_1_1_text": "暂未上榜",
+        "id1": "未上榜"
+    },
+    "TeamBossDamageShow": {
+        "lab_text": "我的排行",
+        "lab1_text": "队伍输出"
+    },
+    "BaseHome": {
+        "btn1_label": "主城",
+        "btn2_label": "英雄",
+        "btn3_label": "冒险",
+        "btn4_label": "召唤",
+        "btn5_label": "公会",
+        "mainTaskBtn_2_text": "<font color=0xae1a0f>【主】</font><font color=0x321704>{0}</font>"
+    },
+    "MemberItemListItem": {
+        "id1": "本周活跃：{0}",
+        "impeachLab_text": "可弹劾",
+        "id2": "加入倒计时",
+        "id3": "{0}天{1}小时{2}分",
+        "id4": "{0}小时{1}分",
+        "id5": "{0}分钟"
+    },
+    "BaseWelfarePanelViewData": {
+        "id0": "签到",
+        "id1": "月卡",
+        "id2": "战令",
+        "id3": "等级礼包",
+        "titleLab_text": "福利"
+    },
+    "BaseWelfarePanel": {
+        "signinBtn_label": "签到",
+        "monthlyCardBtn_label": "月卡",
+        "battleMedalBtn_label": "战令",
+        "levelGiftBtn_label": "等级基金",
+        "vipBtn_label": "超级VIP",
+        "titleLab_text": "福利"
+    },
+    "SignInPanel": {
+        "titleLab_text": "签到",
+        "signInTabBtn_label": "签到",
+        "logTabBtn_label": "记录"
+    },
+    "TSItemRenderer": {
+        "lab1_text": "已签到",
+        "dayLab_text": "第{0}天",
+        "actEndTimeLab_text": "活动截止：<font color=0x93cf52>{0}</font>",
+        "dailyRechargeTimeLab_text": "第{0}天",
+        "totalRankLab_text": "第{0}名",
+        "jialintalab1_text": "我的排行",
+        "jialintaLayerLab0_text": "",
+        "jialintaLayerLab1_text": "海里",
+        "groupNameLab_text": "第{0}组",
+        "dayRechargeLab_text": "第{0}日充值",
+        "labDes1_text": "<font color=0x205d05>【{0}/{1}】</font>集齐<font color=0x205d05>{2}</font>个{3} 资质{4}",
+        "labDes2_text": "<font color=0x205d05>【{0}/{1}】</font>集齐<font color=0x205d05>{2}</font>个{3} 资质{4}",
+        "labDes3_text": "<font color=0x205d05>【{0}/{1}】</font>集齐<font color=0x205d05>{2}</font>个{3} 资质{4}",
+        "urSuperSkillBigRewardItemLab_text": "第{0}层",
+        "teamworkBossListLab1_text": "团本归属",
+        "teamworkOneTeamNumLab_text": "{0}/{1}",
+        "soloBossItemLab1_text": "最高通关",
+        "soloBossItemneedLevelLab_text": "{0}级解锁",
+        "OnceTrainRecordListLab1_text": "保 存",
+        "OnceTrainRecordListLab2_text": "取 消",
+        "killPlayerServerIdLab_text": "{0}服",
+        "unEndStarLabel_text": "获得{0}星",
+        "nameAndServerLab_text": "{0} <font color=0x59331e>{1}区</font>",
+        "NewFundActItemDayLab_text": "第{0}天"
+    },
+    "TeamLobby": {
+        "id1": "<font size=20>Lv </font><font size=30>{0}</font>",
+        "id2": "公会内部公告不能为空!",
+        "id3": "含有敏感词汇",
+        "id4": "公会对外描述不能为空!",
+        "id5": "该功能尚未开发",
+        "id6": "只有会长和副会长可以修改!",
+        "id7": "1.公会总活跃度为所有成员的本周活跃度之和\n\n2.成员离开公会，活跃度不会扣除\n\n3.公会活跃度用于参加海域争夺战的报名\n\n【活跃度获取途径】\n公会签到 50活跃度/次\n公会BOSS 10活跃度/次\n公会夺宝 10活跃度/次\n公会金库领取 5活跃度/次",
+        "id8": "本周总活跃：{0}",
+        "id9": "人员：{0}/{1}",
+        "noticeBtn_label": "内部公告",
+        "introBtn_label": "对外简介",
+        "TeamLobby0_text": "1.是否需要审批:",
+        "TeamLobby1_text": "是",
+        "TeamLobby2_text": "否",
+        "TeamLobby3_text": "2.是否有等级限制:",
+        "TeamLobby4_text": "用户等级≥",
+        "TeamLobby5_text": "申请列表",
+        "titleLab_text": "公会大厅",
+        "signInBtn_label": "签到",
+        "teamListBtn_label": "公会列表",
+        "TeamAssociationBtn_label": "公会群",
+        "id10": "会长还没有填写公会群信息",
+        "id11": "QQ群号：{0}",
+        "id12": "会长微信：{0}",
+        "lobbyTabBtn_label": "公会大厅",
+        "teamLogTabBtn_label": "公会记录",
+        "appltForTabBtn_label": "申请列表"
+    },
+    "TeamInfoManager": {
+        "id1": "队员",
+        "id2": "副会长",
+        "id3": "会长",
+        "id4": "{0}小时{1}分钟后可加入公会！",
+        "id5": "{0}分钟后可加入公会！",
+        "id6": "{0}分钟后可创建公会！",
+        "id7": "购买次数今日已达上限！",
+        "id8": "购买<font color=0xf76b48>{oneTimeGet}次挑战次数</font>，需要消耗<font color=0xf76b48>{oneTimeCost}{0}</font>，是否购买？",
+        "id9": "海域争夺战已结束",
+        "id10": "恢复时间:{0}"
+    },
+    "TeamManageMember": {
+        "id1": "转让会长",
+        "id2": "转让公会",
+        "id3": "成功解散公会!",
+        "id4": "解散公会",
+        "id5": "是否要将副会长降为普通成员？",
+        "id6": "确定",
+        "id7": "取消",
+        "id8": "是否要将该成员任命为副会长？",
+        "id9": "成功退出公会!",
+        "id10": "是否要将该成员踢出公会？",
+        "id11": "好友请求已发送!",
+        "id12": "是否要花费{0}{1}弹劾会长？弹劾后，您将成为本公会的新会长。\n\n(需要VIP{2})",
+        "id13": "继续踢人将导致公会无法参加公会夺宝，是否继续？",
+        "TeamManageMember0_text": "阵容",
+        "titleLab_text": "成员信息",
+        "kickOutBtn_label": "踢出公会",
+        "relieveBtn_label": "解除副会长",
+        "appointBtn_label": "任命副会长",
+        "exitTeamBtn_label": "退出公会",
+        "impeachCaptainBtn_label": "弹劾会长",
+        "dissolveTeamBtn_label": "解散公会",
+        "makeOverBtn_label": "转让公会"
+    },
+    "TeamLogItemViewData": {
+        "id1": "{0}月{1}日"
+    },
+    "TeamSignInListItem": {
+        "id1": "VIP等级不足{0}级，无法签到",
+        "id3": "是否花费{0}钻石进行签到？",
+        "id5": "确定",
+        "id6": "取消",
+        "id7": "每日仅可选择一项进行签到，是否确定？",
+        "id8": "公会经验+{0}",
+        "id9": "公会活跃度+{0}",
+        "id10": "已签到",
+        "id11": "初级签到",
+        "id12": "中级签到",
+        "id13": "高级签到",
+        "titleLab_text": "签到"
+    },
+    "TotalRankMainViewData": {
+        "id1": "暂无公会"
+    },
+    "JoinTeam": {
+        "id1": "一键申请成功！",
+        "id2": "当前还没有公会可以加入",
+        "id3": "公会名字或者id不能为空",
+        "id4": "没有找到该公会！！",
+        "importText_prompt": "输入公会名称或者编号",
+        "aKeyApplicationBtn_label": "一键申请",
+        "creationTeam_label": "创建公会"
+    },
+    "TeamItemViewData": {
+        "id1": "需要审批",
+        "id2": "无需审批",
+        "id3": "等级≥{0}",
+        "id4": "人数：{0}/{1}",
+        "id5": "已申请",
+        "id6": "周活跃度:{0}"
+    },
+    "ApplyForTeamPanel": {
+        "id1": "需要审批",
+        "id2": "无需审批",
+        "id3": "等级≥{0}",
+        "id4": "不满足等级要求！",
+        "id5": "公会会长：{0}",
+        "id6": "人数：{0}/{1}",
+        "joinBtn_label": "申请加入",
+        "titleLab_text": "公会信息",
+        "ApplyForTeamPanel0_value": "已申请",
+        "ApplyForTeamPanel1_value": "已在该公会中",
+        "TransfersBtn_label": "申请转会",
+        "id7": "转会申请需要对方公会管理者同意，同意后你将自动退出当前公会，并在冷却时间结束后自动加入对方公会。",
+        "id8": "确 定",
+        "id9": "取 消",
+        "id10": "转让会长后才能申请转会!"
+    },
+    "BossAwardPage": {
+        "titleLab_text": "排名奖励",
+        "awardDesLab_text": "每次战斗奖励",
+        "awardDesLab0_text": "输出排行奖励",
+        "BossAwardPage0_text": "战斗奖励根据玩家等级进行计算\n玩家等级越高获得奖励越多"
+    },
+    "BattleForTreasureMain": {
+        "titleLab_text": "公会夺宝",
+        "unopenTimeLab_text": "开启时间：每周一~周五9：00到21：00",
+        "unopenOtherLab_text": "无法参加本轮活动",
+        "unopenTitleLab_text": "满足以下条件才能参与本活动",
+        "memberRequestLab_text": "<font color={0}>公会成员大于等于{1}个</font>",
+        "teamLevelRequestLab_text": "<font color={0}>公会等级达到{1}级</font>",
+        "defenceTeamBtn_label": "我方防守",
+        "totalNumRequestLab_text": "<font color={0}>满足以上2个条件的公会大于{1}个</font>"
+    },
+    "TreasureDefendViewPage": {
+        "titleLab_text": "防守阵容",
+        "defendTeamShowRuleLab_label": "防守队伍为本公会战力前十玩家\n防守阵容为昨日竞技场阵容"
+    },
+    "BattleForTreasureEnemy": {
+        "titleLab_text": "公会夺宝",
+        "defenceTeamBtn_label": "我方防守",
+        "teamHonorBtn_label": "贡献排行",
+        "battleRecordBtn_label": "战斗记录",
+        "selfTeamNameLab_text": "我方：{0}",
+        "selfGetLab_text": "已抢夺：{0}",
+        "otherTeamNameLab_text": "敌方：{0}",
+        "otherTeamLeftLab_text": "可抢夺：{0}",
+        "id1": "今日公会掠夺已结束",
+        "id2": "本轮掠夺结束，新的敌人出现了，点击确定开始下一轮战斗。",
+        "emptyItem_1_1_text": "已抢夺{0}艘敌船",
+        "leftEnemyTeamNumLab_text": "剩余敌船:<font color=0xFFFFFF>{0}/{1}</font>"
+    },
+    "TreasureEnemyGroupListItem": {
+        "leftCoinLab_text": "剩余可抢夺公会币：{0}",
+        "battleBtn_label": "抢夺",
+        "id1": "您的次数已用完"
+    },
+    "TeamHonor": {
+        "titleLab_text": "贡献排行",
+        "getDesLab_text": "我方当前抢夺公会币数量：{0}",
+        "emptyItem_1_1_text": "暂未上榜",
+        "honorDesLab_text": "贡献前5名将获得额外奖励"
+    },
+    "TeamHonorOne": {
+        "lab_text": "我的排行",
+        "getDesLab_text": "抢夺数量",
+        "onLineLab_text": "在线"
+    },
+    "TreasureDefenceLogViewData": {
+        "id1": "玩家{0}抢夺公会{1}玩家{2},我方获得公会币：{3}\n\n"
+    },
+    "TreasureDefenceLog": {
+        "titleLab_text": "记录",
+        "emptyItem_1_1_text": "暂未记录"
+    },
+    "CreationTeam": {
+        "id1": "公会名字不能为空!",
+        "id2": "含有敏感词汇!",
+        "CreationTeam0_text": "请输入公会名称名",
+        "id4": "公会名字不能超过{0}个汉字!",
+        "id6": "公会名字不能以数字开头!",
+        "id7": "创建公会需要VIP{0}",
+        "id8": "(每天仅可创建一次,创建公会需要VIP{0})",
+        "importText_prompt": "点击输入名称",
+        "CreationTeamBtn_label": "创 建",
+        "titleLab_text": "创建公会"
+    },
+    "TeamNotice": {
+        "comfirmBtn_label": "知道啦",
+        "titleLab_text": "新公告"
+    },
+    "SaDanRedPacket": {
+        "id1": "\n每次从公会金库中领取奖励\n\n可提高与娜美的亲密度，\n\n亲密度越高可领取奖励越多",
+        "titleLab_text": "公会金库",
+        "SaDanRedPacket0_text": "与娜美亲密度"
+    },
+    "ArenaRecordListItem": {
+        "rankLab_text": "排名:{0}"
+    },
+    "TeamSetting": {
+        "id1": "<font size=20>Lv </font><font size=30>{0}</font>",
+        "id2": "人员：{0}/{1}",
+        "titleLab_text": "信息设置",
+        "changeNameBtn_label": "公会改名",
+        "secedeBtn_label": "退出公会"
+    },
+    "LeaveTeamTip": {
+        "confirmBtn_label": "确  定",
+        "cancelBtn_label": "取  消",
+        "titleLab_text": "注意",
+        "valueLab_text": "1.退出公会的当天无法加入其它公会\n\n2.已拥有的公会币将保留到新的公会，但是捐赠的记录不会保留。"
+    },
+    "ChangeTeamName": {
+        "id1": "只有会长和副会长可以修改公会名字！",
+        "id2": "修改公会名字成功！",
+        "ChangeTeamName0_text": "请输入你想修改的名字：",
+        "titleLab_text": "名称修改",
+        "changeTeamNameBtn_label": "确定修改",
+        "importText_prompt": "点击输入",
+        "id7": "修改公会名字需要{0}钻石，是否确定修改？"
+    },
+    "TeamHeadChang": {
+        "confirmBtn_label": "确 定",
+        "cancelBtn_label": "取 消",
+        "titleLab_text": "名称修改"
+    },
+    "TimeLeapMainViewData": {
+        "id6001": "S实验室",
+        "id6002": "SS实验室",
+        "id6003": "SSS实验室",
+        "lab1": "通关SS实验室解锁",
+        "lab2": "{0}级解锁"
+    },
+    "TSUIController": {
+        "id1": "{0}时",
+        "id2": "{0}分",
+        "id3": "{0}秒",
+        "id4": "{0}天",
+        "id5": "{0}小时",
+        "id6": "{0}分钟",
+        "id7": "英雄包裹已满，将通过邮件发送!",
+        "id8": "您的账号已在其他设备上登录",
+        "id9": "与服务器的网络已断开",
+        "id10": "本次请求超时, 可能您的网络不佳",
+        "id11": "亲爱的玩家，请重新登录后再尝试支付",
+        "useLottryCoin": "是否使用{0}进行支付?"
+    },
+    "MonthCardPanel": {
+        "lab1_text": "购买即送",
+        "lab2_text": "每日可领取",
+        "lab3_text": "终身卡特权"
+    },
+    "MonthCardPanelViewData": {
+        "id1": "领取奖励",
+        "id3": "剩余：<font color=0XFFB33B>{0}</font>天",
+        "id4": "剩余：<font color=0XFFB33B>{0}</font>小时",
+        "id5": "剩余：<font color=0XFFB33B>1</font>小时",
+        "id6": "{0}购买",
+        "id7": "查看VIP特权"
+    },
+    "IllustratedHandBook": {
+        "id1": "隐藏界面",
+        "id2": "显示界面",
+        "id3": "防御",
+        "id4": "速度",
+        "id5": "详情",
+        "hideBtn_label": "隐藏界面",
+        "id6": "暂未开放",
+        "enemyName": "演示玩家",
+        "battleBtn_label": "演示",
+        "detailsBtn_label": "属性详情",
+        "fetterBtn_label": "羁绊",
+        "acquiringWayBtn_label": "评价",
+        "skillBtn_label": "技能",
+        "heroSkinBtn_label": "皮肤"
+    },
+    "HerosManager": {
+        "id1": "{0}增加{1};",
+        "id5": "物理攻击",
+        "id6": "主动技能",
+        "id7": "被动技能",
+        "id8": "终结技",
+        "id9": "潜能",
+        "id10": "物理",
+        "id11": "主动",
+        "id12": "被动"
+    },
+    "HeroBookSkill": {
+        "HeroBookSkill0_text": "已满级",
+        "titleLab_text": "技能"
+    },
+    "TotalRankItemViewData": {
+        "id1": "未上榜",
+        "id2": "公会等级："
+    },
+    "LevelGiftPanel": {
+        "lab1_text": "玩家等级",
+        "lab2_text": "等级礼包",
+        "lab3_text": "等级基金",
+        "tipsLab_text": "购买等级基金累计可领取\n20次十连抽"
+    },
+    "LevelGiftPanelViewData": {
+        "id1": "已领取",
+        "id2": "购买基金",
+        "id3": "下阶段"
+    },
+    "BaseHeroLevelUp": {
+        "titleLab_text": "英雄培养",
+        "wakeUpTapBtn_label": "觉 醒",
+        "BodyArtTapBtn_label": "体 术",
+        "potencyTapBtn_label": "潜 能",
+        "hakiTapBtn_label": "霸 气"
+    },
+    "LevelGiftItemListItem": {
+        "id1": "玩家等级不足",
+        "id2": "您已领取过该奖励",
+        "id3": "购买解锁等级基金即可领取，是否前往购买",
+        "id4": "去购买",
+        "lab1_text": "下阶段",
+        "buyReceiveBtn_label": "继续领取",
+        "levelReceiveBtn_label": "领 取"
+    },
+    "TeamPanel": {
+        "id1": "施工中，敬请期待！",
+        "id2": "成功加入公会！",
+        "id3": "成功建立公会!",
+        "id4": "本周总活跃：",
+        "longZhuZhengDuoZhanBtn_label": "海域争夺战",
+        "BossBtn_label": "公会BOSS",
+        "saDanHongBaoBtn_label": "公会金库",
+        "zhanDuiDuoBaoBtn_label": "公会夺宝",
+        "keJiDaTingBtn_label": "公会科技",
+        "zhanDuiDaTingBtn_label": "公会大厅",
+        "shopBtn_label": "公会商店",
+        "id5": "您好，会长为大家建立了公会群，赶快加入我们的公会群来和大家聊天吧！",
+        "id6": "前往查看",
+        "id7": "会长大人，您的公会已经拥有不少的成员了。通过微信群或是QQ群，可以在平时和海域争夺战中和成员们更好得交流哦~",
+        "id8": "查看",
+        "TeamPanelLab1_text": "",
+        "id9": "{0}天{1}小时{2}分后正式加入该公会！",
+        "id10": "{0}小时{1}分后正式加入该公会！",
+        "id11": "{0}分钟后正式加入该公会！",
+        "TeamPanel0_text": "本周总活跃：",
+        "gvgBtn_label": "海岛求生"
+    },
+    "onHookSingleton": {
+        "id5": "普通",
+        "id6": "困难",
+        "id7": "噩梦",
+        "id8": "地狱"
+    },
+    "HeroMainLimitEvolveViewData": {
+        "id1": "需要等级到达{0}级"
+    },
+    "ShopTapItemViewData": {
+        "id1": "竞技场商店",
+        "id2": "激斗商店",
+        "id3": "公会商店",
+        "id4": "祭坛商店",
+        "id5": "（高级）",
+        "id6": "（低级）",
+        "id7": "赏金商店",
+        "id8": "团本商店"
+    },
+    "HeroMainAttribute": {
+        "titleLab_text": "详细属性"
+    },
+    "HeroMainAttributeViewData": {
+        "id1": "(防御减伤率{0}%)",
+        "id2": "(护甲减伤率{0}%)"
+    },
+    "BattleMedalPanel": {
+        "refreshTimeLab_text": "战令结束倒计时",
+        "lab1_text": "战令经验",
+        "id21": "没有奖励可以领取",
+        "levelLab_text": "战令等级：{0}",
+        "buyBtn_label": "查看高级战令",
+        "levelUpBtn_label": "获取经验",
+        "buyLevelBtn_label": "购买等级",
+        "rewardTitleGroup_0_text": "战令等级",
+        "rewardTitleGroup_1_text": "普通战令",
+        "rewardTitleGroup_2_text": "高级战令",
+        "awardTabBtn_label": "战令奖励",
+        "taskTabBtn_label": "战令任务",
+        "onceReceiveBtn_label": "一键领取",
+        "id15": "已满级，无法购买！",
+        "id18": "{0}级开放",
+        "id16": "购买<font color={0}>1次战令等级</font>需要消耗<font color={0}>{1}钻石</font>，是否确定购买？",
+        "id17": "解锁成功！",
+        "lockLab_text": "点击解锁高级战令",
+        "shopTabBtn_label": "战令商店"
+    },
+    "BattleMedalPanelViewData": {
+        "id1": "通过完成战令任务获取经验！",
+        "id2": "提升战令等级，领取丰厚奖励",
+        "id3": "恭喜您！战令已成功提升至满级！",
+        "id4": "经验已满"
+    },
+    "OpenHighGradeBattleMedal": {
+        "titleLab_text": "满级奖励预览",
+        "tips_text": "提示：上述奖励为玩家购买高级战令并升至满级后累计可获得的奖励！",
+        "buyBtn_label": "{0}购买"
+    },
+    "BattleMedalAwardListItem": {
+        "lab1_text": "当前",
+        "id1": "购买解锁高级战令即可领取，是否前往购买",
+        "id2": "前往购买",
+        "id3": "战令等级不足",
+        "buyReceiveBtn_label": "继续领取",
+        "levelReceiveBtn_label": "领 取"
+    },
+    "BattleMedalTaskListItem": {
+        "precentLab_text": "当前任务进度{0}/{1}",
+        "lab1_text": "奖励",
+        "receiveBtn_label": "领 取"
+    },
+    "HeroStampSuitItemViewData": {
+        "id1": "风贝套",
+        "id2": "炎贝套",
+        "id3": "排击贝套",
+        "id4": "水贝套",
+        "id5": "闪光贝套",
+        "id6": "音贝套"
+    },
+    "ActivityBaseRewardViewData": {
+        "id1": "随机奖励"
+    },
+    "RechargeBasePanel": {
+        "discountBtn_label": "每日特价",
+        "weekBtn_label": "每周礼包",
+        "giftBtn_label": "每日礼包",
+        "diamondBtn_label": "钻石商城",
+        "titleLab_text": "特惠礼包"
+    },
+    "TodayDiscount": {
+        "timeDownLab_text": "<font color=0xffffe0>刷新倒计时\n</font><font color=0xfff153>{0}</font>"
+    },
+    "SuperGiftActivity": {
+        "endTimeLab_text": "活动截止：{0}"
+    },
+    "SuperGiftListItem": {
+        "limitLab_text": "限购{0}/{1}次",
+        "id1": "特惠礼包"
+    },
+    "ConsumptionFeedbackItemListItem": {
+        "getBtn_label": "领 取",
+        "receivedLab_text": "已领取",
+        "emailTip_text": "奖励在活动结束后通过邮件发送"
+    },
+    "ConsumptionFeedback": {
+        "id1": "暂未有玩家消耗钻石",
+        "id2": "{0}消耗",
+        "id3": "活动已结束！",
+        "ConsumptionFeedback1_text": "我的排行",
+        "ConsumptionFeedback3_text": "排名",
+        "ConsumptionFeedback4_text": "角色名",
+        "awardTabBtn_label": "排行奖励",
+        "rankTabBtn_label": "排行榜",
+        "endTimeLab_text": "活动截止  <font color=0xA7EC5D strokecolor=0x340d05>{0}</font>",
+        "id4": "未上榜",
+        "id5": "第{0}名"
+    },
+    "ActivityNewTurnTable": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>",
+        "turnTableOnceBtn_label": "转一次",
+        "turnTableTenBtn_label": "转十次",
+        "costLab0_text": "或",
+        "costLab1_text": "或",
+        "id1": "{0}不足,将消耗{1}x{2},是否继续？",
+        "id2": "确定",
+        "id3": "取消"
+    },
+    "DailyRecharge": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>"
+    },
+    "TimeLimitGiftBag": {
+        "id1": "{0}",
+        "id2": "限时倒计时:<font color=0x82d637 size=22>{0}</font>",
+        "id3": "永久持续",
+        "TimeLimitGiftBag0_text": "礼包仅在此页面充值可获得，仅能购买一次"
+    },
+    "SevenDaysRecharge": {
+        "vipLab_text": "参与要求：VIP{0}",
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>"
+    },
+    "MemberGatherActivity": {
+        "endTimeLab_text": "活动截止:<font color=0xffffff>{0}</font>",
+        "collectLab_text": "收集进度：<font color=0xffffff>{0}/{1}</font>"
+    },
+    "MemberGatherActivityRewardItemViewData": {
+        "id1": "收集{0}个",
+        "id2": "全收集"
+    },
+    "EveryDayGift": {
+        "timeDownLab_text": "刷新倒计时\n<font color=0xfff153>{0}</font>"
+    },
+    "AchievementAward": {
+        "titleLab_text": "达标奖"
+    },
+    "TotalRankActivityViewData": {
+        "id1": "第{0}名",
+        "id2": "未上榜",
+        "id3": "关卡数",
+        "id4": "图鉴数",
+        "id5": "关卡数",
+        "id6": "战斗力",
+        "id7": "空贝总星数",
+        "id8": "总资质",
+        "id9": "活动已结束"
+    },
+    "TotalRankActivity": {
+        "leftTimeLab_text": "倒计时：<font color=0xffffff>{0}</font>",
+        "showRewardBtn_label": "奖励",
+        "showRankBtn_label": "排行榜",
+        "Lab0_text": "排名",
+        "Lab1_text": "排名",
+        "Lab2_text": "奖励",
+        "Lab3_text": "角色名",
+        "Lab5_text": "我的排行",
+        "rankAwardDesLab_text": "排行榜 <font color=0xffe534>前500名</font> 可获得 <font color=0xffe534>丰厚奖励！</font>"
+    },
+    "MemberGatherRewardItem": {
+        "titleLab_text": "集结宝箱"
+    },
+    "EveryDayGiftRewardItemViewData": {
+        "id1": "限购{0}/{1}次",
+        "id2": "已购买",
+        "id3": "免费"
+    },
+    "SevenDaysSignItemViewData": {
+        "id1": "第{0}天",
+        "id2": "立即获得"
+    },
+    "SevenDaysSign": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>"
+    },
+    "GrowUpActivity": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>"
+    },
+    "FastHangUp": {
+        "titleLab_text": "快速挂机",
+        "infoLab_text": "使用快速挂机后，将立即获得{0}分钟的挂机收益（不包含玩家经验）",
+        "lab1_text": "每日6:00重置次数",
+        "cancelBtn_label": "取 消",
+        "receiveBtn_label": "使用",
+        "id1": "消耗{0}{1}使用一次快速挂机，是否确定。"
+    },
+    "FastHangUpViewData": {
+        "id1": "免费使用",
+        "id2": "次数不足"
+    },
+    "ThreeDaysActivityListItem": {
+        "dayLab_text": "DAY{0}"
+    },
+    "ThreeDaysActivity": {
+        "id1": "已达最大补签次数",
+        "id2": "是否消耗{0}钻石补签?(剩余补签次数：{1})"
+    },
+    "EquipLotteryItem": {
+        "id1": "该卡牌已经翻开！"
+    },
+    "EquipLottery": {
+        "id1": "奖池内的奖励将被刷新，是否继续？",
+        "id2": "确 定",
+        "id3": "取 消",
+        "EquipLottery0_text": "本次翻牌消耗:",
+        "refreshBtn_label": "刷新",
+        "confirmBtn_label": "确定奖池",
+        "endTimeLab_text": "活动截止:<font color=0x62ff32>{0}</font>",
+        "refreshTimesLab_text": "剩余次数:<font color=0xffffff>{0}</font>",
+        "refreshBtn1_label": "免费刷新"
+    },
+    "SingMajorBattleActivity": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>",
+        "id1": "请选择要购买的空贝",
+        "id2": "将消耗{0}{1}购买空贝，是否确认",
+        "leftTimeLab_text": "剩余次数：<font color=0xffffff>{0}</font>",
+        "id3": "购买次数已达上限",
+        "chooseBtn_label": "确认选择",
+        "lab1_text": "或"
+    },
+    "SingMajorBattleActivityViewData": {
+        "id1": "{0}号位",
+        "id2": "首次免费",
+        "id3": "购买空贝"
+    },
+    "ExaltedGift": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>",
+        "totalCountLab_text": "当前累计充值:<font color=0xfff82f>{0}</font>元"
+    },
+    "BuyNewDiscountsGiftPanel": {
+        "cancelBtn_label": "取 消",
+        "confirmBtn_label": "确 定"
+    },
+    "ExchangeHeroActivity": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>"
+    },
+    "ExChangeHeroItem": {
+        "id1": "需要VIP{0}才能兑换",
+        "ExChangeHeroItem0_text": "已征召",
+        "needVipLab_text": "需VIP{0}",
+        "exChangeBtn_label": "征 召"
+    },
+    "SummonGiftRewardActivityViewData": {
+        "id1": "累计抽卡{0}次"
+    },
+    "SummonGiftRewardActivity": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>"
+    },
+    "RechargeAwardActivity": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>"
+    },
+    "RechargeAwardActivityViewData": {
+        "id1": "累计充值<font color=0xb74113>{0}</font>"
+    },
+    "ActivityExChangeTip": {
+        "id1": "请先选择兑换材料！",
+        "id2": "钻石不足，请先充值！",
+        "id3": "<font color={0}>{1}</font>/{2}",
+        "choseWarnLabel_text": "征召所需材料",
+        "sureBtn_label": "兑 换"
+    },
+    "OnlineGiftListItem": {
+        "id1": "{0}分钟之后就可以领取奖励了！",
+        "id2": "已经领取过奖励了！",
+        "id3": "{0}小时{1}分钟之后就可以领取奖励了！",
+        "OnlineGiftItem0_text": "已领取"
+    },
+    "ChapterRewardMain": {
+        "passChapterLab_text": "通关第{0}章",
+        "desLab_text": "还要战胜 <font color=0xaf2a10>{0}</font> 关",
+        "id1": "通关后可以领取奖励",
+        "underwayBtn_label": "进行中",
+        "getRewardBtn_label": "领取",
+        "titleLab_text": "章节奖励"
+    },
+    "ChapterRewardTabListItem": {
+        "id1": "普通",
+        "id2": "困难",
+        "id3": "噩梦",
+        "id4": "地狱",
+        "chapterLab_text": "<font color={0} strokecolor=0x311c03 stroke=2>{1}</font>第{2}章",
+        "ChapterRewardTab0_text": "已完成"
+    },
+    "ChapterRewardListItem": {
+        "id1": "通关后可以领取奖励",
+        "id2": "还要战胜 <font color=0xf4bf2c size=36>{0}</font> 关",
+        "id3": "<font color=0x9cff81>已完成</font>",
+        "getRewardBtn_label": "领取"
+    },
+    "RechargePushPanel": {
+        "infoLab_text": "到达VIP{0}礼包获取！"
+    },
+    "TotalRankActivityListItem": {
+        "totalRankLab_text": "第{0}名"
+    },
+    "DragonPromiseEnd": {
+        "titleLab_text": "全知之树",
+        "chooseBtn1_label": "任选SR",
+        "chooseBtn2_label": "任选SSR",
+        "id1": "1、消耗一定数量的历史石碑可以召唤指定SR或SSR英雄，同时获得与消耗的石碑数量相同的探索度\n\n2、VIP达到一定等级之后可以消耗探索度兑换UR碎片"
+    },
+    "SevenDaysRechargeListItem": {
+        "id1": "领奖条件不满足，需要VIP{0}",
+        "lab1_text": "VIP{0}开启活动",
+        "lab_text": "已领取"
+    },
+    "OnlineGiftMain": {
+        "timeLab_text": "解锁下一个:{0}"
+    },
+    "TeamTechnology": {
+        "id5": "1.消耗公会币升级公会科技获得属性\n\n\n2.当前节点点数到达解锁点数,开放下一级科技\n\n\n3.离开公会后公会科技依然生效",
+        "id6": "前置科技必须点满{0}点",
+        "titleLab_text": "公会科技"
+    },
+    "StrongPersonActivity": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>",
+        "welfareBtn_1_text": "每日福利",
+        "targetBtn_1_text": "今日目标",
+        "id1": "未到达指定日期"
+    },
+    "StrongPersonActivityViewData": {
+        "id0": "第",
+        "id2": "天",
+        "id3": " 免费送",
+        "id4": "豪礼"
+    },
+    "MailInfoManager": {
+        "id1": "{0}级开放好友邮件"
+    },
+    "GetBackReource": {
+        "id1": "可追回{0}小时",
+        "id2": "可追回<font color=0xF85F03>{0}</font>次",
+        "id3": "追 回",
+        "id4": "已追回",
+        "id5": "资源",
+        "id6": "装备",
+        "id7": "空贝",
+        "id8": "成功找回{0}副本{1}次",
+        "id9": "{0}后消失",
+        "id10": "资源和副本挑战次数至多可追回3天",
+        "id11": "挂机资源",
+        "id12": "资源副本",
+        "id13": "装备副本",
+        "id14": "空贝副本",
+        "id15": "该系统暂未开放",
+        "titleLab_text": "资源追回",
+        "GetBackReource1_text": "挂机资源",
+        "GetBackReource3_text": "资源副本",
+        "GetBackReource5_text": "装备副本",
+        "GetBackReource7_text": "空贝副本"
+    },
+    "RechargeListItem": {
+        "rechargeSendLab_text": "送{0}钻石"
+    },
+    "TodayDiscountRewardItemViewData": {
+        "id1": "限购1/1次",
+        "id2": "已购买",
+        "id3": "免费",
+        "id4": "限购0/1次"
+    },
+    "GlobalWarProgressAllItemViewData": {
+        "lab0": "报名",
+        "lab1": "海选",
+        "lab2": "64进16",
+        "lab3": "16进4",
+        "lab4": "半决赛",
+        "lab5": "决赛",
+        "weekLab0": "周一",
+        "weekLab1": "周二",
+        "weekLab2": "周三",
+        "weekLab3": "周四",
+        "weekLab4": "周五",
+        "weekLab5": "周六"
+    },
+    "GlobalWarMainViewData": {
+        "id1": "海选倒计时 {0}",
+        "id2": "竞技场前20名玩家将自动报名",
+        "id3": "仅限开服{0}~{1}天服务器的玩家",
+        "id4": "仅限开服{0}天后服务器的玩家",
+        "id5": "已报名",
+        "id6": "报 名",
+        "id7": "无法报名",
+        "id8": "虚位以待",
+        "id9": "未报名",
+        "id10": "报名时间已过"
+    },
+    "GlobalWarReward": {
+        "item1_3_text": "冠军头像特效（七日）",
+        "item2_3_text": "四强头像特效（七日）",
+        "item1_4_text": "成为冠军的玩家，将自动获得持续七日的荣耀头像框",
+        "item2_4_text": "获得2~4名的玩家，将自动获得持续七日的专属头像框",
+        "titleLab_text": "奖励"
+    },
+    "GlobalWarRewardItemViewData": {
+        "info1": "冠军额外奖励",
+        "info2": "亚军额外奖励",
+        "info4": "四强额外奖励",
+        "info16": "十六强额外奖励",
+        "info64": "入围赛额外奖励"
+    },
+    "GlobalWarBase": {
+        "titleLab_text": "顶上战争",
+        "rewardBtn_label": "奖 励",
+        "previousChampionsBtn_label": "夺冠榜",
+        "myGuessBtn_label": "我的竞猜"
+    },
+    "GlobalWarBaseViewData": {
+        "bgSource1": "dingshangzhanzheng50_jpg",
+        "bgSource2": "dingshangzhanzheng51_jpg",
+        "bgSource3": "dingshangzhanzheng52_jpg",
+        "bgSource4": "dingshangzhanzheng52_jpg",
+        "bgSource5": "dingshangzhanzheng52_jpg",
+        "bgSource6": "dingshangzhanzheng52_jpg",
+        "bgSource7": "dingshangzhanzheng53_jpg"
+    },
+    "GlobalWarSeaElection": {
+        "id1": "{0}场",
+        "id2": "已经领取过该奖励！",
+        "id3": "未到达指定目标，无法领取奖励",
+        "id4": "海选还未开始",
+        "id5": "当前没有对战记录",
+        "id6": "下一轮时间：",
+        "id7": "战斗记录",
+        "id8": "收起",
+        "roundNum_text": "轮次:{0}/{1}",
+        "winCount_text": "当前胜场:{0}",
+        "myRank_text": "当前排名 {0}",
+        "boxLab_text": "领取宝箱所需胜场 {0}",
+        "GlobalWarSeaElection1_text": "最终排名前",
+        "GlobalWarSeaElection2_text": "64",
+        "GlobalWarSeaElection3_text": "名将通过海选",
+        "GlobalWarSeaElection4_text": "战斗倒计时:",
+        "GlobalWarSeaElection5_text": "胜场排行",
+        "GlobalWarSeaElection6_text": "海选已结束"
+    },
+    "GlobalWarCommon": {
+        "id1": "周{0}",
+        "id2": "一",
+        "id3": "二",
+        "id4": "三",
+        "id5": "四",
+        "id6": "五",
+        "id7": "六",
+        "id8": "日",
+        "id9": "报名",
+        "id10": "海选",
+        "id11": "64进16",
+        "id12": "16进4",
+        "id13": "半决赛",
+        "id14": "决赛",
+        "id15": "未上榜"
+    },
+    "SeaElectionRankItemViewData": {
+        "id1": "Lv.{0}",
+        "id2": "{0}胜"
+    },
+    "SeaElectionRanking": {
+        "id1": "{0}区",
+        "id2": "暂无上榜选手",
+        "SeaElectionRanking0_text": "相同胜场的玩家按战斗力由高到低进行排名",
+        "SeaElectionRanking1_text": "我的排名",
+        "SeaElectionRanking2_text": "胜场",
+        "notOnRank_text": "未上榜",
+        "titleLab_text": "排行榜"
+    },
+    "SeaElectionRankingItemViewData": {
+        "id1": "{0}区",
+        "id2": "胜场"
+    },
+    "GlobalFourToOneBattleViewData": {
+        "titleImgSource3": "dingshangzhanzheng29_png",
+        "titleImgSource4": "dingshangzhanzheng23_png",
+        "endTypeImageSource3": "dingshangzhanzheng28_png",
+        "endTypeImageSource4": "dingshangzhanzheng27_png"
+    },
+    "SeaElectionWinRewardItemViewData": {
+        "id1": "已领取",
+        "id2": "未达标",
+        "id3": "胜场达到{0}场"
+    },
+    "SeaElectionWinReward": {
+        "titleLab_text": "胜场宝箱",
+        "confirmBtn_label": "确定"
+    },
+    "GlobalBattleFirstItem": {
+        "guessBtn_label": "竞猜",
+        "detailBtn_label": "详情",
+        "recordBtn_label": "回放"
+    },
+    "GlobalBattlePlayerItem": {
+        "defeatLab_text": "淘汰",
+        "serverLab_text": "{0}区"
+    },
+    "GlobalFourToOneBattle": {
+        "groupBtn_label": "第{0}组",
+        "timeDownLab_text": "战斗倒计时：{0}"
+    },
+    "FinalPlayerInfoViewData": {
+        "id1": "{0}区",
+        "id2": "已下注",
+        "id4": "参战阵容"
+    },
+    "FinalPlayerInfo": {
+        "guessBtn_name": "赔率：{0}"
+    },
+    "GlobalWarFinal": {
+        "id1": "战斗倒计时:{0}",
+        "id2": "战斗已结束",
+        "id3": "已下注",
+        "guessBtn1_name": "赔率：{0}",
+        "guessBtn2_name": "赔率：{0}"
+    },
+    "WeaponCastActivity": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>",
+        "onceCastBtn_label": "一键铸造",
+        "stopBtn_label": "停止铸造",
+        "lab1_text": "最近获得",
+        "id1": "所需道具不足"
+    },
+    "WeaponCastActivityItem": {
+        "clickLab_text": "点击铸造",
+        "tipsBtn_label": "掉落预览",
+        "lab1_text": "需要:"
+    },
+    "WeaponCastActivityItemViewData": {
+        "weaponImgSource1": "huodong90_png",
+        "weaponImgSource2": "huodong91_png",
+        "weaponImgSource3": "huodong92_png",
+        "weaponImgSource4": "huodong93_png",
+        "weaponLab1": "<font color=0xc5ffe2>1级铸造</font>",
+        "weaponLab2": "<font color=0x9be9ff>2级铸造</font>",
+        "weaponLab3": "<font color=0xe9bfff>3级铸造</font>",
+        "weaponLab4": "<font color=0xffeaab>4级铸造</font>"
+    },
+    "WeaponCastActivityOnce": {
+        "titleLab_text": "提示",
+        "confirmBtn_label": "确  定",
+        "cancelBtn_label": "取 消",
+        "lab0_text": "一键铸造在激活3级铸造、道具不足或次数到达10次后停止，是否继续？",
+        "lab1_text": "自动分解：",
+        "lab2_text": "绿色武器",
+        "lab3_text": "蓝色武器"
+    },
+    "WeaponCastActivityBuy": {
+        "titleLab_text": "购买武器券"
+    },
+    "WeaponCastActivityBuyListItem": {
+        "limitLab_text": "限购:{0}",
+        "lab_text": "已售罄",
+        "freeBtn_label": "免费",
+        "id1": "将消耗{0}钻石购买{1}，是否继续?"
+    },
+    "WeaponCastActivityFall": {
+        "lab1_text": "掉落预览"
+    },
+    "ServerWelfareViewData": {
+        "id1": "恭喜本服玩家<font color=0xa6f5a6>{0}</font>在顶上战争中获得<font color=0xffa026>冠军</font>的成绩，全服玩家获得挂机增益，持续3天</font>",
+        "id2": "恭喜本服玩家<font color=0xa6f5a6>{0}</font>在顶上战争中获得<font color=0xffa026>四强</font>的成绩，全服玩家获得挂机增益，持续3天</font>"
+    },
+    "GlobalWarRecordListItem": {
+        "id1": "{0}区",
+        "id2": "回放"
+    },
+    "SellWindow": {
+        "sellBtn_label": "出 售"
+    },
+    "GlobalGuessAndRecord": {
+        "id1": "战斗结果",
+        "id2": "竞猜",
+        "id3": "竞猜操作完成",
+        "id4": "已下注",
+        "id5": "<font color=0xcf745c>参赛阵容</font>",
+        "id6": "<font color=0x83c9f3>参赛阵容</font>",
+        "guessBtn1_name": "赔率：{0}",
+        "guessBtn2_name": "赔率：{0}"
+    },
+    "ShopItemViewData": {
+        "id1": "<font color=0x352500>库存:</font><font color=0xc82100><b>{0}</b></font>",
+        "id2": "已售空"
+    },
+    "GlobalWarWelfare": {
+        "lab1_text": "本服最佳成绩",
+        "lab2_text": "全服玩家获得的挂机收益<font color=0x288110>+{0}%</font>,持续3天（与VIP增益叠加）",
+        "closeBtn_label": "确定"
+    },
+    "GlobalFourToTwoBattle": {
+        "timeDownLab_text": "战斗倒计时：{0}"
+    },
+    "GlobarWarGuess": {
+        "titleLab_text": "提示",
+        "infoLab_text": "是否选择对该玩家下注？下注后选择将不可更改",
+        "lab1_text": "需要：",
+        "confirm_label": "确 定",
+        "cancel_label": "取 消",
+        "lab2_text": "金币消耗为{0}小时的挂机金币收益竞猜成功将按赔率获得奖励",
+        "cancelBtn_label": "取 消",
+        "confirmBtn_label": "确 定"
+    },
+    "ApplyForFriendListItem": {
+        "id1": "好友已达上限，无法添加好友！"
+    },
+    "GlobalGuessWindowViewData": {
+        "id1": "64进16第一轮",
+        "id2": "64进16第二轮",
+        "id3": "16进4第一轮",
+        "id4": "16进4第二轮",
+        "id5": "半决赛",
+        "id6": "决赛"
+    },
+    "GlobalWarMyGuessListItem": {
+        "id1": "回放",
+        "id2": "进行中...",
+        "id3": "未进行竞猜",
+        "id4": "竞猜成功",
+        "id5": "竞猜失败",
+        "id6": "已领取",
+        "detailsBtn_label": "详情"
+    },
+    "GlobalGuessWindow": {
+        "titleLab_text": "竞猜记录"
+    },
+    "GlobalWarRanking": {
+        "id1": "暂时没有排名",
+        "titleLab_text": "夺冠榜"
+    },
+    "GlobalWarRankingItemViewData": {
+        "id1": "{0}区",
+        "id2": "累计夺冠:{0}"
+    },
+    "GlobalEndBattleRecord": {
+        "id1": "{0}区",
+        "id2": "战斗力:{0}",
+        "GlobalEndBattleRecord0_text": "决赛记录",
+        "GlobalEndBattleRecord1_text": "平局时按照双方总战力判定胜负"
+    },
+    "ConfirmMakeOverCaptain": {
+        "id1": "请输入“{0}”四个汉字！",
+        "id2": "请输入“{0}”四个汉字将公会转让给成员 </font><font color=0xbe5000>{1}</font>",
+        "id3": "输入错误！",
+        "confirmBtn_label": "确 定",
+        "id5": "点击输入",
+        "importText_prompt": "点击输入"
+    },
+    "GlobalBattleSecItem": {
+        "guessBtn_label": "竞猜",
+        "detailBtn_label": "详情",
+        "recordBtn_label": "回放"
+    },
+    "FriendManager": {
+        "id1": "每日领取好友爱心已达上限{0}个",
+        "id3": "每日赠送好友爱心已达上限{0}个",
+        "id4": "好友已达上限，无法添加好友！",
+        "id5": "对方在您的黑名单中"
+    },
+    "LanguageList": {
+        "titleLab_text": "切换语言",
+        "lab_text": "在切换语言之后，游戏将重新加载",
+        "sureBtn_label": "确 定"
+    },
+    "Bulletin": {
+        "lab_text": "系统"
+    },
+    "TotalRankActivityTopItemViewData": {
+        "id1": "第一名",
+        "id2": "第二名",
+        "id3": "第三名"
+    },
+    "TSGuideNode": {
+        "okBtn_label": "知道了"
+    },
+    "SevenDaySignNoActItem": {
+        "lab1_text": "已领取",
+        "dayLab_text": "第{0}天",
+        "receiveBtn_label": "可领取"
+    },
+    "SuperVipPanel": {
+        "copyBtn_label": "识别二维码"
+    },
+    "LevelGiftItem": {
+        "lab1_text": "下阶段",
+        "buyReceiveBtn_label": "继续领取",
+        "levelReceiveBtn_label": "领 取"
+    },
+    "LevelGiftTips": {
+        "tipsLab_text": "提示",
+        "cancelBtn_label": "取 消"
+    },
+    "LessonInfoPanel": {
+        "LessonInfoPanel1_text": "奖励"
+    },
+    "MatchItem": {
+        "id1": "空贝搭配",
+        "id2": "武器搭配",
+        "id3": "装备搭配"
+    },
+    "HeroAppraiseMain": {
+        "id1": "拥有{0}级及以上英雄才能评价",
+        "id2": "暂时没有该英雄的搭配！",
+        "id3": "{0}分",
+        "id4": "暂时没有评论哦~",
+        "HeroAppraiseMain0_text": "综合评分：",
+        "heroMatchBtn_label": "英雄搭配",
+        "heroAPPraiseBtn_label": "英雄评价",
+        "gainHeroBtn_label": "获取途径",
+        "titleLab_text": "英雄评价",
+        "heroAppraiseBtn_label": "写评论"
+    },
+    "HeroAppraisePanel": {
+        "titleLab_text": "评价"
+    },
+    "InputHeroAppraise": {
+        "id1": "您尚未对该英雄评分，无法提交评论!",
+        "id2": "英雄评论不能为空!",
+        "id3": "您的评论文字中有不符合规定的文字，请修改后再提交!",
+        "id4": "点击输入英雄评价",
+        "id5": "发布成功!",
+        "InputHeroAppraise0_text": "综合评价:",
+        "presentBtn_label": "发 布",
+        "titleLab_text": "写评价",
+        "importText_prompt": "点击输入英雄评价"
+    },
+    "HeroMatchMain": {
+        "HeroMatchMain0_text": "英雄搭配"
+    },
+    "Battle": {
+        "id1": "精英关卡无法跳过战斗，是否放弃本次挑战？",
+        "id2": "继续战斗",
+        "id3": "放弃挑战",
+        "runawayLab_text": "（无法跳过）"
+    },
+    "QuestionPanel": {
+        "sendBtn_label": "提 交",
+        "id1": "第{0}题没有作答"
+    },
+    "QuestionPanelItemViewData": {
+        "type1": "{单选}",
+        "type2": "{多选}",
+        "id1": "请输入...",
+        "id2": "最多选择{0}个"
+    },
+    "SingMajorBattleActivityNew": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>",
+        "id1": "请选择要购买的空贝",
+        "chooseBtn_label": "确认选择",
+        "freeLab_text": "首次免费",
+        "buyBtn_label": "购买空贝",
+        "id2": "材料不足"
+    },
+    "SingMajorBattleActivityNewViewData": {
+        "id1": "{0}号位"
+    },
+    "QuenchingActivity": {
+        "QuenchingActivity0_text": "规则",
+        "QuenchingActivity1_text": "点击放入装备",
+        "curCostDes_text": "当前能量:",
+        "endTimeLab_text": "活动截止:<font color=0xA7EC5D>{0}</font>"
+    },
+    "EquipForge": {
+        "id1": "<font color=0x79ee07>首次免费</font>",
+        "forgeOne_label": "打造一次",
+        "endTimeLab_text": "活动截止:<font color=0xA7EC5D>{0}</font>",
+        "forgeTenBtn_label": "打造十次"
+    },
+    "LuckyPackActivityListItem": {
+        "limitLab1": "限购:{0}",
+        "limitLab2": "今日限购:{0}",
+        "lab0_text": "已购买",
+        "freeBtn_label": "免费",
+        "id1": "是否花费{0}钻石购买？"
+    },
+    "ActRewardPreview": {
+        "titleLab_text": "奖励预览",
+        "ActRewardPreview1_text": "概率预览"
+    },
+    "QuenchingChoose": {
+        "id1": "装备淬炼",
+        "id2": "空贝淬炼",
+        "id3": "选中淬炼的{0}中包含 <font color=0xe14000>橙色</font> 品质，是否继续淬炼？",
+        "id4": "装备",
+        "id5": "空贝",
+        "id6": "您没有紫色品质以上的{0}可以淬炼",
+        "id7": "武器淬炼",
+        "id8": "武器",
+        "QuenchingChoose0_text": "本次分解获得:",
+        "QuenchingChoose_text": "剩余"
+    },
+    "QuenchingItem": {
+        "receiveLab_text": "已领取"
+    },
+    "CounterpartCheckTips": {
+        "confirm_label": "确 定",
+        "cancel_label": "取 消",
+        "sure_label": "确 定",
+        "titleLab_text": "提 示",
+        "CounterpartCheckTips1_text": "不再提示"
+    },
+    "LuckyPackActivity": {
+        "endTimeLab_text": "活动截止:<font color=0xA7EC5D>{0}</font>"
+    },
+    "SingleRecharge": {
+        "endTimeLab_text": "活动截止:<font color=0xA7EC5D>{0}</font>"
+    },
+    "BulmaParty": {
+        "endTimeLab0_text": "活动截止:",
+        "endTimeLab_text": "<font color=0x46ff38>{0}</font>"
+    },
+    "PackOneKeyMerge": {
+        "commonMergeTipsLabel_text": "一键合成可获得以下物品",
+        "mergeNumLimitTipsLabel_text": "一次最多合成99个{0}",
+        "titleLab_text": "一键合成",
+        "cancelBtn_label": "取  消",
+        "confirmBtn_label": "确  定",
+        "id1": "武器",
+        "id2": "空贝",
+        "id3": "装备"
+    },
+    "DragonBallBattleMap": {
+        "titleLab_text": "海域争夺战",
+        "rankBtn_label": "天 梯",
+        "rewardBtn_label": "奖 励",
+        "denfenceBtn_label": "阵 容",
+        "playRuleBtn_label": "玩法介绍",
+        "finishLab_text": "奖励通过邮件发送",
+        "id1": "尚未开启，无法进入",
+        "id2": "海域争夺战已结束",
+        "id3": "报名时间已过，公会未报名"
+    },
+    "DragonBallBattlePlayRule": {
+        "titleLab_text": "玩法规则"
+    },
+    "DragonBallBattleSignUpViewData": {
+        "id1": "开服后第四个自然周的周一开启",
+        "id2": "根据占领地图中的石碑情报数量进行排名",
+        "id3": "公会等级{0}级以上才能报名"
+    },
+    "DragonBallBattleSignUp": {
+        "lab1_text": "需要公会活跃度",
+        "integralLab_text": "公会积分：{0}",
+        "id1": "仅会长和副会长可以报名",
+        "id2": "公会活跃度不够",
+        "id3": "1.公会总活跃为所有公会成员本周活跃度总和\n\n2.成员离开公会已获得的活跃度不会扣除\n\n3.公会活跃度用于报名海域争夺战\n\n【公会活跃度获取途径】\n公会签到 50活跃度/次\n公会BOSS 10活跃度/次\n公会夺宝 10活跃度/次\n公会金库 5活跃度/次"
+    },
+    "DragonBallBattleMain": {
+        "recordBtn_label": "战斗记录",
+        "chatTextInput_prompt": "请输入聊天内容",
+        "sendBtn_label": "发 送",
+        "lab1_text": "公会战剩余时间：",
+        "reportBtn_label": "战报",
+        "infoBtn_label": "公会信息",
+        "lab2_text": "置顶",
+        "lab0_text": "置顶",
+        "leftTimeLab_text": "海域争夺战剩余时间{0}",
+        "id2": "公告不能为空!",
+        "id3": "字数不能超过{0}",
+        "battleFinishBtn_label": "争夺结果>>"
+    },
+    "DragonBallBattleMapInfo": {
+        "id1": "守军已变化，本次战斗无效且次数不消耗！",
+        "id2": "尝试占领",
+        "id3": "尝试击退",
+        "id4": "已在其他点有驻防，请先确定胜利后是否进行换防（原占点由强盗占领）？",
+        "id5": "布防成功！",
+        "id6": "海域争夺战已结束！",
+        "id7": "未知",
+        "id8": "无",
+        "id9": "未探索",
+        "id10": "已探索",
+        "id12": "{0}层",
+        "id13": "1.本公会成员首次占领旗子，可以确定该点是否有石碑情报\n\n2.本公会成员发现的石碑情报，其他公会无法看见，同样我方也无法看到其他公会发现的石碑情报\n\n3.最终结算时，占领了中心塔的公会将能获得该地区的所有石碑情报，无论是否由该公会发现",
+        "DragonBallBattleMapInfo0_text": "该地区我方发现情报:",
+        "DragonBallBattleMapInfo1_text": "当前占领方:",
+        "DragonBallBattleMapInfo2_text": "只有占领中心的占领方才可以获得所有情报",
+        "DragonBallBattleMapInfo3_text": "中心塔",
+        "DragonBallBattleMapInfo4_text": "占据:",
+        "DragonBallBattleMapInfo5_text": "中心塔战斗BUFF",
+        "DragonBallBattleMapInfo6_text": "中心塔战斗BUFF",
+        "titleLab_text": "海域争夺战",
+        "attackDes_text": "<font color=0xffffff size=40>我</font><font color=0xffffff size=30>方:</font>",
+        "defenseDes_text": "<font color=0xffffff size=40>占</font><font color=0xffffff size=30>领方:</font>"
+    },
+    "DragonBallBattleHonor": {
+        "titleLab_text": "荣耀榜",
+        "infoLab_text": "1.每次战斗可获得50荣誉分，战胜其他玩家额外获得10荣誉分\n2.发现情报时获得50荣誉分\n3.结算时，占据情报点可获得500荣誉分\n4.结算时，在有石碑情报的地区占据非情报点可获得100荣誉分",
+        "pointDes": "荣耀积分"
+    },
+    "DragonBallBattleHornorItem": {
+        "lab_text": "我的排名"
+    },
+    "DragonBallBattleRewardTips": {
+        "titleLab_text": "荣耀榜",
+        "infoLab_text": "• 根据地图中每个公会占领的石碑情报数量进行排名\n• 每个公会成员根据公会排名获得奖励\n• 奖励通过邮件进行发放"
+    },
+    "DragonBallBattleRewardTipsViewData": {
+        "tabInfoLabel1": "冠军公会",
+        "tabInfoLabel2": "亚军公会",
+        "tabInfoLabel3": "季军公会",
+        "rankLab1": "我的排名：<font color=0xfff7e3 size=22 strokeColor=0x0f0402>{0}</font>",
+        "rankLab2": "排行榜暂无数据"
+    },
+    "DragonBallBattleParagraphItem": {
+        "paragraphDescribeLab_text": "结算时额外获得<font color=0xc83609>{0}%</font>荣耀币",
+        "tipsLab_text": "在该分段中战斗，各名次的得分如下\n第一名<font color={3}>{0}</font> 第二名<font color={4}>{1}</font> 第三名<font color={5}>{2}</font>"
+    },
+    "DragonBallBattleHighLadderViewData": {
+        "id1": "天梯榜",
+        "id2": "段位加成",
+        "id3": "暂时没有人上榜"
+    },
+    "DragonBallBattleHighLadderItem": {
+        "lab_text": "我的排名",
+        "noRankLab_text": "未上榜"
+    },
+    "DragonBallBattleEnemyInfo": {
+        "id1": "防守BUFF:",
+        "id2": "进攻BUFF:",
+        "id3": "撤防成功！",
+        "id4": "确定",
+        "id5": "取消",
+        "id6": "是否确定要撤防，撤防后将有强盗占领该点？",
+        "id7": "海域争夺战已结束！",
+        "id8": "由本公会成员占领中...",
+        "id9": "保护时间中无法挑战…{0}秒",
+        "id10": "战斗冷却中...{0}",
+        "id11": "本周五24:00之后加入公会的成员，无法参与海域争夺战的战斗",
+        "id12": "英雄不存在",
+        "id13": "点击英雄查看详细信息！",
+        "id14": "查询中...",
+        "id15": "是否确定撤防，撤防后占点将恢复成强盗",
+        "id16": "确 定",
+        "id17": "取 消",
+        "id18": "您未设置海域争夺战阵容，请先设置阵容",
+        "id19": "设置阵容",
+        "id20": "敌人",
+        "id21": "阵容",
+        "lab1": "非情报点的争夺双方均不享受buff加成",
+        "lab2": "该点未探明"
+    },
+    "DragonBallBattleSelfRecord": {
+        "titleLab_text": "我的记录"
+    },
+    "DragonBallBattleRecordMessage": {
+        "lab0_text": "我的记录",
+        "lab1_text": "公会记录"
+    },
+    "FindDragonBall": {
+        "FindDragonBall0_text": "点击空白处退出",
+        "FindDragonBall1_text": "己方发现的石碑情报仅对本公会可见"
+    },
+    "DragonBallBattleFinishTips": {
+        "titleLab_text": "比赛结束",
+        "closeBtn_label": "确 定"
+    },
+    "DragonBallBattleFinishItem": {
+        "noLab_text": "无公会参加"
+    },
+    "DragonBallBattleFinishItemViewData": {
+        "rankImg1": "haiyuzhengduozhan156_png",
+        "rankImg2": "haiyuzhengduozhan157_png",
+        "rankImg3": "haiyuzhengduozhan158_png"
+    },
+    "BuyGoldTips": {
+        "BuyGoldTips1_text": "X",
+        "isDoubleLab_text": "(本次双倍!!)"
+    },
+    "ExchangeMerchant": {
+        "endTimeLab_text": "活动截止 <font color=0xa7ec5d strokeColor=0x340d05>{0}</font>"
+    },
+    "ExchangeMerchantListItem": {
+        "limitLab_text": "限购:{0}",
+        "exchangeBtn_label": "兑 换"
+    },
+    "ExchangeMerchantExchangePanelViewData": {
+        "id_equip": "选择用以兑换的装备",
+        "id_weapon": "选择用以兑换的武器",
+        "id_sign": "选择用以兑换的空贝",
+        "empty_equip": "没有可以用以兑换的装备"
+    },
+    "ExchangeMerchantExchangePanel": {
+        "id1": "所需材料已满"
+    },
+    "SignDrawCard": {
+        "id1": "<font color=0x79ee07>首次免费</font>",
+        "id2": "定向拾取",
+        "id3": "普通拾取",
+        "id4": "会随机捡到6种类型的空贝",
+        "id5": "每次拾取必然获得",
+        "id6": "未指定",
+        "signCardType0_text": "空贝类型:",
+        "signCardType1": "风贝",
+        "signCardType2": "炎贝",
+        "signCardType3": "排击贝",
+        "signCardType4": "水贝",
+        "signCardType5": "闪光贝",
+        "signCardType6": "音贝",
+        "pickOneBtn_label": "捡一次",
+        "endTimeLab_text": "<font color=0xA7EC5D>{0}</font>",
+        "endTimeLab0_text": "<font color=0xFEF9DC>活动截止</font>",
+        "pickTenBtn_label": "捡十次"
+    },
+    "DragonBallBattleHighLadderItemViewData": {
+        "id1": "积分：{0}",
+        "id2": "{0} 区"
+    },
+    "ExaltedGiftInfoViewData": {
+        "id1": "已售罄"
+    },
+    "SignResetTips": {
+        "titleLab_text": "洗炼确定",
+        "saveBtn_label": "保 存",
+        "cancelBtn_label": "取 消",
+        "id1": "当前洗炼结果含有4级及以上的副属性，请确定操作",
+        "id2": "再想想",
+        "id3": "确认放弃",
+        "signResetTip_text": "空贝的进化操作尚未结束，无法洗炼。",
+        "signResetTip2_text": "空贝进化中，请前往进化界面确认空贝状态",
+        "evoResetTipsLabel_text": "注：替换后，使用的进化贝不返还"
+    },
+    "SignResetProbabilityTips": {
+        "desLab_text": "·空贝洗炼将从属性池中重新随机副属性\n\n·无论是否保存洗炼结果，洗炼材料都会消耗\n\n·属性池不同部位的空贝不相同\n\n\n\n【随机属性池】\n\n{0}"
+    },
+    "EquipTurntable": {
+        "endTimeLab0_text": "<font color=0xFEF9DC>活动截止</font>",
+        "placeEquipIntroLab1_text": "放入任意蓝色品质以上的1级装备",
+        "placeEquipIntroLab2_text": "开启装备直升之旅！",
+        "id1": "<font color=0x79ee07>首次免费</font>",
+        "id2": "重新随机橙装",
+        "id3": "升级",
+        "takeEquipBtn_label": "取回装备",
+        "id4": "恭喜升级为紫装！",
+        "id5": "恭喜升级为橙装！",
+        "id6": "橙装的概率提升啦！",
+        "costumePreviewLab_text": "神装预览"
+    },
+    "EquipTurntableViewData": {
+        "tipsLab1": "恭喜升级为<font color=0xDA75FF>紫装</font>！",
+        "tipsLab2": "恭喜升级为<font color=0xFFFF0C>橙装</font>！",
+        "tipsLab0": "<font color=0xFFFF0C>橙装</font>的概率提升啦！",
+        "tipsLab-1": ""
+    },
+    "AgressiveExerciseMain": {
+        "titleLab_text": "霸气修炼室",
+        "leftTimeLab_text": "剩余次数：{0}/{1}",
+        "startBtn_label": "开 始",
+        "endBtn_label": "修 炼",
+        "id1": "1.霸气修炼可获得丰厚的霸气修炼材料。\n2.游戏完成时，根据指针停留位置，玩家可随机获得丰厚奖励\n3.指针停留各处将获得不同奖励\n  绿色：随机掉落一定数量的初级气魄\n  蓝色：随机掉落一定数量的见闻色气魄和初级气魄\n  黄色：随机掉落一定数量的武装色气魄和初级气魄\n  红色：随机掉落一定数量的霸王色气魄和初级气魄\n4.体力每四小时恢复一点",
+        "id2": "已达到购买上限",
+        "id3": "购买{oneTimeGet}次霸气修炼次数，\n需消耗{oneTimeCost}{0}",
+        "lab1_text": "奖励预览"
+    },
+    "HeroMainAggressiveness": {
+        "id1": "修炼霸气:未选择",
+        "id2": "霸气<font color=0xb4f666>{0}</font>级时，可选择两者之一觉醒",
+        "id3": "霸气<font color=0xb4f666>{0}</font>级时，觉醒技能等级提升",
+        "id4": "{0}霸气",
+        "id5": "霸气等级达到{0}级才能选择技能",
+        "id6": "霸气觉醒技能未激活，请先激活霸气觉醒技能",
+        "id7": "<font color=0x9d3229>是否确定重置霸气修炼</font>\n（返还{0}）\n需要消耗{1}",
+        "id8": "确 定",
+        "id9": "取 消",
+        "id10": "和",
+        "lab1_text": "请选择要修炼的霸气！",
+        "lab2_text": "仅能选择一项霸气修炼",
+        "lab3_text": "霸气觉醒技能",
+        "heroLimitWarnLab_text": "需英雄升级到{0}级！",
+        "id11": "基础攻击",
+        "id12": "基础生命",
+        "lab4_text": "剩余:",
+        "lab5_text": "消耗:",
+        "levelLab_text": "{0}级",
+        "selectBtn1_label": "觉 醒",
+        "selectBtn2_label": "觉 醒",
+        "practiceBtn_label": "修 炼",
+        "levelUpBtn_label": "升 级",
+        "resetBtn_label": "重置",
+        "lab0_text": "消耗:",
+        "lab6_text": "消耗:",
+        "oncePracticeBtn_label": "一键修炼"
+    },
+    "HeroAggressivenessListItem": {
+        "selectBtn_label": "选择",
+        "id1": "英雄共鸣中，无法操作"
+    },
+    "BuggyTreasure": {
+        "endTimeLab_text": "倒计时 <font color=0xacf959 strokeColor=0x340d05>{0}</font>",
+        "startTreasureBtn_label": "开始寻宝",
+        "titleLab_text": "第{0}层",
+        "id2": "宝藏已被探索完！",
+        "id3": "活动已结束，感谢您的参与！",
+        "haveLab_text": "拥有：",
+        "id4": "后结束",
+        "id5": "奖励预览",
+        "id6": "本层探索已经结束！",
+        "id7": "重置本层",
+        "id8": "下一层",
+        "id9": "宝藏活动已通关，重置本层宝藏可以再次获得最终奖励"
+    },
+    "AggressivenessLevelUp": {
+        "lab1_text": "升级消耗",
+        "lab2_text": "技能效果",
+        "titleLab_text": "{0}霸气",
+        "id1": "基础攻击",
+        "id2": "基础生命",
+        "id3": "霸气等级",
+        "lab3_text": "剩余:"
+    },
+    "AggressivenessSelectPanel": {
+        "lab1_text": "修炼属性",
+        "lab2_text": "可选霸气觉醒技",
+        "lab3_text": "仅能选择一项霸气修炼",
+        "titleLab_text": "{0}霸气",
+        "id1": "{0}<font color=0x658101>{1}</font>",
+        "id2": "基础攻击",
+        "id3": "基础生命",
+        "id4": "英雄等级需要{0}级才能选择霸气"
+    },
+    "AggressivenessWakeUp": {
+        "lab1_text": "仅能选择一个霸气觉醒技能",
+        "wakeUpBtn_label": "确定觉醒",
+        "cancelBtn_label": "再想想",
+        "titleLab_text": "霸气觉醒技"
+    },
+    "AggressivenessSkillItemViewData": {
+        "id1": "基础攻击",
+        "id2": "基础生命"
+    },
+    "ExpeditionLineUp": {
+        "targetZpowerLab_text": "资质要求：{0}",
+        "lab1_text": "奖 励",
+        "lab2_text": "队伍总资质",
+        "zpowerLab_text": "{0}/{1}",
+        "recommendBtn_label": "推荐组合",
+        "lab3_text": "英雄组合",
+        "detailsBtn_label": "详情",
+        "emptyLab_text": "上阵英雄以显示组合信息\n<font size=18>(之后点击组合可显示相关英雄)</font>",
+        "battleStartBtn_label": "出战",
+        "id3": "同类英雄已上阵",
+        "id4": "该英雄已在其他事件中上阵",
+        "id5": "上阵已满",
+        "id6": "资质不足",
+        "saveBtn_label": "保存",
+        "teamBtn_label": "队伍列表",
+        "error_saved": "该队伍已保存",
+        "error_empty": "队伍为空，请选择英雄",
+        "error_max": "保存的队伍已达上限，请先删除已有队伍",
+        "success": "保存成功"
+    },
+    "ExpeditionLineUpItemViewData": {
+        "id1": "资质：{0}"
+    },
+    "ExpeditionLineUpPlotHeroItem": {
+        "titleLab_text": "剧情角色"
+    },
+    "ExpeditionLineUpPlotHeroItemViewData": {
+        "id1": "<font color=0xaf8255>未集齐 0/1</font>"
+    },
+    "ExpeditionLineUpFettersItemViewData": {
+        "id1": "<font color=0xaf8255>未集齐 {0}/{1}</font>"
+    },
+    "ExpeditionCombinationBookItem": {
+        "lab1_text": "<font color=0x205d05>【{0}/{1}】</font>集齐<font color=0x205d05>{2}</font>个{3} 资质{4}",
+        "lab2_text": "<font color=0x205d05>【{0}/{1}】</font>集齐<font color=0x205d05>{2}</font>个{3} 资质{4}",
+        "lab3_text": "<font color=0x205d05>【{0}/{1}】</font>集齐<font color=0x205d05>{2}</font>个{3} 资质{4}"
+    },
+    "ExpeditionCombinationBook": {
+        "titleLab_text": "战斗羁绊"
+    },
+    "ExpeditionEventMain": {
+        "titleLab_text": "发现事件",
+        "lab1_text": "其他事件",
+        "eventLimitLab_text": "事件上限：{0}/{1}",
+        "needPowerLab_text": "资质需求：{0}",
+        "lab2_text": "奖\n\n励",
+        "expeditionBtn_label": "出征",
+        "speedUpBtn_label": "加速",
+        "lab4_text": "暂无事件",
+        "investigateBtn_label": "侦查",
+        "id6": "侦查事件已达上限，请先完成事件再来侦查",
+        "id5": "<font size = 22 color=0x3b8e16>当前已加速时长 :{0}小时{1}分钟</font>\n\n是否确定消耗钻石x{2}来直接完成该事件？",
+        "id8": "已到达加速上限，无法加速",
+        "id7": "<font size = 22 color=0x901811>当前已加速时间 :{0}小时{1}分钟</font>\n当前处于{2},是否确定消耗钻石x{3}来直接完成该事件？\n\n<font size=20>({4}状态将会消耗{5}倍的钻石)</font>",
+        "id9": "生命卡{0}/{1}",
+        "hpEventLab_text": "生命卡{0}/{1}",
+        "id10": "使用电话虫次数达到上限",
+        "id11": "本关卡使用电话虫次数达到上限，提升Vip等级可以增加次数，是否前往查看vip特权？",
+        "tipLab_text": "出征后立即完成",
+        "phoneLimitLab_text": "({0}/{1})",
+        "id1": "请先完成当前侦查到的事件",
+        "id2": "当前英雄已被互换，此赏金事件关卡未开启。",
+        "noTeamTip": "当前无资质满足的可用队伍，请进入出征界面修改保存队伍"
+    },
+    "ExpeditionEventPandect": {
+        "id1": "每天6:00未进行的任务将会消失",
+        "id2": "暂无事件",
+        "eventCount_text": "同时存在事件上限：{0}",
+        "titleLab_text": "赏金任务",
+        "onceBtn_label": "一键领取",
+        "id3": "暂无可完成事件"
+    },
+    "ExpeditionChapter": {
+        "id1": "等级大于等于{0}级开启",
+        "id3": "1.已解锁的关卡可以侦查事件\n2.事件有队伍总资质需求，完成事件后可以获得各种奖励\n3.可以通过钻石来加速完成事件，但超过一定时长将会进入疲劳，疲劳状态钻石消耗倍率会增加\n4、每天只有部分关卡能侦查到生命卡事件，每个关卡只能侦查到1次\n5、生命卡事件关卡和疲劳每天凌晨6点重置\n疲劳等级\n【疲劳1】超过50小时，钻石消耗倍率1.5\n【疲劳2】超过100小时，钻石消耗倍率2\n【疲劳3】超过150小时，钻石消耗倍率3\n（超过250小时将无法加速）",
+        "titleLab_text": "赏金事件",
+        "expeditionBookBtn_label": "战斗羁绊",
+        "expeditionEventBtn_label": "赏金任务",
+        "lab0_text": "点击图标跳转"
+    },
+    "ExpeditionCombinationDetails": {
+        "titleLab_text": "英雄组合详情",
+        "emptyItem_1_1_text": "暂未激活组合加成"
+    },
+    "ExpeditionUnlock": {
+        "id1": "解锁",
+        "id2": "未完成",
+        "ExpeditionUnlock1_text": "事件产出",
+        "titleLab_text": "解锁事件"
+    },
+    "ExpeditionCombinationDetailsViewData": {
+        "lineUpInfoLab1": "<font color=0x4b260e>剧情角色: {0}\n\n上阵剧情角色  资质+{1}%</font>",
+        "lineUpInfoLab2": "<font color=0xff282 stroke=2 strokeColor=0x422403>剧情角色: {0}\n\n上阵剧情角色  资质+{1}%</font>"
+    },
+    "ExpeditionEventPandectListItem": {
+        "ExpeditionEventPandectItem1_text": "奖励",
+        "ExpeditionEventPandectItem2_text": "事件:",
+        "completeBtn_label": "前往领取",
+        "haveInHandBtn_label": "进行中",
+        "LookBtn_label": "查看"
+    },
+    "ExpeditionEventMainViewData": {
+        "id1": "进行中...",
+        "id2": "已完成"
+    },
+    "ExpeditionPointItem": {
+        "id1": "将于未来版本中开放"
+    },
+    "ResonanceMain": {
+        "titleLab_text": "共鸣英雄",
+        "id1": "1.共鸣左侧可以放入SR或SSR或UR并且等级大于1级的英雄作为主英雄\n2. 放入主英雄后，右侧可以放入品质不高于主英雄，等级为1级的其他英雄作为共鸣英雄\n3. 共鸣英雄的等级、体术属性百分比、潜能等级、装备、武器、永久指针、空贝、霸气都会始终和主英雄保持一致，并且无法进行升级突破、穿戴装备、武器、空贝等操作\n4. 共鸣英雄星级低于主英雄时，共鸣英雄的资质将会提升到当前品质下主英雄星级（SR英雄最高到5星）所对应的资质数值\n5. 共鸣英雄的技能等级、羁绊将仍然维持原状并可以正常进行觉醒、羁绊激活等操作\n6. 主英雄的星级提升后会同时提升共鸣等级，当共鸣等级提升到一定程度后则会提高玩家所有英雄的觉醒上限\n7. 当玩家主英雄由于更换或重生导致星级降低时，共鸣等级也会降低\n8. 移除主英雄会使共鸣英雄状态还原\n9. 移除共鸣英雄会使与主英雄保持一致的内容全部还原，对应共鸣位会进入冷却时间，可以消耗钻石立即刷新冷却时间\n10. 位于同一个共鸣舱中的英雄，不能同时出场战斗\n11. 共鸣英雄不能作为英雄突破限制时的需求英雄使用\n12. 当玩家达到一定等级后，可以通过总资质解锁英雄额外属性，总资质是共鸣位15个英雄的资质综合\n13. 当玩家解锁属性后，下阵共鸣英雄，导致资质小于解锁属性的资质要求时，解锁的属性仍生效",
+        "lab1_text": "已激活全队属性",
+        "totalLab_text": "总资质:{0}",
+        "levelLab_text": "玩家等级到达{0}级解锁",
+        "connectLevelDesLabel_text": "主共鸣位英雄每提升1星，共鸣等级增加1级",
+        "totalConnectLevelLabel_text": "共鸣等级：{0}"
+    },
+    "ResonanceMainItem": {
+        "noActLab_text": "未激活",
+        "actLab_text": "已激活"
+    },
+    "ResonanceChooseHero": {
+        "sureBtn_label": "确 定",
+        "id1": "请先选择英雄",
+        "id2": "选择的主英雄品质与共鸣英雄不同，请卸下所有共鸣英雄之后再选择这个英雄",
+        "id3": "所选主英雄与共鸣英雄同时在竞技场防守阵容中上阵，确定更换会将防守阵容中的共鸣英雄下阵"
+    },
+    "ResonanceChooseHeroViewData": {
+        "titleLab1": "请选择主英雄",
+        "titleLab2": "请选择共鸣英雄",
+        "lab1": "英雄要求：SR及SR以上等级大于1级的英雄",
+        "lab2": "英雄要求：不高于主英雄品质的1级英雄，且没有已升级的同名英雄"
+    },
+    "ResonanceMainTimeDownItem": {
+        "lab1_text": "冷却中.."
+    },
+    "ResonanceRemoveHero": {
+        "lab1_text": "还原至",
+        "lab2_text": "离开共鸣位等级、星级对应的资质、体术属性百分比、潜能、霸气、装备、武器、永久指针、空贝都将被还原。",
+        "titleLab_text": "卸下共鸣英雄",
+        "cancelBtn_label": "取 消",
+        "sureBtn_label": "确定下阵",
+        "afterLevelLabel_text": "等级：{0} -> {1}",
+        "afterTalentLabel_text": "资质：{0} -> {1}",
+        "afterPotentialLevelLabel_text": "潜能：{0}级 -> {1}级"
+    },
+    "ResonanceMainListItem": {
+        "id1": "花费{0}钻石可以立即刷新冷却时间，是否刷新？",
+        "noActLab_text": "未激活",
+        "actLab_text": "已激活"
+    },
+    "SummonWish": {
+        "titleLab_text": "心愿单",
+        "urBtn_label": "UR",
+        "ssrBtn_label": "SSR",
+        "lab2_text": "选择需要添加的英雄",
+        "id1": "1.心愿单中最多可选择十五个英雄。若未选满英雄，此次心愿单修改无效。\n\n2.在许愿池中抽到ssr英雄时，必定是所选ssr英雄（获得ssr英雄的总概率不变）\n\n3.每次新增英雄都会加入到心愿单可选列表中，并用“新”进行标记，请玩家按照所需将其加入到心愿单中",
+        "id2": "上阵位已满",
+        "id3": "需要VIP{0}",
+        "id4": "心愿单尚未选满，无法保存",
+        "tipsInfo1": "<font color=0xFF0000>ssr攻</font>",
+        "tipsInfo2": "<font color=0xFF0000>ssr防</font>",
+        "tipsInfo3": "<font color=0xFF0000>ssr辅</font>",
+        "tipsInfo4": "<font color=0xFF0000>ur</font>",
+        "lab1_text": "抽到SSR英雄时，必定是所选SSR英雄\n（获得SSR英雄的总概率不变）",
+        "saveBtn_label": "保 存",
+        "id5": "保存成功"
+    },
+    "SummonWishViewData": {
+        "type1": "UR",
+        "type2": "SSR",
+        "urBtnIcon1": "zhaomu51_png",
+        "ssrBtnIcon1": "zhaomu52_png",
+        "urBtnIcon2": "zhaomu52_png",
+        "ssrBtnIcon2": "zhaomu51_png",
+        "labValue1": "抽到UR英雄碎片时，必定是所选UR英雄碎片\n（获得UR英雄碎片的总概率不变）"
+    },
+    "SummonWishItemViewData": {
+        "typeImgSource1": "new_strength_png",
+        "typeImgSource2": "new_body_png",
+        "typeImgSource3": "new_skill_png",
+        "imgSource1": "zhaomu46_png",
+        "imgSource2": "zhaomu45_png",
+        "imgSource3": "zhaomu44_png"
+    },
+    "HomeGainUp": {
+        "titleLab_text": "提升挂机效率",
+        "lab1_text": "剩余：",
+        "useBtn_label": "使 用"
+    },
+    "HomeGainUpItemViewData": {
+        "id1": "{0}/小时"
+    },
+    "FirstChargeItem": {
+        "dayLab_text": "第{0}天",
+        "lab1_text": "已领取"
+    },
+    "ShopHelp": {
+        "titleLab_text": "帮助",
+        "helpValue_text": "1.根据开服时间，商店会提升等级\n2.商店等级提升后，商品库存数量会提升"
+    },
+    "ShopHelpItem": {
+        "titleLab_text": "{0}级商店"
+    },
+    "HomeGainUpEffectItem": {
+        "oldGroup_2_text": "<font color=0xb9ff5f>{0}</font>/小时",
+        "newGRoup_2_text": "<font color=0xb9ff5f>{0}</font>/小时"
+    },
+    "OrangeHeroActivity": {
+        "endTimeLab_text": "活动截止 <font color=0xacf959 strokeColor=0x340d05>{0}</font>"
+    },
+    "OrangeHeroActivityViewData": {
+        "id1": "SR",
+        "id2": "SSR",
+        "id3": "累计获得{0}个{1}英雄"
+    },
+    "DragonPromiseShop": {
+        "lab1_text": "拥有",
+        "lab3_text": "探索度：{0}",
+        "id1": "1、每个ssr/sr限购1次，vip14以上限购2次\n\n2、商店每隔2个月会重新自动刷新一次\n\n3、vip英雄需要vip等级达到后才能兑换",
+        "id2": "1、每种ur碎片限购2次\n\n2、商店每隔2个月会重新自动刷新一次\n\n3、vip英雄需要vip等级达到后才能兑换"
+    },
+    "DragonPromiseShopViewData": {
+        "id1": "{0}后自动刷新",
+        "id2": "{0}小时{1}分钟",
+        "id3": "{0}天",
+        "id4": "{0}分钟",
+        "titletext1": "英雄任选",
+        "titletext2": "英雄任选",
+        "titletext3": "特权兑换",
+        "info1": "<font color=0xffe538>VIP14</font>以上的玩家购买次数+1",
+        "info2": "<font color=0xffe538>VIP14</font>以上的玩家购买次数+1",
+        "info3": "<font color=0xff7e00>VIP8</font>以上的玩家可以用5点探索度兑换10个UR碎片"
+    },
+    "DragonPromiseShopListItem": {
+        "btn2_label": "探索度:{0}",
+        "leftLab_text": "库存：{0}",
+        "lab1_text": "已售空",
+        "lab3_text": "VIP{0}解锁"
+    },
+    "EverydayRechangeItem": {
+        "lab1_text": "已领取",
+        "lab2_text": "充值<font color=0x4eff31 size=30>{0}</font>天",
+        "receiveBtn_label": "领 取",
+        "lab3_text": "未达到"
+    },
+    "EverydayRechangeBarItem": {
+        "lab_text": "第{0}天",
+        "addBtn_label": "补签"
+    },
+    "EverydayRechangeRewardItem": {
+        "rechargeLab_text": "已充值{0}/{1}",
+        "rechargeBtn_label": "立即充值",
+        "receiveBtn_label": "领 取",
+        "lab1_text": "已领取"
+    },
+    "DragonBallBattleTag": {
+        "lab1_text": "本期强化",
+        "infoLab_text": "战斗中，标签包含{0}的英雄，获得{1}%伤害增加"
+    },
+    "DragonBallBattleTagViewData": {
+        "id1": "或"
+    },
+    "PropExchangeListItem": {
+        "lab1_text": "添加道具",
+        "exchangeBtn_label": "兑 换",
+        "lab2_text": "已兑换",
+        "limitLab_text": "限购:{0}",
+        "tip": "请选择道具"
+    },
+    "PropExchangeChoosePanel": {
+        "titleLab_text": "选择用以兑换的道具",
+        "id1": "请选择用以兑换的道具",
+        "emptyItem_1_1_text": "没有能够兑换的道具"
+    },
+    "PropExchange": {
+        "endTimeLab_text": "活动截止 <font color=0xa7ec5d strokeColor=0x340d05>{0}</font>"
+    },
+    "FestivalGift": {
+        "endTimeLab0_text": "活动截止",
+        "id1": "限购",
+        "id2": "次",
+        "id3": "￥"
+    },
+    "ResonanceChooseHeroSure": {
+        "titleLab0_text": " 提 示",
+        "lab1_text": "将会共鸣主英雄的等级、星级对应的资质、体术属性百分比、潜能、霸气、装备、武器、永久指针、空贝、天赋，是否确定？\n<font color=0xc00b0b>12:00:00</font>后当前共鸣可以重新添加英雄",
+        "cancelBtn_label": "取 消",
+        "sureBtn_label": "确定共鸣",
+        "mainHeroLevelLabel_text": "等级：{0}",
+        "mainHeroTalentLabel_text": "资质：{0}",
+        "mainHeroPotentialLevelLabel_text": "潜能：{0}级",
+        "afterLevelLabel_text": "等级：{0} -> {1}",
+        "afterTalentLabel_text": "资质：{0} -> {1}",
+        "afterPotentialLevelLabel_text": "潜能：{0}级 -> {1}级"
+    },
+    "UrSuperSkill": {
+        "endTimeLab_text": "活动截止 <font color=0xa7ec5d strokeColor=0x340d05>{0}</font>",
+        "drawOnceBtn_label": "抽一次",
+        "warnLab_text": "拼图活动已通关，重置本层拼图可再次获得最终奖励",
+        "enterNextLevelBtn_label": "下一层",
+        "resetCurrentLevelBtn_label": "重置本层",
+        "currentLevelLab_text": "当前层数：{0}"
+    },
+    "HeroSkin": {
+        "titleLab_text": "英雄皮肤",
+        "lab1_text": "同时更换头像",
+        "illustratedHandBookBtn_label": "立绘",
+        "enableBtn_label": "启 用",
+        "activationBtn_label": "激 活",
+        "heroSkinBtn_label": "皮肤"
+    },
+    "GlobalWarPreview": {
+        "desLab_text": "·顶上战争是所有玩家均可报名的跨服赛制，还可以参与竞猜赢取奖励\n·从海选开始即有钻石奖励，进入64强、16强均有额外奖励\n·成为4强后将能给所在区服所有玩家争取到挂机效率up的增益效果\n·成为冠军/亚军，更有彰显独特身份的头像框特效奖励！",
+        "confirmBtn_label": "参与竞猜",
+        "titleLab_text": "顶上战争",
+        "openLab_text": "开启倒计时:<font color=0xffffff stroke=2 strokeColor=0x3421c06>{0}</font>",
+        "id1": "{0}天{1}小时",
+        "id2": "{0}小时{1}分钟",
+        "id3": "{0}分钟",
+        "GlobalWarPreview1_text": "不再显示该弹窗"
+    },
+    "BountyTask": {
+        "endTimeLab_text": "活动截止 <font color=0xa7ec5d strokeColor=0x340d05>{0}</font>",
+        "currentScoreNumLab0_text": "当前拥有积分"
+    },
+    "BountyTaskDetail": {
+        "rewardLab_text": "奖励"
+    },
+    "BountyTargetRewardItem": {
+        "isGetReardLab_text": "已领取"
+    },
+    "BountyTaskListItem": {
+        "lookDetailBtn_label": "详 情",
+        "getRewardBtn_label": "前往领取"
+    },
+    "BountyTaskDetailItem": {
+        "getRewardBtn_label": "领取",
+        "isGotRewardLab_text": "已领取"
+    },
+    "BountySevenChildTaskListItem": {
+        "dayRechargeLab_text": "第{0}日充值"
+    },
+    "EquipTurntableChooseViewData": {
+        "id1": "当前没有可升级的装备"
+    },
+    "GlobalWarMain": {
+        "id1": "参加跨服战需要大于或等于{0}级"
+    },
+    "EquipTurntableChoose": {
+        "titleLab_text": "选择直升装备",
+        "sureBtn_label": "确定"
+    },
+    "GoodHarvests": {
+        "endTimeLab_text": "活动截止 <font color=0xa7ec5d strokeColor=0x340d05>{0}</font>"
+    },
+    "GoodHarvestsItem": {
+        "gainNumLab_text": "累积获得：<font color=0xa7ec5d stroke=2 strokeColor=0x000000>{0}</font>",
+        "reseverNumLab_text": "返还：<font color=0xa7ec5d stroke=2 strokeColor=0x000000>{0}({1}%)</font>"
+    },
+    "ServerListNode": {
+        "titleLab_text": "选 服",
+        "loginServerBtn_label": "最近登录",
+        "totalServerBtn_label": "火爆新服"
+    },
+    "ActivityMergeBoss": {
+        "id1": "购买次数今日已达上限！",
+        "id2": "购买<font color={0}>1次攻击次数</font>,需要消耗<font color={0}>{1}</font>,是否确定?",
+        "todayHonorLab_text": "累计贡献战队活跃：{0}",
+        "leftBattleTimeLab_text": "剩余次数：{0}",
+        "endTimeLab_text": "活动截止 <font color=0xa7ec5d strokeColor=0x340d05>{0}</font>"
+    },
+    "MergeBossDamageShowViewData": {
+        "id1": "未上榜",
+        "id2": "我的排行",
+        "id3": "伤害值"
+    },
+    "MergeBossDamageRank": {
+        "id1": "暂未有队员挑战BOSS",
+        "id2": "未上榜",
+        "titleLab": "伤害排行"
+    },
+    "MergeBossAwardPage": {
+        "MergeBossAwardPage2_text": "累计伤害排名第一额外奖励",
+        "MergeBossAwardPage1_text": "每次挑战奖励",
+        "MergeBossAwardPage3_text": "击杀BOSS战队全员奖励",
+        "titleLab": "奖 励"
+    },
+    "DownloadReward": {
+        "titleLab_text": "下载有礼",
+        "desLab_text": "在任意浏览器从<font color=0xbefe4e><u>{0}</u></font>进入游戏"
+    },
+    "DownloadRewardItemViewData": {
+        "id1": "在APK内领取",
+        "id2": "领取奖励",
+        "id3": "前往下载"
+    },
+    "FirstRechange": {
+        "endTimeLab_text": "活动截止 <font color=0xa7ec5d strokeColor=0x340d05>{0}</font>"
+    },
+    "FriendTeamItem": {
+        "id1": "一",
+        "id2": "二",
+        "id3": "三",
+        "teamIndexLab_text": "第{0}阵容"
+    },
+    "SignOneKeyLevelUp": {
+        "id1": "等级+{0}",
+        "oneKeyLevelUpBtn_label": "一键强化",
+        "titleLab_text": "强化预览",
+        "SignOneKeyLevelUp0_text": "消耗材料"
+    },
+    "BindReward": {
+        "titleLab_text": "绑定有礼",
+        "desLab_text": "完成账号绑定，可以领取奖励！",
+        "receiveBtn_label": "领取奖励"
+    },
+    "TimeLeapMainListItem": {
+        "lab1_text": "要求总资质",
+        "lab2_text": "击杀奖励",
+        "battleBtn_label": "挑战",
+        "lab3_text": "总资质不足",
+        "ingLab_text": "挂机时长:{0}(时长满后产生奖励)",
+        "endLab_text": "掉落已达上限",
+        "lab4_text": "已击败",
+        "pieceLab_text": "{0}/{1}",
+        "lab5_text": "掉落",
+        "dispatchBtn_label": "领 取",
+        "lab10_text": "已获得道具:"
+    },
+    "ResonanceMainAttrItem": {
+        "qualificationLab_text": "资质{0}"
+    },
+    "ResonanceManager": {
+        "id1": "暂无激活属性",
+        "id2": "全队"
+    },
+    "ResonanceTips": {
+        "lab_text": "对所有上阵队伍中英雄生效"
+    },
+    "ResonanceTipsViewData": {
+        "id1": "已激活",
+        "id2": "总资质达到{0}可激活"
+    },
+    "ResonanceChooseSuperSkill": {
+        "titleLab_text": "请选中终结技",
+        "sureBtn_label": "确 定",
+        "id1": "未拥有满足条件的终结技",
+        "id2": "请先选择终结技！",
+        "id3": "终结技要求：品质不高于主终结技的1级终结技。",
+        "id4": "终结技要求：SSR或UR品质并且等级大于1级的终结技。"
+    },
+    "ResonanceChooseSuperSkillSure": {
+        "titleLab_text": "提示",
+        "lab1_text": "将会共鸣主终结技的等级，是否确定？",
+        "cancelBtn_label": "取 消",
+        "sureBtn_label": "确定共鸣"
+    },
+    "ResonanceRemoveSuperSkill": {
+        "lab1_text": "离开共鸣位后终结技等级将被还原。\n<font color=0xc00b0b>12:00:00</font>后当前共鸣可以重新添加终结技",
+        "lab2_text": "还原至",
+        "titleLab_text": "卸下共鸣终结技",
+        "cancelBtn_label": "取 消",
+        "sureBtn_label": "确定卸下"
+    },
+    "TeamIndexTitle": {
+        "lab1_text": "阵容{0}队",
+        "lab2_text": "战斗力"
+    },
+    "HeroSuperSkillSmallItemViewData": {
+        "id1": "<font color=0xd2b672 strokeColor=0x160301>阵容一</font>",
+        "id2": "<font color=0xd2b672 strokeColor=0x160301>阵容二</font>",
+        "id3": "<font color=0xd2b672 strokeColor=0x160301>阵容三</font>",
+        "id4": "<font color=0xd2b672 strokeColor=0x160301>阵容四</font>",
+        "id5": "<font color=0x93ea53 strokeColor=0x000000>已装备</font>",
+        "id6": "<font color=0x93ea53 strokeColor=0x000000>可上阵多队</font>"
+    },
+    "BattleStartItemViewData": {
+        "teamIndex1": "阵容一",
+        "teamIndex2": "阵容二",
+        "teamIndex3": "阵容三",
+        "teamIndex4": "阵容四"
+    },
+    "RecordPlayerViewData": {
+        "id1": "{0}区"
+    },
+    "RecordItemTeamViewData": {
+        "id1": "战斗力：{0}"
+    },
+    "Arena3V3": {
+        "battleBtn_label": "战 斗"
+    },
+    "Arena3V3ViewData": {
+        "id1": "敌方阵容"
+    },
+    "GlobalGuessAndRecord3V3": {
+        "id1": "战斗结果",
+        "id2": "竞猜",
+        "id3": "竞猜操作完成",
+        "id4": "已下注",
+        "id5": "<font color=0xcf745c>参赛阵容</font>",
+        "id6": "<font color=0x83c9f3>参赛阵容</font>",
+        "guessBtn1_name": "赔率：{0}",
+        "guessBtn2_name": "赔率：{0}",
+        "GlobalGuessAndRecord3V3lab": "平局时按照双方总战力判定胜负"
+    },
+    "Record3V3": {
+        "tipLab_text": "平局时按照双方总战力判定胜负",
+        "id1": "战斗录像"
+    },
+    "Arena1V1": {
+        "titleLab_text": "敌方阵容",
+        "battleBtn_label": "战 斗"
+    },
+    "Arena1V1ViewData": {
+        "id1": "<font color=0xcf745c>参赛阵容</font>",
+        "id2": "<font color=0x83c9f3>参赛阵容</font>"
+    },
+    "ArenaOpen3V3Tips": {
+        "lab1_text": "赛制升级为3队vs3队\n合理配置共鸣中的15个英雄，争夺冠军！",
+        "lab2_text": "奖励大升级!!!",
+        "lab3_text": "奖励额外增加“高阶竞技币”，\n用于在竞技场商店中兑换新增的珍贵道具！",
+        "sureBtn_label": "确 定"
+    },
+    "OneBattleSimple": {
+        "leftPowerLab_text": "战斗力:{0}",
+        "rightPowerLab_text": "战斗力:{0}"
+    },
+    "GlobalWarManager": {
+        "id1": "当前阵容可能与实际顶上战争阵容不符，具体以实际为准"
+    },
+    "TeamAssociation": {
+        "titleLab_text": "公会群",
+        "TeamAssociationLab1_text": "请填写公会群信息",
+        "TeamAssociationLab2_text": "QQ群",
+        "TeamAssociationLab3_text": "会长微信",
+        "importText_prompt": "点击输入QQ群号/微信号",
+        "cancelBtn_label": "取 消",
+        "confirmBtn_label": "确 定",
+        "id1": "您还没有完成填写!",
+        "id2": "含有敏感词汇!",
+        "id3": "只可输入字母数字等微信合法字符",
+        "id4": "不能超过{0}个字节!",
+        "id5": "您选择的是<font color=0xb11c1c>QQ群</font>\n\n群号:<font color=0xb11c1c>{0}</font>",
+        "id6": "您选择的是<font color=0xb11c1c>会长微信</font>\n\n微信号:<font color=0xb11c1c>{0}</font>",
+        "id7": "确 定",
+        "id8": "取 消",
+        "id9": "修改成功"
+    },
+    "ApplyForListItem": {
+        "TransfersLab_text": "转会申请",
+        "id1": "这是一个转会申请，同意后对方会占用公会的一个位置，但要等对方加入公会的冷却时间结束后才会正式加入。",
+        "id2": "同意申请",
+        "id3": "取 消"
+    },
+    "PassBattleItem": {
+        "lab1_text": "跳过战斗"
+    },
+    "ResonanceMainViewData": {
+        "id1": "全队"
+    },
+    "TuoNi": {
+        "endTimeLab_text": "活动截止：<font color=0x93cf52>{0}</font>",
+        "turnTableOnceBtn_Label": "抽一次",
+        "turnTableTenBtn_label": "抽十次",
+        "tipsGroup_text": "参与幸运大转盘就有机会获得限量英雄！",
+        "id1": "{0}不足,将消耗{1}x{2},是否继续？",
+        "id2": "确定",
+        "id3": "取消"
+    },
+    "ExpeditionTelephoneTips": {
+        "titleLab_text": "定向侦查",
+        "lab2_text": "（VIP{0}每日最多可使用{1}个电话虫）",
+        "cancelBtn_label": "取 消",
+        "sureBtn_label": "确 定"
+    },
+    "ExpeditionTelephoneTipsViewData": {
+        "id851": "是否使用 <font color=0xc02b8a>电话虫X1</font> 来额外指定侦查该英雄的生命卡事件？\n<font color=0Xff1e00 size=26>   (不消耗本关生命卡事件次数)</font>",
+        "id852": "是否使用 <font color=0xe76d22>黄金电话虫X1</font> 来额外指定侦查该英雄的生命卡事件？\n<font color=0Xff1e00 size=26>   (不消耗本关生命卡事件次数)</font>"
+    },
+    "ExpeditionEventLineUp": {
+        "id1": "请先完成当前侦查到的事件"
+    },
+    "AltarInheritItem": {
+        "changeBtn_label": "更 换"
+    },
+    "AltarInheritChooseHero": {
+        "lab1_text": "英雄列表",
+        "sureBtn_label": "确 定",
+        "id1": "该英雄共鸣了其他英雄，传承后被共鸣的英雄状态也会变化，是否确定传承?",
+        "id2": "该英雄在海域争夺战中上阵，传承后会下阵，是否确定传承?"
+    },
+    "AltarInheritChooseHeroViewData": {
+        "id1": "选择传承英雄",
+        "id2": "选择目标英雄",
+        "lab1": "英雄要求：3星及以上SSR或UR英雄",
+        "lab2": "英雄要求：0星1级，且没有已升星的同名英雄",
+        "info": "暂无符合条件的英雄"
+    },
+    "EncounterPanel": {
+        "titleLab_text": "奇遇",
+        "newPriceLab_text": "价格：{0}",
+        "oldPriceLab_text": "原价：{0}",
+        "countLab_text": "全服已售出{0}份！",
+        "giveUpBtn_label": "放弃",
+        "buyBtn_label": "购买",
+        "refuseBtn_label": "残忍拒绝",
+        "agreeBtn_label": "给一碗饭",
+        "sureBtn_label": "确 定"
+    },
+    "ErrorHandler": {
+        "id1": "错误未定义{0}"
+    },
+    "LuckyReel": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>"
+    },
+    "LuckyReelRewardShow": {
+        "titleLab_text": "奖励列表",
+        "closeBtn_label": "关 闭"
+    },
+    "LuckyReelTenReward": {
+        "titleLab_text": "中奖结果",
+        "lab1_text": "次数",
+        "lab2_text": "抽奖结果",
+        "lab3_text": "奖励",
+        "closeBtn_label": "确 定"
+    },
+    "LuckyReelTenRewardItemViewData": {
+        "timeLab1": "第一次",
+        "timeLab2": "第二次",
+        "timeLab3": "第三次",
+        "timeLab4": "第四次",
+        "timeLab5": "第五次",
+        "timeLab6": "第六次",
+        "timeLab7": "第七次",
+        "timeLab8": "第八次",
+        "timeLab9": "第九次",
+        "timeLab10": "第十次"
+    },
+    "KarinRich": {
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>",
+        "lab2_text": "本次奖励区间",
+        "startBtn_label": "开 始",
+        "lab3_text": "本次领取消耗：",
+        "leftTimeLab_text": "可用次数：{0}",
+        "leftTimeNotEnough": "次数不足"
+    },
+    "KarinRichViewData": {
+        "lab1Text1": "再充值{0}获得{1}次抽取机会",
+        "lab1Text2": "充值获取抽取次数已达上限，请明天再来",
+        "lab1Text3": "每日重置并赠送{0}次免费次数"
+    },
+    "ActivityRankPanel": {
+        "titleLab_text": "排行信息",
+        "lab1_text": "排名",
+        "lab2_text": "角色名",
+        "lab3_text": "充值金额"
+    },
+    "ActivityRankPanelViewData": {
+        "id1": "暂未有玩家充值",
+        "id2": "未上榜",
+        "id3": "第{0}名"
+    },
+    "CollectionLobby": {
+        "lobbyBtn_label": "招募大厅",
+        "recordBtn_label": "团本记录",
+        "teamDungeonLimitLab_text": "{0}级开放",
+        "singleDungeonOpenLimitLab_text": "{0}级开放",
+        "singleDungeonBtn_label": "{0}票",
+        "teamDungeonBtn_label": "{0}票",
+        "titleLab_text": "团 本",
+        "recordTipsLab_text": "注：记录仅保持{0}天内的，过期将无法领取奖励",
+        "emptyItem_1_1_text": "暂无任何团本记录",
+        "noRewardCanGetTips": "已领取全部奖励",
+        "serverIdtext": "{0}服",
+        "RecordSoloLab": "个人团本归属",
+        "RecordTeamLab": "跨服团本归属"
+    },
+    "TeamworkDayAward": {
+        "titleLab_text": "每日奖励"
+    },
+    "TeamChatMain": {
+        "titleLab_text": "聊天",
+        "globalChatBtn_label": "公 共",
+        "inTeamChatBtn_label": "团 队",
+        "showQuestionBtn_label": "问问题",
+        "showHelloBtn_label": "打招呼",
+        "noLab_text": "没有新的消息哦",
+        "inputValue_prompt": "点击输入...",
+        "id2": "不在团队中",
+        "id3": "发言太快了...({0}s)",
+        "id4": "字数不能超过{0}"
+    },
+    "TeamworkBossPanel": {
+        "searchTeamBtn_label": "搜索团本",
+        "myBattleTeamBtn_label": "我的队伍",
+        "myApplyListBtn_label": "申请列表",
+        "emptyItem_1": "暂无人创建团本",
+        "emptyItem_2": "开放时间：每日{0}：00-24：00",
+        "teamEmptyTips": "未设置战斗队伍,请先前往我的队伍设置！",
+        "refreshTooFast": "刷新过快",
+        "normalLab1_text": "本周祝福",
+        "ruleDesLab": "1、完成20个每日任务开启团本物资箱可随机获得团本钥匙和团本票\n\n2、使用团本钥匙可以开启团本\n\n3、申请加入团本需要团本票\n\n4、团本在集齐总共4名玩家后可以开始战斗\n\n5、仅在击败Boss通关团本后才能获得奖励\n\n6、团本超时导致开启失败后会通过邮件返还团本钥匙和团本票",
+        "selectBtn_label": "筛选"
+    },
+    "TeamworkLendHeroViewData": {
+        "id1": "借用英雄",
+        "id2": "我的出借",
+        "id3": "暂无人借用"
+    },
+    "TeamworkLendHeroItem": {
+        "takebackBtn_label": "收  回"
+    },
+    "TeamworkSingleBossPanel": {
+        "useFriendHeroBtn_label": "借用英雄",
+        "myBattleTeamBtn_label": "我的队伍",
+        "buyMaxWarnTips": "达到购买上限",
+        "buyTimesTips": "购买<font color={0}>{1}次个人团本挑战次数</font>，需要消耗<font color={2}>{3}{4}</font>，是否确定?",
+        "userLevelLimitTips": "玩家等级达到{0}级后开放",
+        "leftTimeLab_text": "剩余次数:{0}/{1}"
+    },
+    "TeamworkResonance": {
+        "tipsLab_text": "可以从好友处借来英雄，借来的英雄需要设置共鸣！",
+        "borrowPageBtn_label": "借用英雄",
+        "myBorrowHeroBtn_label": "我的出借",
+        "changeHeroBtn_label": "替换",
+        "LendLab_text": "当前出借",
+        "emptyItem_1_1_text": "暂无人借用",
+        "id1": "暂无借用记录",
+        "id2": "你的好友 【{0}】 借用了你的英雄",
+        "lendUserTips_text": "出借使用次数",
+        "lendAwardLab1_text": "{0}次",
+        "lendAwardLab2_text": "{0}次",
+        "tagTips_text": "包含以下标签的英雄可以帮助好友激活祝福：",
+        "timeLab": "{0}次"
+    },
+    "TeamworkResonanceListItem": {
+        "id1": "花费{0}钻石可以立即刷新冷却时间，是否刷新？"
+    },
+    "TeamworkChangeLend": {
+        "titleLab_text": "请选择英雄",
+        "sureBtn_label": "确 定",
+        "id1": "请先选择出借英雄"
+    },
+    "TeamworkBossExplain": {
+        "lab1_text": "祝福",
+        "lab2_text": "敌人",
+        "titleLab_text": "团本情报"
+    },
+    "TeamworkBossExplainTopItemViewData": {
+        "lab1": "一星团本",
+        "lab2": "二星团本",
+        "lab3": "三星团本"
+    },
+    "TeamworkBossAwardPage": {
+        "achievementPageBtn_label": "成就奖励",
+        "teamAwardPageBtn_label": "团本奖励",
+        "titleLab_text": "奖励",
+        "endTimeLabel_text": "截止时间：{0}",
+        "topAchievementLabel_text": "当前任务进度{0}/{1}",
+        "notFinishBtn_label": "未完成",
+        "receiveBtn_label": "领 取"
+    },
+    "TeamworkMyBattleTeam": {
+        "hasEmptyTeamTips": "第{0}队阵容为空，请先设置队伍",
+        "team1Btn_label": "阵容1队",
+        "team2Btn_label": "阵容2队",
+        "team3Btn_label": "阵容3队",
+        "team4Btn_label": "阵容4队",
+        "titleLab_text": "我的队伍",
+        "startBtn_label": "确定阵容"
+    },
+    "OpenSingleDungeon": {
+        "titleLab_text": "提示",
+        "timeLeftLab_text": "今日次数：{0}/{1}",
+        "hasEmptyTeamTips": "我的队伍存在空阵容队伍，请先前往设置",
+        "hasEmptyPosTips": "队伍中上阵位有空缺，是否开启团本",
+        "emptyPosCancelLab": "去调整",
+        "emptyPosConfirmLab": "开启",
+        "starWarnTips": "请先攻略之前星级的团本",
+        "timeEmptyTips": "团本次数不足，无法开启团本",
+        "failDesLab_text": "个人团本攻略失败不会扣除次数",
+        "openBtn_label": "确 定"
+    },
+    "TeamworkBossBattle": {
+        "id1": "请求战斗录像错误",
+        "id2": "请求战斗数据错误",
+        "id3": "请求历史数据错误",
+        "togPassBattleBtn_label": "跳过非BOSS战斗",
+        "id9": "{0}HP{1}",
+        "id10": "{0}HP{1},已阵亡"
+    },
+    "TeamworkGetAwardPage": {
+        "closeTimeLab_text": "截止时间:{0}",
+        "normalOneLabel1_text": "奖励",
+        "titleLab_text": "团本奖励"
+    },
+    "DungeonAwardShowListItem": {
+        "normalOneLabel_text": "奖励"
+    },
+    "TeamDungeonAwardItem": {
+        "getRewardBtn_label": "领 取",
+        "goldAwardDesLab_text": "奖励\n3选1",
+        "lab1_text": "团长额外奖励"
+    },
+    "TeamworkEndTips": {
+        "winSureLab": "领 奖",
+        "failSureLab": "确 定",
+        "winTips": "恭喜通关,挑战成功！",
+        "failTips": "非常遗憾，挑战失败！"
+    },
+    "AltarExchangeChooseHero": {
+        "lab2_text": "仅可选择同品质的0星1级英雄",
+        "sureBtn_label": "确 定",
+        "titleLab_text": "选择英雄",
+        "lab1_text": "英雄列表",
+        "emptyItem_1_1_text": "暂无可选英雄"
+    },
+    "AltarExchange": {
+        "lab_text": "请放入两个同品质0星1级英雄，他们的碎片和生命卡将被互换（仅限SSR和UR英雄）",
+        "exchangeBtn_label": "交换",
+        "lab1_text": "规则说明",
+        "ruleLab_text": "1、互换功能可交换两个同品质英雄的碎片和生命卡数量，比如交换前A英雄有200个碎片，B英雄有50个碎片，交换后，A英雄碎片变成50个，B英雄碎片变为200个。生命卡同理。\n2、英雄互换碎片和生命卡前，请先重生你要互换的英雄，仅0星1级的同品质英雄可互换。\n3、参加互换的英雄，不能在包裹中有其他同名英雄，同名英雄请拆分为碎片。\n4、参加互换的英雄，至少需要有50个以上的碎片\n5、进行交换操作前，请先领取完所有邮件附件\n6、“免费列表”中显示的英雄，可免费进行互换1次\n7.英雄互换后，赏金事件中对应的关卡进度也会互换。",
+        "id1": "左边英雄未选择",
+        "id2": "右边英雄未选择",
+        "id3": "包裹中有参加互换英雄的同名英雄，请先拆分成碎片",
+        "id4": "左边可换碎片不足{0}，无法进行交换",
+        "id5": "右边可换碎片不足{0}，无法进行交换",
+        "id6": "确定是否互换",
+        "freeLab_text": "免费"
+    },
+    "AltarExchangeItem": {
+        "pieceLab_text": "可换碎片:{0}",
+        "redLab_text": "可换生命卡:{0}"
+    },
+    "AltarExchangeFreeHero": {
+        "titleLab_text": "当前免费",
+        "emptyItem_1_1_text": "暂无免费英雄"
+    },
+    "AltarExchangeFinish": {
+        "sureBtn_label": "确 定"
+    },
+    "CommonBuyTimes": {
+        "titleLab_text": "提示",
+        "leftCountLab_text": "（剩余的次数：{0}）",
+        "sureBtn_label": "确 定",
+        "cancelBtn_label": "取 消"
+    },
+    "NienBeastAward": {
+        "titleLab_text": "全服伤害奖励"
+    },
+    "JialintaRankItemViewData": {
+        "id1": "未上榜"
+    },
+    "NienBeast": {
+        "endTimeLab_text": "活动截止 <font color=0xa7ec5d strokeColor=0x340d05>{0}</font>",
+        "onceAttackBtn1_label": "一键攻击",
+        "onceAttackBtn0_label": "一键攻击",
+        "attackBtn0_label": "{0}攻击",
+        "attackBtn1_label": "{0}攻击"
+    },
+    "TeamworkChooseFriendHero": {
+        "cannotUseWarn": "个人团本-英雄借用已达上限"
+    },
+    "EverydayRechange": {
+        "id1": "补签需要消耗{0}张{1}，请确认是否补签",
+        "id2": "补签"
+    },
+    "OnceTrainChoose": {
+        "titleLab_text": "一键修炼",
+        "lab1_text": "选中的选项修炼结果不小于0就会保存",
+        "startBtn_label": "开始修炼",
+        "helpValue": "1.每次选择一条属性或是战斗力进行一键修炼。\n2.自动修炼开始将自动进行十倍修炼，直到资源数量不足或是选择的属性达到上限（选择战斗力时三条属性都要达到上限才会停止）。\n3.修炼记录只记录一键修炼的修炼结果。",
+        "id1": "请选择一种属性",
+        "id2": "您所选择的属性已达当前上限",
+        "id3": "您的三条属性当前均已达上限"
+    },
+    "OnceTrainChooseViewData": {
+        "hp": "基础生命",
+        "attack": "基础攻击",
+        "defecnce": "基础防御",
+        "power": "战斗力"
+    },
+    "OnceTrainRecord": {
+        "titleLab_text": "修炼记录",
+        "lab1_text": "剩余：",
+        "startBtn_label": "继 续",
+        "endBtn_label": "停 止",
+        "id1": "您所选择的属性当前已达上限",
+        "id2": "您的三条属性当前均已达上限"
+    },
+    "OnceTrainRecordViewData": {
+        "type0": "基础生命",
+        "type1": "基础攻击",
+        "type2": "基础防御"
+    },
+    "OnceTrainRecordListViewData": {
+        "type0": "基础生命",
+        "type1": "基础攻击",
+        "type2": "基础防御",
+        "type3": "战斗力"
+    },
+    "ExpeditionLineUpSaveTeam": {
+        "titleLab_text": "队伍列表",
+        "limitLab_text": "保存队伍上限:<font color=0x84ff74>{0}/{1}</font>",
+        "emptyItem_1_1_text": "队伍列表是空的哦"
+    },
+    "ExpeditionLineUpSaveTeamListItem": {
+        "lab1_text": "队伍总资质",
+        "zpowerLab_text": "{0}/{1}",
+        "chooseBtn_label": "选择",
+        "deleteBtn_label": "删除",
+        "id1": "当前队伍有在其他事件中上阵的英雄，请选择其他队伍",
+        "id2": "是否确定删除队伍{0}"
+    },
+    "RechargePushSkinPanel": {
+        "infoLab_text": "到达VIP{0}礼包获取！"
+    },
+    "TeamWorkFirstKillPanel": {
+        "titleLab_text": "全服首杀",
+        "emptyItem_1_1_text": "暂无击杀",
+        "tipsLabel_text": "仅统计最高星级团本"
+    },
+    "TeamDungeonKillListItem": {
+        "levelLab_text": "{0}级团本",
+        "recordBtn_label": "回放"
+    },
+    "SearchTeamPanel": {
+        "titleLab_text": "搜索团本",
+        "searchRoomBtn_label": "确 定",
+        "importText_prompt": "输入团本ID"
+    },
+    "TeamworkBossInfo": {
+        "noMyTeamTips": "未创建跨服团本队伍",
+        "teamAlreayClosedTips": "团本已关闭",
+        "refreshTooFast": "刷新过快"
+    },
+    "TeamworkApplyPanel": {
+        "titleLab_text": "申请中",
+        "applyNumLab_text": "申请上限 <font color=0xffffff stroke=2 strokeColor=0x000000>{0}/{1}</font>",
+        "emptyItem_1_1_text": "暂无申请"
+    },
+    "TeamworkApplyListItem": {
+        "teamworkApplyLab1_text": "团本归属",
+        "numberLab_text": "{0}/{1}",
+        "closeTimeLab_text": "团本关闭时间 {0}"
+    },
+    "TeamworkRoomSet": {
+        "titleLab_text": "房间设置",
+        "setAutoLab_text": "允许直接加入",
+        "allNeedSeeLab_text": "所有申请者均需审核",
+        "normalLabel1_text": "人数",
+        "normalLabel2_text": "人数",
+        "normalLabel3_text": "人数",
+        "label1_text": ",战斗力≥",
+        "label2_text": ",战斗力≥",
+        "label3_text": ",战斗力≥",
+        "roomSetDesLabel_text": "在上述要求的达到对应数量前，以该身份申请的战力达到要求的玩家允许直接加入。",
+        "saveRoomSetBtn_label": "保存设置",
+        "type3Lab_text": "无祝福"
+    },
+    "DungeonApplyUserListItem": {
+        "applyAgreeTips": "是否确定将该玩家加入团队？\n（成功招募后无法将队员踢出）",
+        "sureLab": "确定",
+        "cancelLab": "取消",
+        "agreeBtn_label": "同意申请",
+        "serverName_text": "<{0}服>",
+        "memberFullTips": "团队人数已满"
+    },
+    "CaptainRoomPage": {
+        "titleLab_text": "列表",
+        "roomSetBtn_label": "房间设置",
+        "sendInviteBtn_label": "发布招募",
+        "refreshApplyBtn_label": "刷新列表",
+        "settingShowBtn_label": "申请列表",
+        "memberShowBtn_label": "团员列表",
+        "emptyItem_1_1_text": "暂无申请",
+        "sendInviteSuccessTips": "发布招募成功",
+        "closeTimeLab_text": "截止时间:{0}",
+        "lab1_text": "玩家申请"
+    },
+    "SignStrengthen": {
+        "levelUpBtn_label": "强 化",
+        "oneKeyLevelUpBtn_label": "一键强化",
+        "reduceLable_text": "剩余"
+    },
+    "SignStarUp": {
+        "starUpProp_text": "精炼材料",
+        "starUpBtn_label": "升 星",
+        "reduceLable_text": "剩余",
+        "costEvoSignTips": "选中作为材料的空贝已经进化，是否确认分解"
+    },
+    "SignReset": {
+        "resetBtn_label": "洗 炼",
+        "reduceLabel_text": "剩余",
+        "stampStarQuality_text": "品级 <font color=0xfff4dc>{0}</font>",
+        "signResetTip_text": "空贝已进化，需要还原后才能洗炼",
+        "signResetTip2_text": "空贝进化中，请前往进化界面确认空贝状态"
+    },
+    "TeamworkBossPanelViewData": {
+        "allChosedLab": "全选"
+    },
+    "InterKeyOpenBoss": {
+        "titleLab_text": "提示",
+        "userLevelNeedLab_text": "放入团本钥匙开启团本",
+        "keyLab_text": "团本钥匙",
+        "emptyItem_1_1_text": "暂无钥匙",
+        "cofirmBtn_label": "下一步"
+    },
+    "DungeonAchievementAwardListItem": {
+        "scheduleLabel_text": "当前任务进度{0}/{1}",
+        "notFinishBtn_label": "未完成",
+        "receiveBtn_label": "领 取"
+    },
+    "TeamworkMemberInfo": {
+        "membersNotFullLab": "人数不足 <font color=0xff0000>{0}</font>/{1}",
+        "waitApplyTimeLab": "已申请，{0}秒后可再申请该团队……",
+        "closeTimeLab": "团本关闭时间 {0}",
+        "membersFullLab": "团队人数已满",
+        "chatBtn_label": "聊天",
+        "myTeamBtn_label": "我的队伍"
+    },
+    "TeamworkDayAwardListItem": {
+        "scheduleLab_text": "当前任务进度{0}/{1}"
+    },
+    "TeamworkChatMain": {
+        "id1": "点击输入...",
+        "id2": "不在团队中",
+        "id3": "发言太快了...({0}s)",
+        "id4": "字数不能超过{0}",
+        "id5": "没有新消息哦",
+        "id6": "公 共",
+        "id8": "团 队",
+        "id9": "发 送",
+        "id10": "以上为历史消息",
+        "id11": "团本人数已满，无法再邀请战友",
+        "id12": "没有竞技场防守阵容，无法参加跨服团本"
+    },
+    "FastApplyTeamPage": {
+        "titleLab_text": "选择团本星级",
+        "lab1_text": "当前队伍",
+        "lab2_text": "激活祝福",
+        "lab3_text": "快捷申请",
+        "fastApplyBtn_label": "快速申请",
+        "changeMyTeamBtn_label": "前往调整",
+        "applyLimitLab_text": "同时申请上限：{0}/{1}"
+    },
+    "DungeonTeamListItem": {
+        "teamworkOneTeamNumLab_text": "{0}/{1}"
+    },
+    "TeamworkBossBaseItem": {
+        "teamworkOneTeamNumLab_text": "{0}/{1}",
+        "teamworkBossListLab1_text": "团本归属"
+    },
+    "TeamworkManager": {
+        "myTeamIsClosed": "我的团本已关闭",
+        "gotoMyTeamTips": "您在跨服团本中的申请已经通过，是否前去查看？",
+        "id3": "取消",
+        "id4": "确定"
+    },
+    "TeamworkCheckOpen": {
+        "titleLab_text": "选择",
+        "lab1_text": "请确定采用的队伍",
+        "lab2_text": "当前队伍",
+        "lab3_text": "激活祝福：",
+        "noBuffTipsLab_text": "未激活任何祝福",
+        "gotoMyTeamBtn_label": "前往调整",
+        "openRoomBtn_label": "确定开启",
+        "leftNumLab_text": "{0}/1"
+    },
+    "SignEvolution": {
+        "tipLab_text": "1.进化时将随机一条进化贝的属性替换主空贝的随机一条属性，进化结果可选择保存与否\n2.空贝无法拥有两条相同类型的属性\n3. 已进化的空贝可还原移除进化效果，消耗的进化贝不返还",
+        "lab1_text": "原属性",
+        "lab2_text": "还原后进化贝不返还，是否还原？",
+        "noSwitchSignLab_text": "请先选择进化空贝",
+        "signEvoSaveStarQuality_text": "品级 <font color=0xfff4dc>{0}</font>",
+        "signEvoFinishStarQuality_text": "品级 <font color=0xfff4dc>{0}</font>",
+        "noImprintEvoIdTips": "请放入进化贝",
+        "resetTips": "还原后进化贝不返还，是否还原？",
+        "sinEvoBackBtn_label": "撤销",
+        "sinEvoSaveBtn_label": "保存",
+        "evolutionBtn_label": "进化",
+        "sinResetCancelBtn_label": "取 消",
+        "signEvoResetBtn_label": "确 定",
+        "resetEvoBtn_label": "还原",
+        "newEvoBtn_label": "重新进化",
+        "saveTipsLabel_text": "是否要保存进行结果？",
+        "notSaveTipsLabel_text": "注：撤销后，使用的进化贝不返还"
+    },
+    "BuffExplain": {
+        "titleLabNormal": "本周祝福",
+        "explainLab_text": "上阵阵容满足条件后，即可激活不同效果的祝福。",
+        "timeDesLabNormal": "每周一的0：00更新"
+    },
+    "SignEvolutionChoose": {
+        "id1": "没有符合的进化贝哦"
+    },
+    "AltarEquipRedPanel": {
+        "lab1_text": "选择橙色5星{0}，消耗材料有概率将橙色{0}升级为红色{0}\n升级失败后，幸运值增长，当幸运值达到100时，下一次升级必定成功",
+        "lab2_text": "升级材料",
+        "chooseTipLab_text": "请选择升红{0}",
+        "currentPrecentLab_text": "当前几率：<font color=0xffffff>{0}</font>",
+        "luckyLab_text": "幸运值：{0}/100",
+        "lab3_text": "幸运值越高，直接升级几率越大！",
+        "error1": "请放入{0}",
+        "error2": "无法升级，需要材料不足！",
+        "tips1": "升级失败",
+        "tips2": "升级成功",
+        "equipName": "装备",
+        "weaponName": "武器"
+    },
+    "AltarEquipRedChoosePanel": {
+        "sureBtn_label": "确 定",
+        "error13": "请选择装备",
+        "error23": "请选择材料",
+        "error12": "请选择武器",
+        "error22": "请选择材料"
+    },
+    "AltarEquipRedChoosePanelViewData": {
+        "titleLab13": "选择升红装备",
+        "titleLab23": "选择升红材料",
+        "tipLab13": "装备升红前需要从英雄身上卸下\n装备要求：橙色5星",
+        "tipLab23": "材料要求：橙色0星1级",
+        "empty13": "暂无可选装备",
+        "empty23": "暂无可选材料",
+        "titleLab12": "选择升红武器",
+        "titleLab22": "选择升红材料",
+        "tipLab12": "武器升红前需要从英雄身上卸下\n武器要求：橙色5星",
+        "tipLab22": "材料要求：橙色0星1级",
+        "empty12": "暂无可选武器",
+        "empty22": "暂无可选材料"
+    },
+    "AltarEquipRedPanelItemViewData": {
+        "id1": "品级:{0}"
+    },
+    "OldUserViewData": {
+        "id1": "您还没经过老用户认证，您目前还不是老用户",
+        "id2": "感谢您和航海王一起渡过的{0}天，您是{1}老用户",
+        "id3": "感谢您和航海王一起渡过的{0}天，您还不是老用户"
+    },
+    "OldUser": {
+        "endTimeLab_text": "活动截止 <font color=0xacf959>{0}</font>"
+    },
+    "LimitExchange": {
+        "endTimeLab_text": "活动截止 <font color=0xacf959>{0}</font>",
+        "freeLab_text": "首次免费",
+        "leftCountLab_text": "剩余：<font color=0xa7ec5d>{0}</font>次",
+        "levelTipLab_text": "您是{0}老用户，本次活动可以置换{1}次",
+        "errorTipLab_text": "您还不是老用户，无法参加本活动",
+        "vipNotEnough": "本次置换需要VIP{0}，是否前往查看VIP特权?",
+        "tipLab_text": "请放入需要置换的{0}",
+        "error": "请先放入需要置换的{0}",
+        "error1": "次数不足",
+        "tipsValue": "本次置换需要消耗{0}个{1}和{2}个{3}，确定要置换吗？"
+    },
+    "LimitExchangeViewData": {
+        "btnLab": "{0}置换"
+    },
+    "LimitExchangeChoose": {
+        "titleLab_text": "选择置换的{0}",
+        "emptyItem_1_1_text": "没有可以置换的{0}",
+        "sureBtn_label": "确 定",
+        "errorTip": "请先选择{0}"
+    },
+    "ChoseSingleGoldReward": {
+        "titleLab_text": "翻牌奖励",
+        "awardPoolDesLab_text": "宝箱奖励",
+        "costTips": "第{0}张牌需要消耗{1}{2}，是否确认兑换？",
+        "confirmLab": "确定",
+        "cancelLab": "取消",
+        "closeWarnTips": "还有{0}张牌未开，是否退出（退出后未翻开的奖励不能再领取）",
+        "vipNotEnoughTips": "需要玩家达到Vip{0}可以翻牌领奖",
+        "limitDesLab_text": "<font color=0xff0000>vip{0}</font>翻牌次数+1，<font color=0xff0000>vip{1}</font>翻牌次数+2"
+    },
+    "OtherHeroMainAttribute": {
+        "titleLab": "详细属性"
+    },
+    "VerticalRewardPoolShow": {
+        "titleLab_text": "奖励预览",
+        "lab_text": "已获得奖励"
+    },
+    "BigMom": {
+        "endTimeLab_text": "活动截止:<font color=0xb4e46d>{0}</font>",
+        "chooseBtn_label": "选择礼盒",
+        "rewardPreviewLab_text": "奖励预览",
+        "lab_text": "当前礼盒：",
+        "lab1_text": "本次打开礼盒消耗：",
+        "lotteryTitle_great": "恭喜您",
+        "lotteryBtn_great": "确定",
+        "lotteryTitle_boom": "很遗憾",
+        "lotteryBtn_boom": "结束本轮活动"
+    },
+    "BigMomChooseBox": {
+        "titleLab_text": "炸弹礼盒"
+    },
+    "BigMomChooseBoxListItem": {
+        "chooseBtn_label": "选择礼盒"
+    },
+    "PackItemInfoViewData": {
+        "id1": "万能卡碎片，无法合成",
+        "id2": "已拥有该英雄，无法合成"
+    },
+    "OtherPlayerEquipDetailInfo": {
+        "equipStarQuality_text": "品级 <font color=0xfff4dc>{0}</font>"
+    },
+    "DragonBallBattleMapBuffItem": {
+        "selfLab_text": "我方",
+        "layerLab_text": "{0}层"
+    },
+    "DragonBallBattleMainTeamItem": {
+        "lab1_text": "获得："
+    },
+    "GVGUserInfo": {
+        "titleLabel_text": "玩家信息",
+        "userNameParamLabel_text": "玩家：{0}",
+        "userGuildNameParamLabel_text": "公会：{0}",
+        "userPowerParamLabel_text": "战斗力：<font color=0xE35106>{0}</font>",
+        "sendItemBtn_label": "赠送道具",
+        "battleBtn_label": "发起挑战",
+        "lookHerosBtn_label": "查看阵容",
+        "UnlockTips": "是否使用{0}解锁敌人详情",
+        "noUnLockItemTips": "暂无可以解锁敌人详情的道具",
+        "alreadySendLab": "已赠送",
+        "sendItemTitleLab": "赠送道具",
+        "sendItemErrorTips": "请先选择赠送道具！",
+        "protectWarn": "对方处于离线保护状态，战斗胜利不会获得对方的道具和积分，失败则会损失自己的道具和积分，是否仍要挑战",
+        "sureBattleWarn": "挑战",
+        "sendPointBtn_label": "赠送积分",
+        "emptyPointTips": "当前积分为0，无法赠送",
+        "sendPointTips": "是否确定将你的{0}积分赠送给这位队友？（积分赠送不限次数）",
+        "sendItemTips": "每一个队友每天最多可赠送1个道具或遗物"
+    },
+    "GVGBase": {
+        "titleLabel_text": "海岛求生",
+        "playRuleBtn_label": "玩法介绍",
+        "mapBtn_label": "地图",
+        "teammateBtn_label": "队友详情",
+        "packBtn_label": "背包",
+        "rewardBtn_label": "奖励",
+        "denfenceBtn_label": "阵容",
+        "introduction": "·每周周一开放活动：海岛求生，三个公会的玩家匹配在同一张地图上角逐最后的王者。\n\n·游戏开始时，三个公会的玩家随机分布在地图上，毒圈开始缩小。随着时间推移，安全区逐渐缩小。\n\n·每天早上10点，开始缩圈，22点进行结算。结算时位于毒圈的玩家判定死亡\n\n·地图上随机分布道具、遗物和积分，击杀敌方公会的玩家也能抢夺他身上的物品和积分。\n\n·可以将道具、遗物赠送给同公会的队友，同个队友每天最多赠送一个道具或遗物\n\n• 可以将积分全部赠送给同公会的队友，不限次数\n\n• 每周一游戏开始时，未上线的玩家会有离线保护机制，保护积分和道具不被对方抢夺。消耗1点行动力后离线保护状态就会消失。\n\n• 离线保护状态消失后死亡重生时，会在重生的位置上显示一格临时的树林，移动后就会消失。",
+        "time": "·报名时间：周六 6:00 ~ 周日23:00\n\n·开启时间：周一早上 10:00\n\n• 结算时间：周五22点",
+        "requirements": "·玩家等级>=50级，公会活跃度>=100。\n\n·海岛求生需要一个公会中符合上述条件的玩家>=10人。\n\n·只有公会会长/副会长才能报名",
+        "settlement": "周五22点，按照公会总积分结算公会排名。\n\n公会内根据每个人的贡献值结算进行排名。",
+        "otherIntroduceTitle": "贡献值描述",
+        "otherIntroduce": "• 从地图上获得积分增加对应数量的贡献值（获得其他队员赠送的积分，拾取别人死亡后掉落的积分不加贡献值）\n\n• 击败非离线保护状态的敌对玩家增加{0}点贡献值\n\n• 连续击败5个敌对玩家达成连杀增加{1}点贡献值\n\n• 每天22点结算时存活分别能增加{2}/{3}/{4}/{5}/{6}点贡献值\n\n• 死亡会扣除{7}点贡献值（最低扣到0点）"
+    },
+    "GVGSign": {
+        "infoLabel_text": "根据游戏积分进行排名",
+        "peopleCountLabel_text": "公会内满足条件人数：",
+        "peopleCountParamLabel_text": "{0}/{1}",
+        "id1": "仅会长和副会长可以报名",
+        "id2": "满足条件人数不够",
+        "helpTips": "1、等级≥50级，公会活跃度≥100的玩家才能参与海岛求生玩法。\n\n2、周日23点报名结束，已报名的公会进行匹配。\n\n【公会活跃度获取途径】\n公会签到 50活跃度/次\n公会BOSS 10活跃度/次\n公会夺宝 10活跃度/次\n公会金库 5活跃度/次",
+        "tipsLab1": "活动参与条件不符合，请下次参加",
+        "tipsLab2": "未报名，请下次参加",
+        "levelLab_text": "等  级：",
+        "actLab_text": "活跃度：",
+        "levelParamLab_text": "{0}/{1}",
+        "actParamLab_text": "{0}/{1}"
+    },
+    "DropItem": {
+        "titleLabel_text": "提示",
+        "dropWarnParamLabel_text": "{0}已满,需要丢弃{1}/{2}件",
+        "dropBtn_label": "丢 弃",
+        "choseFullTips": "已选中{0}件",
+        "dropItem": "道具",
+        "dropBuff": "遗物",
+        "dropTwiceCheckTips": "选中的道具中包含可以使用的道具，是否仍要丢弃？"
+    },
+    "GVGBackPack": {
+        "titleLabel_text": "背包",
+        "walkCountParamLabel_text": "行动力：<font color=0xF22F01>{0}</font>/{1}",
+        "pointParamLabel_text": "积分：{0}",
+        "restCannotUseItemTips": "休战期内，不能使用道具",
+        "finshCannotUseItemTips": "游戏结束，不能使用道具",
+        "sendPointBtn_label": "赠送积分"
+    },
+    "GVGFinishTips": {
+        "titleLabel_text": "比赛结束",
+        "sureBtn_label": "确 定"
+    },
+    "GVGRewardTips": {
+        "titleLabel_text": "排行奖励",
+        "infoLabel_text": "1.根据每个公会的积分总和进行排名\n2.每个公会成员根据贡献榜排名获得奖励\n3.奖励通过邮件进行发放"
+    },
+    "GVGTeammate": {
+        "titleLabel_text": "队友详情"
+    },
+    "GVGSmallMap": {
+        "titleLabel_text": "查看地图",
+        "tipsLabel_text": "   整点都会进行缩圈，当天22点结束时缩小到虚线所示范围\n<font color=0xFE772C stroke=2>{0}</font>",
+        "distance1PramaLabel": "当前毒圈距离你<font color=0xf6714a>{0}</font>格",
+        "distance2PramaLabel": "你距离最终缩圈<font color=0xf6714a>{0}</font>格",
+        "inSafeAreaLab": "你已在当日最终缩圈内",
+        "outSafeAreaLab": "你已在毒圈内",
+        "nextTimeParamLabel": "距离游戏开始还有：",
+        "selfPosLabel_text": "（{0},{1}）",
+        "selfTagLabel_text": "自己",
+        "teammateLabel_text": "队友",
+        "continueKillLabel_text": "连杀者达成连杀的位置",
+        "endTimeDesLabel1": "最后缩圈倒计时：",
+        "endTimeDesLabel2": "决胜圈倒计时：",
+        "endTimeDesLabel3": "游戏倒计时：",
+        "endTimeDesLabel4": "游戏已结束",
+        "circleDes1": "毒圈强度：{0}血量/10分钟 周五强度：{1}血量/10分钟",
+        "circleDes2": "毒圈强度：{0}血量/10分钟 21点后强度：{1}血量/10秒",
+        "circleDes3": "下期游戏将于周一十点开始"
+    },
+    "GVGPointRank": {
+        "titleLabel_text": "贡献榜"
+    },
+    "GVGPackItemViewData": {
+        "normalBackDes": "道具({0}/{1})",
+        "buffBackDes": "遗物({0}/{1})",
+        "tempBackDes": "临时包裹({0}/{1})"
+    },
+    "CommonChoseItem": {
+        "titleLabel_text": "请选择道具",
+        "sureBtn_label": "确 定",
+        "errorTip": "请先选择道具！",
+        "emptyItem_1_1_text": "可赠送道具为空"
+    },
+    "GVGItemsTips": {
+        "sureBtn_label": "使用",
+        "sendBtn_label": "赠送",
+        "cancelBtn_label": "取消",
+        "choseBtn_label": "选中"
+    },
+    "GVGStart": {
+        "leftTimeParamLabel_text": "{0}/{1}",
+        "teammateBtn_label": "队友详情",
+        "ItemFullTips": "道具已满，需要丢弃{0}件",
+        "buffFullTips": "遗物已满，需要丢弃{0}件",
+        "tipsLab_text": "生命为<font color=0xe12b2a>0</font>，游戏<font color=0xe12b2a>结束</font>\n请耐心等待游戏最终结算",
+        "lab1_text": "距离下一次毒圈扣血：",
+        "endTimeLabel_text": "结束时间：\n<font size=20 color=0xd43135>{0}</font>",
+        "diffDayDes": "{0}天",
+        "diffHoursDes": "{0}小时",
+        "diffMinutesDes": "{0}分钟",
+        "endDes": "已结束"
+    },
+    "GVGTeamItemViewData": {
+        "emptyValue1": "暂无公会",
+        "emptyValue2": "已解散"
+    },
+    "GVGTipsViewData": {
+        "successProtect": "战斗胜利",
+        "successTips": "战斗胜利,获得<font color=0x9CE509>{0}</font>积分和",
+        "failTips": "<font color=0xBEEF06>战斗失败，生命-1，损失{0}积分和</font>",
+        "pickItemTips": "获得",
+        "dropItemTips": "丢弃",
+        "pointChangeTips": "<font color=0x9CE509>{0}</font>积分",
+        "sendItemTips": "赠送 {0} "
+    },
+    "GVGMessage": {
+        "titleLabel_text": "战报",
+        "selfBroadcastBtn_label": "个人战报",
+        "guildBroadcastBtn_label": "公会战报",
+        "guildBtn_label": "公会信息",
+        "inputValue_prompt": "点击输入...",
+        "sendBtn_label": "发送",
+        "noMessageLab": "没有新的消息哦",
+        "noBroadcastLab": "暂无战报信息"
+    },
+    "GVGTeamItem": {
+        "integralParamLabel_text": "总积分：{0}",
+        "countParamLabel_text": "存活数：{0}"
+    },
+    "GVGRecordMessageItemViewData": {
+        "selfTag": "【个人战报】",
+        "guildTag": "【公会战报】"
+    },
+    "GVGFinishItem": {
+        "TeamNameParamLabel_text": "公会：{0}",
+        "survivalParamLabel_text": "存活：{0}"
+    },
+    "GvgPointRankListItem": {
+        "pointDes": "贡献值"
+    },
+    "GVGStartViewData": {
+        "timeLab5": "缩圈停止 {0}后游戏继续",
+        "timeLab3": "{0}后游戏开始"
+    },
+    "GVGMap": {
+        "error1": "缺少道具{0}",
+        "maxTips": "生命之心达到上限，不能获得",
+        "error2": "步数不足"
+    },
+    "GVGPlayRule": {
+        "titleLabel_text": "玩法规则",
+        "ruleBtn_label": "玩法规则",
+        "itemDesBtn_label": "道具介绍",
+        "relicBtn_label": "遗物介绍"
+    },
+    "ShopBuyTips": {
+        "titleLab_text": "提示",
+        "lab1_text": "总花费：",
+        "sureBtn_label": "确 定",
+        "cancelBtn_label": "取 消"
+    },
+    "AchievementMain": {
+        "onceReceiveBtn_label": "一键领取",
+        "tips1": "暂无可领取成就"
+    },
+    "DiscountMall": {
+        "titleLab_text": "折扣商城",
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>"
+    },
+    "LuckyBox": {
+        "costDesLabel_text": "消耗：",
+        "endTimeLab_text": "活动截止:<font color=0x93cf52>{0}</font>",
+        "tipsLabel_text": "获得奖励：{0}x{1}",
+        "boxName1": "普通宝箱",
+        "boxName2": "高级宝箱",
+        "boxName3": "稀有宝箱",
+        "boxName4": "华丽宝箱",
+        "boxName5": "珍贵宝箱",
+        "rewardInfo": "·您开启{0}获得了{1}*{2}"
+    },
+    "ActSetRewardPool": {
+        "titleLabel_text": "英雄更换",
+        "sureBtn_label": "确定奖池"
+    },
+    "CustomizedAwardList": {
+        "changeBtn_label": "更 改"
+    },
+    "ActSetRewardItems": {
+        "sureBtn_label": "确 定",
+        "errorTip": "请选择奖励"
+    },
+    "ActSetRewardItemsViewData": {
+        "cnNum1": "一",
+        "cnNum2": "二",
+        "cnNum3": "三",
+        "cnNum4": "四",
+        "noChooseValue": "可以获得以下一个奖励",
+        "chooseValue": "从以下奖励中选{0}个"
+    },
+    "SignEvolutionChooseDetail": {
+        "canceBtn_label": "取消",
+        "confirmBtn_label": "选中",
+        "closeBtn_label": "关闭"
+    },
+    "TeamworkBattleBase": {
+        "recordBuffItemTitle": "历史祝福",
+        "recordBuffItemTimeDes": "显示录像战斗时生效的祝福"
+    },
+    "RecordBuff": {
+        "normalLab_text": "历史祝福"
+    },
+    "AltarExchangeFreeHeroListItem": {
+        "lab1_text": "英雄列表",
+        "endTimeLab_text": "本期截止时间:<font color=0x93cf52>{0}</font>"
+    },
+    "TeamWorkFirstKillPlayerItem": {
+        "killPlayerServerIdLab_text": "{0}服"
+    },
+    "GVGInGrassTips": {
+        "titleLabel_text": "提示",
+        "normalDes1Label_text": "我方视野",
+        "normalDes2Label_text": "敌方视野",
+        "normalDes3Label_text": "玩家在草丛、房子中的视野变小。利用这些特殊地形可以很好的隐藏自己。"
+    },
+    "TargetedRecruit": {
+        "endTimeLab_text": "{0}",
+        "oneBtn_label": "请一杯",
+        "tenBtn_label": "请十杯",
+        "lab1_text": "请选择您想要抽取的<font color=0xf4bb24>UR</font>英雄",
+        "lab2_text": "100抽必出UR英雄",
+        "newOneBtn_label": "请一杯",
+        "newTenBtn0_label": "请十杯",
+        "newTenBtn1_label": "请十杯",
+        "freeTipsLab_text": "每日免费{0}次",
+        "limitTipsLab_text": "每日限购{0}/{1}次",
+        "freeLab_text": "本次免费"
+    },
+    "ActivityChoseAwardItemViewData": {
+        "noChooseLab1": "不可更改",
+        "noChooseLab2": "需要VIP{0}"
+    },
+    "TargetedRecruitShowReward": {
+        "titleLabel_text": "奖励预览"
+    },
+    "GvgNearbyTeammateInfoListItem": {
+        "sendBtn_label": "赠送"
+    },
+    "GVGNearbyTeammate": {
+        "titleLabel_text": "可赠送列表",
+        "emptyItem_1_1_text": "当前视野范围内没有队友"
+    },
+    "GvgTeammateInfoListItem": {
+        "watchLimitTips": "最多关注{0}位队友",
+        "closeWatchBtn_label": "取消关注",
+        "startWatchBtn_label": "关注"
+    },
+    "LuckyBoxRewardRecord": {
+        "titleLab_text": "已获得奖励",
+        "lab1_text": "仅显示最近30条",
+        "emptyItem_1_1_text": "暂无获奖记录"
+    },
+    "SignRefine": {
+        "levelUpTabBtn_label": "强化",
+        "starUpTabBtn_label": "升星",
+        "resetTabBtn_label": "洗炼",
+        "evolutionBtn_label": "进化"
+    },
+    "BaseTrial": {
+        "titleLab1": "深海大监狱",
+        "titleLab2": "无限监狱",
+        "TempleTrial0_text": "关卡奖励",
+        "endTimeLabelNotEnd": "{0}后结束",
+        "endTimeLabelEnd": "本轮已结束"
+    },
+    "UnEndTrial": {
+        "titleLab_text": "无限监狱",
+        "challengeBtn_label": "挑 战",
+        "totalStarLabel_text": "总星数：{0}/{1}",
+        "unEndTrialCount_text": "剩余次数:<font color=0xFF7D2F>{0}/{1}</font>",
+        "endTipsLabel_text": "本期已结束\n距离下次开启还有{0}",
+        "battleTimeEmptyTips": "挑战次数不足",
+        "helpDes": "1、关卡挑战次数每日凌晨6点重置\n\n2、关卡进度和奖励每月重置\n\n3、战斗无论胜负均会扣除次数\n\n4、完成每一个关卡的挑战均能获得奖励\n\n5、累计获得一定数量的星数可以开启宝箱获得奖励"
+    },
+    "UnEndTrialBoxItem": {
+        "id1": "{0}星",
+        "id2": "奖励已经领取过"
+    },
+    "UnEndBossChoseLayer": {
+        "titleLabel_text": "关卡选择",
+        "sureBtn_label": "确 定"
+    },
+    "UnLimitBossLayerListItem": {
+        "layerLabel_text": "第{0}关",
+        "goLabel": "跳转",
+        "cannotGoLabel": "未通关"
+    },
+    "UnEndBossRewardShow": {
+        "titleLabel_text": "奖励预览",
+        "sureBtn_label": "确 定"
+    },
+    "UnLimitRewardListItem": {
+        "unEndStarLabel_text": "获得{0}星"
+    },
+    "SummaryLimitPveSuccess": {
+        "leftTimeLab_text": "剩余次数：<font color=0xffb128>{0}</font>",
+        "backBtn_label": "返 回",
+        "againBattleBtn_label": "再次挑战",
+        "battleSummaryBtn_label": "战斗统计"
+    },
+    "FundActivityViewData": {
+        "actEndTime1": "购买截止时间：{0}",
+        "actEndTime2": "领奖截止时间：{0}"
+    },
+    "FriendBlacklistViewData": {
+        "emptyLab": "暂无黑名单人员"
+    },
+    "FriendBlacklistListItem": {
+        "id1": "是否确认将该玩家从黑名单中删除",
+        "id2": "确认",
+        "id3": "取消"
+    },
+    "ExpeditionVipSpeedUp": {
+        "titleLab_text": "一键加速",
+        "lab1_text": "奖 励",
+        "sureBtn_label": "确 定",
+        "cancelBtn_label": "取 消",
+        "targetZpowerLab_text": "资质要求：{0}"
+    },
+    "TurnTableV2": {
+        "oneBtn_label": "抽一次",
+        "tenBtn_label": "抽十次",
+        "endTimeLab_text": "活动截止:<font color=0x62ff32>{0}</font>",
+        "lab1_text": "抽中钻石大奖获得赏金奖池一半"
+    },
+    "TurnTableV2User": {
+        "titleLab_text": "名单",
+        "emptyItem_1_1_text": "暂无人上榜",
+        "tipLab_text": "活动结束后达到{0}抽玩家平分奖池中钻石",
+        "nameLab_text": "角色名",
+        "countLab_text": "抽奖次数"
+    },
+    "TalentPanel": {
+        "titleLab_text": "天赋",
+        "helpValue": "1 玩家可使用攻击强化药剂提升英雄攻击，生命强化药剂提升英雄生命，不同类型的英雄（攻击型、防御型、辅助型）需要使用不同的药剂进行提升\n\n2 药剂有6类、3个品质，共18种。通过喂食药剂增加对应标签英雄的对应属性等级。\n\n3 属性可共鸣，被共鸣英雄的攻击等级、生命等级、属性点加成与主英雄一致。攻击等级与生命等级达标会给与额外属性，该属性共鸣时根据英雄的类型变化（攻击型、防御型、辅助型提供的额外属性不同）。\n\n4 药剂品质越高，喂食药剂后获得经验值越多。",
+        "resonanceLab_text": "共鸣中无法操作"
+    },
+    "TalentLevelPanel": {
+        "titleLab_text": "属性提升",
+        "sureBtn_label": "确 定",
+        "cancelBtn_label": "取 消",
+        "expNotEnoughLab_text": "天赋经验不足，无法升级",
+        "upLevelLab_text": "等级{0}",
+        "nowLevelLab_text": "等级{0}",
+        "expLab_text": "{0}/{1}"
+    },
+    "TalentLevelAttrItemViewData": {
+        "atk": "攻 击",
+        "hp": "生 命",
+        "level": "{0}级"
+    },
+    "TalentAttrPanel": {
+        "titleLab_text": "属性点分配",
+        "leftAttrLab_text": "剩余属性点:{0}",
+        "costLab_text": "消耗属性点:1",
+        "resetBtn_label": "重置",
+        "levelUpBtn_label": "升 级",
+        "Tip1": "请选选择需要升级的属性",
+        "Tip2": "属性点不足",
+        "Tip3": "需要{0}个属性达到{1}级",
+        "Tip4": "是否重置所有的属性点，将返还{0}属性点"
+    },
+    "DrugPanel": {
+        "profLevelLab_text": "熟练度:{0}级（{1}）",
+        "titleLab_text": "药剂制作",
+        "onceMakeBtn_label": "一键制作",
+        "makeBtn_label": "制作",
+        "helpValue": "1  玩家消耗材料制作药剂，50%产出攻击提升药剂，50%产出生命提升药剂，有概率产出高品质药剂\n\n2 玩家可以通过改变制作倾向提升相应药剂的产出概率\n\n3 玩家制作药剂可以提升熟练度，熟练度越高，产出相应倾向药剂的可能性越高。"
+    },
+    "DrugProbabilityItem": {
+        "precentLab_text": "概率:{0}%"
+    },
+    "DrugChoosePanel": {
+        "titleLab_text": "制作倾向选择"
+    },
+    "DrugChooseItem": {
+        "chooseBtn_label": "选择"
+    },
+    "DrugChooseItemViewData": {
+        "info1": "更高概率产出防御型英雄使用的药剂",
+        "info2": "更高概率产出攻击型英雄使用的药剂",
+        "info3": "更高概率产出辅助型英雄使用的药剂"
+    },
+    "DrugPanelViewData": {
+        "levelMax": "已满级"
+    },
+    "TalentLevelLevelItem": {
+        "levelLab_text": "等级{0}",
+        "maxLab_text": "天赋已满级"
+    },
+    "TalentPanelNodeViewData": {
+        "pointValue": "属性点+{0}"
+    },
+    "TalentPanelListItem": {
+        "tip": "左右两个节点都点亮后激活，给予额外属性和属性点",
+        "tip1": "需要激活前置节点"
+    },
+    "TechResetViewData": {
+        "infoLab": "是否重置本页科技树，将返还100%的公会币（共{0}）"
+    },
+    "TalentLevelCostItem": {
+        "tipLab_text": "天赋经验+{0}"
+    },
+    "YouTuber": {
+        "joinBtn_label": "反馈",
+        "receiveBtn_label": "领取奖励",
+        "contactLab_text": "联系我们:<font href='event:{0}' color=0xf9ebc4 ><u>{0}</u></font>",
+        "tip": "复制成功"
+    },
+    "YouTuberTip": {
+        "titleLab_text": "游戏建议",
+        "tipLab_text": "请使用下面的文本框输入您的建议和想法！欢迎反馈",
+        "importText_prompt": "点击输入",
+        "sureBtn_label": "确认",
+        "tip": "请输入正确格式",
+        "tip1": "提交成功"
+    },
+    "BattleStateInfo": {
+        "titleLab_text": "状态图标效果"
+    },
+    "BattleMedalShopListItem": {
+        "repertoryCount_text": "限购:{0}"
+    },
+    "PropExchangeChoose": {
+        "titleLab_text": "提示",
+        "sureBtn_label": "确 定",
+        "cancelBtn_label": "取 消"
+    },
+    "TreasureHuntActivity": {
+        "tipValue": "请选择藏宝图",
+        "endTimeLab_text": "活动截止 <font color=0xa7ec5d strokeColor=0x340d05>{0}</font>",
+        "tipValue1": "确定选择该藏宝图吗？\n（选择后<font color=0xf20b37>需获得全部奖励</font>才能<font color=0xf20b37>再次选择</font>藏宝图）"
+    },
+    "TreasureHuntActivityMain": {
+        "sureBtn_label": "确定",
+        "pickOneBtn_label": "前进一次",
+        "pickTenBtn_label": "前进十次",
+        "stepCountLab_text": "已前进：<font color=0xcaff28>{0}</font>次",
+        "tipValue": "请先领取达标奖",
+        "endTimeLab_text": "活动截止 <font color=0xa7ec5d strokeColor=0x340d05>{0}</font>",
+        "tip": "剩余步数不足10次"
+    },
+    "TreasureHuntAwardItem": {
+        "timeLabValue1": "前进{0}次",
+        "timeLabValue2": "可领取"
+    },
+    "TreasureHuntAwardPre": {
+        "titleLab_text": "藏宝图预览",
+        "tipsLab_text": "每次前进消耗{0}{1}"
+    },
+    "TurnTableV2UserViewData": {
+        "countLab": "{0}次"
+    },
+    "NewHeroChallenge": {
+        "endTimeLab_text": "活动截止:<font color=0x62ff32>{0}</font>",
+        "heroBookBtn_label": "图鉴",
+        "demonstrationBtn_label": "演示",
+        "rankBtn_label": "排行",
+        "rewardBtn_label": "奖励"
+    },
+    "NewHeroChallengeFirstRank": {
+        "titleLab_text": "首胜排行",
+        "lab_text": "仅统计率先击杀对应防守阵容的玩家",
+        "emptyItem_1_1_text": "暂无人上榜"
+    },
+    "NewHeroChallengeFirstRankListItem": {
+        "titleLab_text": "挑战<font color=0xaf5105>{0}的首胜玩家",
+        "infoLab_text": "{0}({1}区)\n{2}"
+    },
+    "NewHeroChallengeRewardListItem": {
+        "receiveBtn_label": "领取",
+        "lab1_text": "已领取",
+        "awardLab_text": "奖励",
+        "infoLab_text": "{0}\n<font color=0x59331e>({1}区)\n{2}</font>"
+    },
+    "NewHeroChallengeBattleItem": {
+        "tip1": "虚位以待",
+        "serverAndGuildNameLab_text": "{0}区{1}"
+    },
+    "NewHeroChallengeTargetInfo": {
+        "teamBtn_label": "阵 容",
+        "rankBtn_label": "胜率排行",
+        "titleLab1": "敌方阵容",
+        "titleLab2": "胜率排行",
+        "lab1_text": "当前排名",
+        "helpTips": "本榜单基于所有玩家挑战该防守阵容数据得出；\n上榜条件：\n1）挑战阵容为5名英雄\n2）同一阵容出战 ≥5场\n3) 活动期间胜率高的阵容顶替胜率低的阵容"
+    },
+    "NewHeroChallengeTargetWin": {
+        "lab1_text": "最佳搭档",
+        "title2Lab_text": "挑战阵容",
+        "title2Lab0_text": "胜率",
+        "emptyLab_text": "战斗场次≥5场可上榜",
+        "emptyItem_1_1_text": "暂无排行"
+    },
+    "NewHeroChallengeBattleStart": {
+        "tip1": "该英雄不可下阵"
+    },
+    "NewHeroChallengeBattleChangePosition": {
+        "titleLab_text": "出手顺序",
+        "lab_text": "拖动头像设置出手顺序"
+    },
+    "NewHeroChallengeBattle": {
+        "endTimeLab_text": "活动截止:<font color=0x62ff32>{0}</font>"
+    },
+    "NewHeroChallengeReward": {
+        "titleLab_text": "奖励",
+        "lab1_text": "挑战赛战胜对应玩家可领取奖励"
+    },
+    "NewFundAct": {
+        "lab1_text": "购买后每日可领取",
+        "tab1Btn_label": "钻石基金",
+        "tab2Btn_label": "巅峰基金",
+        "lab2_text": "已购买",
+        "actEndTime2": "领奖截止时间：{0}",
+        "actEndTime1": "购买截止时间：{0}"
+    },
+    "NewTurnAct": {
+        "endTimeLab_text": "活动截止:<font color=0x52dd38>{0}</font>",
+        "rateDesLab_text": "自选英雄下次十连抽出概率：",
+        "activityOpenOtherActBtn_label": "限时礼包",
+        "tab2Btn_label": "巅峰基金",
+        "rateLab_text": "{0}%",
+        "freeTipsLab_text": "每日免费{0}次",
+        "freeLab_text": "本次免费",
+        "newTenBtn1_label": "转十次",
+        "newTenBtn0_label": "转十次",
+        "newOneBtn_label": "转一次",
+        "limitTipsLab_text": "每日限购{0}/{1}次"
+    },
+    "NewTurnActChooseReward": {
+        "titleLab_text": "任选英雄池",
+        "tipLab_text": "请从以下英雄或道具中任选1个",
+        "tipLab0_text": "可选英雄为角色已激活图鉴中的SSR，UR英雄",
+        "sureBtn_label": "确 定",
+        "errorTip": "请先选择英雄或道具！"
+    },
+    "NewTurnActChooseRewardListItem": {
+        "stockCountLab_text": "库存:{0}"
+    },
+    "DailyRechargeItemViewData": {
+        "chooseDes": "{0}选一"
+    },
+    "TodayDiscountRewardItem": {
+        "limitLab_text": "限购{0}/{1}次"
+    },
+    "MonthCardPanelItem": {
+        "lab3_text": "累计可获得",
+        "lab1_text": "购买即送",
+        "lab2_text": "每日可领取"
+    },
+    "ThousandDrawItemViewData": {
+        "day": "第{0}天"
+    },
+    "ThousandDraw": {
+        "lab_text": "每天登陆领取1000抽:<font color=0x72ff46>{0}/1000</font>"
+    },
+    "ThousandDrawTip": {
+        "titleLab_text": "提示",
+        "infoLab_text": "直接领取获得{0}张招募令，\n任意充值后可以获得双倍奖励",
+        "confirm_label": "直接领取",
+        "cancel_label": "充值领取"
+    },
+    "SummaryPveSuccessMain": {
+        "againBattleBtn_label": "再次挑战",
+        "battleSummaryBtn_label": "战斗统计"
+    },
+    "Main": {
+        "tips": "没有邮箱"
+    },
+    "CommonActivityRewardListItem": {
+        "receiveBtn_label": "领取",
+        "lab_text": "已领取"
+    },
+    "CostFeedback": {
+        "awardTabBtn_label": "消耗奖励",
+        "rankTabBtn_label": "消耗排行"
+    },
+    "ArenaRewardTipsListItem": {
+        "currentLab_text": "当前"
+    },
+    "SummaryPveSuccessMainViewData": {
+        "id1": "下一关",
+        "id2": "继续冒险"
+    },
+    "BountyChildTaskListItem": {
+        "getRewardBtn_label": "领取",
+        "isGotRewardLab_text": "已领取"
+    },
+    "GuideInfoManager": {
+        "errTip": "新手引导出错 重新加载"
+    },
+    "SupriseReward": {
+        "closeBtn_label": "确 定"
+    }
+}

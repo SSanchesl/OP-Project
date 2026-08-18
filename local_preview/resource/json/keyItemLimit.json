@@ -1,0 +1,212 @@
+{
+  "1": {
+    "id": 1,
+    "itemIDList": 101,
+    "itemNameList": "钻石",
+    "accessList": "116,602,120,192,202,181,151,226,",
+    "limitNum": 18000
+  },
+  "2": {
+    "id": 2,
+    "itemIDList": "167",
+    "itemNameList": "历史石碑",
+    "accessList": "116,120,210,226,",
+    "limitNum": 30
+  },
+  "3": {
+    "id": 3,
+    "itemIDList": "123",
+    "itemNameList": "高级招募令",
+    "accessList": "120,226,210,",
+    "limitNum": 140
+  },
+  "4": {
+    "id": 4,
+    "itemIDList": "113",
+    "itemNameList": "激斗币",
+    "accessList": "159,184,185,",
+    "limitNum": 8000
+  },
+  "5": {
+    "id": 5,
+    "itemIDList": "111",
+    "itemNameList": "灵魂币",
+    "accessList": "103,161,",
+    "limitNum": 40000
+  },
+  "6": {
+    "id": 6,
+    "itemIDList": "112",
+    "itemNameList": "竞技币",
+    "accessList": "109,192,",
+    "limitNum": 30000
+  },
+  "7": {
+    "id": 7,
+    "itemIDList": "116",
+    "itemNameList": "高级竞技币",
+    "accessList": "192,",
+    "limitNum": 7000
+  },
+  "8": {
+    "id": 8,
+    "itemIDList": "115",
+    "itemNameList": "荣耀币",
+    "accessList": "49,50,51,",
+    "limitNum": 8000
+  },
+  "9": {
+    "id": 9,
+    "itemIDList": "114",
+    "itemNameList": "公会币",
+    "accessList": "104,131,133,136,190,194,",
+    "limitNum": 50000
+  },
+  "10": {
+    "id": 10,
+    "itemIDList": "131",
+    "itemNameList": "经验卡",
+    "accessList": "137,226,210,180,189,150,211,171,138,",
+    "limitNum": 120000000
+  },
+  "11": {
+    "id": 11,
+    "itemIDList": "132",
+    "itemNameList": "突破卡",
+    "accessList": "210,137,226,171,211,189,162,",
+    "limitNum": 3000000
+  },
+  "12": {
+    "id": 12,
+    "itemIDList": "135",
+    "itemNameList": "磁粉",
+    "accessList": "180,226,106,151,107,191,602,",
+    "limitNum": 60000
+  },
+  "13": {
+    "id": 13,
+    "itemIDList": "136",
+    "itemNameList": "耐力卡",
+    "accessList": "180,226,150,230,602,",
+    "limitNum": 30000
+  },
+  "14": {
+    "id": 14,
+    "itemIDList": "137",
+    "itemNameList": "锻造石",
+    "accessList": "171,226,180,174,",
+    "limitNum": 300000
+  },
+  "15": {
+    "id": 15,
+    "itemIDList": "138",
+    "itemNameList": "晶粉",
+    "accessList": "106,171,226,180,107,",
+    "limitNum": 500000
+  },
+  "16": {
+    "id": 16,
+    "itemIDList": "139",
+    "itemNameList": "磁石",
+    "accessList": "151,191,107,106,",
+    "limitNum": 3000
+  },
+  "17": {
+    "id": 17,
+    "itemIDList": "140",
+    "itemNameList": "精铁",
+    "accessList": "174,173,180,",
+    "limitNum": 6000
+  },
+  "18": {
+    "id": 18,
+    "itemIDList": "142",
+    "itemNameList": "修炼卡",
+    "accessList": "181,180,189,",
+    "limitNum": 5000
+  },
+  "19": {
+    "id": 19,
+    "itemIDList": "149",
+    "itemNameList": "幸运币",
+    "accessList": "120,602,",
+    "limitNum": 200
+  },
+  "20": {
+    "id": 20,
+    "itemIDList": "150",
+    "itemNameList": "强化石",
+    "accessList": "180,189,226,137,150,106,107,171,211,",
+    "limitNum": 900000
+  },
+  "21": {
+    "id": 21,
+    "itemIDList": "134",
+    "itemNameList": "终结之力",
+    "accessList": "147,193,198,602,226,257,189,180,",
+    "limitNum": 18000
+  },
+  "22": {
+    "id": 22,
+    "itemIDList": "182",
+    "itemNameList": "装备券",
+    "accessList": "120,181,",
+    "limitNum": 200
+  },
+  "23": {
+    "id": 23,
+    "itemIDList": "240",
+    "itemNameList": "晶石",
+    "accessList": "180,171,107,309,183,",
+    "limitNum": 9000
+  },
+  "24": {
+    "id": 24,
+    "itemIDList": "580",
+    "itemNameList": "精炼石",
+    "accessList": "180,171,107,",
+    "limitNum": 2800
+  },
+  "25": {
+    "id": 25,
+    "itemIDList": "827",
+    "itemNameList": "初级气魄",
+    "accessList": "246,180,189,",
+    "limitNum": 20000
+  },
+  "26": {
+    "id": 26,
+    "itemIDList": "828",
+    "itemNameList": "霸王色气魄",
+    "accessList": "246,180,189,",
+    "limitNum": 800
+  },
+  "27": {
+    "id": 27,
+    "itemIDList": "829",
+    "itemNameList": "见闻色气魄",
+    "accessList": "246,180,189,",
+    "limitNum": 800
+  },
+  "28": {
+    "id": 28,
+    "itemIDList": "830",
+    "itemNameList": "武装色气魄",
+    "accessList": "246,180,189,",
+    "limitNum": 800
+  },
+  "29": {
+    "id": 29,
+    "itemIDList": "851",
+    "itemNameList": "电话虫",
+    "accessList": "257,",
+    "limitNum": 50
+  },
+  "30": {
+    "id": 30,
+    "itemIDList": "852",
+    "itemNameList": "黄金电话虫",
+    "accessList": "257,",
+    "limitNum": 50
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "1": {
+    "id": 1,
+    "guildLevel": 1,
+    "rewardID": 114,
+    "goodsSum": 7180
+  },
+  "2": {
+    "id": 2,
+    "guildLevel": 2,
+    "rewardID": 114,
+    "goodsSum": 7310
+  },
+  "3": {
+    "id": 3,
+    "guildLevel": 3,
+    "rewardID": 114,
+    "goodsSum": 7440
+  },
+  "4": {
+    "id": 4,
+    "guildLevel": 4,
+    "rewardID": 114,
+    "goodsSum": 7570
+  },
+  "5": {
+    "id": 5,
+    "guildLevel": 5,
+    "rewardID": 114,
+    "goodsSum": 7700
+  },
+  "6": {
+    "id": 6,
+    "guildLevel": 6,
+    "rewardID": 114,
+    "goodsSum": 7830
+  },
+  "7": {
+    "id": 7,
+    "guildLevel": 7,
+    "rewardID": 114,
+    "goodsSum": 7960
+  },
+  "8": {
+    "id": 8,
+    "guildLevel": 8,
+    "rewardID": 114,
+    "goodsSum": 8090
+  },
+  "9": {
+    "id": 9,
+    "guildLevel": 9,
+    "rewardID": 114,
+    "goodsSum": 8220
+  },
+  "10": {
+    "id": 10,
+    "guildLevel": 10,
+    "rewardID": 114,
+    "goodsSum": 8350
+  },
+  "11": {
+    "id": 11,
+    "guildLevel": 11,
+    "rewardID": 114,
+    "goodsSum": 8480
+  },
+  "12": {
+    "id": 12,
+    "guildLevel": 12,
+    "rewardID": 114,
+    "goodsSum": 8610
+  },
+  "13": {
+    "id": 13,
+    "guildLevel": 13,
+    "rewardID": 114,
+    "goodsSum": 8740
+  },
+  "14": {
+    "id": 14,
+    "guildLevel": 14,
+    "rewardID": 114,
+    "goodsSum": 8870
+  },
+  "15": {
+    "id": 15,
+    "guildLevel": 15,
+    "rewardID": 114,
+    "goodsSum": 9000
+  },
+  "16": {
+    "id": 16,
+    "guildLevel": 16,
+    "rewardID": 114,
+    "goodsSum": 9130
+  },
+  "17": {
+    "id": 17,
+    "guildLevel": 17,
+    "rewardID": 114,
+    "goodsSum": 9260
+  },
+  "18": {
+    "id": 18,
+    "guildLevel": 18,
+    "rewardID": 114,
+    "goodsSum": 9390
+  },
+  "19": {
+    "id": 19,
+    "guildLevel": 19,
+    "rewardID": 114,
+    "goodsSum": 9520
+  },
+  "20": {
+    "id": 20,
+    "guildLevel": 20,
+    "rewardID": 114,
+    "goodsSum": 9650
+  }
+}

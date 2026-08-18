@@ -1,0 +1,33 @@
+{
+  "1": {
+    "id": 1,
+    "ssrAttackId": 1501,
+    "ssrDefenseId": 1503,
+    "ssrSupId": 1502,
+    "urId": 1601
+  },
+  "2": {
+    "id": 2,
+    "ssrAttackId": 1504,
+    "ssrDefenseId": 1506,
+    "ssrSupId": 1508,
+    "urId": 1605
+  },
+  "3": {
+    "id": 3,
+    "ssrAttackId": 1505,
+    "ssrSupId": 1510,
+    "urId": 1606
+  },
+  "4": {
+    "id": 4,
+    "ssrAttackId": 1507,
+    "ssrSupId": 1514,
+    "urId": 1609
+  },
+  "5": {
+    "id": 5,
+    "ssrAttackId": 1512,
+    "urId": 1610
+  }
+}

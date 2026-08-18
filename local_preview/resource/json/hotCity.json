@@ -1,0 +1,42 @@
+{
+  "1": {
+    "id": 1,
+    "hotPoint": "147,69",
+    "length": 15
+  },
+  "2": {
+    "id": 2,
+    "hotPoint": "117,138",
+    "length": 20
+  },
+  "3": {
+    "id": 3,
+    "hotPoint": "86,190",
+    "length": 15
+  },
+  "4": {
+    "id": 4,
+    "hotPoint": "83,92",
+    "length": 15
+  },
+  "5": {
+    "id": 5,
+    "hotPoint": "161,236",
+    "length": 15
+  },
+  "6": {
+    "id": 6,
+    "hotPoint": "214,205",
+    "length": 15
+  },
+  "7": {
+    "id": 7,
+    "hotPoint": "231,147",
+    "length": 15
+  },
+  "8": {
+    "id": 8,
+    "hotPoint": "168,162",
+    "length": 20
+  }
+}

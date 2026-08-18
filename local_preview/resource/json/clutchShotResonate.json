@@ -1,0 +1,11 @@
+{
+  "1": {
+    "id": 1,
+    "cabinNumFree": 1,
+    "seatNumFree": 3,
+    "seatCd": 43200,
+    "seatCdClearDimaond": 100,
+    "qualityLimit": "SSR",
+    "version": "202011171502"
+  }
+}

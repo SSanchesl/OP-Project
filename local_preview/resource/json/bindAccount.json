@@ -1,0 +1,29 @@
+{
+  "3": {
+    "id": 3,
+    "name": "bangdingzhanghao_02_png",
+    "show": 0,
+    "rewardId1": 101,
+    "rewardNum1": 80,
+    "rewardId2": 102,
+    "rewardNum2": 20000,
+    "rewardId3": 122,
+    "rewardNum3": 1,
+    "order": 2,
+    "type": "facebook"
+  },
+  "4": {
+    "id": 4,
+    "name": "bangdingzhanghao_06_png",
+    "show": 1,
+    "rewardId1": 101,
+    "rewardNum1": 80,
+    "rewardId2": 102,
+    "rewardNum2": 20000,
+    "rewardId3": 122,
+    "rewardNum3": 1,
+    "order": 1,
+    "isRecommend": 1,
+    "type": "apple"
+  }
+}

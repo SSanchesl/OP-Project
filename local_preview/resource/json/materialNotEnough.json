@@ -1,0 +1,3144 @@
+{
+  "101": {
+    "id": 101,
+    "name": "钻石",
+    "systemLink": "linkRecharge",
+    "text": "materialNotEnough_text_1"
+  },
+  "102": {
+    "id": 102,
+    "name": "金币",
+    "systemLink": "linkGoldBuy",
+    "text": "materialNotEnough_text_2"
+  },
+  "103": {
+    "id": 103,
+    "name": "玩家经验",
+    "systemLink": "linkMain,linkMain,linkDungeon",
+    "text": "materialNotEnough_text_3"
+  },
+  "104": {
+    "id": 104,
+    "name": "玩家等级",
+    "text": "materialNotEnough_text_4"
+  },
+  "105": {
+    "id": 105,
+    "name": "玩家VIP经验",
+    "text": "materialNotEnough_text_4"
+  },
+  "106": {
+    "id": 106,
+    "name": "玩家VIP等级",
+    "text": "materialNotEnough_text_4"
+  },
+  "111": {
+    "id": 111,
+    "name": "灵魂币",
+    "systemLink": "linkHeroResolve",
+    "text": "materialNotEnough_text_5"
+  },
+  "112": {
+    "id": 112,
+    "name": "武道币",
+    "systemLink": "linkArena",
+    "text": "materialNotEnough_text_6"
+  },
+  "113": {
+    "id": 113,
+    "name": "激斗币",
+    "systemLink": "linkSnakeDungeon",
+    "text": "materialNotEnough_text_7"
+  },
+  "114": {
+    "id": 114,
+    "name": "公会币",
+    "systemLink": "linkGuild",
+    "text": "materialNotEnough_text_8"
+  },
+  "115": {
+    "id": 115,
+    "name": "荣耀币",
+    "systemLink": "linkGuild",
+    "text": "materialNotEnough_text_8"
+  },
+  "116": {
+    "id": 116,
+    "name": "高阶竞技币",
+    "systemLink": "linkArena",
+    "text": "materialNotEnough_text_6"
+  },
+  "117": {
+    "id": 117,
+    "name": "团本币",
+    "systemLink": "linkTeamDungeon",
+    "text": "materialNotEnough_text_9"
+  },
+  "121": {
+    "id": 121,
+    "name": "友情点",
+    "systemLink": "linkFriend",
+    "text": "materialNotEnough_text_10"
+  },
+  "122": {
+    "id": 122,
+    "name": "普通召唤券",
+    "systemLink": "linkMarket",
+    "text": "materialNotEnough_text_11"
+  },
+  "123": {
+    "id": 123,
+    "name": "高级召唤券",
+    "systemLink": "linkMarket",
+    "text": "materialNotEnough_text_11"
+  },
+  "124": {
+    "id": 124,
+    "name": "神龙的祝福",
+    "systemLink": "linkSoulShop",
+    "text": "materialNotEnough_text_12"
+  },
+  "125": {
+    "id": 125,
+    "name": "冒险币",
+    "systemLink": "linkIslandRisk",
+    "text": "materialNotEnough_text_13"
+  },
+  "131": {
+    "id": 131,
+    "name": "经验卡",
+    "systemLink": "linkExpDungeon",
+    "text": "materialNotEnough_text_14"
+  },
+  "132": {
+    "id": 132,
+    "name": "突破卡",
+    "systemLink": "linkEvolveDungeon,linkTempleTest",
+    "text": "materialNotEnough_text_15"
+  },
+  "133": {
+    "id": 133,
+    "name": "超圣水",
+    "systemLink": "linkTempleTest",
+    "text": "materialNotEnough_text_16"
+  },
+  "134": {
+    "id": 134,
+    "name": "终结之力",
+    "systemLink": "linkKarinTower",
+    "text": "materialNotEnough_text_17"
+  },
+  "135": {
+    "id": 135,
+    "name": "磁粉",
+    "systemLink": "linkMahaAdventure",
+    "text": "materialNotEnough_text_18"
+  },
+  "136": {
+    "id": 136,
+    "name": "耐力卡",
+    "systemLink": "linkIslandRisk",
+    "text": "materialNotEnough_text_13"
+  },
+  "137": {
+    "id": 137,
+    "name": "锻造石",
+    "systemLink": "linkMetalDungeon",
+    "text": "materialNotEnough_text_19"
+  },
+  "138": {
+    "id": 138,
+    "name": "晶粉",
+    "systemLink": "linkZStoneDungeon",
+    "text": "materialNotEnough_text_20"
+  },
+  "139": {
+    "id": 139,
+    "name": "磁石",
+    "systemLink": "linkMahaAdventure",
+    "text": "materialNotEnough_text_18"
+  },
+  "140": {
+    "id": 140,
+    "name": "精铁",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "141": {
+    "id": 141,
+    "name": "市场刷新币",
+    "systemLink": "linkRewardList",
+    "text": "materialNotEnough_text_22"
+  },
+  "142": {
+    "id": 142,
+    "name": "修炼卡",
+    "systemLink": "linkMine",
+    "text": "materialNotEnough_text_23"
+  },
+  "143": {
+    "id": 143,
+    "name": "3星委托书",
+    "systemLink": "linkRewardList",
+    "text": "materialNotEnough_text_24"
+  },
+  "144": {
+    "id": 144,
+    "name": "4星委托书",
+    "systemLink": "linkRewardList",
+    "text": "materialNotEnough_text_24"
+  },
+  "145": {
+    "id": 145,
+    "name": "5星委托书",
+    "systemLink": "linkRewardList",
+    "text": "materialNotEnough_text_24"
+  },
+  "146": {
+    "id": 146,
+    "name": "激素",
+    "systemLink": "linkMarket",
+    "text": "materialNotEnough_text_11"
+  },
+  "147": {
+    "id": 147,
+    "name": "娜美亲密度",
+    "text": "materialNotEnough_text_4"
+  },
+  "149": {
+    "id": 149,
+    "name": "幸运币",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "150": {
+    "id": 150,
+    "name": "矿物结晶",
+    "systemLink": "linkStrengtheningStone",
+    "text": "materialNotEnough_text_26"
+  },
+  "151": {
+    "id": 151,
+    "name": "一星珠",
+    "systemLink": "linkLessonChest",
+    "text": "materialNotEnough_text_4"
+  },
+  "152": {
+    "id": 152,
+    "name": "二星珠",
+    "text": "materialNotEnough_text_4"
+  },
+  "153": {
+    "id": 153,
+    "name": "三星珠",
+    "text": "materialNotEnough_text_4"
+  },
+  "154": {
+    "id": 154,
+    "name": "四星珠",
+    "text": "materialNotEnough_text_4"
+  },
+  "155": {
+    "id": 155,
+    "name": "五星珠",
+    "text": "materialNotEnough_text_4"
+  },
+  "156": {
+    "id": 156,
+    "name": "六星珠",
+    "text": "materialNotEnough_text_4"
+  },
+  "157": {
+    "id": 157,
+    "name": "七星珠",
+    "text": "materialNotEnough_text_4"
+  },
+  "165": {
+    "id": 165,
+    "name": "强敌探索器",
+    "systemLink": "linkMarket",
+    "text": "materialNotEnough_text_11"
+  },
+  "167": {
+    "id": 167,
+    "name": "历史石碑",
+    "systemLink": "linkMain,linkActivity",
+    "text": "materialNotEnough_text_27"
+  },
+  "181": {
+    "id": 181,
+    "name": "朗姆酒"
+  },
+  "182": {
+    "id": 182,
+    "name": "装备券",
+    "systemLink": "linkRewardList,linkActivity",
+    "text": "materialNotEnough_text_81"
+  },
+  "183": {
+    "id": 183,
+    "name": "空贝券",
+    "systemLink": "linkRewardList,linkActivity",
+    "text": "materialNotEnough_text_29"
+  },
+  "184": {
+    "id": 184,
+    "name": "武器券",
+    "systemLink": "linkRewardList,linkActivity",
+    "text": "materialNotEnough_text_30"
+  },
+  "207": {
+    "id": 207,
+    "name": "Z魂石·绿"
+  },
+  "208": {
+    "id": 208,
+    "name": "印记碎片·绿",
+    "text": "materialNotEnough_text_4"
+  },
+  "217": {
+    "id": 217,
+    "name": "Z魂石·蓝"
+  },
+  "218": {
+    "id": 218,
+    "name": "印记碎片·蓝",
+    "text": "materialNotEnough_text_4"
+  },
+  "227": {
+    "id": 227,
+    "name": "Z魂石·紫",
+    "systemLink": "linkMine,linkMarket",
+    "text": "materialNotEnough_text_23"
+  },
+  "228": {
+    "id": 228,
+    "name": "印记碎片·紫",
+    "text": "materialNotEnough_text_4"
+  },
+  "237": {
+    "id": 237,
+    "name": "Z魂石·橙",
+    "systemLink": "linkMine,linkMarket",
+    "text": "materialNotEnough_text_23"
+  },
+  "238": {
+    "id": 238,
+    "name": "印记碎片·橙",
+    "text": "materialNotEnough_text_4"
+  },
+  "240": {
+    "id": 240,
+    "name": "晶石",
+    "systemLink": "linkSignDungeon,linkBossAttack",
+    "text": "materialNotEnough_text_31"
+  },
+  "301": {
+    "id": 301,
+    "name": "三百烦恼攻城炮碎片",
+    "systemLink": "linkBossFight",
+    "text": "materialNotEnough_text_32"
+  },
+  "302": {
+    "id": 302,
+    "name": "阿修罗·壹雾银碎片",
+    "systemLink": "linkBossFight",
+    "text": "materialNotEnough_text_32"
+  },
+  "304": {
+    "id": 304,
+    "name": "雷迎碎片",
+    "systemLink": "linkBossFight",
+    "text": "materialNotEnough_text_32"
+  },
+  "305": {
+    "id": 305,
+    "name": "大炎戒·炎帝碎片",
+    "systemLink": "linkBossFight",
+    "text": "materialNotEnough_text_32"
+  },
+  "308": {
+    "id": 308,
+    "name": "冰河时代碎片",
+    "systemLink": "linkBossFight",
+    "text": "materialNotEnough_text_32"
+  },
+  "309": {
+    "id": 309,
+    "name": "黑暗笼罩碎片",
+    "systemLink": "linkBossFight",
+    "text": "materialNotEnough_text_32"
+  },
+  "310": {
+    "id": 310,
+    "name": "鸟笼碎片",
+    "systemLink": "linkBossFight",
+    "text": "materialNotEnough_text_32"
+  },
+  "501": {
+    "id": 501,
+    "name": "觉醒石",
+    "systemLink": "linkArena,linkMine",
+    "text": "materialNotEnough_text_33"
+  },
+  "520": {
+    "id": 520,
+    "name": "大师券",
+    "systemLink": "linkRewardList,linkActivity",
+    "text": "materialNotEnough_text_34"
+  },
+  "521": {
+    "id": 521,
+    "name": "神秘召唤珠",
+    "systemLink": "linkRewardList,linkActivity",
+    "text": "materialNotEnough_text_34"
+  },
+  "522": {
+    "id": 522,
+    "name": "粽子",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "523": {
+    "id": 523,
+    "name": "月饼",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "546": {
+    "id": 546,
+    "name": "神格胶囊",
+    "systemLink": "linkExpedition",
+    "text": "materialNotEnough_text_35"
+  },
+  "547": {
+    "id": 547,
+    "name": "次元粒子",
+    "systemLink": "linkExpedition",
+    "text": "materialNotEnough_text_35"
+  },
+  "548": {
+    "id": 548,
+    "name": "次元装置",
+    "systemLink": "linkExpedition",
+    "text": "materialNotEnough_text_35"
+  },
+  "556": {
+    "id": 556,
+    "name": "英雄犒赏令",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "557": {
+    "id": 557,
+    "name": "神圣犒赏令",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "580": {
+    "id": 580,
+    "name": "精炼石",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_36"
+  },
+  "615": {
+    "id": 615,
+    "name": "淬炼石",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "616": {
+    "id": 616,
+    "name": "空贝能量",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "617": {
+    "id": 617,
+    "name": "装备能量",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "618": {
+    "id": 618,
+    "name": "召唤能量",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "619": {
+    "id": 619,
+    "name": "武器能量",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "621": {
+    "id": 621,
+    "name": "铁铲",
+    "systemLink": "linkDungeon,linkMain,linkGuild,linkActivity",
+    "text": "materialNotEnough_text_89"
+  },
+  "622": {
+    "id": 622,
+    "name": "海盗船",
+    "systemLink": "linkTempleTest",
+    "text": "materialNotEnough_text_16"
+  },
+  "624": {
+    "id": 624,
+    "name": "拼图碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_90"
+  },
+  "625": {
+    "id": 625,
+    "name": "腊八粥",
+    "systemLink": "linkMain,linkActivity",
+    "text": "materialNotEnough_text_39"
+  },
+  "626": {
+    "id": 626,
+    "name": "高级气魄任选包",
+    "systemLink": "linkActivity,linkActivity",
+    "text": "materialNotEnough_text_40"
+  },
+  "627": {
+    "id": 627,
+    "name": "鞭炮",
+    "systemLink": "linkMain,linkDungeon",
+    "text": "materialNotEnough_text_41"
+  },
+  "628": {
+    "id": 628,
+    "name": "烟花",
+    "systemLink": "linkActivity,linkActivity",
+    "text": "materialNotEnough_text_40"
+  },
+  "629": {
+    "id": 629,
+    "name": "团本票",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "631": {
+    "id": 631,
+    "name": "补签卡",
+    "systemLink": "linkWeeklyBonus",
+    "text": "materialNotEnough_text_43"
+  },
+  "632": {
+    "id": 632,
+    "name": "尊享券",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "634": {
+    "id": 634,
+    "name": "风筝",
+    "systemLink": "linkMain,linkDungeon,linkActivity",
+    "text": "materialNotEnough_text_37"
+  },
+  "635": {
+    "id": 635,
+    "name": "郁金香",
+    "systemLink": "linkMain,linkDungeon,linkActivity",
+    "text": "materialNotEnough_text_37"
+  },
+  "636": {
+    "id": 636,
+    "name": "礼盒券",
+    "systemLink": "linkDungeon,linkMain,linkGuild,linkActivity",
+    "text": "materialNotEnough_text_89"
+  },
+  "637": {
+    "id": 637,
+    "name": "玫瑰花",
+    "systemLink": "linkMain,linkGuild,linkActivity",
+    "text": "materialNotEnough_text_45"
+  },
+  "650": {
+    "id": 650,
+    "name": "娜美的生日蛋糕",
+    "systemLink": "linkMain,linkActivity",
+    "text": "materialNotEnough_text_46"
+  },
+  "652": {
+    "id": 652,
+    "name": "一周年红包",
+    "systemLink": "linkMain",
+    "text": "materialNotEnough_text_47"
+  },
+  "653": {
+    "id": 653,
+    "name": "啤酒",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_48"
+  },
+  "656": {
+    "id": 656,
+    "name": "药草",
+    "systemLink": "linkInfinitePrison",
+    "text": "materialNotEnough_text_49"
+  },
+  "657": {
+    "id": 657,
+    "name": "攻击强化药剂·攻",
+    "systemLink": "linkDrug",
+    "text": "materialNotEnough_text_50"
+  },
+  "660": {
+    "id": 660,
+    "name": "生命强化药剂·攻",
+    "systemLink": "linkDrug",
+    "text": "materialNotEnough_text_50"
+  },
+  "663": {
+    "id": 663,
+    "name": "攻击强化药剂·防",
+    "systemLink": "linkDrug",
+    "text": "materialNotEnough_text_50"
+  },
+  "666": {
+    "id": 666,
+    "name": "生命强化药剂·防",
+    "systemLink": "linkDrug",
+    "text": "materialNotEnough_text_50"
+  },
+  "669": {
+    "id": 669,
+    "name": "攻击强化药剂·辅",
+    "systemLink": "linkDrug",
+    "text": "materialNotEnough_text_50"
+  },
+  "672": {
+    "id": 672,
+    "name": "生命强化药剂·辅",
+    "systemLink": "linkDrug",
+    "text": "materialNotEnough_text_50"
+  },
+  "675": {
+    "id": 675,
+    "name": "枫叶",
+    "systemLink": "linkMain,linkGuild,linkActivity",
+    "text": "materialNotEnough_text_45"
+  },
+  "676": {
+    "id": 676,
+    "name": "战令币",
+    "systemLink": "linkWarMakes",
+    "text": "materialNotEnough_text_51"
+  },
+  "678": {
+    "id": 678,
+    "name": "航海日志",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "827": {
+    "id": 827,
+    "name": "初级气魄",
+    "systemLink": "linkHakiPractice,linkMarket",
+    "text": "materialNotEnough_text_52"
+  },
+  "828": {
+    "id": 828,
+    "name": "霸王色气魄",
+    "systemLink": "linkHakiPractice,linkMarket",
+    "text": "materialNotEnough_text_52"
+  },
+  "829": {
+    "id": 829,
+    "name": "见闻色气魄",
+    "systemLink": "linkHakiPractice,linkMarket",
+    "text": "materialNotEnough_text_52"
+  },
+  "830": {
+    "id": 830,
+    "name": "武装色气魄",
+    "systemLink": "linkHakiPractice,linkMarket",
+    "text": "materialNotEnough_text_52"
+  },
+  "851": {
+    "id": 851,
+    "name": "电话虫",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "852": {
+    "id": 852,
+    "name": "黄金电话虫",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "900": {
+    "id": 900,
+    "name": "团本170级1星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "901": {
+    "id": 901,
+    "name": "团本170级2星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "902": {
+    "id": 902,
+    "name": "团本170级3星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "903": {
+    "id": 903,
+    "name": "团本180级1星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "904": {
+    "id": 904,
+    "name": "团本180级2星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "905": {
+    "id": 905,
+    "name": "团本180级3星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "906": {
+    "id": 906,
+    "name": "团本190级1星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "907": {
+    "id": 907,
+    "name": "团本190级2星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "908": {
+    "id": 908,
+    "name": "团本190级3星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "909": {
+    "id": 909,
+    "name": "团本200级1星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "910": {
+    "id": 910,
+    "name": "团本200级2星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "911": {
+    "id": 911,
+    "name": "团本200级3星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "912": {
+    "id": 912,
+    "name": "团本220级1星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "913": {
+    "id": 913,
+    "name": "团本220级2星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "914": {
+    "id": 914,
+    "name": "团本220级3星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "915": {
+    "id": 915,
+    "name": "团本240级1星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "916": {
+    "id": 916,
+    "name": "团本240级2星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "917": {
+    "id": 917,
+    "name": "团本240级3星本钥匙",
+    "systemLink": "linkDailyTask",
+    "text": "materialNotEnough_text_42"
+  },
+  "918": {
+    "id": 918,
+    "name": "终结技券",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_48"
+  },
+  "919": {
+    "id": 919,
+    "name": "空贝币",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_48"
+  },
+  "1201": {
+    "id": 1201,
+    "name": "卡巴奇",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1202": {
+    "id": 1202,
+    "name": "摩奇",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1203": {
+    "id": 1203,
+    "name": "小八",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1204": {
+    "id": 1204,
+    "name": "克罗马利蒙",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1205": {
+    "id": 1205,
+    "name": "杰斯",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1206": {
+    "id": 1206,
+    "name": "Mr.9",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1207": {
+    "id": 1207,
+    "name": "蒙卡",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1208": {
+    "id": 1208,
+    "name": "乌索普",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1209": {
+    "id": 1209,
+    "name": "娜美",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1301": {
+    "id": 1301,
+    "name": "克洛",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1302": {
+    "id": 1302,
+    "name": "阿龙",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1303": {
+    "id": 1303,
+    "name": "克利克",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1304": {
+    "id": 1304,
+    "name": "瓦尔波",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1305": {
+    "id": 1305,
+    "name": "Mr.5",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1306": {
+    "id": 1306,
+    "name": "Miss.情人节",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1307": {
+    "id": 1307,
+    "name": "Miss.双手指",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1308": {
+    "id": 1308,
+    "name": "Mr.1",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1309": {
+    "id": 1309,
+    "name": "薇薇",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1310": {
+    "id": 1310,
+    "name": "达斯琪",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1311": {
+    "id": 1311,
+    "name": "冰山",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1312": {
+    "id": 1312,
+    "name": "巴里",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1313": {
+    "id": 1313,
+    "name": "斯潘达姆",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1314": {
+    "id": 1314,
+    "name": "乔巴",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1315": {
+    "id": 1315,
+    "name": "索隆",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1316": {
+    "id": 1316,
+    "name": "路飞",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1317": {
+    "id": 1317,
+    "name": "玛格丽特",
+    "systemLink": "linkSummon",
+    "text": "materialNotEnough_text_53"
+  },
+  "1401": {
+    "id": 1401,
+    "name": "韦伯",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1402": {
+    "id": 1402,
+    "name": "天空骑士",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1403": {
+    "id": 1403,
+    "name": "修罗",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1404": {
+    "id": 1404,
+    "name": "莎德利",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1405": {
+    "id": 1405,
+    "name": "雄狮偎取",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1406": {
+    "id": 1406,
+    "name": "猫头鹰",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1407": {
+    "id": 1407,
+    "name": "加布拉",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1408": {
+    "id": 1408,
+    "name": "布鲁诺",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1409": {
+    "id": 1409,
+    "name": "卡莉法",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1410": {
+    "id": 1410,
+    "name": "卡库",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1411": {
+    "id": 1411,
+    "name": "贝拉米",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1412": {
+    "id": 1412,
+    "name": "Mr.3",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1413": {
+    "id": 1413,
+    "name": "冯·克雷",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1414": {
+    "id": 1414,
+    "name": "斯摩格",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1415": {
+    "id": 1415,
+    "name": "巴基",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1416": {
+    "id": 1416,
+    "name": "弗兰奇",
+    "systemLink": "linkMain,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_55"
+  },
+  "1417": {
+    "id": 1417,
+    "name": "罗宾",
+    "systemLink": "linkActivity,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_56"
+  },
+  "1418": {
+    "id": 1418,
+    "name": "娜美（伟大航路）",
+    "systemLink": "linkActivity,linkSummon",
+    "text": "materialNotEnough_text_57"
+  },
+  "1419": {
+    "id": 1419,
+    "name": "山治",
+    "systemLink": "linkMain,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_58"
+  },
+  "1420": {
+    "id": 1420,
+    "name": "索隆（伟大航路）",
+    "systemLink": "linkVIPBonus4,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_59"
+  },
+  "1421": {
+    "id": 1421,
+    "name": "路飞（二档）",
+    "systemLink": "linkVIPBonus3,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_60"
+  },
+  "1422": {
+    "id": 1422,
+    "name": "佩罗娜",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1423": {
+    "id": 1423,
+    "name": "阿布萨罗姆",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1424": {
+    "id": 1424,
+    "name": "布鲁克",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1425": {
+    "id": 1425,
+    "name": "闪电",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1501": {
+    "id": 1501,
+    "name": "路奇",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1502": {
+    "id": 1502,
+    "name": "莫利亚",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1503": {
+    "id": 1503,
+    "name": "鳄鱼",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1504": {
+    "id": 1504,
+    "name": "艾尼路",
+    "systemLink": "linkSoulShop,linkArenaShop,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_61"
+  },
+  "1505": {
+    "id": 1505,
+    "name": "艾斯",
+    "systemLink": "linkVIPBonus5,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_82"
+  },
+  "1506": {
+    "id": 1506,
+    "name": "巴索罗米·熊",
+    "systemLink": "linkMain,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_63"
+  },
+  "1507": {
+    "id": 1507,
+    "name": "黑胡子",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1508": {
+    "id": 1508,
+    "name": "罗",
+    "systemLink": "linkVIPBonus6,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_83"
+  },
+  "1509": {
+    "id": 1509,
+    "name": "基德",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1510": {
+    "id": 1510,
+    "name": "汉库克",
+    "systemLink": "linkVIPBonus7,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_84"
+  },
+  "1511": {
+    "id": 1511,
+    "name": "甚平",
+    "systemLink": "linkVIPBonus4,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_59"
+  },
+  "1512": {
+    "id": 1512,
+    "name": "路飞（新世界）",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1513": {
+    "id": 1513,
+    "name": "龙马",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1514": {
+    "id": 1514,
+    "name": "霍古巴克",
+    "systemLink": "linkArenaShop,linkSnakeShop,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_67"
+  },
+  "1515": {
+    "id": 1515,
+    "name": "萨博（路西）",
+    "systemLink": "linkVIPBonus8,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_64"
+  },
+  "1516": {
+    "id": 1516,
+    "name": "战桃丸",
+    "systemLink": "linkSoulShop,linkSnakeShop,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_69"
+  },
+  "1517": {
+    "id": 1517,
+    "name": "德雷克",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1518": {
+    "id": 1518,
+    "name": "贝基",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1519": {
+    "id": 1519,
+    "name": "霍金斯",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1520": {
+    "id": 1520,
+    "name": "伊万科夫",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1521": {
+    "id": 1521,
+    "name": "巴杰斯",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1522": {
+    "id": 1522,
+    "name": "索隆（新世界）",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1523": {
+    "id": 1523,
+    "name": "山治（新世界）",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1524": {
+    "id": 1524,
+    "name": "娜美（新世界）",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1525": {
+    "id": 1525,
+    "name": "罗宾（新世界）",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1526": {
+    "id": 1526,
+    "name": "乔巴（新世界）",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1527": {
+    "id": 1527,
+    "name": "弗兰奇（新世界）",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1528": {
+    "id": 1528,
+    "name": "乌索普（新世界）",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1529": {
+    "id": 1529,
+    "name": "布鲁克（新世界）",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1531": {
+    "id": 1531,
+    "name": "佩罗娜（新世界）",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1532": {
+    "id": 1532,
+    "name": "凯撒",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1534": {
+    "id": 1534,
+    "name": "卡文迪许",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1535": {
+    "id": 1535,
+    "name": "巴托洛米奥",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "1600": {
+    "id": 1600,
+    "name": "万能卡",
+    "systemLink": "linkVIPBonus16,linkSoulShop,linkArenaShop,linkActivity,linkMarket",
+    "text": "materialNotEnough_text_85"
+  },
+  "1601": {
+    "id": 1601,
+    "name": "鹰眼",
+    "systemLink": "linkActivity,linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_71"
+  },
+  "1602": {
+    "id": 1602,
+    "name": "多弗朗明哥",
+    "systemLink": "linkActivity,linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_71"
+  },
+  "1603": {
+    "id": 1603,
+    "name": "香克斯",
+    "systemLink": "linkVIPBonus12,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_74"
+  },
+  "1604": {
+    "id": 1604,
+    "name": "白胡子",
+    "systemLink": "linkVIPBonus14,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_72"
+  },
+  "1605": {
+    "id": 1605,
+    "name": "青雉",
+    "systemLink": "linkActivity,linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_71"
+  },
+  "1606": {
+    "id": 1606,
+    "name": "黄猿",
+    "systemLink": "linkActivity,linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_71"
+  },
+  "1607": {
+    "id": 1607,
+    "name": "赤犬",
+    "systemLink": "linkActivity,linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_71"
+  },
+  "1608": {
+    "id": 1608,
+    "name": "卡普",
+    "systemLink": "linkVIPBonus10,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_86"
+  },
+  "1609": {
+    "id": 1609,
+    "name": "马尔科",
+    "systemLink": "linkActivity,linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_71"
+  },
+  "1610": {
+    "id": 1610,
+    "name": "战国",
+    "systemLink": "linkActivity,linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_71"
+  },
+  "1611": {
+    "id": 1611,
+    "name": "黑胡子(新世界）",
+    "systemLink": "linkActivity,linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_71"
+  },
+  "1612": {
+    "id": 1612,
+    "name": "萨博（火拳）",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1613": {
+    "id": 1613,
+    "name": "雷利",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1614": {
+    "id": 1614,
+    "name": "麦哲伦",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1615": {
+    "id": 1615,
+    "name": "希留",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1616": {
+    "id": 1616,
+    "name": "路飞（四档）",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1617": {
+    "id": 1617,
+    "name": "金狮子",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1618": {
+    "id": 1618,
+    "name": "乙姬",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1619": {
+    "id": 1619,
+    "name": "藤虎",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1620": {
+    "id": 1620,
+    "name": "鹤",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1621": {
+    "id": 1621,
+    "name": "赤犬（新世界）",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1622": {
+    "id": 1622,
+    "name": "维尔戈",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1624": {
+    "id": 1624,
+    "name": "泽法",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1625": {
+    "id": 1625,
+    "name": "青雉（新世界）",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1626": {
+    "id": 1626,
+    "name": "甚平（新世界）",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1627": {
+    "id": 1627,
+    "name": "卡塔库栗",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1628": {
+    "id": 1628,
+    "name": "斯慕吉",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1629": {
+    "id": 1629,
+    "name": "大妈",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1630": {
+    "id": 1630,
+    "name": "佩罗斯佩罗",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1631": {
+    "id": 1631,
+    "name": "克力架",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1632": {
+    "id": 1632,
+    "name": "文斯莫克·山治",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1633": {
+    "id": 1633,
+    "name": "文斯莫克·伽治",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1634": {
+    "id": 1634,
+    "name": "文斯莫克·蕾玖",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1635": {
+    "id": 1635,
+    "name": "文斯莫克·伊治",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1636": {
+    "id": 1636,
+    "name": "文斯莫克·尼治",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1637": {
+    "id": 1637,
+    "name": "烬",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1638": {
+    "id": 1638,
+    "name": "杰克",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1639": {
+    "id": 1639,
+    "name": "罗（和之国）",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1640": {
+    "id": 1640,
+    "name": "奎因",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1641": {
+    "id": 1641,
+    "name": "凯多",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1642": {
+    "id": 1642,
+    "name": "夏洛特·玲玲",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1643": {
+    "id": 1643,
+    "name": "大和碎片",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1644": {
+    "id": 1644,
+    "name": "猫蝮蛇碎片",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1645": {
+    "id": 1645,
+    "name": "光月时碎片",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1646": {
+    "id": 1646,
+    "name": "犬岚碎片",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1647": {
+    "id": 1647,
+    "name": "光月御田碎片",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "1648": {
+    "id": 1648,
+    "name": "索隆（和之国）",
+    "systemLink": "linkActivity,linkDragonSummon,linkSoulShop",
+    "text": "materialNotEnough_text_75"
+  },
+  "2501": {
+    "id": 2501,
+    "name": "路奇碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2502": {
+    "id": 2502,
+    "name": "莫利亚碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2503": {
+    "id": 2503,
+    "name": "鳄鱼碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2504": {
+    "id": 2504,
+    "name": "艾尼路碎片",
+    "systemLink": "linkSoulShop,linkArenaShop,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_61"
+  },
+  "2505": {
+    "id": 2505,
+    "name": "艾斯碎片",
+    "systemLink": "linkVIPBonus7,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_82"
+  },
+  "2506": {
+    "id": 2506,
+    "name": "巴索罗米·熊碎片",
+    "systemLink": "linkMain,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_63"
+  },
+  "2507": {
+    "id": 2507,
+    "name": "黑胡子碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2508": {
+    "id": 2508,
+    "name": "罗碎片",
+    "systemLink": "linkVIPBonus8,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_83"
+  },
+  "2509": {
+    "id": 2509,
+    "name": "基德碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2510": {
+    "id": 2510,
+    "name": "汉库克碎片",
+    "systemLink": "linkVIPBonus9,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_84"
+  },
+  "2511": {
+    "id": 2511,
+    "name": "甚平碎片",
+    "systemLink": "linkVIPBonus6,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_59"
+  },
+  "2512": {
+    "id": 2512,
+    "name": "路飞（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2513": {
+    "id": 2513,
+    "name": "龙马碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2514": {
+    "id": 2514,
+    "name": "霍古巴克碎片",
+    "systemLink": "linkArenaShop,linkSnakeShop,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_67"
+  },
+  "2515": {
+    "id": 2515,
+    "name": "萨博（路西）碎片",
+    "systemLink": "linkVIPBonus10,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_64"
+  },
+  "2516": {
+    "id": 2516,
+    "name": "战桃丸碎片",
+    "systemLink": "linkSoulShop,linkSnakeShop,linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_69"
+  },
+  "2517": {
+    "id": 2517,
+    "name": "德雷克碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2518": {
+    "id": 2518,
+    "name": "贝基碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2519": {
+    "id": 2519,
+    "name": "霍金斯碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2520": {
+    "id": 2520,
+    "name": "伊万科夫碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2521": {
+    "id": 2521,
+    "name": "巴杰斯碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2522": {
+    "id": 2522,
+    "name": "索隆（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2523": {
+    "id": 2523,
+    "name": "山治（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2524": {
+    "id": 2524,
+    "name": "娜美（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2525": {
+    "id": 2525,
+    "name": "罗宾（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2526": {
+    "id": 2526,
+    "name": "乔巴（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2527": {
+    "id": 2527,
+    "name": "弗兰奇（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2528": {
+    "id": 2528,
+    "name": "乌索普（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2529": {
+    "id": 2529,
+    "name": "布鲁克（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2531": {
+    "id": 2531,
+    "name": "佩罗娜（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2532": {
+    "id": 2532,
+    "name": "凯撒碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2534": {
+    "id": 2534,
+    "name": "卡文迪许碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2535": {
+    "id": 2535,
+    "name": "巴托洛米奥碎片",
+    "systemLink": "linkDragonSummon,linkSummon",
+    "text": "materialNotEnough_text_54"
+  },
+  "2601": {
+    "id": 2601,
+    "name": "鹰眼碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2602": {
+    "id": 2602,
+    "name": "多弗朗明哥碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2603": {
+    "id": 2603,
+    "name": "香克斯碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2604": {
+    "id": 2604,
+    "name": "白胡子碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2605": {
+    "id": 2605,
+    "name": "青雉碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2606": {
+    "id": 2606,
+    "name": "黄猿",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2607": {
+    "id": 2607,
+    "name": "赤犬",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2608": {
+    "id": 2608,
+    "name": "卡普碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2609": {
+    "id": 2609,
+    "name": "马尔科",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2610": {
+    "id": 2610,
+    "name": "战国碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2611": {
+    "id": 2611,
+    "name": "黑胡子(新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2612": {
+    "id": 2612,
+    "name": "萨博（火拳）碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2613": {
+    "id": 2613,
+    "name": "雷利碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2614": {
+    "id": 2614,
+    "name": "麦哲伦碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2615": {
+    "id": 2615,
+    "name": "希留碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2616": {
+    "id": 2616,
+    "name": "路飞（四档）碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2617": {
+    "id": 2617,
+    "name": "金狮子碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2618": {
+    "id": 2618,
+    "name": "乙姬碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2619": {
+    "id": 2619,
+    "name": "藤虎碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2620": {
+    "id": 2620,
+    "name": "鹤碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2621": {
+    "id": 2621,
+    "name": "赤犬（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2622": {
+    "id": 2622,
+    "name": "维尔戈碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2624": {
+    "id": 2624,
+    "name": "泽法碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2625": {
+    "id": 2625,
+    "name": "青雉（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2626": {
+    "id": 2626,
+    "name": "甚平（新世界）碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2627": {
+    "id": 2627,
+    "name": "卡塔库栗碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2628": {
+    "id": 2628,
+    "name": "斯慕吉碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2629": {
+    "id": 2629,
+    "name": "大妈碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2630": {
+    "id": 2630,
+    "name": "佩罗斯佩罗碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2631": {
+    "id": 2631,
+    "name": "克力架碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2632": {
+    "id": 2632,
+    "name": "文斯莫克·山治碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2633": {
+    "id": 2633,
+    "name": "文斯莫克·伽治碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2634": {
+    "id": 2634,
+    "name": "文斯莫克·蕾玖碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2635": {
+    "id": 2635,
+    "name": "文斯莫克·伊治碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2636": {
+    "id": 2636,
+    "name": "文斯莫克·尼治碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2637": {
+    "id": 2637,
+    "name": "烬碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2638": {
+    "id": 2638,
+    "name": "杰克碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2639": {
+    "id": 2639,
+    "name": "罗（和之国）碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2640": {
+    "id": 2640,
+    "name": "奎因碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2641": {
+    "id": 2641,
+    "name": "凯多碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2642": {
+    "id": 2642,
+    "name": "夏洛特·玲玲碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2643": {
+    "id": 2643,
+    "name": "大和碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2644": {
+    "id": 2644,
+    "name": "猫蝮蛇碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2645": {
+    "id": 2645,
+    "name": "光月时碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2646": {
+    "id": 2646,
+    "name": "犬岚碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2647": {
+    "id": 2647,
+    "name": "光月御田碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "2648": {
+    "id": 2648,
+    "name": "索隆（和之国）碎片",
+    "systemLink": "linkDragonSummon,linkSoulShop,linkArenaShop,linkSnakeShop",
+    "text": "materialNotEnough_text_76"
+  },
+  "3001": {
+    "id": 3001,
+    "name": "龟仙流护腕",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3002": {
+    "id": 3002,
+    "name": "龟仙流道服",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3003": {
+    "id": 3003,
+    "name": "龟仙流腰带",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3004": {
+    "id": 3004,
+    "name": "龟仙流靴子",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3005": {
+    "id": 3005,
+    "name": "龟仙流护腕",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3006": {
+    "id": 3006,
+    "name": "龟仙流道服",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3007": {
+    "id": 3007,
+    "name": "龟仙流腰带",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3008": {
+    "id": 3008,
+    "name": "龟仙流靴子",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3101": {
+    "id": 3101,
+    "name": "宇宙护腕",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3102": {
+    "id": 3102,
+    "name": "宇宙战衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3103": {
+    "id": 3103,
+    "name": "宇宙护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3104": {
+    "id": 3104,
+    "name": "宇宙战靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3105": {
+    "id": 3105,
+    "name": "宇宙护腕",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3106": {
+    "id": 3106,
+    "name": "宇宙战衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3107": {
+    "id": 3107,
+    "name": "宇宙护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3108": {
+    "id": 3108,
+    "name": "宇宙战靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3109": {
+    "id": 3109,
+    "name": "宇宙护腕",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3110": {
+    "id": 3110,
+    "name": "宇宙战衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3111": {
+    "id": 3111,
+    "name": "宇宙护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3112": {
+    "id": 3112,
+    "name": "宇宙战靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3201": {
+    "id": 3201,
+    "name": "界王护手",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3202": {
+    "id": 3202,
+    "name": "界王神衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3203": {
+    "id": 3203,
+    "name": "界王护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3204": {
+    "id": 3204,
+    "name": "界王战靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3205": {
+    "id": 3205,
+    "name": "界王护手",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3206": {
+    "id": 3206,
+    "name": "界王神衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3207": {
+    "id": 3207,
+    "name": "界王护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3208": {
+    "id": 3208,
+    "name": "界王战靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3209": {
+    "id": 3209,
+    "name": "界王护手",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3210": {
+    "id": 3210,
+    "name": "界王神衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3211": {
+    "id": 3211,
+    "name": "界王护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3212": {
+    "id": 3212,
+    "name": "界王战靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3213": {
+    "id": 3213,
+    "name": "界王护手",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3214": {
+    "id": 3214,
+    "name": "界王神衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3215": {
+    "id": 3215,
+    "name": "界王护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3216": {
+    "id": 3216,
+    "name": "界王战靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3301": {
+    "id": 3301,
+    "name": "破坏护手",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3302": {
+    "id": 3302,
+    "name": "破坏神衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3303": {
+    "id": 3303,
+    "name": "破坏护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3304": {
+    "id": 3304,
+    "name": "破坏之靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3305": {
+    "id": 3305,
+    "name": "破坏护手",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3306": {
+    "id": 3306,
+    "name": "破坏神衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3307": {
+    "id": 3307,
+    "name": "破坏护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3308": {
+    "id": 3308,
+    "name": "破坏之靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3309": {
+    "id": 3309,
+    "name": "破坏护手",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3310": {
+    "id": 3310,
+    "name": "破坏神衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3311": {
+    "id": 3311,
+    "name": "破坏护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3312": {
+    "id": 3312,
+    "name": "破坏之靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3313": {
+    "id": 3313,
+    "name": "破坏护手",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3314": {
+    "id": 3314,
+    "name": "破坏神衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3315": {
+    "id": 3315,
+    "name": "破坏护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3316": {
+    "id": 3316,
+    "name": "破坏之靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3317": {
+    "id": 3317,
+    "name": "破坏护手",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3318": {
+    "id": 3318,
+    "name": "破坏神衣",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3319": {
+    "id": 3319,
+    "name": "破坏护腰",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "3320": {
+    "id": 3320,
+    "name": "破坏之靴",
+    "systemLink": "linkEquipDungeon",
+    "text": "materialNotEnough_text_77"
+  },
+  "4101": {
+    "id": 4101,
+    "name": "天候棒",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4199": {
+    "id": 4199,
+    "name": "绿色武器碎片",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4201": {
+    "id": 4201,
+    "name": "勇者之剑",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4299": {
+    "id": 4299,
+    "name": "蓝色武器碎片",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4301": {
+    "id": 4301,
+    "name": "界王神剑",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4302": {
+    "id": 4302,
+    "name": "界王神剑",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4303": {
+    "id": 4303,
+    "name": "界王神剑",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4304": {
+    "id": 4304,
+    "name": "界王神剑",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4305": {
+    "id": 4305,
+    "name": "界王神剑",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4306": {
+    "id": 4306,
+    "name": "界王神剑",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4399": {
+    "id": 4399,
+    "name": "紫色武器碎片",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4401": {
+    "id": 4401,
+    "name": "天使法杖",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4402": {
+    "id": 4402,
+    "name": "天使法杖",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4403": {
+    "id": 4403,
+    "name": "天使法杖",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4404": {
+    "id": 4404,
+    "name": "天使法杖",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4405": {
+    "id": 4405,
+    "name": "天使法杖",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4406": {
+    "id": 4406,
+    "name": "天使法杖",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4499": {
+    "id": 4499,
+    "name": "橙色武器碎片",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4501": {
+    "id": 4501,
+    "name": "白色耳环",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4502": {
+    "id": 4502,
+    "name": "绿色耳环",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4503": {
+    "id": 4503,
+    "name": "蓝色耳环",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4504": {
+    "id": 4504,
+    "name": "紫色耳环",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4505": {
+    "id": 4505,
+    "name": "橙色耳环",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4901": {
+    "id": 4901,
+    "name": "黑刀秋水·枪",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4902": {
+    "id": 4902,
+    "name": "黑刀秋水·岚",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4903": {
+    "id": 4903,
+    "name": "黑刀秋水·铁",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4904": {
+    "id": 4904,
+    "name": "黑刀秋水·纸",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "4905": {
+    "id": 4905,
+    "name": "黑刀秋水·月",
+    "systemLink": "linkCellGame",
+    "text": "materialNotEnough_text_21"
+  },
+  "8501": {
+    "id": 8501,
+    "name": "路奇生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8502": {
+    "id": 8502,
+    "name": "莫利亚生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8503": {
+    "id": 8503,
+    "name": "鳄鱼生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8504": {
+    "id": 8504,
+    "name": "艾尼路生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8505": {
+    "id": 8505,
+    "name": "艾斯生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8506": {
+    "id": 8506,
+    "name": "巴索罗米·熊生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8507": {
+    "id": 8507,
+    "name": "黑胡子生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8508": {
+    "id": 8508,
+    "name": "罗生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8509": {
+    "id": 8509,
+    "name": "基德生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8510": {
+    "id": 8510,
+    "name": "汉库克生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8511": {
+    "id": 8511,
+    "name": "甚平生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8512": {
+    "id": 8512,
+    "name": "路飞（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8513": {
+    "id": 8513,
+    "name": "龙马生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8514": {
+    "id": 8514,
+    "name": "霍古巴克生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8515": {
+    "id": 8515,
+    "name": "萨博（路西）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8516": {
+    "id": 8516,
+    "name": "战桃丸生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8517": {
+    "id": 8517,
+    "name": "德雷克生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8518": {
+    "id": 8518,
+    "name": "贝基生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8519": {
+    "id": 8519,
+    "name": "霍金斯生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8520": {
+    "id": 8520,
+    "name": "伊万科夫生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8521": {
+    "id": 8521,
+    "name": "巴杰斯生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8522": {
+    "id": 8522,
+    "name": "索隆（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8523": {
+    "id": 8523,
+    "name": "山治（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8524": {
+    "id": 8524,
+    "name": "娜美（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8525": {
+    "id": 8525,
+    "name": "罗宾（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8526": {
+    "id": 8526,
+    "name": "乔巴（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8527": {
+    "id": 8527,
+    "name": "弗兰奇（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8528": {
+    "id": 8528,
+    "name": "乌索普（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8529": {
+    "id": 8529,
+    "name": "布鲁克（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8531": {
+    "id": 8531,
+    "name": "佩罗娜（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8532": {
+    "id": 8532,
+    "name": "凯撒生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8534": {
+    "id": 8534,
+    "name": "卡文迪许生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8535": {
+    "id": 8535,
+    "name": "巴托洛米奥生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8601": {
+    "id": 8601,
+    "name": "鹰眼生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8602": {
+    "id": 8602,
+    "name": "多弗朗明哥生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8603": {
+    "id": 8603,
+    "name": "香克斯生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8604": {
+    "id": 8604,
+    "name": "白胡子生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8605": {
+    "id": 8605,
+    "name": "青雉生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8606": {
+    "id": 8606,
+    "name": "黄猿生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8607": {
+    "id": 8607,
+    "name": "赤犬生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8608": {
+    "id": 8608,
+    "name": "卡普生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8609": {
+    "id": 8609,
+    "name": "马尔科生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8610": {
+    "id": 8610,
+    "name": "战国生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8611": {
+    "id": 8611,
+    "name": "黑胡子（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8612": {
+    "id": 8612,
+    "name": "萨博（火拳）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8613": {
+    "id": 8613,
+    "name": "雷利生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8614": {
+    "id": 8614,
+    "name": "麦哲伦生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8615": {
+    "id": 8615,
+    "name": "希留生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8616": {
+    "id": 8616,
+    "name": "路飞（四档）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8617": {
+    "id": 8617,
+    "name": "金狮子生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8618": {
+    "id": 8618,
+    "name": "乙姬生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8619": {
+    "id": 8619,
+    "name": "藤虎生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8620": {
+    "id": 8620,
+    "name": "鹤生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8621": {
+    "id": 8621,
+    "name": "赤犬（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8622": {
+    "id": 8622,
+    "name": "维尔戈生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8624": {
+    "id": 8624,
+    "name": "泽法生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8625": {
+    "id": 8625,
+    "name": "青雉（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8626": {
+    "id": 8626,
+    "name": "甚平（新世界）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8627": {
+    "id": 8627,
+    "name": "卡塔库栗生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8628": {
+    "id": 8628,
+    "name": "斯慕吉生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8629": {
+    "id": 8629,
+    "name": "大妈生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8630": {
+    "id": 8630,
+    "name": "佩罗斯佩罗生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8631": {
+    "id": 8631,
+    "name": "克力架生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8632": {
+    "id": 8632,
+    "name": "文斯莫克·山治生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8633": {
+    "id": 8633,
+    "name": "文斯莫克·伽治生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8634": {
+    "id": 8634,
+    "name": "文斯莫克·蕾玖生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8635": {
+    "id": 8635,
+    "name": "文斯莫克·伊治生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8636": {
+    "id": 8636,
+    "name": "文斯莫克·尼治生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8637": {
+    "id": 8637,
+    "name": "烬生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8638": {
+    "id": 8638,
+    "name": "杰克生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8639": {
+    "id": 8639,
+    "name": "罗（和之国）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8640": {
+    "id": 8640,
+    "name": "奎因生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8641": {
+    "id": 8641,
+    "name": "凯多生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8642": {
+    "id": 8642,
+    "name": "夏洛特·玲玲生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8643": {
+    "id": 8643,
+    "name": "大和生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8644": {
+    "id": 8644,
+    "name": "猫蝮蛇生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8645": {
+    "id": 8645,
+    "name": "光月时生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8646": {
+    "id": 8646,
+    "name": "犬岚生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8647": {
+    "id": 8647,
+    "name": "光月御田生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "8648": {
+    "id": 8648,
+    "name": "索隆（和之国）生命卡",
+    "systemLink": "linkExpedition,linkActivity",
+    "text": "materialNotEnough_text_78"
+  },
+  "21501001": {
+    "id": 21501001,
+    "name": "路奇王牌特工皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21503001": {
+    "id": 21503001,
+    "name": "鳄鱼阿拉巴斯坦皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21505001": {
+    "id": 21505001,
+    "name": "艾斯阿拉巴斯坦皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21510001": {
+    "id": 21510001,
+    "name": "汉库克狂热行动皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21512001": {
+    "id": 21512001,
+    "name": "路飞德雷斯罗萨碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21522001": {
+    "id": 21522001,
+    "name": "索隆德雷斯罗萨皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21523001": {
+    "id": 21523001,
+    "name": "山治狂热行动皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21524001": {
+    "id": 21524001,
+    "name": "娜美德雷斯罗萨皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21525001": {
+    "id": 21525001,
+    "name": "罗宾德雷斯罗萨皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21527001": {
+    "id": 21527001,
+    "name": "弗兰奇狂热行动皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21528001": {
+    "id": 21528001,
+    "name": "乌索普狙击王皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21529001": {
+    "id": 21529001,
+    "name": "布鲁克狂热行动皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21603001": {
+    "id": 21603001,
+    "name": "香克斯王者风度皮肤碎片",
+    "systemLink": "linkVIPBonus16",
+    "text": "materialNotEnough_text_87"
+  },
+  "21604001": {
+    "id": 21604001,
+    "name": "白胡子黄金回忆皮肤碎片",
+    "systemLink": "linkVIPBonus17",
+    "text": "materialNotEnough_text_88"
+  },
+  "21609001": {
+    "id": 21609001,
+    "name": "马尔科黄金回忆皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  },
+  "21613001": {
+    "id": 21613001,
+    "name": "雷利黄金回忆皮肤碎片",
+    "systemLink": "linkActivity",
+    "text": "materialNotEnough_text_25"
+  }
+}

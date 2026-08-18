@@ -1,0 +1,887 @@
+{
+  "0": {
+    "id": 0,
+    "origin": "UNKNOWN",
+    "originName": "来源不明"
+  },
+  "99": {
+    "id": 99,
+    "origin": "GM",
+    "originName": "GM"
+  },
+  "100": {
+    "id": 100,
+    "origin": "GM_MAIL",
+    "originName": "GM邮件"
+  },
+  "101": {
+    "id": 101,
+    "origin": "RECHARGE",
+    "originName": "充值"
+  },
+  "102": {
+    "id": 102,
+    "origin": "MAIL",
+    "originName": "邮件（一键领取）"
+  },
+  "103": {
+    "id": 103,
+    "origin": "DECOMPOSE_HERO",
+    "originName": "分解英雄"
+  },
+  "104": {
+    "id": 104,
+    "origin": "GUILD_BOSS_BATTLE",
+    "originName": "公会boss，战斗奖励"
+  },
+  "105": {
+    "id": 105,
+    "origin": "DECOMPOSE_IMPRINT",
+    "originName": "空贝分解"
+  },
+  "106": {
+    "id": 106,
+    "origin": "STRONG_ENEMY_BATTLE",
+    "originName": "强敌来袭-战斗奖励"
+  },
+  "107": {
+    "id": 107,
+    "origin": "STRONG_ENEMY_RANK",
+    "originName": "强敌来袭-排行奖励"
+  },
+  "108": {
+    "id": 108,
+    "origin": "ACTIVITY",
+    "originName": "活动"
+  },
+  "109": {
+    "id": 109,
+    "origin": "ARENA_BATTLE",
+    "originName": "竞技场-战斗奖励"
+  },
+  "110": {
+    "id": 110,
+    "origin": "ARENA_TOP_REWARD",
+    "originName": "竞技场-历史最高奖励"
+  },
+  "111": {
+    "id": 111,
+    "origin": "ARENA_BUY_TIMES",
+    "originName": "竞技场-购买次数"
+  },
+  "112": {
+    "id": 112,
+    "origin": "BACKPACK_CELL",
+    "originName": "出售道具"
+  },
+  "113": {
+    "id": 113,
+    "origin": "COMPOSE_HERO",
+    "originName": "合成英雄"
+  },
+  "114": {
+    "id": 114,
+    "origin": "PLUS_BACKPACK",
+    "originName": "增加背包"
+  },
+  "115": {
+    "id": 115,
+    "origin": "CELL_GAME_RECOVER_HERO",
+    "originName": "海上列车复活英雄"
+  },
+  "116": {
+    "id": 116,
+    "origin": "CHECK_IN",
+    "originName": "签到"
+  },
+  "118": {
+    "id": 118,
+    "origin": "WISH_EXCHANGE",
+    "originName": "全知之树，置换"
+  },
+  "119": {
+    "id": 119,
+    "origin": "BUY_DUNGEON_TIMES",
+    "originName": "购买副本次数"
+  },
+  "120": {
+    "id": 120,
+    "origin": "ENTRUST_GET_REWARD",
+    "originName": "领取委托奖励"
+  },
+  "121": {
+    "id": 121,
+    "origin": "REFRESH_ENTRUST",
+    "originName": "刷新委托"
+  },
+  "122": {
+    "id": 122,
+    "origin": "ENTRUST_USE_BOOK",
+    "originName": "使用委托书"
+  },
+  "123": {
+    "id": 123,
+    "origin": "ENTRUST_GET_HELP_REWARD",
+    "originName": "领取委托助战奖励"
+  },
+  "124": {
+    "id": 124,
+    "origin": "EARRING_LEVEL_UP",
+    "originName": "升级永久指针"
+  },
+  "125": {
+    "id": 125,
+    "origin": "EARRING_EVOLVE",
+    "originName": "突破永久指针"
+  },
+  "126": {
+    "id": 126,
+    "origin": "WEAR_EQUIP",
+    "originName": "脱穿装备"
+  },
+  "127": {
+    "id": 127,
+    "origin": "MERGE_EQUIP",
+    "originName": "合成装备"
+  },
+  "128": {
+    "id": 128,
+    "origin": "GET_HEART",
+    "originName": "送/收心"
+  },
+  "129": {
+    "id": 129,
+    "origin": "BUY_GOLD",
+    "originName": "购买金币"
+  },
+  "130": {
+    "id": 130,
+    "origin": "CREATE_GUILD",
+    "originName": "创建公会"
+  },
+  "131": {
+    "id": 131,
+    "origin": "GUILD_CHECK_IN",
+    "originName": "公会签到"
+  },
+  "132": {
+    "id": 132,
+    "origin": "BUY_GUILD_BOSS_TIMES",
+    "originName": "购买公会boss次数"
+  },
+  "133": {
+    "id": 133,
+    "origin": "SATAN_GIFT",
+    "originName": "领取公会金库奖励"
+  },
+  "134": {
+    "id": 134,
+    "origin": "TECH_UP",
+    "originName": "升级科技"
+  },
+  "135": {
+    "id": 135,
+    "origin": "TECH_RESET",
+    "originName": "重置科技"
+  },
+  "136": {
+    "id": 136,
+    "origin": "TREASURE_BATTLE_REWARD",
+    "originName": "公会夺宝，战斗奖励"
+  },
+  "137": {
+    "id": 137,
+    "origin": "HANGUP",
+    "originName": "挂机收益"
+  },
+  "138": {
+    "id": 138,
+    "origin": "HANGUP_BATTLE",
+    "originName": "关卡战斗奖励"
+  },
+  "139": {
+    "id": 139,
+    "origin": "HERO_LEVEL_UP",
+    "originName": "英雄升级"
+  },
+  "140": {
+    "id": 140,
+    "origin": "HERO_EVOLVE",
+    "originName": "英雄突破"
+  },
+  "141": {
+    "id": 141,
+    "origin": "HERO_WAKE_UP",
+    "originName": "英雄觉醒"
+  },
+  "142": {
+    "id": 142,
+    "origin": "HERO_SUPER_SKILL_UP",
+    "originName": "英雄升级"
+  },
+  "143": {
+    "id": 143,
+    "origin": "QIGONG",
+    "originName": "体术修炼"
+  },
+  "144": {
+    "id": 144,
+    "origin": "IMPRINT_LEVEL_UP",
+    "originName": "空贝强化"
+  },
+  "145": {
+    "id": 145,
+    "origin": "IMPRINT_STAR_UP",
+    "originName": "空贝升星"
+  },
+  "146": {
+    "id": 146,
+    "origin": "IMPRINT_REFRESH",
+    "originName": "空贝洗练"
+  },
+  "147": {
+    "id": 147,
+    "origin": "KARIN_BOX",
+    "originName": "空岛竞速宝箱"
+  },
+  "148": {
+    "id": 148,
+    "origin": "KARIN_BUY_BATTLE_TIMES",
+    "originName": "空岛竞速购买鸡腿"
+  },
+  "149": {
+    "id": 149,
+    "origin": "KARIN_BUY_FEET",
+    "originName": "空岛竞速购买脚印"
+  },
+  "150": {
+    "id": 150,
+    "origin": "MAHA_BOX",
+    "originName": "航海大冒险宝箱奖励"
+  },
+  "151": {
+    "id": 151,
+    "origin": "MAHA_BATTLE_REWARD",
+    "originName": "航海大冒险战斗奖励"
+  },
+  "152": {
+    "id": 152,
+    "origin": "MAHA_BUY_TIMES",
+    "originName": "航海大冒险购买次数"
+  },
+  "153": {
+    "id": 153,
+    "origin": "MARKET_REFRESH",
+    "originName": "市场刷新"
+  },
+  "154": {
+    "id": 154,
+    "origin": "MINE_RESET",
+    "originName": "恐怖三桅帆，重置本层"
+  },
+  "155": {
+    "id": 155,
+    "origin": "MINE_BUY_TIMES",
+    "originName": "恐怖三桅帆，购买行动力"
+  },
+  "156": {
+    "id": 156,
+    "origin": "RANK_LIKE",
+    "originName": "排行榜点赞"
+  },
+  "157": {
+    "id": 157,
+    "origin": "REFRESH_SHOP",
+    "originName": "刷新商店"
+  },
+  "158": {
+    "id": 158,
+    "origin": "SNAKE_RECOVER",
+    "originName": "超新星激斗复活"
+  },
+  "159": {
+    "id": 159,
+    "origin": "SNAKE_SWEEP",
+    "originName": "超新星激斗扫荡"
+  },
+  "160": {
+    "id": 160,
+    "origin": "STRONG_ENEMY_BUY_TIMES",
+    "originName": "强敌来袭购买次数"
+  },
+  "161": {
+    "id": 161,
+    "origin": "SUMMON",
+    "originName": "召唤"
+  },
+  "162": {
+    "id": 162,
+    "origin": "TEMPLE",
+    "originName": "深海大监狱"
+  },
+  "163": {
+    "id": 163,
+    "origin": "TEMPLE_BUY_TIMES",
+    "originName": "深海大监狱，购买次数"
+  },
+  "164": {
+    "id": 164,
+    "origin": "CHANGE_NICK",
+    "originName": "修改昵称"
+  },
+  "165": {
+    "id": 165,
+    "origin": "REFRESH_VIP_MARKET",
+    "originName": "刷新vip市场"
+  },
+  "166": {
+    "id": 166,
+    "origin": "WEAPON_STAR_UP",
+    "originName": "武器升星"
+  },
+  "167": {
+    "id": 167,
+    "origin": "WEAPON_STRENGTHEN",
+    "originName": "武器强化"
+  },
+  "168": {
+    "id": 168,
+    "origin": "WEAPON_MERGE",
+    "originName": "武器合成"
+  },
+  "169": {
+    "id": 169,
+    "origin": "WEAPON_DECOMPOSE",
+    "originName": "武器分解"
+  },
+  "170": {
+    "id": 170,
+    "origin": "WEAPON_REBORN",
+    "originName": "武器重生"
+  },
+  "171": {
+    "id": 171,
+    "origin": "DUNGEON",
+    "originName": "副本"
+  },
+  "172": {
+    "id": 172,
+    "origin": "OPEN_BOX",
+    "originName": "打开背包中的盒子"
+  },
+  "173": {
+    "id": 173,
+    "origin": "CELL_GAME_KILL_REWARD",
+    "originName": "海上列车，击杀奖励"
+  },
+  "174": {
+    "id": 174,
+    "origin": "CELL_GAME_BOX",
+    "originName": "海上列车，宝箱"
+  },
+  "175": {
+    "id": 175,
+    "origin": "LEVEL_GIFT",
+    "originName": "等级礼包"
+  },
+  "176": {
+    "id": 176,
+    "origin": "FIRST_RECHARGE",
+    "originName": "首充奖励"
+  },
+  "177": {
+    "id": 177,
+    "origin": "VIP_REWARD",
+    "originName": "vip等级奖励"
+  },
+  "178": {
+    "id": 178,
+    "origin": "CHAPTER_REWARD",
+    "originName": "章节奖励"
+  },
+  "179": {
+    "id": 179,
+    "origin": "IMPRINT_MERGE",
+    "originName": "空贝碎片合成"
+  },
+  "180": {
+    "id": 180,
+    "origin": "MARKET",
+    "originName": "市场购买"
+  },
+  "181": {
+    "id": 181,
+    "origin": "MINE_BOX",
+    "originName": "恐怖三桅帆，宝箱"
+  },
+  "182": {
+    "id": 182,
+    "origin": "MONTH_CARD_DAILY",
+    "originName": "月卡每日奖励"
+  },
+  "183": {
+    "id": 183,
+    "origin": "SHOP",
+    "originName": "商店购买"
+  },
+  "184": {
+    "id": 184,
+    "origin": "SNAKE_BATTLE",
+    "originName": "超新星激斗战斗奖励"
+  },
+  "185": {
+    "id": 185,
+    "origin": "SNAKE_BOX",
+    "originName": "超新星激斗宝箱"
+  },
+  "186": {
+    "id": 186,
+    "origin": "TASK",
+    "originName": "任务"
+  },
+  "187": {
+    "id": 187,
+    "origin": "TIME_MACHINE_BATTLE",
+    "originName": "庞克实验室战斗奖励"
+  },
+  "188": {
+    "id": 188,
+    "origin": "TIME_MACHINE",
+    "originName": "庞克实验室"
+  },
+  "189": {
+    "id": 189,
+    "origin": "VIP_MARKET",
+    "originName": "vip市场"
+  },
+  "190": {
+    "id": 190,
+    "origin": "GUILD_BOSS_RANK",
+    "originName": "公会boss排名奖励"
+  },
+  "191": {
+    "id": 191,
+    "origin": "MAHA_BOSS_OWNER",
+    "originName": "航海大冒险boss拥有者奖励"
+  },
+  "192": {
+    "id": 192,
+    "origin": "ARENA_DAILY",
+    "originName": "竞技场每日结算"
+  },
+  "193": {
+    "id": 193,
+    "origin": "KARIN",
+    "originName": "空岛竞速结算奖励"
+  },
+  "194": {
+    "id": 194,
+    "origin": "TREASURE",
+    "originName": "公会夺宝结算奖励"
+  },
+  "195": {
+    "id": 195,
+    "origin": "ACTIVE_CODE",
+    "originName": "激活码"
+  },
+  "196": {
+    "id": 196,
+    "origin": "TRAINING",
+    "originName": "修行"
+  },
+  "197": {
+    "id": 197,
+    "origin": "HERO_BREAK",
+    "originName": "界限突破"
+  },
+  "198": {
+    "id": 198,
+    "origin": "BOSS_COMPETITION",
+    "originName": "boss争夺战"
+  },
+  "199": {
+    "id": 199,
+    "origin": "SUPER_SKILL",
+    "originName": "终结技（升级，突破）"
+  },
+  "200": {
+    "id": 200,
+    "origin": "SUPER_SKILL_COMPENSATE",
+    "originName": "终结技补偿"
+  },
+  "201": {
+    "id": 201,
+    "origin": "IMPEACH_CAPTAIN",
+    "originName": "弹劾队长"
+  },
+  "202": {
+    "id": 202,
+    "origin": "GLOBAL_WAR",
+    "originName": "跨服战"
+  },
+  "203": {
+    "id": 203,
+    "origin": "BALL_WAR",
+    "originName": "龙珠争夺战"
+  },
+  "204": {
+    "id": 204,
+    "origin": "ONLINE_GIFT",
+    "originName": "在线礼包"
+  },
+  "205": {
+    "id": 205,
+    "origin": "KILL_MERGE_BOSS",
+    "originName": "击杀合服boss"
+  },
+  "206": {
+    "id": 206,
+    "origin": "MERGE_BOSS_RANK",
+    "originName": "合服boss排名奖励"
+  },
+  "207": {
+    "id": 207,
+    "origin": "GENKI",
+    "originName": "体术"
+  },
+  "208": {
+    "id": 208,
+    "origin": "ACT_GOOD_HARVEST",
+    "originName": "活动：五谷丰登"
+  },
+  "209": {
+    "id": 209,
+    "origin": "ACT_HERO_REWARD",
+    "originName": "活动：英雄犒赏令"
+  },
+  "210": {
+    "id": 210,
+    "origin": "EXPEDITION",
+    "originName": "赏金事件"
+  },
+  "211": {
+    "id": 211,
+    "origin": "RETRIEVE",
+    "originName": "资源找回"
+  },
+  "212": {
+    "id": 212,
+    "origin": "INHERIT",
+    "originName": "传承"
+  },
+  "213": {
+    "id": 213,
+    "origin": "ACT_3003",
+    "originName": "活动：幸运超值包"
+  },
+  "214": {
+    "id": 214,
+    "origin": "ACT_3012",
+    "originName": "活动：香克斯的酒会"
+  },
+  "215": {
+    "id": 215,
+    "origin": "ACT_5003",
+    "originName": "活动："
+  },
+  "216": {
+    "id": 216,
+    "origin": "ACT_5010",
+    "originName": "活动："
+  },
+  "217": {
+    "id": 217,
+    "origin": "ACT_5012",
+    "originName": "活动："
+  },
+  "218": {
+    "id": 218,
+    "origin": "ACT_WHIS_FEAST",
+    "originName": "活动：维斯盛宴"
+  },
+  "219": {
+    "id": 219,
+    "origin": "BATTLE_MEDAL",
+    "originName": "战令"
+  },
+  "220": {
+    "id": 220,
+    "origin": "ACT_DOUBLE_ELEVEN",
+    "originName": "双十一活动"
+  },
+  "221": {
+    "id": 221,
+    "origin": "TEAM_TRAINING",
+    "originName": "团队修炼"
+  },
+  "222": {
+    "id": 222,
+    "origin": "EQUIP_SUIT_STAR_UP",
+    "originName": "防具升星"
+  },
+  "223": {
+    "id": 223,
+    "origin": "EQUIP_SUIT_STRENGTHEN",
+    "originName": "防具强化"
+  },
+  "224": {
+    "id": 224,
+    "origin": "EQUIP_SUIT_DECOMPOSE",
+    "originName": "防具分解"
+  },
+  "225": {
+    "id": 225,
+    "origin": "EQUIP_SUIT_REBORN",
+    "originName": "防具重生"
+  },
+  "226": {
+    "id": 226,
+    "origin": "PUNK",
+    "originName": "庞克实验室"
+  },
+  "227": {
+    "id": 227,
+    "origin": "CHANGE_GUILD_NAME",
+    "originName": "公会改名"
+  },
+  "228": {
+    "id": 228,
+    "origin": "LEVEL_FUND_GIFT",
+    "originName": "等级基金礼包"
+  },
+  "229": {
+    "id": 229,
+    "origin": "SUIT_MERGE",
+    "originName": "防具合成"
+  },
+  "230": {
+    "id": 230,
+    "origin": "LONG_ISLAND",
+    "originName": "长环岛"
+  },
+  "231": {
+    "id": 231,
+    "origin": "HERO_SKIN",
+    "originName": "英雄皮肤"
+  },
+  "232": {
+    "id": 232,
+    "origin": "ACT_EVERYDAY_GIFT",
+    "originName": "活动：每天礼包"
+  },
+  "233": {
+    "id": 233,
+    "origin": "ACT_EQUIP_LOTTERY",
+    "originName": "活动：装备翻翻乐"
+  },
+  "234": {
+    "id": 234,
+    "origin": "ACT_WEEKLY_DISCOUNT",
+    "originName": "活动：每周特惠"
+  },
+  "235": {
+    "id": 235,
+    "origin": "ACT_OP_TODAY_DISCOUNT",
+    "originName": "活动：海贼今日特价"
+  },
+  "236": {
+    "id": 236,
+    "origin": "ACT_EXALTED_GIFT",
+    "originName": "活动：尊享礼包"
+  },
+  "237": {
+    "id": 237,
+    "origin": "ACT_WEAPON_CAST",
+    "originName": "活动：武器铸造"
+  },
+  "238": {
+    "id": 238,
+    "origin": "SEVEN_DAY_LOGIN",
+    "originName": "七天登入奖励"
+  },
+  "239": {
+    "id": 239,
+    "origin": "QUESTIONNAIRE",
+    "originName": "问卷调查奖励"
+  },
+  "240": {
+    "id": 240,
+    "origin": "ACT_QUENCH",
+    "originName": "活动：武器淬炼"
+  },
+  "241": {
+    "id": 241,
+    "origin": "ACT_EQUIP_FORGE",
+    "originName": "活动：装备打造"
+  },
+  "242": {
+    "id": 242,
+    "origin": "ACT_SIGN_EXCHANGE",
+    "originName": "活动：空贝置换"
+  },
+  "243": {
+    "id": 243,
+    "origin": "BACKPACK_AUTO_MERGE",
+    "originName": "背包一键合成"
+  },
+  "244": {
+    "id": 244,
+    "origin": "ACT_SIGN_DRAW_CARD",
+    "originName": "活动：空贝拾趣"
+  },
+  "245": {
+    "id": 245,
+    "origin": "ACT_EQUIP_TURNTABLE",
+    "originName": "活动：神装武库"
+  },
+  "246": {
+    "id": 246,
+    "origin": "AGGRESSIVE_EXERCISE",
+    "originName": "霸气修炼室"
+  },
+  "256": {
+    "id": 256,
+    "origin": "RESONANCE",
+    "originName": "共鸣"
+  },
+  "257": {
+    "id": 257,
+    "origin": "ACT_BOUNTY_TASK",
+    "originName": "活动：成长之路"
+  },
+  "258": {
+    "id": 258,
+    "origin": "OMNISCIENT_TREE",
+    "originName": "全知之树"
+  },
+  "300": {
+    "id": 300,
+    "origin": "ACT_EVERYDAY_RECHARGE",
+    "originName": "活动：每日充值豪礼"
+  },
+  "301": {
+    "id": 301,
+    "origin": "ACT_FESTIVAL_GIFT",
+    "originName": "活动：节日特惠包"
+  },
+  "302": {
+    "id": 302,
+    "origin": "ACT_UR_SUPER_SKILL",
+    "originName": "活动：航海拼图"
+  },
+  "303": {
+    "id": 303,
+    "origin": "DOWNLOAD_REWARD",
+    "originName": "下载有礼"
+  },
+  "304": {
+    "id": 304,
+    "origin": "ACT_TURNTABLE_8",
+    "originName": "活动：转盘抽奖(8)"
+  },
+  "305": {
+    "id": 305,
+    "origin": "ACT_TURNTABLE_16",
+    "originName": "活动：转盘抽奖(16)"
+  },
+  "306": {
+    "id": 306,
+    "origin": "ENCOUNTER",
+    "originName": "奇遇"
+  },
+  "307": {
+    "id": 307,
+    "origin": "ACT_LUCKY_WHEEL",
+    "originName": "活动：幸运转轮"
+  },
+  "308": {
+    "id": 308,
+    "origin": "TEAM_DUNGEON",
+    "originName": "团本"
+  },
+  "309": {
+    "id": 309,
+    "origin": "SOLO_TEAM_DUNGEON",
+    "originName": "个人团本"
+  },
+  "310": {
+    "id": 310,
+    "origin": "HERO_SWAP",
+    "originName": "英雄互换"
+  },
+  "311": {
+    "id": 311,
+    "origin": "HERO_AGGRESSIVE",
+    "originName": "英雄霸气"
+  },
+  "312": {
+    "id": 312,
+    "origin": "IMPRINT_EVOLUTION",
+    "originName": "空贝进化"
+  },
+  "313": {
+    "id": 313,
+    "origin": "GVG",
+    "originName": "gvg"
+  },
+  "601": {
+    "id": 601,
+    "origin": "TASK_MAIN",
+    "originName": "任务：主线"
+  },
+  "602": {
+    "id": 602,
+    "origin": "TASK_DAILY",
+    "originName": "任务：每日"
+  },
+  "603": {
+    "id": 603,
+    "origin": "TASK_ACHIEVEMENT",
+    "originName": "任务：成就"
+  },
+  "1001": {
+    "id": 1001,
+    "origin": "HERO_BREAK_RESET",
+    "originName": "英雄潜能重置"
+  },
+  "1101": {
+    "id": 1101,
+    "origin": "HERO_TALENT_LEVEL_UP",
+    "originName": "英雄：天赋升级"
+  },
+  "1102": {
+    "id": 1102,
+    "origin": "HERO_TALENT_RESET_POINT",
+    "originName": "英雄：天赋重置属性点"
+  },
+  "1103": {
+    "id": 1103,
+    "origin": "HERO_TALENT_DRUG_MAKE",
+    "originName": "英雄：制作天赋药剂"
+  },
+  "3301": {
+    "id": 3301,
+    "origin": "EQUIP_SUIT_RED_UPGRADE",
+    "originName": "装备升红"
+  },
+  "25018": {
+    "id": 25018,
+    "origin": "ACT_TIME_LIMIT_EXCHANGE",
+    "originName": "活动：现时置换"
+  },
+  "25051": {
+    "id": 25051,
+    "origin": "ACT_BIG_MOM",
+    "originName": "活动：BigMom"
+  },
+  "25052": {
+    "id": 25052,
+    "origin": "ACT_MYSTIC_BOX",
+    "originName": "活动：香克斯宝库"
+  },
+  "25053": {
+    "id": 25053,
+    "origin": "ACT_DISCOUNT_SHOP",
+    "originName": "活动：折扣商城"
+  }
+}

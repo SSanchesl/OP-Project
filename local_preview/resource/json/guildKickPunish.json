@@ -1,0 +1,20 @@
+{
+  "1": {
+    "openDay": 1,
+    "kickNum": 2,
+    "hideHour": 48,
+    "offlineHour": 4
+  },
+  "2": {
+    "openDay": 2,
+    "kickNum": 2,
+    "hideHour": 24,
+    "offlineHour": 4
+  },
+  "3": {
+    "openDay": 3,
+    "kickNum": 2,
+    "hideHour": 24,
+    "offlineHour": 4
+  }
+}

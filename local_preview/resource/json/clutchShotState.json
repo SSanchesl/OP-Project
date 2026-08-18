@@ -1,0 +1,389 @@
+{
+  "1": {
+    "ID": 1,
+    "clutchShotQuality": "SR",
+    "clutchShotState": 1,
+    "clutchShotStar": 0,
+    "passiveNum": 1,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "2": {
+    "ID": 2,
+    "clutchShotQuality": "SR",
+    "clutchShotState": 1,
+    "clutchShotStar": 1,
+    "costNum": 20,
+    "passiveNum": 1,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "3": {
+    "ID": 3,
+    "clutchShotQuality": "SR",
+    "clutchShotState": 1,
+    "clutchShotStar": 2,
+    "costNum": 30,
+    "passiveNum": 1,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "4": {
+    "ID": 4,
+    "clutchShotQuality": "SR",
+    "clutchShotState": 1,
+    "clutchShotStar": 3,
+    "costNum": 40,
+    "passiveNum": 2,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "5": {
+    "ID": 5,
+    "clutchShotQuality": "SR",
+    "clutchShotState": 1,
+    "clutchShotStar": 4,
+    "costNum": 50,
+    "passiveNum": 2,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "6": {
+    "ID": 6,
+    "clutchShotQuality": "SR",
+    "clutchShotState": 1,
+    "clutchShotStar": 5,
+    "costNum": 60,
+    "passiveNum": 2,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "7": {
+    "ID": 7,
+    "clutchShotQuality": "SR",
+    "clutchShotState": 1,
+    "clutchShotStar": 6,
+    "costNum": 70,
+    "passiveNum": 3,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "8": {
+    "ID": 8,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 1,
+    "clutchShotStar": 0,
+    "passiveNum": 1,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "9": {
+    "ID": 9,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 1,
+    "clutchShotStar": 1,
+    "costNum": 20,
+    "passiveNum": 1,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "10": {
+    "ID": 10,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 1,
+    "clutchShotStar": 2,
+    "costNum": 30,
+    "passiveNum": 1,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "11": {
+    "ID": 11,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 1,
+    "clutchShotStar": 3,
+    "costNum": 40,
+    "passiveNum": 2,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "12": {
+    "ID": 12,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 1,
+    "clutchShotStar": 4,
+    "costNum": 50,
+    "passiveNum": 2,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "13": {
+    "ID": 13,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 1,
+    "clutchShotStar": 5,
+    "costNum": 60,
+    "passiveNum": 2,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "14": {
+    "ID": 14,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 1,
+    "clutchShotStar": 6,
+    "costNum": 70,
+    "passiveNum": 3,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "15": {
+    "ID": 15,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 2,
+    "clutchShotStar": 1,
+    "costNum": 90,
+    "passiveNum": 3,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "16": {
+    "ID": 16,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 2,
+    "clutchShotStar": 2,
+    "costNum": 110,
+    "passiveNum": 3,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "17": {
+    "ID": 17,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 2,
+    "clutchShotStar": 3,
+    "costNum": 130,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "18": {
+    "ID": 18,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 2,
+    "clutchShotStar": 4,
+    "costNum": 150,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "19": {
+    "ID": 19,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 2,
+    "clutchShotStar": 5,
+    "costNum": 170,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "20": {
+    "ID": 20,
+    "clutchShotQuality": "SSR",
+    "clutchShotState": 2,
+    "clutchShotStar": 6,
+    "costNum": 190,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "21": {
+    "ID": 21,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 1,
+    "clutchShotStar": 0,
+    "passiveNum": 1,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "22": {
+    "ID": 22,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 1,
+    "clutchShotStar": 1,
+    "costNum": 20,
+    "passiveNum": 1,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "23": {
+    "ID": 23,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 1,
+    "clutchShotStar": 2,
+    "costNum": 30,
+    "passiveNum": 1,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "24": {
+    "ID": 24,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 1,
+    "clutchShotStar": 3,
+    "costNum": 40,
+    "passiveNum": 2,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "25": {
+    "ID": 25,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 1,
+    "clutchShotStar": 4,
+    "costNum": 50,
+    "passiveNum": 2,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "26": {
+    "ID": 26,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 1,
+    "clutchShotStar": 5,
+    "costNum": 60,
+    "passiveNum": 2,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "27": {
+    "ID": 27,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 1,
+    "clutchShotStar": 6,
+    "costNum": 70,
+    "passiveNum": 3,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "28": {
+    "ID": 28,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 2,
+    "clutchShotStar": 1,
+    "costNum": 90,
+    "passiveNum": 3,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "29": {
+    "ID": 29,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 2,
+    "clutchShotStar": 2,
+    "costNum": 110,
+    "passiveNum": 3,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "30": {
+    "ID": 30,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 2,
+    "clutchShotStar": 3,
+    "costNum": 130,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "31": {
+    "ID": 31,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 2,
+    "clutchShotStar": 4,
+    "costNum": 150,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "32": {
+    "ID": 32,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 2,
+    "clutchShotStar": 5,
+    "costNum": 170,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "33": {
+    "ID": 33,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 2,
+    "clutchShotStar": 6,
+    "costNum": 190,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "34": {
+    "ID": 34,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 3,
+    "clutchShotStar": 1,
+    "costNum": 250,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "35": {
+    "ID": 35,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 3,
+    "clutchShotStar": 2,
+    "costNum": 280,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "36": {
+    "ID": 36,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 3,
+    "clutchShotStar": 3,
+    "costNum": 310,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "37": {
+    "ID": 37,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 3,
+    "clutchShotStar": 4,
+    "costNum": 340,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "38": {
+    "ID": 38,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 3,
+    "clutchShotStar": 5,
+    "costNum": 370,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  },
+  "39": {
+    "ID": 39,
+    "clutchShotQuality": "UR",
+    "clutchShotState": 3,
+    "clutchShotStar": 6,
+    "costNum": 400,
+    "passiveNum": 4,
+    "passiveRefresh": 1,
+    "passiveLock": 0
+  }
+}

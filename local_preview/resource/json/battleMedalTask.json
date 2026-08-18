@@ -1,0 +1,1101 @@
+{
+  "101": {
+    "id": 101,
+    "listPara": 1,
+    "taskType": "gainQualityHero",
+    "taskPara1": 2,
+    "taskPara2": "orange",
+    "exp": 10,
+    "nextTaskID": 102,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_1"
+  },
+  "102": {
+    "id": 102,
+    "listPara": 1,
+    "taskType": "gainQualityHero",
+    "taskPara1": 5,
+    "taskPara2": "orange",
+    "exp": 10,
+    "nextTaskID": 103,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_2"
+  },
+  "103": {
+    "id": 103,
+    "listPara": 1,
+    "taskType": "gainQualityHero",
+    "taskPara1": 8,
+    "taskPara2": "orange",
+    "exp": 10,
+    "nextTaskID": 104,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_3"
+  },
+  "104": {
+    "id": 104,
+    "listPara": 1,
+    "taskType": "gainQualityHero",
+    "taskPara1": 12,
+    "taskPara2": "orange",
+    "exp": 10,
+    "nextTaskID": 105,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_4"
+  },
+  "105": {
+    "id": 105,
+    "listPara": 1,
+    "taskType": "gainQualityHero",
+    "taskPara1": 16,
+    "taskPara2": "orange",
+    "exp": 10,
+    "nextTaskID": 106,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_5"
+  },
+  "106": {
+    "id": 106,
+    "listPara": 1,
+    "taskType": "gainQualityHero",
+    "taskPara1": 20,
+    "taskPara2": "orange",
+    "exp": 10,
+    "nextTaskID": 107,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_6"
+  },
+  "107": {
+    "id": 107,
+    "listPara": 1,
+    "taskType": "gainQualityHero",
+    "taskPara1": 25,
+    "taskPara2": "orange",
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_7"
+  },
+  "201": {
+    "id": 201,
+    "listPara": 2,
+    "taskType": "buyGold",
+    "taskPara1": 2,
+    "exp": 10,
+    "nextTaskID": 202,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_8"
+  },
+  "202": {
+    "id": 202,
+    "listPara": 2,
+    "taskType": "buyGold",
+    "taskPara1": 5,
+    "exp": 10,
+    "nextTaskID": 203,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_9"
+  },
+  "203": {
+    "id": 203,
+    "listPara": 2,
+    "taskType": "buyGold",
+    "taskPara1": 10,
+    "exp": 10,
+    "nextTaskID": 204,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_10"
+  },
+  "204": {
+    "id": 204,
+    "listPara": 2,
+    "taskType": "buyGold",
+    "taskPara1": 15,
+    "exp": 10,
+    "nextTaskID": 205,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_11"
+  },
+  "205": {
+    "id": 205,
+    "listPara": 2,
+    "taskType": "buyGold",
+    "taskPara1": 20,
+    "exp": 10,
+    "nextTaskID": 206,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_12"
+  },
+  "206": {
+    "id": 206,
+    "listPara": 2,
+    "taskType": "buyGold",
+    "taskPara1": 30,
+    "exp": 10,
+    "nextTaskID": 207,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_13"
+  },
+  "207": {
+    "id": 207,
+    "listPara": 2,
+    "taskType": "buyGold",
+    "taskPara1": 40,
+    "exp": 10,
+    "nextTaskID": 208,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_14"
+  },
+  "208": {
+    "id": 208,
+    "listPara": 2,
+    "taskType": "buyGold",
+    "taskPara1": 50,
+    "exp": 10,
+    "nextTaskID": 209,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_15"
+  },
+  "209": {
+    "id": 209,
+    "listPara": 2,
+    "taskType": "buyGold",
+    "taskPara1": 60,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_16"
+  },
+  "301": {
+    "id": 301,
+    "listPara": 3,
+    "taskType": "arena",
+    "taskPara1": 5,
+    "exp": 10,
+    "nextTaskID": 302,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_17"
+  },
+  "302": {
+    "id": 302,
+    "listPara": 3,
+    "taskType": "arena",
+    "taskPara1": 10,
+    "exp": 10,
+    "nextTaskID": 303,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_18"
+  },
+  "303": {
+    "id": 303,
+    "listPara": 3,
+    "taskType": "arena",
+    "taskPara1": 15,
+    "exp": 10,
+    "nextTaskID": 304,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_19"
+  },
+  "304": {
+    "id": 304,
+    "listPara": 3,
+    "taskType": "arena",
+    "taskPara1": 25,
+    "exp": 10,
+    "nextTaskID": 305,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_20"
+  },
+  "305": {
+    "id": 305,
+    "listPara": 3,
+    "taskType": "arena",
+    "taskPara1": 35,
+    "exp": 10,
+    "nextTaskID": 306,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_21"
+  },
+  "306": {
+    "id": 306,
+    "listPara": 3,
+    "taskType": "arena",
+    "taskPara1": 50,
+    "exp": 10,
+    "nextTaskID": 307,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_22"
+  },
+  "307": {
+    "id": 307,
+    "listPara": 3,
+    "taskType": "arena",
+    "taskPara1": 70,
+    "exp": 10,
+    "nextTaskID": 308,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_23"
+  },
+  "308": {
+    "id": 308,
+    "listPara": 3,
+    "taskType": "arena",
+    "taskPara1": 90,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_24"
+  },
+  "401": {
+    "id": 401,
+    "listPara": 4,
+    "taskType": "rewardListStar",
+    "taskPara1": 1,
+    "taskPara2": 5,
+    "exp": 10,
+    "nextTaskID": 402,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_25"
+  },
+  "402": {
+    "id": 402,
+    "listPara": 4,
+    "taskType": "rewardListStar",
+    "taskPara1": 2,
+    "taskPara2": 5,
+    "exp": 10,
+    "nextTaskID": 403,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_26"
+  },
+  "403": {
+    "id": 403,
+    "listPara": 4,
+    "taskType": "rewardListStar",
+    "taskPara1": 3,
+    "taskPara2": 5,
+    "exp": 10,
+    "nextTaskID": 404,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_27"
+  },
+  "404": {
+    "id": 404,
+    "listPara": 4,
+    "taskType": "rewardListStar",
+    "taskPara1": 5,
+    "taskPara2": 5,
+    "exp": 10,
+    "nextTaskID": 405,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_28"
+  },
+  "405": {
+    "id": 405,
+    "listPara": 4,
+    "taskType": "rewardListStar",
+    "taskPara1": 10,
+    "taskPara2": 5,
+    "exp": 10,
+    "nextTaskID": 406,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_29"
+  },
+  "406": {
+    "id": 406,
+    "listPara": 4,
+    "taskType": "rewardListStar",
+    "taskPara1": 15,
+    "taskPara2": 5,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_30"
+  },
+  "501": {
+    "id": 501,
+    "listPara": 5,
+    "taskType": "snakeHighLesson",
+    "taskPara1": 10,
+    "exp": 20,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_31"
+  },
+  "601": {
+    "id": 601,
+    "listPara": 6,
+    "taskType": "shopping",
+    "taskPara1": 5,
+    "exp": 10,
+    "nextTaskID": 602,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_32"
+  },
+  "602": {
+    "id": 602,
+    "listPara": 6,
+    "taskType": "shopping",
+    "taskPara1": 10,
+    "exp": 10,
+    "nextTaskID": 603,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_33"
+  },
+  "603": {
+    "id": 603,
+    "listPara": 6,
+    "taskType": "shopping",
+    "taskPara1": 20,
+    "exp": 10,
+    "nextTaskID": 604,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_34"
+  },
+  "604": {
+    "id": 604,
+    "listPara": 6,
+    "taskType": "shopping",
+    "taskPara1": 30,
+    "exp": 10,
+    "nextTaskID": 605,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_35"
+  },
+  "605": {
+    "id": 605,
+    "listPara": 6,
+    "taskType": "shopping",
+    "taskPara1": 50,
+    "exp": 10,
+    "nextTaskID": 606,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_36"
+  },
+  "606": {
+    "id": 606,
+    "listPara": 6,
+    "taskType": "shopping",
+    "taskPara1": 100,
+    "exp": 10,
+    "nextTaskID": 607,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_37"
+  },
+  "607": {
+    "id": 607,
+    "listPara": 6,
+    "taskType": "shopping",
+    "taskPara1": 150,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_38"
+  },
+  "701": {
+    "id": 701,
+    "listPara": 7,
+    "taskType": "praise",
+    "taskPara1": 10,
+    "exp": 10,
+    "nextTaskID": 702,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_39"
+  },
+  "702": {
+    "id": 702,
+    "listPara": 7,
+    "taskType": "praise",
+    "taskPara1": 20,
+    "exp": 10,
+    "nextTaskID": 703,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_40"
+  },
+  "703": {
+    "id": 703,
+    "listPara": 7,
+    "taskType": "praise",
+    "taskPara1": 30,
+    "exp": 10,
+    "nextTaskID": 704,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_41"
+  },
+  "704": {
+    "id": 704,
+    "listPara": 7,
+    "taskType": "praise",
+    "taskPara1": 50,
+    "exp": 10,
+    "nextTaskID": 705,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_42"
+  },
+  "705": {
+    "id": 705,
+    "listPara": 7,
+    "taskType": "praise",
+    "taskPara1": 70,
+    "exp": 10,
+    "nextTaskID": 706,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_43"
+  },
+  "706": {
+    "id": 706,
+    "listPara": 7,
+    "taskType": "praise",
+    "taskPara1": 90,
+    "exp": 10,
+    "nextTaskID": 707,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_44"
+  },
+  "707": {
+    "id": 707,
+    "listPara": 7,
+    "taskType": "praise",
+    "taskPara1": 110,
+    "exp": 10,
+    "nextTaskID": 708,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_45"
+  },
+  "708": {
+    "id": 708,
+    "listPara": 7,
+    "taskType": "praise",
+    "taskPara1": 130,
+    "exp": 10,
+    "nextTaskID": 709,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_46"
+  },
+  "709": {
+    "id": 709,
+    "listPara": 7,
+    "taskType": "praise",
+    "taskPara1": 160,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_47"
+  },
+  "801": {
+    "id": 801,
+    "listPara": 8,
+    "taskType": "sendFriendShip",
+    "taskPara1": 20,
+    "exp": 10,
+    "nextTaskID": 802,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_48"
+  },
+  "802": {
+    "id": 802,
+    "listPara": 8,
+    "taskType": "sendFriendShip",
+    "taskPara1": 40,
+    "exp": 10,
+    "nextTaskID": 803,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_49"
+  },
+  "803": {
+    "id": 803,
+    "listPara": 8,
+    "taskType": "sendFriendShip",
+    "taskPara1": 60,
+    "exp": 10,
+    "nextTaskID": 804,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_50"
+  },
+  "804": {
+    "id": 804,
+    "listPara": 8,
+    "taskType": "sendFriendShip",
+    "taskPara1": 100,
+    "exp": 10,
+    "nextTaskID": 805,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_51"
+  },
+  "805": {
+    "id": 805,
+    "listPara": 8,
+    "taskType": "sendFriendShip",
+    "taskPara1": 150,
+    "exp": 10,
+    "nextTaskID": 806,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_52"
+  },
+  "806": {
+    "id": 806,
+    "listPara": 8,
+    "taskType": "sendFriendShip",
+    "taskPara1": 200,
+    "exp": 10,
+    "nextTaskID": 807,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_53"
+  },
+  "807": {
+    "id": 807,
+    "listPara": 8,
+    "taskType": "sendFriendShip",
+    "taskPara1": 300,
+    "exp": 10,
+    "nextTaskID": 808,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_54"
+  },
+  "808": {
+    "id": 808,
+    "listPara": 8,
+    "taskType": "sendFriendShip",
+    "taskPara1": 400,
+    "exp": 10,
+    "nextTaskID": 809,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_55"
+  },
+  "809": {
+    "id": 809,
+    "listPara": 8,
+    "taskType": "sendFriendShip",
+    "taskPara1": 500,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_56"
+  },
+  "901": {
+    "id": 901,
+    "listPara": 9,
+    "taskType": "guildSignIn",
+    "taskPara1": 1,
+    "exp": 10,
+    "nextTaskID": 902,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_57"
+  },
+  "902": {
+    "id": 902,
+    "listPara": 9,
+    "taskType": "guildSignIn",
+    "taskPara1": 2,
+    "exp": 10,
+    "nextTaskID": 903,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_58"
+  },
+  "903": {
+    "id": 903,
+    "listPara": 9,
+    "taskType": "guildSignIn",
+    "taskPara1": 4,
+    "exp": 10,
+    "nextTaskID": 904,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_59"
+  },
+  "904": {
+    "id": 904,
+    "listPara": 9,
+    "taskType": "guildSignIn",
+    "taskPara1": 6,
+    "exp": 10,
+    "nextTaskID": 905,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_60"
+  },
+  "905": {
+    "id": 905,
+    "listPara": 9,
+    "taskType": "guildSignIn",
+    "taskPara1": 9,
+    "exp": 10,
+    "nextTaskID": 906,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_61"
+  },
+  "906": {
+    "id": 906,
+    "listPara": 9,
+    "taskType": "guildSignIn",
+    "taskPara1": 12,
+    "exp": 10,
+    "nextTaskID": 907,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_62"
+  },
+  "907": {
+    "id": 907,
+    "listPara": 9,
+    "taskType": "guildSignIn",
+    "taskPara1": 15,
+    "exp": 10,
+    "nextTaskID": 908,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_63"
+  },
+  "908": {
+    "id": 908,
+    "listPara": 9,
+    "taskType": "guildSignIn",
+    "taskPara1": 18,
+    "exp": 10,
+    "nextTaskID": 909,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_64"
+  },
+  "909": {
+    "id": 909,
+    "listPara": 9,
+    "taskType": "guildSignIn",
+    "taskPara1": 21,
+    "exp": 10,
+    "nextTaskID": 910,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_65"
+  },
+  "910": {
+    "id": 910,
+    "listPara": 9,
+    "taskType": "guildSignIn",
+    "taskPara1": 25,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_66"
+  },
+  "1101": {
+    "id": 1101,
+    "listPara": 11,
+    "taskType": "karinTowerClimb",
+    "taskPara1": 10,
+    "exp": 10,
+    "nextTaskID": 1102,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_67"
+  },
+  "1102": {
+    "id": 1102,
+    "listPara": 11,
+    "taskType": "karinTowerClimb",
+    "taskPara1": 20,
+    "exp": 10,
+    "nextTaskID": 1103,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_68"
+  },
+  "1103": {
+    "id": 1103,
+    "listPara": 11,
+    "taskType": "karinTowerClimb",
+    "taskPara1": 40,
+    "exp": 10,
+    "nextTaskID": 1104,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_69"
+  },
+  "1104": {
+    "id": 1104,
+    "listPara": 11,
+    "taskType": "karinTowerClimb",
+    "taskPara1": 60,
+    "exp": 10,
+    "nextTaskID": 1105,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_70"
+  },
+  "1105": {
+    "id": 1105,
+    "listPara": 11,
+    "taskType": "karinTowerClimb",
+    "taskPara1": 90,
+    "exp": 10,
+    "nextTaskID": 1106,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_71"
+  },
+  "1106": {
+    "id": 1106,
+    "listPara": 11,
+    "taskType": "karinTowerClimb",
+    "taskPara1": 120,
+    "exp": 10,
+    "nextTaskID": 1107,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_72"
+  },
+  "1107": {
+    "id": 1107,
+    "listPara": 11,
+    "taskType": "karinTowerClimb",
+    "taskPara1": 150,
+    "exp": 10,
+    "nextTaskID": 1108,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_73"
+  },
+  "1108": {
+    "id": 1108,
+    "listPara": 11,
+    "taskType": "karinTowerClimb",
+    "taskPara1": 180,
+    "exp": 10,
+    "nextTaskID": 1109,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_74"
+  },
+  "1109": {
+    "id": 1109,
+    "listPara": 11,
+    "taskType": "karinTowerClimb",
+    "taskPara1": 210,
+    "exp": 10,
+    "nextTaskID": 1110,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_75"
+  },
+  "1110": {
+    "id": 1110,
+    "listPara": 11,
+    "taskType": "karinTowerClimb",
+    "taskPara1": 250,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_76"
+  },
+  "1201": {
+    "id": 1201,
+    "listPara": 12,
+    "taskType": "islandRollDice",
+    "taskPara1": 5,
+    "exp": 10,
+    "nextTaskID": 1202,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_77"
+  },
+  "1202": {
+    "id": 1202,
+    "listPara": 12,
+    "taskType": "islandRollDice",
+    "taskPara1": 10,
+    "exp": 10,
+    "nextTaskID": 1203,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_78"
+  },
+  "1203": {
+    "id": 1203,
+    "listPara": 12,
+    "taskType": "islandRollDice",
+    "taskPara1": 20,
+    "exp": 10,
+    "nextTaskID": 1204,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_79"
+  },
+  "1204": {
+    "id": 1204,
+    "listPara": 12,
+    "taskType": "islandRollDice",
+    "taskPara1": 30,
+    "exp": 10,
+    "nextTaskID": 1205,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_80"
+  },
+  "1205": {
+    "id": 1205,
+    "listPara": 12,
+    "taskType": "islandRollDice",
+    "taskPara1": 50,
+    "exp": 10,
+    "nextTaskID": 1206,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_81"
+  },
+  "1206": {
+    "id": 1206,
+    "listPara": 12,
+    "taskType": "islandRollDice",
+    "taskPara1": 80,
+    "exp": 10,
+    "nextTaskID": 1207,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_82"
+  },
+  "1207": {
+    "id": 1207,
+    "listPara": 12,
+    "taskType": "islandRollDice",
+    "taskPara1": 120,
+    "exp": 10,
+    "nextTaskID": 1208,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_83"
+  },
+  "1208": {
+    "id": 1208,
+    "listPara": 12,
+    "taskType": "islandRollDice",
+    "taskPara1": 180,
+    "exp": 10,
+    "nextTaskID": 1209,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_84"
+  },
+  "1209": {
+    "id": 1209,
+    "listPara": 12,
+    "taskType": "islandRollDice",
+    "taskPara1": 250,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_85"
+  },
+  "1301": {
+    "id": 1301,
+    "listPara": 13,
+    "taskType": "mineChest",
+    "taskPara1": 5,
+    "exp": 10,
+    "nextTaskID": 1302,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_86"
+  },
+  "1302": {
+    "id": 1302,
+    "listPara": 13,
+    "taskType": "mineChest",
+    "taskPara1": 10,
+    "exp": 10,
+    "nextTaskID": 1303,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_87"
+  },
+  "1303": {
+    "id": 1303,
+    "listPara": 13,
+    "taskType": "mineChest",
+    "taskPara1": 20,
+    "exp": 10,
+    "nextTaskID": 1304,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_88"
+  },
+  "1304": {
+    "id": 1304,
+    "listPara": 13,
+    "taskType": "mineChest",
+    "taskPara1": 30,
+    "exp": 10,
+    "nextTaskID": 1305,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_89"
+  },
+  "1305": {
+    "id": 1305,
+    "listPara": 13,
+    "taskType": "mineChest",
+    "taskPara1": 50,
+    "exp": 10,
+    "nextTaskID": 1306,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_90"
+  },
+  "1306": {
+    "id": 1306,
+    "listPara": 13,
+    "taskType": "mineChest",
+    "taskPara1": 70,
+    "exp": 10,
+    "nextTaskID": 1307,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_91"
+  },
+  "1307": {
+    "id": 1307,
+    "listPara": 13,
+    "taskType": "mineChest",
+    "taskPara1": 100,
+    "exp": 10,
+    "nextTaskID": 1308,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_92"
+  },
+  "1308": {
+    "id": 1308,
+    "listPara": 13,
+    "taskType": "mineChest",
+    "taskPara1": 130,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_93"
+  },
+  "1401": {
+    "id": 1401,
+    "listPara": 14,
+    "taskType": "mahaAdventure",
+    "taskPara1": 5,
+    "exp": 10,
+    "nextTaskID": 1402,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_94"
+  },
+  "1402": {
+    "id": 1402,
+    "listPara": 14,
+    "taskType": "mahaAdventure",
+    "taskPara1": 10,
+    "exp": 10,
+    "nextTaskID": 1403,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_95"
+  },
+  "1403": {
+    "id": 1403,
+    "listPara": 14,
+    "taskType": "mahaAdventure",
+    "taskPara1": 15,
+    "exp": 10,
+    "nextTaskID": 1404,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_96"
+  },
+  "1404": {
+    "id": 1404,
+    "listPara": 14,
+    "taskType": "mahaAdventure",
+    "taskPara1": 20,
+    "exp": 10,
+    "nextTaskID": 1405,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_97"
+  },
+  "1405": {
+    "id": 1405,
+    "listPara": 14,
+    "taskType": "mahaAdventure",
+    "taskPara1": 30,
+    "exp": 10,
+    "nextTaskID": 1406,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_98"
+  },
+  "1406": {
+    "id": 1406,
+    "listPara": 14,
+    "taskType": "mahaAdventure",
+    "taskPara1": 50,
+    "exp": 10,
+    "nextTaskID": 1407,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_99"
+  },
+  "1407": {
+    "id": 1407,
+    "listPara": 14,
+    "taskType": "mahaAdventure",
+    "taskPara1": 80,
+    "exp": 10,
+    "nextTaskID": 1408,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_100"
+  },
+  "1408": {
+    "id": 1408,
+    "listPara": 14,
+    "taskType": "mahaAdventure",
+    "taskPara1": 120,
+    "exp": 10,
+    "nextTaskID": 1409,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_101"
+  },
+  "1409": {
+    "id": 1409,
+    "listPara": 14,
+    "taskType": "mahaAdventure",
+    "taskPara1": 150,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_102"
+  },
+  "1501": {
+    "id": 1501,
+    "listPara": 15,
+    "taskType": "bossFight",
+    "taskPara1": 5,
+    "exp": 10,
+    "nextTaskID": 1502,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_103"
+  },
+  "1502": {
+    "id": 1502,
+    "listPara": 15,
+    "taskType": "bossFight",
+    "taskPara1": 10,
+    "exp": 10,
+    "nextTaskID": 1503,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_104"
+  },
+  "1503": {
+    "id": 1503,
+    "listPara": 15,
+    "taskType": "bossFight",
+    "taskPara1": 15,
+    "exp": 10,
+    "nextTaskID": 1504,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_105"
+  },
+  "1504": {
+    "id": 1504,
+    "listPara": 15,
+    "taskType": "bossFight",
+    "taskPara1": 20,
+    "exp": 10,
+    "nextTaskID": 1505,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_106"
+  },
+  "1505": {
+    "id": 1505,
+    "listPara": 15,
+    "taskType": "bossFight",
+    "taskPara1": 25,
+    "exp": 10,
+    "nextTaskID": 1506,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_107"
+  },
+  "1506": {
+    "id": 1506,
+    "listPara": 15,
+    "taskType": "bossFight",
+    "taskPara1": 30,
+    "exp": 10,
+    "nextTaskID": 1507,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_108"
+  },
+  "1507": {
+    "id": 1507,
+    "listPara": 15,
+    "taskType": "bossFight",
+    "taskPara1": 40,
+    "exp": 10,
+    "nextTaskID": 1508,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_109"
+  },
+  "1508": {
+    "id": 1508,
+    "listPara": 15,
+    "taskType": "bossFight",
+    "taskPara1": 50,
+    "exp": 10,
+    "taskSizeJudge": 1,
+    "name": "battleMedalTask_name_110"
+  }
+}

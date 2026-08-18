@@ -1,0 +1,110 @@
+{
+  "657": {
+    "drug": 657,
+    "type": "strength",
+    "talentType": "atk",
+    "exp": 10
+  },
+  "658": {
+    "drug": 658,
+    "type": "strength",
+    "talentType": "atk",
+    "exp": 50
+  },
+  "659": {
+    "drug": 659,
+    "type": "strength",
+    "talentType": "atk",
+    "exp": 200
+  },
+  "660": {
+    "drug": 660,
+    "type": "strength",
+    "talentType": "hp",
+    "exp": 10
+  },
+  "661": {
+    "drug": 661,
+    "type": "strength",
+    "talentType": "hp",
+    "exp": 50
+  },
+  "662": {
+    "drug": 662,
+    "type": "strength",
+    "talentType": "hp",
+    "exp": 200
+  },
+  "663": {
+    "drug": 663,
+    "type": "body",
+    "talentType": "atk",
+    "exp": 10
+  },
+  "664": {
+    "drug": 664,
+    "type": "body",
+    "talentType": "atk",
+    "exp": 50
+  },
+  "665": {
+    "drug": 665,
+    "type": "body",
+    "talentType": "atk",
+    "exp": 200
+  },
+  "666": {
+    "drug": 666,
+    "type": "body",
+    "talentType": "hp",
+    "exp": 10
+  },
+  "667": {
+    "drug": 667,
+    "type": "body",
+    "talentType": "hp",
+    "exp": 50
+  },
+  "668": {
+    "drug": 668,
+    "type": "body",
+    "talentType": "hp",
+    "exp": 200
+  },
+  "669": {
+    "drug": 669,
+    "type": "skill",
+    "talentType": "atk",
+    "exp": 10
+  },
+  "670": {
+    "drug": 670,
+    "type": "skill",
+    "talentType": "atk",
+    "exp": 50
+  },
+  "671": {
+    "drug": 671,
+    "type": "skill",
+    "talentType": "atk",
+    "exp": 200
+  },
+  "672": {
+    "drug": 672,
+    "type": "skill",
+    "talentType": "hp",
+    "exp": 10
+  },
+  "673": {
+    "drug": 673,
+    "type": "skill",
+    "talentType": "hp",
+    "exp": 50
+  },
+  "674": {
+    "drug": 674,
+    "type": "skill",
+    "talentType": "hp",
+    "exp": 200
+  }
+}

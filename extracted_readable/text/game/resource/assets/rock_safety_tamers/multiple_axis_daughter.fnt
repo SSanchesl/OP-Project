@@ -1,0 +1,11 @@
+{"file":"zhandou_3.png","frames":{
+"1":{"x":87,"y":68,"w":18,"h":31,"offX":2,"offY":0,"sourceW":22,"sourceH":32},
+"2":{"x":87,"y":35,"w":26,"h":31,"offX":2,"offY":0,"sourceW":30,"sourceH":32},
+"3":{"x":59,"y":35,"w":26,"h":32,"offX":2,"offY":0,"sourceW":30,"sourceH":32},
+"4":{"x":30,"y":35,"w":27,"h":31,"offX":2,"offY":0,"sourceW":31,"sourceH":32},
+"5":{"x":1,"y":35,"w":27,"h":32,"offX":2,"offY":0,"sourceW":31,"sourceH":32},
+"6":{"x":1,"y":1,"w":27,"h":32,"offX":2,"offY":0,"sourceW":31,"sourceH":32},
+"7":{"x":30,"y":68,"w":25,"h":31,"offX":2,"offY":0,"sourceW":29,"sourceH":32},
+"8":{"x":30,"y":1,"w":27,"h":32,"offX":2,"offY":0,"sourceW":31,"sourceH":32},
+"9":{"x":59,"y":1,"w":27,"h":32,"offX":2,"offY":0,"sourceW":31,"sourceH":32},
+"0":{"x":88,"y":1,"w":27,"h":32,"offX":2,"offY":0,"sourceW":31,"sourceH":32}}}

@@ -1,0 +1,47 @@
+{
+  "4401": {
+    "weaponId": 4401,
+    "weaponStar": 5,
+    "needweaponId": 4401,
+    "weaponRed": 4901,
+    "needweaponStar": 0,
+    "needweaponLevel": 1,
+    "needweaponNum": 1
+  },
+  "4402": {
+    "weaponId": 4402,
+    "weaponStar": 5,
+    "needweaponId": 4402,
+    "weaponRed": 4902,
+    "needweaponStar": 0,
+    "needweaponLevel": 1,
+    "needweaponNum": 1
+  },
+  "4403": {
+    "weaponId": 4403,
+    "weaponStar": 5,
+    "needweaponId": 4403,
+    "weaponRed": 4903,
+    "needweaponStar": 0,
+    "needweaponLevel": 1,
+    "needweaponNum": 1
+  },
+  "4404": {
+    "weaponId": 4404,
+    "weaponStar": 5,
+    "needweaponId": 4404,
+    "weaponRed": 4904,
+    "needweaponStar": 0,
+    "needweaponLevel": 1,
+    "needweaponNum": 1
+  },
+  "4405": {
+    "weaponId": 4405,
+    "weaponStar": 5,
+    "needweaponId": 4405,
+    "weaponRed": 4905,
+    "needweaponStar": 0,
+    "needweaponLevel": 1,
+    "needweaponNum": 1
+  }
+}

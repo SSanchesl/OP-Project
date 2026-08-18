@@ -1,0 +1,34 @@
+{
+  "4199": {
+    "id": 4199,
+    "mergeNum": 10,
+    "thingsType": "weaponPiece",
+    "mergeRandom": 20001,
+    "mergeBelongTo": 4101,
+    "name": "weaponPiece_name_14"
+  },
+  "4299": {
+    "id": 4299,
+    "mergeNum": 20,
+    "thingsType": "weaponPiece",
+    "mergeRandom": 20002,
+    "mergeBelongTo": 4201,
+    "name": "weaponPiece_name_15"
+  },
+  "4399": {
+    "id": 4399,
+    "mergeNum": 30,
+    "thingsType": "weaponPiece",
+    "mergeRandom": 20003,
+    "mergeBelongTo": 816,
+    "name": "weaponPiece_name_16"
+  },
+  "4499": {
+    "id": 4499,
+    "mergeNum": 50,
+    "thingsType": "weaponPiece",
+    "mergeRandom": 20004,
+    "mergeBelongTo": 817,
+    "name": "weaponPiece_name_17"
+  }
+}

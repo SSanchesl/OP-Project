@@ -1,0 +1,47 @@
+{
+  "1": {
+    "id": 1,
+    "version": "202012081519",
+    "hakiPicture": "domineering_3005_png",
+    "skill1": 300201,
+    "skill2": 300202,
+    "colorRGB": "0xFF6D62",
+    "outlineRGB": "0x000000",
+    "levelCost": 827,
+    "breakLevelCost": 828,
+    "hakiNamePicture": "baqixiulian29_png",
+    "hakiWordPicture": "baqixiulian30_png",
+    "hakiName": "haki_hakiName_1",
+    "hakiDes": "haki_hakiDes_2"
+  },
+  "2": {
+    "id": 2,
+    "version": "202012081519",
+    "hakiPicture": "domineering_3004_png",
+    "skill1": 300301,
+    "skill2": 300302,
+    "colorRGB": "0xFFEF65",
+    "outlineRGB": "0x000000",
+    "levelCost": 827,
+    "breakLevelCost": 830,
+    "hakiNamePicture": "baqixiulian31_png",
+    "hakiWordPicture": "baqixiulian32_png",
+    "hakiName": "haki_hakiName_3",
+    "hakiDes": "haki_hakiDes_4"
+  },
+  "3": {
+    "id": 3,
+    "version": "202012081519",
+    "hakiPicture": "domineering_3003_png",
+    "skill1": 300101,
+    "skill2": 300102,
+    "colorRGB": "0xA2EFFF",
+    "outlineRGB": "0x000000",
+    "levelCost": 827,
+    "breakLevelCost": 829,
+    "hakiNamePicture": "baqixiulian33_png",
+    "hakiWordPicture": "baqixiulian34_png",
+    "hakiName": "haki_hakiName_5",
+    "hakiDes": "haki_hakiDes_6"
+  }
+}

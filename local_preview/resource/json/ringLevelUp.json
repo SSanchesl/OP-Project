@@ -1,0 +1,3002 @@
+{
+  "1": {
+    "id": 1,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 496,
+    "levelUpCostID1": 135,
+    "num1": 18,
+    "levelUpCostID2": 102,
+    "num2": 50
+  },
+  "2": {
+    "id": 2,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 625,
+    "levelUpCostID1": 135,
+    "num1": 19,
+    "levelUpCostID2": 102,
+    "num2": 74
+  },
+  "3": {
+    "id": 3,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 756,
+    "levelUpCostID1": 135,
+    "num1": 20,
+    "levelUpCostID2": 102,
+    "num2": 98
+  },
+  "4": {
+    "id": 4,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 888,
+    "levelUpCostID1": 135,
+    "num1": 22,
+    "levelUpCostID2": 102,
+    "num2": 121
+  },
+  "5": {
+    "id": 5,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1021,
+    "levelUpCostID1": 135,
+    "num1": 23,
+    "levelUpCostID2": 102,
+    "num2": 145
+  },
+  "6": {
+    "id": 6,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1155,
+    "levelUpCostID1": 135,
+    "num1": 24,
+    "levelUpCostID2": 102,
+    "num2": 168
+  },
+  "7": {
+    "id": 7,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1289,
+    "levelUpCostID1": 135,
+    "num1": 25,
+    "levelUpCostID2": 102,
+    "num2": 192
+  },
+  "8": {
+    "id": 8,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1424,
+    "levelUpCostID1": 135,
+    "num1": 27,
+    "levelUpCostID2": 102,
+    "num2": 216
+  },
+  "9": {
+    "id": 9,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1560,
+    "levelUpCostID1": 135,
+    "num1": 28,
+    "levelUpCostID2": 102,
+    "num2": 239
+  },
+  "10": {
+    "id": 10,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1696,
+    "levelUpCostID1": 135,
+    "num1": 29,
+    "levelUpCostID2": 102,
+    "num2": 263
+  },
+  "11": {
+    "id": 11,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2017,
+    "levelUpCostID1": 135,
+    "num1": 30,
+    "levelUpCostID2": 102,
+    "num2": 286
+  },
+  "12": {
+    "id": 12,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2168,
+    "levelUpCostID1": 135,
+    "num1": 32,
+    "levelUpCostID2": 102,
+    "num2": 310
+  },
+  "13": {
+    "id": 13,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2320,
+    "levelUpCostID1": 135,
+    "num1": 33,
+    "levelUpCostID2": 102,
+    "num2": 334
+  },
+  "14": {
+    "id": 14,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2472,
+    "levelUpCostID1": 135,
+    "num1": 35,
+    "levelUpCostID2": 102,
+    "num2": 357
+  },
+  "15": {
+    "id": 15,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2625,
+    "levelUpCostID1": 135,
+    "num1": 36,
+    "levelUpCostID2": 102,
+    "num2": 381
+  },
+  "16": {
+    "id": 16,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2779,
+    "levelUpCostID1": 135,
+    "num1": 37,
+    "levelUpCostID2": 102,
+    "num2": 405
+  },
+  "17": {
+    "id": 17,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2934,
+    "levelUpCostID1": 135,
+    "num1": 39,
+    "levelUpCostID2": 102,
+    "num2": 428
+  },
+  "18": {
+    "id": 18,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 3090,
+    "levelUpCostID1": 135,
+    "num1": 40,
+    "levelUpCostID2": 102,
+    "num2": 452
+  },
+  "19": {
+    "id": 19,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 3247,
+    "levelUpCostID1": 135,
+    "num1": 42,
+    "levelUpCostID2": 102,
+    "num2": 475
+  },
+  "20": {
+    "id": 20,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 3624,
+    "levelUpCostID1": 135,
+    "num1": 43,
+    "levelUpCostID2": 102,
+    "num2": 499
+  },
+  "21": {
+    "id": 21,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 3834.9,
+    "levelUpCostID1": 135,
+    "num1": 45,
+    "levelUpCostID2": 102,
+    "num2": 523
+  },
+  "22": {
+    "id": 22,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 4045.8,
+    "levelUpCostID1": 135,
+    "num1": 47,
+    "levelUpCostID2": 102,
+    "num2": 546
+  },
+  "23": {
+    "id": 23,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 4256.7,
+    "levelUpCostID1": 135,
+    "num1": 49,
+    "levelUpCostID2": 102,
+    "num2": 570
+  },
+  "24": {
+    "id": 24,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 4467.599999999999,
+    "levelUpCostID1": 135,
+    "num1": 51,
+    "levelUpCostID2": 102,
+    "num2": 593
+  },
+  "25": {
+    "id": 25,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 4678.499999999999,
+    "levelUpCostID1": 135,
+    "num1": 53,
+    "levelUpCostID2": 102,
+    "num2": 617
+  },
+  "26": {
+    "id": 26,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 4889.399999999999,
+    "levelUpCostID1": 135,
+    "num1": 55,
+    "levelUpCostID2": 102,
+    "num2": 641
+  },
+  "27": {
+    "id": 27,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 5100.299999999998,
+    "levelUpCostID1": 135,
+    "num1": 57,
+    "levelUpCostID2": 102,
+    "num2": 664
+  },
+  "28": {
+    "id": 28,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 5311.199999999998,
+    "levelUpCostID1": 135,
+    "num1": 59,
+    "levelUpCostID2": 102,
+    "num2": 688
+  },
+  "29": {
+    "id": 29,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 5522.099999999998,
+    "levelUpCostID1": 135,
+    "num1": 61,
+    "levelUpCostID2": 102,
+    "num2": 711
+  },
+  "30": {
+    "id": 30,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 5733,
+    "levelUpCostID1": 135,
+    "num1": 63,
+    "levelUpCostID2": 102,
+    "num2": 735
+  },
+  "31": {
+    "id": 31,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 6020.9,
+    "levelUpCostID1": 135,
+    "num1": 64,
+    "levelUpCostID2": 102,
+    "num2": 759
+  },
+  "32": {
+    "id": 32,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 6308.799999999999,
+    "levelUpCostID1": 135,
+    "num1": 66,
+    "levelUpCostID2": 102,
+    "num2": 869
+  },
+  "33": {
+    "id": 33,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 6596.699999999999,
+    "levelUpCostID1": 135,
+    "num1": 67,
+    "levelUpCostID2": 102,
+    "num2": 980
+  },
+  "34": {
+    "id": 34,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 6884.5999999999985,
+    "levelUpCostID1": 135,
+    "num1": 69,
+    "levelUpCostID2": 102,
+    "num2": 1091
+  },
+  "35": {
+    "id": 35,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 7172.499999999998,
+    "levelUpCostID1": 135,
+    "num1": 70,
+    "levelUpCostID2": 102,
+    "num2": 1202
+  },
+  "36": {
+    "id": 36,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 7460.399999999998,
+    "levelUpCostID1": 135,
+    "num1": 71,
+    "levelUpCostID2": 102,
+    "num2": 1312
+  },
+  "37": {
+    "id": 37,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 7748.299999999997,
+    "levelUpCostID1": 135,
+    "num1": 73,
+    "levelUpCostID2": 102,
+    "num2": 1423
+  },
+  "38": {
+    "id": 38,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 8036.199999999997,
+    "levelUpCostID1": 135,
+    "num1": 74,
+    "levelUpCostID2": 102,
+    "num2": 1534
+  },
+  "39": {
+    "id": 39,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 8324.099999999997,
+    "levelUpCostID1": 135,
+    "num1": 76,
+    "levelUpCostID2": 102,
+    "num2": 1645
+  },
+  "40": {
+    "id": 40,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 8612,
+    "levelUpCostID1": 135,
+    "num1": 77,
+    "levelUpCostID2": 102,
+    "num2": 1755
+  },
+  "41": {
+    "id": 41,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 8929,
+    "levelUpCostID1": 135,
+    "num1": 79,
+    "levelUpCostID2": 102,
+    "num2": 1866
+  },
+  "42": {
+    "id": 42,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 9246,
+    "levelUpCostID1": 135,
+    "num1": 80,
+    "levelUpCostID2": 102,
+    "num2": 1977
+  },
+  "43": {
+    "id": 43,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 9563,
+    "levelUpCostID1": 135,
+    "num1": 82,
+    "levelUpCostID2": 102,
+    "num2": 2088
+  },
+  "44": {
+    "id": 44,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 9880,
+    "levelUpCostID1": 135,
+    "num1": 84,
+    "levelUpCostID2": 102,
+    "num2": 2198
+  },
+  "45": {
+    "id": 45,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 10197,
+    "levelUpCostID1": 135,
+    "num1": 86,
+    "levelUpCostID2": 102,
+    "num2": 2309
+  },
+  "46": {
+    "id": 46,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 10514,
+    "levelUpCostID1": 135,
+    "num1": 87,
+    "levelUpCostID2": 102,
+    "num2": 2420
+  },
+  "47": {
+    "id": 47,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 10831,
+    "levelUpCostID1": 135,
+    "num1": 89,
+    "levelUpCostID2": 102,
+    "num2": 2531
+  },
+  "48": {
+    "id": 48,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 11148,
+    "levelUpCostID1": 135,
+    "num1": 91,
+    "levelUpCostID2": 102,
+    "num2": 2641
+  },
+  "49": {
+    "id": 49,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 11465,
+    "levelUpCostID1": 135,
+    "num1": 92,
+    "levelUpCostID2": 102,
+    "num2": 2752
+  },
+  "50": {
+    "id": 50,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 11782,
+    "levelUpCostID1": 135,
+    "num1": 94,
+    "levelUpCostID2": 102,
+    "num2": 2863
+  },
+  "51": {
+    "id": 51,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 12216.5,
+    "levelUpCostID1": 135,
+    "num1": 96,
+    "levelUpCostID2": 102,
+    "num2": 2974
+  },
+  "52": {
+    "id": 52,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 12651,
+    "levelUpCostID1": 135,
+    "num1": 98,
+    "levelUpCostID2": 102,
+    "num2": 3070
+  },
+  "53": {
+    "id": 53,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 13085.5,
+    "levelUpCostID1": 135,
+    "num1": 100,
+    "levelUpCostID2": 102,
+    "num2": 3167
+  },
+  "54": {
+    "id": 54,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 13520,
+    "levelUpCostID1": 135,
+    "num1": 102,
+    "levelUpCostID2": 102,
+    "num2": 3264
+  },
+  "55": {
+    "id": 55,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 13954.5,
+    "levelUpCostID1": 135,
+    "num1": 104,
+    "levelUpCostID2": 102,
+    "num2": 3360
+  },
+  "56": {
+    "id": 56,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 14389,
+    "levelUpCostID1": 135,
+    "num1": 105,
+    "levelUpCostID2": 102,
+    "num2": 3457
+  },
+  "57": {
+    "id": 57,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 14823.5,
+    "levelUpCostID1": 135,
+    "num1": 107,
+    "levelUpCostID2": 102,
+    "num2": 3554
+  },
+  "58": {
+    "id": 58,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 15258,
+    "levelUpCostID1": 135,
+    "num1": 109,
+    "levelUpCostID2": 102,
+    "num2": 3650
+  },
+  "59": {
+    "id": 59,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 15692.5,
+    "levelUpCostID1": 135,
+    "num1": 111,
+    "levelUpCostID2": 102,
+    "num2": 3747
+  },
+  "60": {
+    "id": 60,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 16127,
+    "levelUpCostID1": 135,
+    "num1": 113,
+    "levelUpCostID2": 102,
+    "num2": 3844
+  },
+  "61": {
+    "id": 61,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 16615,
+    "levelUpCostID1": 135,
+    "num1": 115,
+    "levelUpCostID2": 102,
+    "num2": 3940
+  },
+  "62": {
+    "id": 62,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 17103,
+    "levelUpCostID1": 135,
+    "num1": 117,
+    "levelUpCostID2": 102,
+    "num2": 4037
+  },
+  "63": {
+    "id": 63,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 17591,
+    "levelUpCostID1": 135,
+    "num1": 120,
+    "levelUpCostID2": 102,
+    "num2": 4134
+  },
+  "64": {
+    "id": 64,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 18079,
+    "levelUpCostID1": 135,
+    "num1": 122,
+    "levelUpCostID2": 102,
+    "num2": 4230
+  },
+  "65": {
+    "id": 65,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 18567,
+    "levelUpCostID1": 135,
+    "num1": 124,
+    "levelUpCostID2": 102,
+    "num2": 4327
+  },
+  "66": {
+    "id": 66,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 19055,
+    "levelUpCostID1": 135,
+    "num1": 126,
+    "levelUpCostID2": 102,
+    "num2": 4424
+  },
+  "67": {
+    "id": 67,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 19543,
+    "levelUpCostID1": 135,
+    "num1": 128,
+    "levelUpCostID2": 102,
+    "num2": 4521
+  },
+  "68": {
+    "id": 68,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 20031,
+    "levelUpCostID1": 135,
+    "num1": 131,
+    "levelUpCostID2": 102,
+    "num2": 4617
+  },
+  "69": {
+    "id": 69,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 20519,
+    "levelUpCostID1": 135,
+    "num1": 133,
+    "levelUpCostID2": 102,
+    "num2": 4714
+  },
+  "70": {
+    "id": 70,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 21007,
+    "levelUpCostID1": 135,
+    "num1": 135,
+    "levelUpCostID2": 102,
+    "num2": 4811
+  },
+  "71": {
+    "id": 71,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 21686.5,
+    "levelUpCostID1": 135,
+    "num1": 138,
+    "levelUpCostID2": 102,
+    "num2": 4907
+  },
+  "72": {
+    "id": 72,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 22366,
+    "levelUpCostID1": 135,
+    "num1": 140,
+    "levelUpCostID2": 102,
+    "num2": 5002
+  },
+  "73": {
+    "id": 73,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 23045.5,
+    "levelUpCostID1": 135,
+    "num1": 143,
+    "levelUpCostID2": 102,
+    "num2": 5098
+  },
+  "74": {
+    "id": 74,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 23725,
+    "levelUpCostID1": 135,
+    "num1": 145,
+    "levelUpCostID2": 102,
+    "num2": 5193
+  },
+  "75": {
+    "id": 75,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 24404.5,
+    "levelUpCostID1": 135,
+    "num1": 148,
+    "levelUpCostID2": 102,
+    "num2": 5288
+  },
+  "76": {
+    "id": 76,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 25084,
+    "levelUpCostID1": 135,
+    "num1": 150,
+    "levelUpCostID2": 102,
+    "num2": 5383
+  },
+  "77": {
+    "id": 77,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 25763.5,
+    "levelUpCostID1": 135,
+    "num1": 153,
+    "levelUpCostID2": 102,
+    "num2": 5478
+  },
+  "78": {
+    "id": 78,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 26443,
+    "levelUpCostID1": 135,
+    "num1": 155,
+    "levelUpCostID2": 102,
+    "num2": 5573
+  },
+  "79": {
+    "id": 79,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 27122.5,
+    "levelUpCostID1": 135,
+    "num1": 158,
+    "levelUpCostID2": 102,
+    "num2": 5669
+  },
+  "80": {
+    "id": 80,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 27802,
+    "levelUpCostID1": 135,
+    "num1": 160,
+    "levelUpCostID2": 102,
+    "num2": 5764
+  },
+  "81": {
+    "id": 81,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 28579.8,
+    "levelUpCostID1": 135,
+    "num1": 163,
+    "levelUpCostID2": 102,
+    "num2": 5859
+  },
+  "82": {
+    "id": 82,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 29357.6,
+    "levelUpCostID1": 135,
+    "num1": 166,
+    "levelUpCostID2": 102,
+    "num2": 5954
+  },
+  "83": {
+    "id": 83,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 30135.399999999998,
+    "levelUpCostID1": 135,
+    "num1": 169,
+    "levelUpCostID2": 102,
+    "num2": 6049
+  },
+  "84": {
+    "id": 84,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 30913.199999999997,
+    "levelUpCostID1": 135,
+    "num1": 172,
+    "levelUpCostID2": 102,
+    "num2": 6145
+  },
+  "85": {
+    "id": 85,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 31690.999999999996,
+    "levelUpCostID1": 135,
+    "num1": 175,
+    "levelUpCostID2": 102,
+    "num2": 6240
+  },
+  "86": {
+    "id": 86,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 32468.799999999996,
+    "levelUpCostID1": 135,
+    "num1": 177,
+    "levelUpCostID2": 102,
+    "num2": 6335
+  },
+  "87": {
+    "id": 87,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 33246.6,
+    "levelUpCostID1": 135,
+    "num1": 180,
+    "levelUpCostID2": 102,
+    "num2": 6430
+  },
+  "88": {
+    "id": 88,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 34024.4,
+    "levelUpCostID1": 135,
+    "num1": 183,
+    "levelUpCostID2": 102,
+    "num2": 6525
+  },
+  "89": {
+    "id": 89,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 34802.200000000004,
+    "levelUpCostID1": 135,
+    "num1": 186,
+    "levelUpCostID2": 102,
+    "num2": 6620
+  },
+  "90": {
+    "id": 90,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 35580,
+    "levelUpCostID1": 135,
+    "num1": 189,
+    "levelUpCostID2": 102,
+    "num2": 6716
+  },
+  "91": {
+    "id": 91,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 36684.3,
+    "levelUpCostID1": 135,
+    "num1": 192,
+    "levelUpCostID2": 102,
+    "num2": 6811
+  },
+  "92": {
+    "id": 92,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 37788.600000000006,
+    "levelUpCostID1": 135,
+    "num1": 196,
+    "levelUpCostID2": 102,
+    "num2": 6906
+  },
+  "93": {
+    "id": 93,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 38892.90000000001,
+    "levelUpCostID1": 135,
+    "num1": 199,
+    "levelUpCostID2": 102,
+    "num2": 7001
+  },
+  "94": {
+    "id": 94,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 39997.20000000001,
+    "levelUpCostID1": 135,
+    "num1": 203,
+    "levelUpCostID2": 102,
+    "num2": 7096
+  },
+  "95": {
+    "id": 95,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 41101.500000000015,
+    "levelUpCostID1": 135,
+    "num1": 206,
+    "levelUpCostID2": 102,
+    "num2": 7191
+  },
+  "96": {
+    "id": 96,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 42205.80000000002,
+    "levelUpCostID1": 135,
+    "num1": 209,
+    "levelUpCostID2": 102,
+    "num2": 7287
+  },
+  "97": {
+    "id": 97,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 43310.10000000002,
+    "levelUpCostID1": 135,
+    "num1": 213,
+    "levelUpCostID2": 102,
+    "num2": 7382
+  },
+  "98": {
+    "id": 98,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 44414.40000000002,
+    "levelUpCostID1": 135,
+    "num1": 216,
+    "levelUpCostID2": 102,
+    "num2": 7477
+  },
+  "99": {
+    "id": 99,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 45518.700000000026,
+    "levelUpCostID1": 135,
+    "num1": 220,
+    "levelUpCostID2": 102,
+    "num2": 7572
+  },
+  "100": {
+    "id": 100,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 46623,
+    "levelUpCostID1": 135,
+    "num1": 223,
+    "levelUpCostID2": 102,
+    "num2": 7667
+  },
+  "101": {
+    "id": 101,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 49038.9,
+    "levelUpCostID1": 135,
+    "num1": 227,
+    "levelUpCostID2": 102,
+    "num2": 7762
+  },
+  "102": {
+    "id": 102,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 51454.8,
+    "levelUpCostID1": 135,
+    "num1": 231,
+    "levelUpCostID2": 102,
+    "num2": 7858
+  },
+  "103": {
+    "id": 103,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 53870.700000000004,
+    "levelUpCostID1": 135,
+    "num1": 234,
+    "levelUpCostID2": 102,
+    "num2": 7953
+  },
+  "104": {
+    "id": 104,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 56286.600000000006,
+    "levelUpCostID1": 135,
+    "num1": 238,
+    "levelUpCostID2": 102,
+    "num2": 8048
+  },
+  "105": {
+    "id": 105,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 58702.50000000001,
+    "levelUpCostID1": 135,
+    "num1": 242,
+    "levelUpCostID2": 102,
+    "num2": 8143
+  },
+  "106": {
+    "id": 106,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 61118.40000000001,
+    "levelUpCostID1": 135,
+    "num1": 246,
+    "levelUpCostID2": 102,
+    "num2": 8238
+  },
+  "107": {
+    "id": 107,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 63534.30000000001,
+    "levelUpCostID1": 135,
+    "num1": 250,
+    "levelUpCostID2": 102,
+    "num2": 8333
+  },
+  "108": {
+    "id": 108,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 65950.20000000001,
+    "levelUpCostID1": 135,
+    "num1": 253,
+    "levelUpCostID2": 102,
+    "num2": 8429
+  },
+  "109": {
+    "id": 109,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 68366.1,
+    "levelUpCostID1": 135,
+    "num1": 257,
+    "levelUpCostID2": 102,
+    "num2": 8524
+  },
+  "110": {
+    "id": 110,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 70782,
+    "levelUpCostID1": 135,
+    "num1": 261,
+    "levelUpCostID2": 102,
+    "num2": 8619
+  },
+  "111": {
+    "id": 111,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 71970.8,
+    "levelUpCostID1": 135,
+    "num1": 266,
+    "levelUpCostID2": 102,
+    "num2": 8714
+  },
+  "112": {
+    "id": 112,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 73159.6,
+    "levelUpCostID1": 135,
+    "num1": 270,
+    "levelUpCostID2": 102,
+    "num2": 8809
+  },
+  "113": {
+    "id": 113,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 74348.40000000001,
+    "levelUpCostID1": 135,
+    "num1": 275,
+    "levelUpCostID2": 102,
+    "num2": 8904
+  },
+  "114": {
+    "id": 114,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 75537.20000000001,
+    "levelUpCostID1": 135,
+    "num1": 279,
+    "levelUpCostID2": 102,
+    "num2": 9000
+  },
+  "115": {
+    "id": 115,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 76726.00000000001,
+    "levelUpCostID1": 135,
+    "num1": 284,
+    "levelUpCostID2": 102,
+    "num2": 9095
+  },
+  "116": {
+    "id": 116,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 77914.80000000002,
+    "levelUpCostID1": 135,
+    "num1": 288,
+    "levelUpCostID2": 102,
+    "num2": 9190
+  },
+  "117": {
+    "id": 117,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 79103.60000000002,
+    "levelUpCostID1": 135,
+    "num1": 293,
+    "levelUpCostID2": 102,
+    "num2": 9285
+  },
+  "118": {
+    "id": 118,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 80292.40000000002,
+    "levelUpCostID1": 135,
+    "num1": 297,
+    "levelUpCostID2": 102,
+    "num2": 9380
+  },
+  "119": {
+    "id": 119,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 81481.20000000003,
+    "levelUpCostID1": 135,
+    "num1": 302,
+    "levelUpCostID2": 102,
+    "num2": 9475
+  },
+  "120": {
+    "id": 120,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 82670,
+    "levelUpCostID1": 135,
+    "num1": 306,
+    "levelUpCostID2": 102,
+    "num2": 9571
+  },
+  "121": {
+    "id": 121,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 85987.9,
+    "levelUpCostID1": 135,
+    "num1": 311,
+    "levelUpCostID2": 102,
+    "num2": 9666
+  },
+  "122": {
+    "id": 122,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 89305.79999999999,
+    "levelUpCostID1": 135,
+    "num1": 316,
+    "levelUpCostID2": 102,
+    "num2": 9761
+  },
+  "123": {
+    "id": 123,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 92623.69999999998,
+    "levelUpCostID1": 135,
+    "num1": 321,
+    "levelUpCostID2": 102,
+    "num2": 9856
+  },
+  "124": {
+    "id": 124,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 95941.59999999998,
+    "levelUpCostID1": 135,
+    "num1": 326,
+    "levelUpCostID2": 102,
+    "num2": 9951
+  },
+  "125": {
+    "id": 125,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 99259.49999999997,
+    "levelUpCostID1": 135,
+    "num1": 331,
+    "levelUpCostID2": 102,
+    "num2": 10046
+  },
+  "126": {
+    "id": 126,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 102577.39999999997,
+    "levelUpCostID1": 135,
+    "num1": 336,
+    "levelUpCostID2": 102,
+    "num2": 10142
+  },
+  "127": {
+    "id": 127,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 105895.29999999996,
+    "levelUpCostID1": 135,
+    "num1": 341,
+    "levelUpCostID2": 102,
+    "num2": 10237
+  },
+  "128": {
+    "id": 128,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 109213.19999999995,
+    "levelUpCostID1": 135,
+    "num1": 346,
+    "levelUpCostID2": 102,
+    "num2": 10332
+  },
+  "129": {
+    "id": 129,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 112531.09999999995,
+    "levelUpCostID1": 135,
+    "num1": 351,
+    "levelUpCostID2": 102,
+    "num2": 10427
+  },
+  "130": {
+    "id": 130,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 115849,
+    "levelUpCostID1": 135,
+    "num1": 356,
+    "levelUpCostID2": 102,
+    "num2": 10522
+  },
+  "131": {
+    "id": 131,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 117582.3,
+    "levelUpCostID1": 135,
+    "num1": 362,
+    "levelUpCostID2": 102,
+    "num2": 10617
+  },
+  "132": {
+    "id": 132,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 119315.6,
+    "levelUpCostID1": 135,
+    "num1": 368,
+    "levelUpCostID2": 102,
+    "num2": 10713
+  },
+  "133": {
+    "id": 133,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 121048.90000000001,
+    "levelUpCostID1": 135,
+    "num1": 374,
+    "levelUpCostID2": 102,
+    "num2": 10808
+  },
+  "134": {
+    "id": 134,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 122782.20000000001,
+    "levelUpCostID1": 135,
+    "num1": 380,
+    "levelUpCostID2": 102,
+    "num2": 10903
+  },
+  "135": {
+    "id": 135,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 124515.50000000001,
+    "levelUpCostID1": 135,
+    "num1": 386,
+    "levelUpCostID2": 102,
+    "num2": 10998
+  },
+  "136": {
+    "id": 136,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 126248.80000000002,
+    "levelUpCostID1": 135,
+    "num1": 391,
+    "levelUpCostID2": 102,
+    "num2": 11093
+  },
+  "137": {
+    "id": 137,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 127982.10000000002,
+    "levelUpCostID1": 135,
+    "num1": 397,
+    "levelUpCostID2": 102,
+    "num2": 11188
+  },
+  "138": {
+    "id": 138,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 129715.40000000002,
+    "levelUpCostID1": 135,
+    "num1": 403,
+    "levelUpCostID2": 102,
+    "num2": 11284
+  },
+  "139": {
+    "id": 139,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 131448.7,
+    "levelUpCostID1": 135,
+    "num1": 409,
+    "levelUpCostID2": 102,
+    "num2": 11379
+  },
+  "140": {
+    "id": 140,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 133182,
+    "levelUpCostID1": 135,
+    "num1": 415,
+    "levelUpCostID2": 102,
+    "num2": 11474
+  },
+  "141": {
+    "id": 141,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 137973.8,
+    "levelUpCostID1": 135,
+    "num1": 422,
+    "levelUpCostID2": 102,
+    "num2": 11569
+  },
+  "142": {
+    "id": 142,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 142765.59999999998,
+    "levelUpCostID1": 135,
+    "num1": 428,
+    "levelUpCostID2": 102,
+    "num2": 11664
+  },
+  "143": {
+    "id": 143,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 147557.39999999997,
+    "levelUpCostID1": 135,
+    "num1": 435,
+    "levelUpCostID2": 102,
+    "num2": 11760
+  },
+  "144": {
+    "id": 144,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 152349.19999999995,
+    "levelUpCostID1": 135,
+    "num1": 442,
+    "levelUpCostID2": 102,
+    "num2": 11855
+  },
+  "145": {
+    "id": 145,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 157140.99999999994,
+    "levelUpCostID1": 135,
+    "num1": 449,
+    "levelUpCostID2": 102,
+    "num2": 11950
+  },
+  "146": {
+    "id": 146,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 161932.79999999993,
+    "levelUpCostID1": 135,
+    "num1": 455,
+    "levelUpCostID2": 102,
+    "num2": 12045
+  },
+  "147": {
+    "id": 147,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 166724.59999999992,
+    "levelUpCostID1": 135,
+    "num1": 462,
+    "levelUpCostID2": 102,
+    "num2": 12140
+  },
+  "148": {
+    "id": 148,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 171516.3999999999,
+    "levelUpCostID1": 135,
+    "num1": 469,
+    "levelUpCostID2": 102,
+    "num2": 12235
+  },
+  "149": {
+    "id": 149,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 176308.1999999999,
+    "levelUpCostID1": 135,
+    "num1": 475,
+    "levelUpCostID2": 102,
+    "num2": 12331
+  },
+  "150": {
+    "id": 150,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 181100,
+    "levelUpCostID1": 135,
+    "num1": 482,
+    "levelUpCostID2": 102,
+    "num2": 12426
+  },
+  "151": {
+    "id": 151,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 183470.4,
+    "levelUpCostID1": 135,
+    "num1": 490,
+    "levelUpCostID2": 102,
+    "num2": 12521
+  },
+  "152": {
+    "id": 152,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 185840.8,
+    "levelUpCostID1": 135,
+    "num1": 497,
+    "levelUpCostID2": 102,
+    "num2": 12616
+  },
+  "153": {
+    "id": 153,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 188211.19999999998,
+    "levelUpCostID1": 135,
+    "num1": 505,
+    "levelUpCostID2": 102,
+    "num2": 12711
+  },
+  "154": {
+    "id": 154,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 190581.59999999998,
+    "levelUpCostID1": 135,
+    "num1": 513,
+    "levelUpCostID2": 102,
+    "num2": 12806
+  },
+  "155": {
+    "id": 155,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 192951.99999999997,
+    "levelUpCostID1": 135,
+    "num1": 521,
+    "levelUpCostID2": 102,
+    "num2": 12902
+  },
+  "156": {
+    "id": 156,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 195322.39999999997,
+    "levelUpCostID1": 135,
+    "num1": 528,
+    "levelUpCostID2": 102,
+    "num2": 12997
+  },
+  "157": {
+    "id": 157,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 197692.79999999996,
+    "levelUpCostID1": 135,
+    "num1": 536,
+    "levelUpCostID2": 102,
+    "num2": 13092
+  },
+  "158": {
+    "id": 158,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 200063.19999999995,
+    "levelUpCostID1": 135,
+    "num1": 544,
+    "levelUpCostID2": 102,
+    "num2": 13187
+  },
+  "159": {
+    "id": 159,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 202433.59999999995,
+    "levelUpCostID1": 135,
+    "num1": 551,
+    "levelUpCostID2": 102,
+    "num2": 13282
+  },
+  "160": {
+    "id": 160,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 204804,
+    "levelUpCostID1": 135,
+    "num1": 559,
+    "levelUpCostID2": 102,
+    "num2": 13377
+  },
+  "161": {
+    "id": 161,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 211326.9,
+    "levelUpCostID1": 135,
+    "num1": 568,
+    "levelUpCostID2": 102,
+    "num2": 13473
+  },
+  "162": {
+    "id": 162,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 217849.8,
+    "levelUpCostID1": 135,
+    "num1": 577,
+    "levelUpCostID2": 102,
+    "num2": 13568
+  },
+  "163": {
+    "id": 163,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 224372.69999999998,
+    "levelUpCostID1": 135,
+    "num1": 586,
+    "levelUpCostID2": 102,
+    "num2": 13663
+  },
+  "164": {
+    "id": 164,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 230895.59999999998,
+    "levelUpCostID1": 135,
+    "num1": 595,
+    "levelUpCostID2": 102,
+    "num2": 13758
+  },
+  "165": {
+    "id": 165,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 237418.49999999997,
+    "levelUpCostID1": 135,
+    "num1": 604,
+    "levelUpCostID2": 102,
+    "num2": 13853
+  },
+  "166": {
+    "id": 166,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 243941.39999999997,
+    "levelUpCostID1": 135,
+    "num1": 612,
+    "levelUpCostID2": 102,
+    "num2": 13948
+  },
+  "167": {
+    "id": 167,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 250464.29999999996,
+    "levelUpCostID1": 135,
+    "num1": 621,
+    "levelUpCostID2": 102,
+    "num2": 14044
+  },
+  "168": {
+    "id": 168,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 256987.19999999995,
+    "levelUpCostID1": 135,
+    "num1": 630,
+    "levelUpCostID2": 102,
+    "num2": 14139
+  },
+  "169": {
+    "id": 169,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 263510.1,
+    "levelUpCostID1": 135,
+    "num1": 639,
+    "levelUpCostID2": 102,
+    "num2": 14234
+  },
+  "170": {
+    "id": 170,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 270033,
+    "levelUpCostID1": 135,
+    "num1": 648,
+    "levelUpCostID2": 102,
+    "num2": 14329
+  },
+  "171": {
+    "id": 171,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 273041.5,
+    "levelUpCostID1": 135,
+    "num1": 658,
+    "levelUpCostID2": 102,
+    "num2": 14424
+  },
+  "172": {
+    "id": 172,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 276050,
+    "levelUpCostID1": 135,
+    "num1": 668,
+    "levelUpCostID2": 102,
+    "num2": 14719
+  },
+  "173": {
+    "id": 173,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 279058.5,
+    "levelUpCostID1": 135,
+    "num1": 679,
+    "levelUpCostID2": 102,
+    "num2": 15014
+  },
+  "174": {
+    "id": 174,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 282067,
+    "levelUpCostID1": 135,
+    "num1": 689,
+    "levelUpCostID2": 102,
+    "num2": 15309
+  },
+  "175": {
+    "id": 175,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 285075.5,
+    "levelUpCostID1": 135,
+    "num1": 699,
+    "levelUpCostID2": 102,
+    "num2": 15604
+  },
+  "176": {
+    "id": 176,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 288084,
+    "levelUpCostID1": 135,
+    "num1": 709,
+    "levelUpCostID2": 102,
+    "num2": 15900
+  },
+  "177": {
+    "id": 177,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 291092.5,
+    "levelUpCostID1": 135,
+    "num1": 719,
+    "levelUpCostID2": 102,
+    "num2": 16195
+  },
+  "178": {
+    "id": 178,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 294101,
+    "levelUpCostID1": 135,
+    "num1": 730,
+    "levelUpCostID2": 102,
+    "num2": 16490
+  },
+  "179": {
+    "id": 179,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 297109.5,
+    "levelUpCostID1": 135,
+    "num1": 740,
+    "levelUpCostID2": 102,
+    "num2": 16785
+  },
+  "180": {
+    "id": 180,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 300118,
+    "levelUpCostID1": 135,
+    "num1": 750,
+    "levelUpCostID2": 102,
+    "num2": 17080
+  },
+  "181": {
+    "id": 181,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 308463.2,
+    "levelUpCostID1": 135,
+    "num1": 762,
+    "levelUpCostID2": 102,
+    "num2": 17375
+  },
+  "182": {
+    "id": 182,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 316808.4,
+    "levelUpCostID1": 135,
+    "num1": 774,
+    "levelUpCostID2": 102,
+    "num2": 17670
+  },
+  "183": {
+    "id": 183,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 325153.60000000003,
+    "levelUpCostID1": 135,
+    "num1": 785,
+    "levelUpCostID2": 102,
+    "num2": 17965
+  },
+  "184": {
+    "id": 184,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 333498.80000000005,
+    "levelUpCostID1": 135,
+    "num1": 797,
+    "levelUpCostID2": 102,
+    "num2": 18260
+  },
+  "185": {
+    "id": 185,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 341844.00000000006,
+    "levelUpCostID1": 135,
+    "num1": 809,
+    "levelUpCostID2": 102,
+    "num2": 18555
+  },
+  "186": {
+    "id": 186,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 350189.20000000007,
+    "levelUpCostID1": 135,
+    "num1": 821,
+    "levelUpCostID2": 102,
+    "num2": 18850
+  },
+  "187": {
+    "id": 187,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 358534.4000000001,
+    "levelUpCostID1": 135,
+    "num1": 833,
+    "levelUpCostID2": 102,
+    "num2": 19145
+  },
+  "188": {
+    "id": 188,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 366879.6000000001,
+    "levelUpCostID1": 135,
+    "num1": 844,
+    "levelUpCostID2": 102,
+    "num2": 19440
+  },
+  "189": {
+    "id": 189,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 375224.8000000001,
+    "levelUpCostID1": 135,
+    "num1": 856,
+    "levelUpCostID2": 102,
+    "num2": 19735
+  },
+  "190": {
+    "id": 190,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 383570,
+    "levelUpCostID1": 135,
+    "num1": 868,
+    "levelUpCostID2": 102,
+    "num2": 20030
+  },
+  "191": {
+    "id": 191,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 387064.7,
+    "levelUpCostID1": 135,
+    "num1": 882,
+    "levelUpCostID2": 102,
+    "num2": 20325
+  },
+  "192": {
+    "id": 192,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 390559.4,
+    "levelUpCostID1": 135,
+    "num1": 895,
+    "levelUpCostID2": 102,
+    "num2": 20620
+  },
+  "193": {
+    "id": 193,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 394054.10000000003,
+    "levelUpCostID1": 135,
+    "num1": 909,
+    "levelUpCostID2": 102,
+    "num2": 20915
+  },
+  "194": {
+    "id": 194,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 397548.80000000005,
+    "levelUpCostID1": 135,
+    "num1": 922,
+    "levelUpCostID2": 102,
+    "num2": 21211
+  },
+  "195": {
+    "id": 195,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 401043.50000000006,
+    "levelUpCostID1": 135,
+    "num1": 936,
+    "levelUpCostID2": 102,
+    "num2": 21506
+  },
+  "196": {
+    "id": 196,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 404538.20000000007,
+    "levelUpCostID1": 135,
+    "num1": 949,
+    "levelUpCostID2": 102,
+    "num2": 21801
+  },
+  "197": {
+    "id": 197,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 408032.9000000001,
+    "levelUpCostID1": 135,
+    "num1": 963,
+    "levelUpCostID2": 102,
+    "num2": 22096
+  },
+  "198": {
+    "id": 198,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 411527.6000000001,
+    "levelUpCostID1": 135,
+    "num1": 976,
+    "levelUpCostID2": 102,
+    "num2": 22391
+  },
+  "199": {
+    "id": 199,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 415022.3000000001,
+    "levelUpCostID1": 135,
+    "num1": 990,
+    "levelUpCostID2": 102,
+    "num2": 22686
+  },
+  "200": {
+    "id": 200,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 418517,
+    "levelUpCostID1": 135,
+    "num1": 1003,
+    "levelUpCostID2": 102,
+    "num2": 22981
+  },
+  "201": {
+    "id": 201,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 429717.6,
+    "levelUpCostID1": 135,
+    "num1": 1019,
+    "levelUpCostID2": 102,
+    "num2": 23276
+  },
+  "202": {
+    "id": 202,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 440918.19999999995,
+    "levelUpCostID1": 135,
+    "num1": 1034,
+    "levelUpCostID2": 102,
+    "num2": 23571
+  },
+  "203": {
+    "id": 203,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 452118.79999999993,
+    "levelUpCostID1": 135,
+    "num1": 1050,
+    "levelUpCostID2": 102,
+    "num2": 23866
+  },
+  "204": {
+    "id": 204,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 463319.3999999999,
+    "levelUpCostID1": 135,
+    "num1": 1065,
+    "levelUpCostID2": 102,
+    "num2": 24161
+  },
+  "205": {
+    "id": 205,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 474519.9999999999,
+    "levelUpCostID1": 135,
+    "num1": 1081,
+    "levelUpCostID2": 102,
+    "num2": 24456
+  },
+  "206": {
+    "id": 206,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 485720.59999999986,
+    "levelUpCostID1": 135,
+    "num1": 1097,
+    "levelUpCostID2": 102,
+    "num2": 24751
+  },
+  "207": {
+    "id": 207,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 496921.19999999984,
+    "levelUpCostID1": 135,
+    "num1": 1112,
+    "levelUpCostID2": 102,
+    "num2": 25046
+  },
+  "208": {
+    "id": 208,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 508121.7999999998,
+    "levelUpCostID1": 135,
+    "num1": 1128,
+    "levelUpCostID2": 102,
+    "num2": 25341
+  },
+  "209": {
+    "id": 209,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 519322.3999999998,
+    "levelUpCostID1": 135,
+    "num1": 1143,
+    "levelUpCostID2": 102,
+    "num2": 25636
+  },
+  "210": {
+    "id": 210,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 530523,
+    "levelUpCostID1": 135,
+    "num1": 1159,
+    "levelUpCostID2": 102,
+    "num2": 25931
+  },
+  "211": {
+    "id": 211,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 543828,
+    "levelUpCostID1": 135,
+    "num1": 1177,
+    "levelUpCostID2": 102,
+    "num2": 26226
+  },
+  "212": {
+    "id": 212,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 557133,
+    "levelUpCostID1": 135,
+    "num1": 1195,
+    "levelUpCostID2": 102,
+    "num2": 26911
+  },
+  "213": {
+    "id": 213,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 570438,
+    "levelUpCostID1": 135,
+    "num1": 1213,
+    "levelUpCostID2": 102,
+    "num2": 27595
+  },
+  "214": {
+    "id": 214,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 583743,
+    "levelUpCostID1": 135,
+    "num1": 1231,
+    "levelUpCostID2": 102,
+    "num2": 28279
+  },
+  "215": {
+    "id": 215,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 597048,
+    "levelUpCostID1": 135,
+    "num1": 1249,
+    "levelUpCostID2": 102,
+    "num2": 28964
+  },
+  "216": {
+    "id": 216,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 610353,
+    "levelUpCostID1": 135,
+    "num1": 1266,
+    "levelUpCostID2": 102,
+    "num2": 29648
+  },
+  "217": {
+    "id": 217,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 623658,
+    "levelUpCostID1": 135,
+    "num1": 1284,
+    "levelUpCostID2": 102,
+    "num2": 30332
+  },
+  "218": {
+    "id": 218,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 636963,
+    "levelUpCostID1": 135,
+    "num1": 1302,
+    "levelUpCostID2": 102,
+    "num2": 31016
+  },
+  "219": {
+    "id": 219,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 650268,
+    "levelUpCostID1": 135,
+    "num1": 1320,
+    "levelUpCostID2": 102,
+    "num2": 31701
+  },
+  "220": {
+    "id": 220,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 663573,
+    "levelUpCostID1": 135,
+    "num1": 1338,
+    "levelUpCostID2": 102,
+    "num2": 32385
+  },
+  "221": {
+    "id": 221,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 678983.7,
+    "levelUpCostID1": 135,
+    "num1": 1359,
+    "levelUpCostID2": 102,
+    "num2": 33069
+  },
+  "222": {
+    "id": 222,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 694394.3999999999,
+    "levelUpCostID1": 135,
+    "num1": 1379,
+    "levelUpCostID2": 102,
+    "num2": 33753
+  },
+  "223": {
+    "id": 223,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 709805.0999999999,
+    "levelUpCostID1": 135,
+    "num1": 1400,
+    "levelUpCostID2": 102,
+    "num2": 34438
+  },
+  "224": {
+    "id": 224,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 725215.7999999998,
+    "levelUpCostID1": 135,
+    "num1": 1420,
+    "levelUpCostID2": 102,
+    "num2": 35122
+  },
+  "225": {
+    "id": 225,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 740626.4999999998,
+    "levelUpCostID1": 135,
+    "num1": 1441,
+    "levelUpCostID2": 102,
+    "num2": 35806
+  },
+  "226": {
+    "id": 226,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 756037.1999999997,
+    "levelUpCostID1": 135,
+    "num1": 1461,
+    "levelUpCostID2": 102,
+    "num2": 36490
+  },
+  "227": {
+    "id": 227,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 771447.8999999997,
+    "levelUpCostID1": 135,
+    "num1": 1482,
+    "levelUpCostID2": 102,
+    "num2": 37175
+  },
+  "228": {
+    "id": 228,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 786858.5999999996,
+    "levelUpCostID1": 135,
+    "num1": 1502,
+    "levelUpCostID2": 102,
+    "num2": 37859
+  },
+  "229": {
+    "id": 229,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 802269.2999999996,
+    "levelUpCostID1": 135,
+    "num1": 1523,
+    "levelUpCostID2": 102,
+    "num2": 38543
+  },
+  "230": {
+    "id": 230,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 817680,
+    "levelUpCostID1": 135,
+    "num1": 1543,
+    "levelUpCostID2": 102,
+    "num2": 39228
+  },
+  "231": {
+    "id": 231,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 836023,
+    "levelUpCostID1": 135,
+    "num1": 1567,
+    "levelUpCostID2": 102,
+    "num2": 39912
+  },
+  "232": {
+    "id": 232,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 854366,
+    "levelUpCostID1": 135,
+    "num1": 1590,
+    "levelUpCostID2": 102,
+    "num2": 40577
+  },
+  "233": {
+    "id": 233,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 872709,
+    "levelUpCostID1": 135,
+    "num1": 1614,
+    "levelUpCostID2": 102,
+    "num2": 41242
+  },
+  "234": {
+    "id": 234,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 891052,
+    "levelUpCostID1": 135,
+    "num1": 1638,
+    "levelUpCostID2": 102,
+    "num2": 41908
+  },
+  "235": {
+    "id": 235,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 909395,
+    "levelUpCostID1": 135,
+    "num1": 1662,
+    "levelUpCostID2": 102,
+    "num2": 42573
+  },
+  "236": {
+    "id": 236,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 927738,
+    "levelUpCostID1": 135,
+    "num1": 1685,
+    "levelUpCostID2": 102,
+    "num2": 43238
+  },
+  "237": {
+    "id": 237,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 946081,
+    "levelUpCostID1": 135,
+    "num1": 1709,
+    "levelUpCostID2": 102,
+    "num2": 43903
+  },
+  "238": {
+    "id": 238,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 964424,
+    "levelUpCostID1": 135,
+    "num1": 1733,
+    "levelUpCostID2": 102,
+    "num2": 44568
+  },
+  "239": {
+    "id": 239,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 982767,
+    "levelUpCostID1": 135,
+    "num1": 1756,
+    "levelUpCostID2": 102,
+    "num2": 45234
+  },
+  "240": {
+    "id": 240,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1001110,
+    "levelUpCostID1": 135,
+    "num1": 1780,
+    "levelUpCostID2": 102,
+    "num2": 45899
+  },
+  "241": {
+    "id": 241,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1022386.7,
+    "levelUpCostID1": 135,
+    "num1": 1807,
+    "levelUpCostID2": 102,
+    "num2": 46564
+  },
+  "242": {
+    "id": 242,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1043663.3999999999,
+    "levelUpCostID1": 135,
+    "num1": 1834,
+    "levelUpCostID2": 102,
+    "num2": 47229
+  },
+  "243": {
+    "id": 243,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1064940.0999999999,
+    "levelUpCostID1": 135,
+    "num1": 1862,
+    "levelUpCostID2": 102,
+    "num2": 47895
+  },
+  "244": {
+    "id": 244,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1086216.7999999998,
+    "levelUpCostID1": 135,
+    "num1": 1889,
+    "levelUpCostID2": 102,
+    "num2": 48560
+  },
+  "245": {
+    "id": 245,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1107493.4999999998,
+    "levelUpCostID1": 135,
+    "num1": 1916,
+    "levelUpCostID2": 102,
+    "num2": 49225
+  },
+  "246": {
+    "id": 246,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1128770.1999999997,
+    "levelUpCostID1": 135,
+    "num1": 1943,
+    "levelUpCostID2": 102,
+    "num2": 49890
+  },
+  "247": {
+    "id": 247,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1150046.8999999997,
+    "levelUpCostID1": 135,
+    "num1": 1970,
+    "levelUpCostID2": 102,
+    "num2": 50556
+  },
+  "248": {
+    "id": 248,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1171323.5999999996,
+    "levelUpCostID1": 135,
+    "num1": 1998,
+    "levelUpCostID2": 102,
+    "num2": 51221
+  },
+  "249": {
+    "id": 249,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1192600.2999999996,
+    "levelUpCostID1": 135,
+    "num1": 2025,
+    "levelUpCostID2": 102,
+    "num2": 51886
+  },
+  "250": {
+    "id": 250,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1213877,
+    "levelUpCostID1": 135,
+    "num1": 2052,
+    "levelUpCostID2": 102,
+    "num2": 52551
+  },
+  "251": {
+    "id": 251,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1239219,
+    "levelUpCostID1": 135,
+    "num1": 2083,
+    "levelUpCostID2": 102,
+    "num2": 53217
+  },
+  "252": {
+    "id": 252,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1264561,
+    "levelUpCostID1": 135,
+    "num1": 2114,
+    "levelUpCostID2": 102,
+    "num2": 54240
+  },
+  "253": {
+    "id": 253,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1289903,
+    "levelUpCostID1": 135,
+    "num1": 2146,
+    "levelUpCostID2": 102,
+    "num2": 55263
+  },
+  "254": {
+    "id": 254,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1315245,
+    "levelUpCostID1": 135,
+    "num1": 2177,
+    "levelUpCostID2": 102,
+    "num2": 56287
+  },
+  "255": {
+    "id": 255,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1340587,
+    "levelUpCostID1": 135,
+    "num1": 2208,
+    "levelUpCostID2": 102,
+    "num2": 57310
+  },
+  "256": {
+    "id": 256,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1365929,
+    "levelUpCostID1": 135,
+    "num1": 2239,
+    "levelUpCostID2": 102,
+    "num2": 58334
+  },
+  "257": {
+    "id": 257,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1391271,
+    "levelUpCostID1": 135,
+    "num1": 2270,
+    "levelUpCostID2": 102,
+    "num2": 59357
+  },
+  "258": {
+    "id": 258,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1416613,
+    "levelUpCostID1": 135,
+    "num1": 2302,
+    "levelUpCostID2": 102,
+    "num2": 60381
+  },
+  "259": {
+    "id": 259,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1441955,
+    "levelUpCostID1": 135,
+    "num1": 2333,
+    "levelUpCostID2": 102,
+    "num2": 61404
+  },
+  "260": {
+    "id": 260,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1467297,
+    "levelUpCostID1": 135,
+    "num1": 2364,
+    "levelUpCostID2": 102,
+    "num2": 62428
+  },
+  "261": {
+    "id": 261,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1496705.3,
+    "levelUpCostID1": 135,
+    "num1": 2400,
+    "levelUpCostID2": 102,
+    "num2": 63451
+  },
+  "262": {
+    "id": 262,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1526113.6,
+    "levelUpCostID1": 135,
+    "num1": 2436,
+    "levelUpCostID2": 102,
+    "num2": 64475
+  },
+  "263": {
+    "id": 263,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1555521.9000000001,
+    "levelUpCostID1": 135,
+    "num1": 2472,
+    "levelUpCostID2": 102,
+    "num2": 65498
+  },
+  "264": {
+    "id": 264,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1584930.2000000002,
+    "levelUpCostID1": 135,
+    "num1": 2508,
+    "levelUpCostID2": 102,
+    "num2": 66522
+  },
+  "265": {
+    "id": 265,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1614338.5000000002,
+    "levelUpCostID1": 135,
+    "num1": 2544,
+    "levelUpCostID2": 102,
+    "num2": 67545
+  },
+  "266": {
+    "id": 266,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1643746.8000000003,
+    "levelUpCostID1": 135,
+    "num1": 2580,
+    "levelUpCostID2": 102,
+    "num2": 68568
+  },
+  "267": {
+    "id": 267,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1673155.1000000003,
+    "levelUpCostID1": 135,
+    "num1": 2616,
+    "levelUpCostID2": 102,
+    "num2": 69592
+  },
+  "268": {
+    "id": 268,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1702563.4000000004,
+    "levelUpCostID1": 135,
+    "num1": 2652,
+    "levelUpCostID2": 102,
+    "num2": 70615
+  },
+  "269": {
+    "id": 269,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1731971.7000000004,
+    "levelUpCostID1": 135,
+    "num1": 2688,
+    "levelUpCostID2": 102,
+    "num2": 71639
+  },
+  "270": {
+    "id": 270,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1761380,
+    "levelUpCostID1": 135,
+    "num1": 2724,
+    "levelUpCostID2": 102,
+    "num2": 72662
+  },
+  "271": {
+    "id": 271,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1796395,
+    "levelUpCostID1": 135,
+    "num1": 2765,
+    "levelUpCostID2": 102,
+    "num2": 73686
+  },
+  "272": {
+    "id": 272,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1831410,
+    "levelUpCostID1": 135,
+    "num1": 2807,
+    "levelUpCostID2": 102,
+    "num2": 75501
+  },
+  "273": {
+    "id": 273,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1866425,
+    "levelUpCostID1": 135,
+    "num1": 2848,
+    "levelUpCostID2": 102,
+    "num2": 77316
+  },
+  "274": {
+    "id": 274,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1901440,
+    "levelUpCostID1": 135,
+    "num1": 2889,
+    "levelUpCostID2": 102,
+    "num2": 79131
+  },
+  "275": {
+    "id": 275,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1936455,
+    "levelUpCostID1": 135,
+    "num1": 2931,
+    "levelUpCostID2": 102,
+    "num2": 80946
+  },
+  "276": {
+    "id": 276,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 1971470,
+    "levelUpCostID1": 135,
+    "num1": 2972,
+    "levelUpCostID2": 102,
+    "num2": 82761
+  },
+  "277": {
+    "id": 277,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2006485,
+    "levelUpCostID1": 135,
+    "num1": 3013,
+    "levelUpCostID2": 102,
+    "num2": 84576
+  },
+  "278": {
+    "id": 278,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2041500,
+    "levelUpCostID1": 135,
+    "num1": 3054,
+    "levelUpCostID2": 102,
+    "num2": 86391
+  },
+  "279": {
+    "id": 279,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2076515,
+    "levelUpCostID1": 135,
+    "num1": 3096,
+    "levelUpCostID2": 102,
+    "num2": 88206
+  },
+  "280": {
+    "id": 280,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2111530,
+    "levelUpCostID1": 135,
+    "num1": 3137,
+    "levelUpCostID2": 102,
+    "num2": 90021
+  },
+  "281": {
+    "id": 281,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2152152,
+    "levelUpCostID1": 135,
+    "num1": 3185,
+    "levelUpCostID2": 102,
+    "num2": 91837
+  },
+  "282": {
+    "id": 282,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2192774,
+    "levelUpCostID1": 135,
+    "num1": 3232,
+    "levelUpCostID2": 102,
+    "num2": 93652
+  },
+  "283": {
+    "id": 283,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2233396,
+    "levelUpCostID1": 135,
+    "num1": 3280,
+    "levelUpCostID2": 102,
+    "num2": 95467
+  },
+  "284": {
+    "id": 284,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2274018,
+    "levelUpCostID1": 135,
+    "num1": 3327,
+    "levelUpCostID2": 102,
+    "num2": 97282
+  },
+  "285": {
+    "id": 285,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2314640,
+    "levelUpCostID1": 135,
+    "num1": 3375,
+    "levelUpCostID2": 102,
+    "num2": 99097
+  },
+  "286": {
+    "id": 286,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2355262,
+    "levelUpCostID1": 135,
+    "num1": 3423,
+    "levelUpCostID2": 102,
+    "num2": 100912
+  },
+  "287": {
+    "id": 287,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2395884,
+    "levelUpCostID1": 135,
+    "num1": 3470,
+    "levelUpCostID2": 102,
+    "num2": 102727
+  },
+  "288": {
+    "id": 288,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2436506,
+    "levelUpCostID1": 135,
+    "num1": 3518,
+    "levelUpCostID2": 102,
+    "num2": 104542
+  },
+  "289": {
+    "id": 289,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2477128,
+    "levelUpCostID1": 135,
+    "num1": 3565,
+    "levelUpCostID2": 102,
+    "num2": 106357
+  },
+  "290": {
+    "id": 290,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2517750,
+    "levelUpCostID1": 135,
+    "num1": 3613,
+    "levelUpCostID2": 102,
+    "num2": 108172
+  },
+  "291": {
+    "id": 291,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2565381,
+    "levelUpCostID1": 135,
+    "num1": 3668,
+    "levelUpCostID2": 102,
+    "num2": 109987
+  },
+  "292": {
+    "id": 292,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2613012,
+    "levelUpCostID1": 135,
+    "num1": 3722,
+    "levelUpCostID2": 102,
+    "num2": 111802
+  },
+  "293": {
+    "id": 293,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2660643,
+    "levelUpCostID1": 135,
+    "num1": 3777,
+    "levelUpCostID2": 102,
+    "num2": 113617
+  },
+  "294": {
+    "id": 294,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2708274,
+    "levelUpCostID1": 135,
+    "num1": 3832,
+    "levelUpCostID2": 102,
+    "num2": 115432
+  },
+  "295": {
+    "id": 295,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2755905,
+    "levelUpCostID1": 135,
+    "num1": 3887,
+    "levelUpCostID2": 102,
+    "num2": 117247
+  },
+  "296": {
+    "id": 296,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2803536,
+    "levelUpCostID1": 135,
+    "num1": 3941,
+    "levelUpCostID2": 102,
+    "num2": 119063
+  },
+  "297": {
+    "id": 297,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2851167,
+    "levelUpCostID1": 135,
+    "num1": 3996,
+    "levelUpCostID2": 102,
+    "num2": 120878
+  },
+  "298": {
+    "id": 298,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2898798,
+    "levelUpCostID1": 135,
+    "num1": 4051,
+    "levelUpCostID2": 102,
+    "num2": 122693
+  },
+  "299": {
+    "id": 299,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2946429,
+    "levelUpCostID1": 135,
+    "num1": 4105,
+    "levelUpCostID2": 102,
+    "num2": 124508
+  },
+  "300": {
+    "id": 300,
+    "abilityNum": 1,
+    "ability1": "hp",
+    "value1": 2994060,
+    "levelUpCostID1": 135,
+    "num1": 4160,
+    "levelUpCostID2": 102,
+    "num2": 126323
+  }
+}

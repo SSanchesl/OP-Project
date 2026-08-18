@@ -1,0 +1,11 @@
+{
+  "1": {
+    "id": 1,
+    "isWork": 1,
+    "channel": "one_bs",
+    "award1": 101,
+    "num1": 200,
+    "award2": 132,
+    "num2": 5000
+  }
+}

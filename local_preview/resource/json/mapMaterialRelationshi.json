@@ -1,0 +1,166 @@
+{
+  "fangwu_1_png": {
+    "mapMaterialName": "fangwu_1_png",
+    "circleName": "heifangwu_1_png"
+  },
+  "fangwu_2_png": {
+    "mapMaterialName": "fangwu_2_png",
+    "circleName": "heifangwu_2_png"
+  },
+  "fangwu_3_png": {
+    "mapMaterialName": "fangwu_3_png",
+    "circleName": "heifangwu_3_png"
+  },
+  "fangwu_4_png": {
+    "mapMaterialName": "fangwu_4_png",
+    "circleName": "heifangwu_4_png"
+  },
+  "hai_1_png": {
+    "mapMaterialName": "hai_1_png",
+    "circleName": "hai_1_png"
+  },
+  "hai_2_png": {
+    "mapMaterialName": "hai_2_png",
+    "circleName": "hai_2_png"
+  },
+  "haian_1_png": {
+    "mapMaterialName": "haian_1_png",
+    "circleName": "heihaian_1_png"
+  },
+  "haian_2_png": {
+    "mapMaterialName": "haian_2_png",
+    "circleName": "heihaian_2_png"
+  },
+  "haian_3_png": {
+    "mapMaterialName": "haian_3_png",
+    "circleName": "heihaian_3_png"
+  },
+  "haian_4_png": {
+    "mapMaterialName": "haian_4_png",
+    "circleName": "heihaian_4_png"
+  },
+  "haian_5_png": {
+    "mapMaterialName": "haian_5_png",
+    "circleName": "heihaian_5_png"
+  },
+  "haian_6_png": {
+    "mapMaterialName": "haian_6_png",
+    "circleName": "heihaian_6_png"
+  },
+  "haian_7_png": {
+    "mapMaterialName": "haian_7_png",
+    "circleName": "heihaian_7_png"
+  },
+  "haian_8_png": {
+    "mapMaterialName": "haian_8_png",
+    "circleName": "heihaian_8_png"
+  },
+  "haian_9_png": {
+    "mapMaterialName": "haian_9_png",
+    "circleName": "heihaian_9_png"
+  },
+  "haian_10_png": {
+    "mapMaterialName": "haian_10_png",
+    "circleName": "heihaian_10_png"
+  },
+  "haian_11_png": {
+    "mapMaterialName": "haian_11_png",
+    "circleName": "heihaian_11_png"
+  },
+  "haian_12_png": {
+    "mapMaterialName": "haian_12_png",
+    "circleName": "heihaian_12_png"
+  },
+  "haian_13_png": {
+    "mapMaterialName": "haian_13_png",
+    "circleName": "heihaian_13_png"
+  },
+  "haian_14_png": {
+    "mapMaterialName": "haian_14_png",
+    "circleName": "heihaian_14_png"
+  },
+  "kongdi_1_png": {
+    "mapMaterialName": "kongdi_1_png",
+    "circleName": "heikongdi_1_png"
+  },
+  "kongdi_2_png": {
+    "mapMaterialName": "kongdi_2_png",
+    "circleName": "heikongdi_2_png"
+  },
+  "kongdi_3_png": {
+    "mapMaterialName": "kongdi_3_png",
+    "circleName": "heikongdi_3_png"
+  },
+  "kongdi_4_png": {
+    "mapMaterialName": "kongdi_4_png",
+    "circleName": "heikongdi_4_png"
+  },
+  "kongdi_5_png": {
+    "mapMaterialName": "kongdi_5_png",
+    "circleName": "heikongdi_5_png"
+  },
+  "kongdi_6_png": {
+    "mapMaterialName": "kongdi_6_png",
+    "circleName": "heikongdi_6_png"
+  },
+  "kongdi_7_png": {
+    "mapMaterialName": "kongdi_7_png",
+    "circleName": "heikongdi_7_png"
+  },
+  "kongdi_16_png": {
+    "mapMaterialName": "kongdi_16_png",
+    "circleName": "heikongdi_15_png"
+  },
+  "senlin_1_png": {
+    "mapMaterialName": "senlin_1_png",
+    "circleName": "heisenlin_1_png"
+  },
+  "senlin_2_png": {
+    "mapMaterialName": "senlin_2_png",
+    "circleName": "heisenlin_2_png"
+  },
+  "shan_1_png": {
+    "mapMaterialName": "shan_1_png",
+    "circleName": "heishan_1_png"
+  },
+  "shan_2_1_png": {
+    "mapMaterialName": "shan_2_1_png",
+    "circleName": "heishan_2_1_png"
+  },
+  "shan_2_2_png": {
+    "mapMaterialName": "shan_2_2_png",
+    "circleName": "heishan_2_2_png"
+  },
+  "shan_3_png": {
+    "mapMaterialName": "shan_3_png",
+    "circleName": "heishan_3_png"
+  },
+  "shan_4_1_png": {
+    "mapMaterialName": "shan_4_1_png",
+    "circleName": "heishan_4_1_png"
+  },
+  "shan_4_2_png": {
+    "mapMaterialName": "shan_4_2_png",
+    "circleName": "heishan_4_2_png"
+  },
+  "shan_4_3_png": {
+    "mapMaterialName": "shan_4_3_png",
+    "circleName": "heishan_4_3_png"
+  },
+  "shan_5_1_png": {
+    "mapMaterialName": "shan_5_1_png",
+    "circleName": "heishan_5_1_png"
+  },
+  "shan_5_2_png": {
+    "mapMaterialName": "shan_5_2_png",
+    "circleName": "heishan_5_2_png"
+  },
+  "shan_5_3_png": {
+    "mapMaterialName": "shan_5_3_png",
+    "circleName": "heishan_5_3_png"
+  },
+  "shan_5_4_png": {
+    "mapMaterialName": "shan_5_4_png",
+    "circleName": "heishan_5_4_png"
+  }
+}

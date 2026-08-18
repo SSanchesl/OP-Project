@@ -1,0 +1,16 @@
+{"file":"activity1.png","frames":{
+"年":{"x":0,"y":0,"w":26,"h":24,"offX":2,"offY":0,"sourceW":30,"sourceH":24},
+"月":{"x":52,"y":0,"w":26,"h":23,"offX":2,"offY":1,"sourceW":30,"sourceH":24},
+"日":{"x":26,"y":0,"w":26,"h":24,"offX":2,"offY":0,"sourceW":30,"sourceH":24},
+":":{"x":120,"y":20,"w":8,"h":16,"offX":2,"offY":5,"sourceW":12,"sourceH":24},
+"0":{"x":78,"y":0,"w":15,"h":20,"offX":2,"offY":1,"sourceW":19,"sourceH":24},
+"1":{"x":14,"y":24,"w":10,"h":20,"offX":2,"offY":1,"sourceW":14,"sourceH":24},
+"2":{"x":93,"y":0,"w":15,"h":20,"offX":2,"offY":1,"sourceW":19,"sourceH":24},
+"3":{"x":78,"y":20,"w":14,"h":20,"offX":2,"offY":1,"sourceW":18,"sourceH":24},
+"4":{"x":108,"y":0,"w":15,"h":20,"offX":2,"offY":1,"sourceW":19,"sourceH":24},
+"5":{"x":0,"y":24,"w":14,"h":20,"offX":2,"offY":1,"sourceW":18,"sourceH":24},
+"6":{"x":52,"y":23,"w":14,"h":20,"offX":2,"offY":1,"sourceW":18,"sourceH":24},
+"7":{"x":66,"y":23,"w":12,"h":20,"offX":2,"offY":1,"sourceW":16,"sourceH":24},
+"8":{"x":106,"y":20,"w":14,"h":20,"offX":2,"offY":1,"sourceW":18,"sourceH":24},
+"9":{"x":92,"y":20,"w":14,"h":20,"offX":2,"offY":1,"sourceW":18,"sourceH":24},
+" ":{"x":123,"y":0,"w":5,"h":5,"offX":0,"offY":0,"sourceW":8,"sourceH":24}}}

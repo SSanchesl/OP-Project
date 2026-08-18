@@ -1,0 +1,78 @@
+{
+  "20001": {
+    "id": 20001,
+    "weaponID": 4101,
+    "name": "绿",
+    "random": 1000
+  },
+  "20002": {
+    "id": 20002,
+    "weaponID": 4201,
+    "name": "蓝",
+    "random": 1000
+  },
+  "20003": [
+    {
+      "id": 20003,
+      "weaponID": 4301,
+      "name": "紫",
+      "random": 1000
+    },
+    {
+      "id": 20003,
+      "weaponID": 4302,
+      "name": "紫",
+      "random": 1000
+    },
+    {
+      "id": 20003,
+      "weaponID": 4303,
+      "name": "紫",
+      "random": 1000
+    },
+    {
+      "id": 20003,
+      "weaponID": 4304,
+      "name": "紫",
+      "random": 1000
+    },
+    {
+      "id": 20003,
+      "weaponID": 4305,
+      "name": "紫",
+      "random": 1000
+    }
+  ],
+  "20004": [
+    {
+      "id": 20004,
+      "weaponID": 4401,
+      "name": "橙",
+      "random": 1000
+    },
+    {
+      "id": 20004,
+      "weaponID": 4402,
+      "name": "橙",
+      "random": 1000
+    },
+    {
+      "id": 20004,
+      "weaponID": 4403,
+      "name": "橙",
+      "random": 1000
+    },
+    {
+      "id": 20004,
+      "weaponID": 4404,
+      "name": "橙",
+      "random": 1000
+    },
+    {
+      "id": 20004,
+      "weaponID": 4405,
+      "name": "橙",
+      "random": 1000
+    }
+  ]
+}

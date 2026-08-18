@@ -1,0 +1,224 @@
+{
+  "210106": {
+    "id": 210106,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition1_11",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "210112": {
+    "id": 210112,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition1_6",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "210115": {
+    "id": 210115,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition1_6",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "220101": {
+    "id": 220101,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition2_2",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "220102": {
+    "id": 220102,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition1_11",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "220103": {
+    "id": 220103,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition1_11",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "220109": {
+    "id": 220109,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition1_11",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "230102": {
+    "id": 230102,
+    "eventID": "startEvent",
+    "actionTarget": "center",
+    "actionName": "uiEffect_GroupEdition3_9",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "230104": {
+    "id": 230104,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition3_3",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "230105": {
+    "id": 230105,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition3_3",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "230111": {
+    "id": 230111,
+    "eventID": "client",
+    "actionName": "itemGet",
+    "Animation": 10320
+  },
+  "230113": {
+    "id": 230113,
+    "eventID": "client",
+    "actionName": "itemGet",
+    "Animation": 10321
+  },
+  "230114": {
+    "id": 230114,
+    "eventID": "client",
+    "actionName": "itemGet",
+    "Animation": 10323
+  },
+  "230115": {
+    "id": 230115,
+    "eventID": "client",
+    "actionName": "itemGet",
+    "Animation": 10322
+  },
+  "230116": {
+    "id": 230116,
+    "eventID": "client",
+    "actionName": "itemGet",
+    "Animation": 10324
+  },
+  "230117": {
+    "id": 230117,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition3_4",
+    "Animation": "absorb",
+    "effectLayer": "itemFloor",
+    "nextID": "finish"
+  },
+  "230118": {
+    "id": 230118,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition3_6",
+    "Animation": "absorb",
+    "effectLayer": "itemFloor",
+    "nextID": "finish"
+  },
+  "230119": {
+    "id": 230119,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition3_5",
+    "Animation": "absorb",
+    "effectLayer": "itemFloor",
+    "nextID": "finish"
+  },
+  "230120": {
+    "id": 230120,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition3_7",
+    "Animation": "absorb",
+    "effectLayer": "itemFloor",
+    "nextID": "finish"
+  },
+  "230125": {
+    "id": 230125,
+    "eventID": "startEvent",
+    "actionTarget": "self",
+    "actionName": "uiEffect_GroupEdition3_2",
+    "Animation": "newAnimation",
+    "effectLayer": "boxFloor",
+    "nextID": "finish"
+  },
+  "230134": {
+    "id": 230134,
+    "eventID": "client",
+    "actionName": "itemGet",
+    "Animation": 10321
+  },
+  "230135": {
+    "id": 230135,
+    "eventID": "client",
+    "actionName": "itemGet",
+    "Animation": 10323
+  },
+  "230136": {
+    "id": 230136,
+    "eventID": "client",
+    "actionName": "itemGet",
+    "Animation": 10322
+  },
+  "230137": {
+    "id": 230137,
+    "eventID": "client",
+    "actionName": "itemGet",
+    "Animation": 10324
+  },
+  "230143": {
+    "id": 230143,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition3_8",
+    "Animation": "absorb",
+    "effectLayer": "itemFloor",
+    "nextID": "finish"
+  },
+  "230144": {
+    "id": 230144,
+    "eventID": "client",
+    "actionName": "itemGet",
+    "Animation": 10320
+  },
+  "299921": {
+    "id": 299921,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition1_2",
+    "Animation": "open",
+    "effectLayer": "groundFloor",
+    "nextID": "finish"
+  },
+  "299931": {
+    "id": 299931,
+    "eventID": "startEvent",
+    "actionTarget": "target",
+    "actionName": "uiEffect_GroupEdition1_2",
+    "Animation": "open",
+    "effectLayer": "groundFloor",
+    "nextID": "finish"
+  }
+}

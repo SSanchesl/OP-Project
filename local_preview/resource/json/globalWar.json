@@ -1,0 +1,74 @@
+{
+  "1": {
+    "id": 1,
+    "order": 2,
+    "watchOrder": 2,
+    "is3V3": 1,
+    "dayStart": 4,
+    "dayEnd": 45,
+    "serverNumPerDivisionMin": 10,
+    "serverNumPerDivisionMax": 15,
+    "globalWarSceneBg": "bg_shamo_jpg",
+    "name": "globalWar_name_1"
+  },
+  "2": {
+    "id": 2,
+    "order": 3,
+    "watchOrder": 3,
+    "is3V3": 1,
+    "dayStart": 45,
+    "dayEnd": 77,
+    "serverNumPerDivisionMin": 10,
+    "serverNumPerDivisionMax": 15,
+    "globalWarSceneBg": "bg_shuizhidu_jpg",
+    "name": "globalWar_name_2"
+  },
+  "3": {
+    "id": 3,
+    "order": 4,
+    "watchOrder": 4,
+    "is3V3": 1,
+    "dayStart": 77,
+    "dayEnd": 180,
+    "serverNumPerDivisionMin": 10,
+    "serverNumPerDivisionMax": 15,
+    "globalWarSceneBg": "bg_paopao_jpg",
+    "name": "globalWar_name_3"
+  },
+  "4": {
+    "id": 4,
+    "order": 5,
+    "watchOrder": 5,
+    "is3V3": 1,
+    "dayStart": 180,
+    "dayEnd": 360,
+    "serverNumPerDivisionMin": 10,
+    "serverNumPerDivisionMax": 15,
+    "globalWarSceneBg": "bg_nverdao_jpg",
+    "name": "globalWar_name_4"
+  },
+  "5": {
+    "id": 5,
+    "order": 6,
+    "watchOrder": 6,
+    "is3V3": 1,
+    "dayStart": 360,
+    "dayEnd": 999999,
+    "serverNumPerDivisionMin": 10,
+    "serverNumPerDivisionMax": 15,
+    "globalWarSceneBg": "bg_jingjichang_jpg",
+    "name": "globalWar_name_5"
+  },
+  "6": {
+    "id": 6,
+    "order": 1,
+    "watchOrder": 1,
+    "is3V3": 0,
+    "dayStart": 7,
+    "dayEnd": 45,
+    "serverNumPerDivisionMin": 10,
+    "serverNumPerDivisionMax": 15,
+    "globalWarSceneBg": "bg_chengzhen_jpg",
+    "name": "globalWar_name_6"
+  }
+}

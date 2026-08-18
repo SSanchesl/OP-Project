@@ -1,0 +1,18 @@
+{
+  "1": {
+    "id": 1,
+    "name": "Discord_png",
+    "link": "https://discord.gg/cUtPRVPD6T",
+    "rewardId": 101,
+    "rewardNum": 50,
+    "order": 1
+  },
+  "2": {
+    "id": 2,
+    "name": "Facebook_png",
+    "link": "https://www.facebook.com/profile.php?id=61579611904793",
+    "rewardId": 101,
+    "rewardNum": 50,
+    "order": 2
+  }
+}

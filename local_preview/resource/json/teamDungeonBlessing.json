@@ -1,0 +1,74 @@
+{
+  "10001": {
+    "id": 10001,
+    "blessingEffect": 299912,
+    "para1": "NAVY",
+    "para2": 2,
+    "blessingName": "teamDungeonBlessing_blessingName_1",
+    "blessingDes": "teamDungeonBlessing_blessingDes_2",
+    "activateDes": "teamDungeonBlessing_activateDes_3"
+  },
+  "10002": {
+    "id": 10002,
+    "blessingEffect": "299911,299915",
+    "para1": "Swordsman",
+    "para2": 1,
+    "blessingName": "teamDungeonBlessing_blessingName_4",
+    "blessingDes": "teamDungeonBlessing_blessingDes_5",
+    "activateDes": "teamDungeonBlessing_activateDes_6"
+  },
+  "10003": {
+    "id": 10003,
+    "blessingEffect": "299911,299916",
+    "para1": "Shichibukai",
+    "para2": 2,
+    "blessingName": "teamDungeonBlessing_blessingName_7",
+    "blessingDes": "teamDungeonBlessing_blessingDes_8",
+    "activateDes": "teamDungeonBlessing_activateDes_9"
+  },
+  "20001": {
+    "id": 20001,
+    "blessingEffect": 299922,
+    "para1": "Pirate",
+    "para2": 3,
+    "blessingName": "teamDungeonBlessing_blessingName_10",
+    "blessingDes": "teamDungeonBlessing_blessingDes_11",
+    "activateDes": "teamDungeonBlessing_activateDes_12"
+  },
+  "20002": {
+    "id": 20002,
+    "blessingEffect": "299921,299923",
+    "para1": "StrawHat",
+    "para2": 2,
+    "blessingName": "teamDungeonBlessing_blessingName_13",
+    "blessingDes": "teamDungeonBlessing_blessingDes_14",
+    "activateDes": "teamDungeonBlessing_activateDes_15"
+  },
+  "20003": {
+    "id": 20003,
+    "blessingEffect": "299921,299924,299925",
+    "para1": "SuperMan",
+    "para2": 2,
+    "blessingName": "teamDungeonBlessing_blessingName_16",
+    "blessingDes": "teamDungeonBlessing_blessingDes_17",
+    "activateDes": "teamDungeonBlessing_activateDes_18"
+  },
+  "30001": {
+    "id": 30001,
+    "blessingEffect": 130101,
+    "para1": "Greedy",
+    "para2": 2,
+    "blessingName": "teamDungeonBlessing_blessingName_19",
+    "blessingDes": "teamDungeonBlessing_blessingDes_20",
+    "activateDes": "teamDungeonBlessing_activateDes_21"
+  },
+  "30002": {
+    "id": 30002,
+    "blessingEffect": 130130,
+    "para1": "Captain",
+    "para2": 2,
+    "blessingName": "teamDungeonBlessing_blessingName_22",
+    "blessingDes": "teamDungeonBlessing_blessingDes_23",
+    "activateDes": "teamDungeonBlessing_activateDes_24"
+  }
+}

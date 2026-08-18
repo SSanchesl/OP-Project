@@ -1,0 +1,56 @@
+{
+  "1": {
+    "id": 1,
+    "label1": "Badguy",
+    "label2": "Swordsman",
+    "label3": "CP9",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5,
+    "attribute2": "labelDamageDown",
+    "value2": 0.5
+  },
+  "2": {
+    "id": 2,
+    "label1": "Captain",
+    "label2": "Undercover",
+    "label3": "General",
+    "label4": "Female",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5,
+    "attribute2": "labelDamageDown",
+    "value2": 0.5
+  },
+  "3": {
+    "id": 3,
+    "label1": "SuperMan",
+    "label2": "Legend",
+    "label3": "SkyIsland",
+    "label4": "Murloc",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5,
+    "attribute2": "labelDamageDown",
+    "value2": 0.5
+  },
+  "4": {
+    "id": 4,
+    "label1": "Natural",
+    "label2": "Royalty",
+    "label3": "ThrillerBark",
+    "label4": "Baroque",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5,
+    "attribute2": "labelDamageDown",
+    "value2": 0.5
+  },
+  "5": {
+    "id": 5,
+    "label1": "Beast",
+    "label2": "StrawHat",
+    "label3": "Legend",
+    "label4": "4emp",
+    "attribute1": "labelDamageUp",
+    "value1": 0.5,
+    "attribute2": "labelDamageDown",
+    "value2": 0.5
+  }
+}

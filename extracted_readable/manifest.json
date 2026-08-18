@@ -1,0 +1,767 @@
+[
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\base.version",
+    "size": 3
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\infoinfo.bin",
+    "size": 24
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource.version",
+    "size": 5
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\accompany_elastic_weave.fnt",
+    "size": 848
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\accurate_pound_noticeable.fnt",
+    "size": 920
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\afternoon_together_harmful.fnt",
+    "size": 1168
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\ago_wine.fnt",
+    "size": 917
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\agriculture_bar.fnt",
+    "size": 1000
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\allow_wallet_metered.fnt",
+    "size": 1143
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\appointment_south.fnt",
+    "size": 1652
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\approval_poor.fnt",
+    "size": 995
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\argument_ever.fnt",
+    "size": 1077
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\artistic_nitrogen.fnt",
+    "size": 910
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\assess_promote.fnt",
+    "size": 1076
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\atlantic_hobday.fnt",
+    "size": 995
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\bathroom_fill_sialography.fnt",
+    "size": 1551
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\bear_hardnose_steatoma.fnt",
+    "size": 997
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\beast_doubtful.fnt",
+    "size": 840
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\belt_psalmodise_paw.fnt",
+    "size": 915
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\bicycle_tendency.fnt",
+    "size": 1158
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\certain_upper_level.fnt",
+    "size": 1822
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\chapter_tan_millimetre.fnt",
+    "size": 906
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\chew_piercingness_vital.fnt",
+    "size": 825
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\church_nation.fnt",
+    "size": 5269
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\civil_paste.fnt",
+    "size": 997
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\classmate_persist.fnt",
+    "size": 980
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\comfortable_partly_prophesy.fnt",
+    "size": 10126
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\comprehension_sticky.fnt",
+    "size": 5120
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\convention_stove_omit.fnt",
+    "size": 10423
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\convey_transformer_refine.fnt",
+    "size": 1317
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\cook_pine_either.fnt",
+    "size": 989
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\creative_insert.fnt",
+    "size": 828
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\dead_vulcanizates_climate.fnt",
+    "size": 989
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\degree_repair.fnt",
+    "size": 832
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\demain_body.fnt",
+    "size": 1082
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\deserve_wolf.fnt",
+    "size": 836
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\despise_carpet_read.fnt",
+    "size": 5177
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\development_literature_rather.fnt",
+    "size": 5210
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\divorce_indirect.fnt",
+    "size": 992
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\divorce_logic_stain.fnt",
+    "size": 1223
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\drain_meoisers.fnt",
+    "size": 836
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\drift_weakness_revokers.fnt",
+    "size": 1174
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\dying_mesmerist_literary.fnt",
+    "size": 1234
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\edge_psalmodizes_anyway.fnt",
+    "size": 904
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\equipment_measurable.fnt",
+    "size": 990
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\even_electron_listener.fnt",
+    "size": 5172
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\excess_reasonable.fnt",
+    "size": 1245
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\explosion_tozie.fnt",
+    "size": 986
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\extension_bowes_singular.fnt",
+    "size": 908
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\fan_dead_hoddled.fnt",
+    "size": 832
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\feast_leading_sunset.fnt",
+    "size": 1645
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\finding_psalming.fnt",
+    "size": 1990
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\flesh_lonely.fnt",
+    "size": 841
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\float_hobnail.fnt",
+    "size": 984
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\following_definitely.fnt",
+    "size": 997
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\gennel_not_balloon.fnt",
+    "size": 1075
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\glide_verify.fnt",
+    "size": 904
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\gramme_introduction.fnt",
+    "size": 834
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\guarantee_industry_midst.fnt",
+    "size": 7952
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\halt_roughly_protein.fnt",
+    "size": 1074
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hardly_staircase.fnt",
+    "size": 997
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hardmen_error.fnt",
+    "size": 903
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\harmful_siameses_psammophyte.fnt",
+    "size": 1322
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hint_automation.fnt",
+    "size": 916
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hobbyism_intention_native.fnt",
+    "size": 1074
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hobby_loud_hint.fnt",
+    "size": 5164
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hobnailed_poetry_hobgoblinries.fnt",
+    "size": 5181
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hobnobbed_sentence_button.fnt",
+    "size": 829
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hobnob_notebook_brittle.fnt",
+    "size": 1159
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hockers_pour.fnt",
+    "size": 918
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hoddin_infinite.fnt",
+    "size": 914
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hyperorexias_medicine.fnt",
+    "size": 824
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\hyperparasitic_waterproof_difference.fnt",
+    "size": 917
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\infer_electricity_mercury.fnt",
+    "size": 833
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\intelligent_rapid.fnt",
+    "size": 969
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\interpret_precision.fnt",
+    "size": 924
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\knit_siamesed.fnt",
+    "size": 904
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\know_average.fnt",
+    "size": 1322
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\kutches_productive_meshy.fnt",
+    "size": 5104
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\kvetch_hasty_pierids.fnt",
+    "size": 996
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\lag_towel_fierce.fnt",
+    "size": 5071
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\large_mesic_sperses.fnt",
+    "size": 1001
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\least_shortcoming.fnt",
+    "size": 979
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\letter_hobbyist.fnt",
+    "size": 5172
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\lightly_genius.fnt",
+    "size": 1072
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\likewise_extension.fnt",
+    "size": 5041
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\live_glitter.fnt",
+    "size": 5014
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\majority_seat.fnt",
+    "size": 1230
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\materialism_blackboard_kurveyed.fnt",
+    "size": 1223
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\meat_rewears_propinquities.fnt",
+    "size": 905
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\memory_accustom.fnt",
+    "size": 913
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\mislead_equality.fnt",
+    "size": 916
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\multiple_axis_daughter.fnt",
+    "size": 829
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\necessary_sperses.fnt",
+    "size": 1004
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\nut_free_dark.fnt",
+    "size": 915
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\nylon_live.fnt",
+    "size": 6373
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\opportunity_spare.fnt",
+    "size": 998
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\outside_stain_crush.fnt",
+    "size": 1306
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\painter_arbitrary_metrist.fnt",
+    "size": 1081
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\perfectly_new_fever.fnt",
+    "size": 1145
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\personnel_nut_imagination.fnt",
+    "size": 1486
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\phrase_elect_mortal.fnt",
+    "size": 1232
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\piedmontites_display.fnt",
+    "size": 1242
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\pied_toyshop.fnt",
+    "size": 1083
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\postage_pardon_smart.fnt",
+    "size": 1075
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\powder_engine_accent.fnt",
+    "size": 995
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\pretend_upward.fnt",
+    "size": 834
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\probability_siccan_hyperpituitarism.fnt",
+    "size": 5007
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\prophasic_prohibit_threat.fnt",
+    "size": 905
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\psammophilous_bank.fnt",
+    "size": 1311
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\punctual_schedule_siameses.fnt",
+    "size": 909
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\radar_hardware.fnt",
+    "size": 1011
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\radio_siblings.fnt",
+    "size": 1311
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\reality_hocked_stomach.fnt",
+    "size": 989
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\rear_hobday.fnt",
+    "size": 1311
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\reasonable_outstanding_toyos.fnt",
+    "size": 5234
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\relevant_piepowders_tamasha.fnt",
+    "size": 984
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\report_screw.fnt",
+    "size": 830
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\requirement_appoint.fnt",
+    "size": 824
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\rewardful_exist_gum.fnt",
+    "size": 916
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\rewarewa_visitor.fnt",
+    "size": 1065
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\rise_hyperostosis_radio.fnt",
+    "size": 909
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\severe_ruler.fnt",
+    "size": 990
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\shiver_mesic_transmit.fnt",
+    "size": 5249
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\sibling_siamezed.fnt",
+    "size": 992
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\sices_float.fnt",
+    "size": 1074
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\sickeners_implication_gracious.fnt",
+    "size": 906
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\sick_gallon.fnt",
+    "size": 5206
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\smooth_harsh_sibilates.fnt",
+    "size": 7610
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\socialist_god.fnt",
+    "size": 1148
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\sperrylite_chair_hardheadednesses.fnt",
+    "size": 837
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\sperthe_suck_cubic.fnt",
+    "size": 1570
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\stearing_hodja.fnt",
+    "size": 997
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\substance_illustration_cover.fnt",
+    "size": 838
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\substitute_brilliant_would.fnt",
+    "size": 905
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\sufficient_motive_crack.fnt",
+    "size": 1074
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\surface_apologize.fnt",
+    "size": 1001
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\tameless_pain.fnt",
+    "size": 5023
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\through_ache_choose.fnt",
+    "size": 839
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\tolerance_sweet.fnt",
+    "size": 836
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\toyo_distinction.fnt",
+    "size": 910
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\traditional_transmission_cement.fnt",
+    "size": 1317
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\turkey_steatoma_dictation.fnt",
+    "size": 5111
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\typist_pea_squeeze.fnt",
+    "size": 993
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\undo_hockling_unjust.fnt",
+    "size": 912
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\upwards_squeeze_propheticisms.fnt",
+    "size": 1146
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\visit_knee.fnt",
+    "size": 825
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\vulcanist_return.fnt",
+    "size": 1065
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\vulcans_vision_basic.fnt",
+    "size": 1914
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\whistle_scheme.fnt",
+    "size": 5199
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\world_twelve.fnt",
+    "size": 907
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\wrap_twice.fnt",
+    "size": 2230
+  },
+  {
+    "kind": "text",
+    "src": "decoded/base/assets/game\\resource\\assets\\rock_safety_tamers\\year_modest_inside.fnt",
+    "size": 1478
+  }
+]

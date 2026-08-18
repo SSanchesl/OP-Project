@@ -1,0 +1,873 @@
+{
+  "159": [
+    {
+      "id": 159,
+      "boxName": "历史石碑一套",
+      "goodsID": 167,
+      "name": "一星珠",
+      "num": 1
+    },
+    {
+      "id": 159,
+      "boxName": "历史石碑一套",
+      "goodsID": 167,
+      "name": "二星珠",
+      "num": 1
+    },
+    {
+      "id": 159,
+      "boxName": "历史石碑一套",
+      "goodsID": 167,
+      "name": "三星珠",
+      "num": 1
+    },
+    {
+      "id": 159,
+      "boxName": "历史石碑一套",
+      "goodsID": 167,
+      "name": "四星珠",
+      "num": 1
+    },
+    {
+      "id": 159,
+      "boxName": "历史石碑一套",
+      "goodsID": 167,
+      "name": "五星珠",
+      "num": 1
+    },
+    {
+      "id": 159,
+      "boxName": "历史石碑一套",
+      "goodsID": 167,
+      "name": "六星珠",
+      "num": 1
+    },
+    {
+      "id": 159,
+      "boxName": "历史石碑一套",
+      "goodsID": 167,
+      "name": "七星珠",
+      "num": 1
+    }
+  ],
+  "515": [
+    {
+      "id": 515,
+      "boxName": "橙色活力装备一套",
+      "goodsID": 3301,
+      "name": "大将帽·活力",
+      "num": 1
+    },
+    {
+      "id": 515,
+      "boxName": "橙色活力装备一套",
+      "goodsID": 3302,
+      "name": "大将服·活力",
+      "num": 1
+    },
+    {
+      "id": 515,
+      "boxName": "橙色活力装备一套",
+      "goodsID": 3303,
+      "name": "大将裤·活力",
+      "num": 1
+    },
+    {
+      "id": 515,
+      "boxName": "橙色活力装备一套",
+      "goodsID": 3304,
+      "name": "大将鞋·活力",
+      "num": 1
+    }
+  ],
+  "541": [
+    {
+      "id": 541,
+      "boxName": "绿色装备一套",
+      "goodsID": 3001,
+      "name": "海贼头巾",
+      "num": 1
+    },
+    {
+      "id": 541,
+      "boxName": "绿色装备一套",
+      "goodsID": 3002,
+      "name": "海贼服",
+      "num": 1
+    },
+    {
+      "id": 541,
+      "boxName": "绿色装备一套",
+      "goodsID": 3003,
+      "name": "海贼裤",
+      "num": 1
+    },
+    {
+      "id": 541,
+      "boxName": "绿色装备一套",
+      "goodsID": 3004,
+      "name": "海贼鞋",
+      "num": 1
+    }
+  ],
+  "551": [
+    {
+      "id": 551,
+      "boxName": "橙色连斩装备一套",
+      "goodsID": 3311,
+      "name": "大将帽·连斩",
+      "num": 1
+    },
+    {
+      "id": 551,
+      "boxName": "橙色连斩装备一套",
+      "goodsID": 3312,
+      "name": "大将服·连斩",
+      "num": 1
+    },
+    {
+      "id": 551,
+      "boxName": "橙色连斩装备一套",
+      "goodsID": 3313,
+      "name": "大将裤·连斩",
+      "num": 1
+    },
+    {
+      "id": 551,
+      "boxName": "橙色连斩装备一套",
+      "goodsID": 3314,
+      "name": "大将鞋·连斩",
+      "num": 1
+    }
+  ],
+  "552": [
+    {
+      "id": 552,
+      "boxName": "橙色爆发装备一套",
+      "goodsID": 3321,
+      "name": "大将帽·爆发",
+      "num": 1
+    },
+    {
+      "id": 552,
+      "boxName": "橙色爆发装备一套",
+      "goodsID": 3322,
+      "name": "大将服·爆发",
+      "num": 1
+    },
+    {
+      "id": 552,
+      "boxName": "橙色爆发装备一套",
+      "goodsID": 3323,
+      "name": "大将裤·爆发",
+      "num": 1
+    },
+    {
+      "id": 552,
+      "boxName": "橙色爆发装备一套",
+      "goodsID": 3324,
+      "name": "大将鞋·爆发",
+      "num": 1
+    }
+  ],
+  "553": [
+    {
+      "id": 553,
+      "boxName": "橙色疾风装备一套",
+      "goodsID": 3331,
+      "name": "大将帽·疾风",
+      "num": 1
+    },
+    {
+      "id": 553,
+      "boxName": "橙色疾风装备一套",
+      "goodsID": 3332,
+      "name": "大将服·疾风",
+      "num": 1
+    },
+    {
+      "id": 553,
+      "boxName": "橙色疾风装备一套",
+      "goodsID": 3333,
+      "name": "大将裤·疾风",
+      "num": 1
+    },
+    {
+      "id": 553,
+      "boxName": "橙色疾风装备一套",
+      "goodsID": 3334,
+      "name": "大将鞋·疾风",
+      "num": 1
+    }
+  ],
+  "554": [
+    {
+      "id": 554,
+      "boxName": "橙色贵族装备套装",
+      "goodsID": 3341,
+      "name": "贵族帽",
+      "num": 1
+    },
+    {
+      "id": 554,
+      "boxName": "橙色贵族装备套装",
+      "goodsID": 3342,
+      "name": "贵族服",
+      "num": 1
+    },
+    {
+      "id": 554,
+      "boxName": "橙色贵族装备套装",
+      "goodsID": 3343,
+      "name": "贵族裤",
+      "num": 1
+    },
+    {
+      "id": 554,
+      "boxName": "橙色贵族装备套装",
+      "goodsID": 3344,
+      "name": "贵族鞋",
+      "num": 1
+    }
+  ],
+  "572": [
+    {
+      "id": 572,
+      "boxName": "紫色连斩装备一套",
+      "goodsID": 3211,
+      "name": "特工帽·连斩",
+      "num": 1
+    },
+    {
+      "id": 572,
+      "boxName": "紫色连斩装备一套",
+      "goodsID": 3212,
+      "name": "特工服·连斩",
+      "num": 1
+    },
+    {
+      "id": 572,
+      "boxName": "紫色连斩装备一套",
+      "goodsID": 3213,
+      "name": "特工裤·连斩",
+      "num": 1
+    },
+    {
+      "id": 572,
+      "boxName": "紫色连斩装备一套",
+      "goodsID": 3214,
+      "name": "特工鞋·连斩",
+      "num": 1
+    }
+  ],
+  "581": [
+    {
+      "id": 581,
+      "boxName": "紫色活力装备一套",
+      "goodsID": 3201,
+      "name": "特工帽·活力",
+      "num": 1
+    },
+    {
+      "id": 581,
+      "boxName": "紫色活力装备一套",
+      "goodsID": 3202,
+      "name": "特工服·活力",
+      "num": 1
+    },
+    {
+      "id": 581,
+      "boxName": "紫色活力装备一套",
+      "goodsID": 3203,
+      "name": "特工裤·活力",
+      "num": 1
+    },
+    {
+      "id": 581,
+      "boxName": "紫色活力装备一套",
+      "goodsID": 3204,
+      "name": "特工鞋·活力",
+      "num": 1
+    }
+  ],
+  "582": [
+    {
+      "id": 582,
+      "boxName": "紫色爆发装备一套",
+      "goodsID": 3221,
+      "name": "特工帽·爆发",
+      "num": 1
+    },
+    {
+      "id": 582,
+      "boxName": "紫色爆发装备一套",
+      "goodsID": 3222,
+      "name": "特工服·爆发",
+      "num": 1
+    },
+    {
+      "id": 582,
+      "boxName": "紫色爆发装备一套",
+      "goodsID": 3223,
+      "name": "特工裤·爆发",
+      "num": 1
+    },
+    {
+      "id": 582,
+      "boxName": "紫色爆发装备一套",
+      "goodsID": 3224,
+      "name": "特工鞋·爆发",
+      "num": 1
+    }
+  ],
+  "583": [
+    {
+      "id": 583,
+      "boxName": "紫色疾风装备一套",
+      "goodsID": 3231,
+      "name": "特工帽·疾风",
+      "num": 1
+    },
+    {
+      "id": 583,
+      "boxName": "紫色疾风装备一套",
+      "goodsID": 3232,
+      "name": "特工服·疾风",
+      "num": 1
+    },
+    {
+      "id": 583,
+      "boxName": "紫色疾风装备一套",
+      "goodsID": 3233,
+      "name": "特工裤·疾风",
+      "num": 1
+    },
+    {
+      "id": 583,
+      "boxName": "紫色疾风装备一套",
+      "goodsID": 3234,
+      "name": "特工鞋·疾风",
+      "num": 1
+    }
+  ],
+  "584": [
+    {
+      "id": 584,
+      "boxName": "紫色剑客装备一套",
+      "goodsID": 3241,
+      "name": "剑客头巾",
+      "num": 1
+    },
+    {
+      "id": 584,
+      "boxName": "紫色剑客装备一套",
+      "goodsID": 3242,
+      "name": "剑客服",
+      "num": 1
+    },
+    {
+      "id": 584,
+      "boxName": "紫色剑客装备一套",
+      "goodsID": 3243,
+      "name": "剑客裤",
+      "num": 1
+    },
+    {
+      "id": 584,
+      "boxName": "紫色剑客装备一套",
+      "goodsID": 3244,
+      "name": "剑客鞋",
+      "num": 1
+    }
+  ],
+  "585": [
+    {
+      "id": 585,
+      "boxName": "蓝色装备一套",
+      "goodsID": 3101,
+      "name": "海军帽",
+      "num": 1
+    },
+    {
+      "id": 585,
+      "boxName": "蓝色装备一套",
+      "goodsID": 3102,
+      "name": "海军服",
+      "num": 1
+    },
+    {
+      "id": 585,
+      "boxName": "蓝色装备一套",
+      "goodsID": 3103,
+      "name": "海军裤",
+      "num": 1
+    },
+    {
+      "id": 585,
+      "boxName": "蓝色装备一套",
+      "goodsID": 3104,
+      "name": "海军鞋",
+      "num": 1
+    }
+  ],
+  "587": [
+    {
+      "id": 587,
+      "boxName": "紫色坚守装备一套",
+      "goodsID": 3251,
+      "name": "特工帽·坚守",
+      "num": 1
+    },
+    {
+      "id": 587,
+      "boxName": "紫色坚守装备一套",
+      "goodsID": 3252,
+      "name": "特工服·坚守",
+      "num": 1
+    },
+    {
+      "id": 587,
+      "boxName": "紫色坚守装备一套",
+      "goodsID": 3253,
+      "name": "特工裤·坚守",
+      "num": 1
+    },
+    {
+      "id": 587,
+      "boxName": "紫色坚守装备一套",
+      "goodsID": 3254,
+      "name": "特工鞋·坚守",
+      "num": 1
+    }
+  ],
+  "588": [
+    {
+      "id": 588,
+      "boxName": "紫色强攻装备一套",
+      "goodsID": 3261,
+      "name": "特工帽·强攻",
+      "num": 1
+    },
+    {
+      "id": 588,
+      "boxName": "紫色强攻装备一套",
+      "goodsID": 3262,
+      "name": "特工服·强攻",
+      "num": 1
+    },
+    {
+      "id": 588,
+      "boxName": "紫色强攻装备一套",
+      "goodsID": 3263,
+      "name": "特工裤·强攻",
+      "num": 1
+    },
+    {
+      "id": 588,
+      "boxName": "紫色强攻装备一套",
+      "goodsID": 3264,
+      "name": "特工鞋·强攻",
+      "num": 1
+    }
+  ],
+  "589": [
+    {
+      "id": 589,
+      "boxName": "橙色坚守装备一套",
+      "goodsID": 3351,
+      "name": "大将帽·坚守",
+      "num": 1
+    },
+    {
+      "id": 589,
+      "boxName": "橙色坚守装备一套",
+      "goodsID": 3352,
+      "name": "大将服·坚守",
+      "num": 1
+    },
+    {
+      "id": 589,
+      "boxName": "橙色坚守装备一套",
+      "goodsID": 3353,
+      "name": "大将裤·坚守",
+      "num": 1
+    },
+    {
+      "id": 589,
+      "boxName": "橙色坚守装备一套",
+      "goodsID": 3354,
+      "name": "大将鞋·坚守",
+      "num": 1
+    }
+  ],
+  "590": [
+    {
+      "id": 590,
+      "boxName": "橙色强攻装备一套",
+      "goodsID": 3361,
+      "name": "大将帽·强攻",
+      "num": 1
+    },
+    {
+      "id": 590,
+      "boxName": "橙色强攻装备一套",
+      "goodsID": 3362,
+      "name": "大将服·强攻",
+      "num": 1
+    },
+    {
+      "id": 590,
+      "boxName": "橙色强攻装备一套",
+      "goodsID": 3363,
+      "name": "大将裤·强攻",
+      "num": 1
+    },
+    {
+      "id": 590,
+      "boxName": "橙色强攻装备一套",
+      "goodsID": 3364,
+      "name": "大将鞋·强攻",
+      "num": 1
+    }
+  ],
+  "818": [
+    {
+      "id": 818,
+      "boxName": "tw100元充值卡",
+      "goodsID": 101,
+      "name": "钻石",
+      "num": 3000
+    },
+    {
+      "id": 818,
+      "boxName": "tw100元充值卡",
+      "goodsID": 105,
+      "name": "玩家VIP经验",
+      "num": 1000
+    },
+    {
+      "id": 818,
+      "boxName": "tw100元充值卡",
+      "goodsID": 110,
+      "name": "活动RMB经验（补偿）",
+      "num": 100
+    }
+  ],
+  "819": [
+    {
+      "id": 819,
+      "boxName": "tw月卡包",
+      "goodsID": 108,
+      "name": "月卡（补偿）",
+      "num": 1
+    },
+    {
+      "id": 819,
+      "boxName": "tw月卡包",
+      "goodsID": 105,
+      "name": "玩家VIP经验",
+      "num": 300
+    },
+    {
+      "id": 819,
+      "boxName": "tw月卡包",
+      "goodsID": 110,
+      "name": "活动RMB经验（补偿）",
+      "num": 30
+    }
+  ],
+  "820": [
+    {
+      "id": 820,
+      "boxName": "tw终身卡包",
+      "goodsID": 109,
+      "name": "终身卡（补偿）",
+      "num": 1
+    },
+    {
+      "id": 820,
+      "boxName": "tw终身卡包",
+      "goodsID": 105,
+      "name": "玩家VIP经验",
+      "num": 980
+    },
+    {
+      "id": 820,
+      "boxName": "tw终身卡包",
+      "goodsID": 110,
+      "name": "活动RMB经验（补偿）",
+      "num": 98
+    }
+  ],
+  "821": [
+    {
+      "id": 821,
+      "boxName": "tw高级战令包",
+      "goodsID": 571,
+      "name": "高级战令（特殊）",
+      "num": 1
+    },
+    {
+      "id": 821,
+      "boxName": "tw高级战令包",
+      "goodsID": 105,
+      "name": "玩家VIP经验",
+      "num": 680
+    },
+    {
+      "id": 821,
+      "boxName": "tw高级战令包",
+      "goodsID": 110,
+      "name": "活动RMB经验（补偿）",
+      "num": 68
+    }
+  ],
+  "822": [
+    {
+      "id": 822,
+      "boxName": "tw等级基金包",
+      "goodsID": 185,
+      "name": "等级基金（特殊）",
+      "num": 1
+    },
+    {
+      "id": 822,
+      "boxName": "tw等级基金包",
+      "goodsID": 105,
+      "name": "玩家VIP经验",
+      "num": 880
+    },
+    {
+      "id": 822,
+      "boxName": "tw等级基金包",
+      "goodsID": 110,
+      "name": "活动RMB经验（补偿）",
+      "num": 88
+    }
+  ],
+  "823": [
+    {
+      "id": 823,
+      "boxName": "tw新区礼包",
+      "goodsID": 102,
+      "name": "金币",
+      "num": 2000000
+    },
+    {
+      "id": 823,
+      "boxName": "tw新区礼包",
+      "goodsID": 131,
+      "name": "经验卡",
+      "num": 300000
+    },
+    {
+      "id": 823,
+      "boxName": "tw新区礼包",
+      "goodsID": 108,
+      "name": "月卡（补偿）",
+      "num": 1
+    },
+    {
+      "id": 823,
+      "boxName": "tw新区礼包",
+      "goodsID": 109,
+      "name": "终身卡（补偿）",
+      "num": 1
+    },
+    {
+      "id": 823,
+      "boxName": "tw新区礼包",
+      "goodsID": 501,
+      "name": "觉醒石",
+      "num": 30
+    },
+    {
+      "id": 823,
+      "boxName": "tw新区礼包",
+      "goodsID": 132,
+      "name": "突破卡",
+      "num": 30000
+    },
+    {
+      "id": 823,
+      "boxName": "tw新区礼包",
+      "goodsID": 105,
+      "name": "玩家VIP经验",
+      "num": 3000
+    },
+    {
+      "id": 823,
+      "boxName": "tw新区礼包",
+      "goodsID": 110,
+      "name": "活动RMB经验（补偿）",
+      "num": 300
+    },
+    {
+      "id": 823,
+      "boxName": "tw新区礼包",
+      "goodsID": 101,
+      "name": "钻石",
+      "num": 5000
+    }
+  ],
+  "824": [
+    {
+      "id": 824,
+      "boxName": "tw材料礼包",
+      "goodsID": 137,
+      "name": "锻造石",
+      "num": 10000
+    },
+    {
+      "id": 824,
+      "boxName": "tw材料礼包",
+      "goodsID": 138,
+      "name": "晶粉",
+      "num": 5000
+    },
+    {
+      "id": 824,
+      "boxName": "tw材料礼包",
+      "goodsID": 150,
+      "name": "强化石",
+      "num": 20000
+    },
+    {
+      "id": 824,
+      "boxName": "tw材料礼包",
+      "goodsID": 140,
+      "name": "精铁",
+      "num": 3000
+    },
+    {
+      "id": 824,
+      "boxName": "tw材料礼包",
+      "goodsID": 135,
+      "name": "磁粉",
+      "num": 2000
+    },
+    {
+      "id": 824,
+      "boxName": "tw材料礼包",
+      "goodsID": 580,
+      "name": "精炼石",
+      "num": 3000
+    },
+    {
+      "id": 824,
+      "boxName": "tw材料礼包",
+      "goodsID": 501,
+      "name": "觉醒石",
+      "num": 100
+    }
+  ],
+  "825": [
+    {
+      "id": 825,
+      "boxName": "tw日常礼包",
+      "goodsID": 102,
+      "name": "金币",
+      "num": 1000000
+    },
+    {
+      "id": 825,
+      "boxName": "tw日常礼包",
+      "goodsID": 132,
+      "name": "突破卡",
+      "num": 30000
+    },
+    {
+      "id": 825,
+      "boxName": "tw日常礼包",
+      "goodsID": 101,
+      "name": "钻石",
+      "num": 6000
+    },
+    {
+      "id": 825,
+      "boxName": "tw日常礼包",
+      "goodsID": 343,
+      "name": "SSR终结技任选碎片",
+      "num": 50
+    },
+    {
+      "id": 825,
+      "boxName": "tw日常礼包",
+      "goodsID": 136,
+      "name": "耐力卡",
+      "num": 2000
+    },
+    {
+      "id": 825,
+      "boxName": "tw日常礼包",
+      "goodsID": 584,
+      "name": "紫色剑客装备一套",
+      "num": 1
+    },
+    {
+      "id": 825,
+      "boxName": "tw日常礼包",
+      "goodsID": 105,
+      "name": "玩家VIP经验",
+      "num": 3000
+    },
+    {
+      "id": 825,
+      "boxName": "tw日常礼包",
+      "goodsID": 110,
+      "name": "活动RMB经验（补偿）",
+      "num": 300
+    }
+  ],
+  "826": [
+    {
+      "id": 826,
+      "boxName": "tw日常礼包2",
+      "goodsID": 132,
+      "name": "突破卡",
+      "num": 30000
+    },
+    {
+      "id": 826,
+      "boxName": "tw日常礼包2",
+      "goodsID": 509,
+      "name": "紫色空贝任选包",
+      "num": 1
+    },
+    {
+      "id": 826,
+      "boxName": "tw日常礼包2",
+      "goodsID": 131,
+      "name": "经验卡",
+      "num": 1000000
+    },
+    {
+      "id": 826,
+      "boxName": "tw日常礼包2",
+      "goodsID": 508,
+      "name": "紫色武器任选包",
+      "num": 1
+    },
+    {
+      "id": 826,
+      "boxName": "tw日常礼包2",
+      "goodsID": 101,
+      "name": "钻石",
+      "num": 6000
+    },
+    {
+      "id": 826,
+      "boxName": "tw日常礼包2",
+      "goodsID": 105,
+      "name": "玩家VIP经验",
+      "num": 1000
+    },
+    {
+      "id": 826,
+      "boxName": "tw日常礼包2",
+      "goodsID": 110,
+      "name": "活动RMB经验（补偿）",
+      "num": 100
+    }
+  ]
+}

@@ -1,0 +1,1802 @@
+{
+  "1": {
+    "ID": 1,
+    "cluPassiveId": 100101,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.01,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_1"
+  },
+  "2": {
+    "ID": 2,
+    "cluPassiveId": 100101,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.02,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_2"
+  },
+  "3": {
+    "ID": 3,
+    "cluPassiveId": 100101,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.03,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_3"
+  },
+  "4": {
+    "ID": 4,
+    "cluPassiveId": 100101,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.045,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_4"
+  },
+  "5": {
+    "ID": 5,
+    "cluPassiveId": 100101,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.06,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_5"
+  },
+  "6": {
+    "ID": 6,
+    "cluPassiveId": 100102,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.03,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_3"
+  },
+  "7": {
+    "ID": 7,
+    "cluPassiveId": 100102,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_6"
+  },
+  "8": {
+    "ID": 8,
+    "cluPassiveId": 100102,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.06,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_5"
+  },
+  "9": {
+    "ID": 9,
+    "cluPassiveId": 100102,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.08,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_7"
+  },
+  "10": {
+    "ID": 10,
+    "cluPassiveId": 100102,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.1,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_8"
+  },
+  "11": {
+    "ID": 11,
+    "cluPassiveId": 100103,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.05,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_9"
+  },
+  "12": {
+    "ID": 12,
+    "cluPassiveId": 100103,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.07,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_10"
+  },
+  "13": {
+    "ID": 13,
+    "cluPassiveId": 100103,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.09,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_11"
+  },
+  "14": {
+    "ID": 14,
+    "cluPassiveId": 100103,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.11,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_12"
+  },
+  "15": {
+    "ID": 15,
+    "cluPassiveId": 100103,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.13999999999999999,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_13"
+  },
+  "16": {
+    "ID": 16,
+    "cluPassiveId": 100104,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.08,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_7"
+  },
+  "17": {
+    "ID": 17,
+    "cluPassiveId": 100104,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.1,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_8"
+  },
+  "18": {
+    "ID": 18,
+    "cluPassiveId": 100104,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.13,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_14"
+  },
+  "19": {
+    "ID": 19,
+    "cluPassiveId": 100104,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.16,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_15"
+  },
+  "20": {
+    "ID": 20,
+    "cluPassiveId": 100104,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "attackPercent",
+    "cluPassiveAbilityValue": 0.2,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_16"
+  },
+  "21": {
+    "ID": 21,
+    "cluPassiveId": 200101,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.01,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_17"
+  },
+  "22": {
+    "ID": 22,
+    "cluPassiveId": 200101,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.02,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_18"
+  },
+  "23": {
+    "ID": 23,
+    "cluPassiveId": 200101,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.03,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_19"
+  },
+  "24": {
+    "ID": 24,
+    "cluPassiveId": 200101,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.045,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_20"
+  },
+  "25": {
+    "ID": 25,
+    "cluPassiveId": 200101,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.06,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_21"
+  },
+  "26": {
+    "ID": 26,
+    "cluPassiveId": 200102,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.03,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_19"
+  },
+  "27": {
+    "ID": 27,
+    "cluPassiveId": 200102,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_22"
+  },
+  "28": {
+    "ID": 28,
+    "cluPassiveId": 200102,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.06,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_21"
+  },
+  "29": {
+    "ID": 29,
+    "cluPassiveId": 200102,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.08,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_23"
+  },
+  "30": {
+    "ID": 30,
+    "cluPassiveId": 200102,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.1,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_24"
+  },
+  "31": {
+    "ID": 31,
+    "cluPassiveId": 200103,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.05,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_25"
+  },
+  "32": {
+    "ID": 32,
+    "cluPassiveId": 200103,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.07,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_26"
+  },
+  "33": {
+    "ID": 33,
+    "cluPassiveId": 200103,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.09,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_27"
+  },
+  "34": {
+    "ID": 34,
+    "cluPassiveId": 200103,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.11,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_28"
+  },
+  "35": {
+    "ID": 35,
+    "cluPassiveId": 200103,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.13999999999999999,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_29"
+  },
+  "36": {
+    "ID": 36,
+    "cluPassiveId": 200104,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.08,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_23"
+  },
+  "37": {
+    "ID": 37,
+    "cluPassiveId": 200104,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.1,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_24"
+  },
+  "38": {
+    "ID": 38,
+    "cluPassiveId": 200104,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.13,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_30"
+  },
+  "39": {
+    "ID": 39,
+    "cluPassiveId": 200104,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.16,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_31"
+  },
+  "40": {
+    "ID": 40,
+    "cluPassiveId": 200104,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hpPercent",
+    "cluPassiveAbilityValue": 0.2,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_32"
+  },
+  "41": {
+    "ID": 41,
+    "cluPassiveId": 300101,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.0025,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_33"
+  },
+  "42": {
+    "ID": 42,
+    "cluPassiveId": 300101,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.005,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_34"
+  },
+  "43": {
+    "ID": 43,
+    "cluPassiveId": 300101,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.0075,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_35"
+  },
+  "44": {
+    "ID": 44,
+    "cluPassiveId": 300101,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.01125,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_36"
+  },
+  "45": {
+    "ID": 45,
+    "cluPassiveId": 300101,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.015,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_37"
+  },
+  "46": {
+    "ID": 46,
+    "cluPassiveId": 300102,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.007499999999999999,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_35"
+  },
+  "47": {
+    "ID": 47,
+    "cluPassiveId": 300102,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.01,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_38"
+  },
+  "48": {
+    "ID": 48,
+    "cluPassiveId": 300102,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.014999999999999998,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_37"
+  },
+  "49": {
+    "ID": 49,
+    "cluPassiveId": 300102,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.02,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_39"
+  },
+  "50": {
+    "ID": 50,
+    "cluPassiveId": 300102,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.025,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_40"
+  },
+  "51": {
+    "ID": 51,
+    "cluPassiveId": 300103,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.0125,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_41"
+  },
+  "52": {
+    "ID": 52,
+    "cluPassiveId": 300103,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.0175,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_42"
+  },
+  "53": {
+    "ID": 53,
+    "cluPassiveId": 300103,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.0225,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_43"
+  },
+  "54": {
+    "ID": 54,
+    "cluPassiveId": 300103,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.0275,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_44"
+  },
+  "55": {
+    "ID": 55,
+    "cluPassiveId": 300103,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.034999999999999996,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_45"
+  },
+  "56": {
+    "ID": 56,
+    "cluPassiveId": 300104,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.02,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_39"
+  },
+  "57": {
+    "ID": 57,
+    "cluPassiveId": 300104,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.025,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_40"
+  },
+  "58": {
+    "ID": 58,
+    "cluPassiveId": 300104,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.0325,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_46"
+  },
+  "59": {
+    "ID": 59,
+    "cluPassiveId": 300104,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_47"
+  },
+  "60": {
+    "ID": 60,
+    "cluPassiveId": 300104,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "hit",
+    "cluPassiveAbilityValue": 0.05,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_48"
+  },
+  "61": {
+    "ID": 61,
+    "cluPassiveId": 400101,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.0025,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_49"
+  },
+  "62": {
+    "ID": 62,
+    "cluPassiveId": 400101,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.005,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_50"
+  },
+  "63": {
+    "ID": 63,
+    "cluPassiveId": 400101,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.0075,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_51"
+  },
+  "64": {
+    "ID": 64,
+    "cluPassiveId": 400101,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.01125,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_52"
+  },
+  "65": {
+    "ID": 65,
+    "cluPassiveId": 400101,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.015,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_53"
+  },
+  "66": {
+    "ID": 66,
+    "cluPassiveId": 400102,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.007499999999999999,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_51"
+  },
+  "67": {
+    "ID": 67,
+    "cluPassiveId": 400102,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.01,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_54"
+  },
+  "68": {
+    "ID": 68,
+    "cluPassiveId": 400102,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.014999999999999998,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_53"
+  },
+  "69": {
+    "ID": 69,
+    "cluPassiveId": 400102,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.02,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_55"
+  },
+  "70": {
+    "ID": 70,
+    "cluPassiveId": 400102,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.025,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_56"
+  },
+  "71": {
+    "ID": 71,
+    "cluPassiveId": 400103,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.0125,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_57"
+  },
+  "72": {
+    "ID": 72,
+    "cluPassiveId": 400103,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.0175,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_58"
+  },
+  "73": {
+    "ID": 73,
+    "cluPassiveId": 400103,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.0225,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_59"
+  },
+  "74": {
+    "ID": 74,
+    "cluPassiveId": 400103,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.0275,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_60"
+  },
+  "75": {
+    "ID": 75,
+    "cluPassiveId": 400103,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.034999999999999996,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_61"
+  },
+  "76": {
+    "ID": 76,
+    "cluPassiveId": 400104,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.02,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_55"
+  },
+  "77": {
+    "ID": 77,
+    "cluPassiveId": 400104,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.025,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_56"
+  },
+  "78": {
+    "ID": 78,
+    "cluPassiveId": 400104,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.0325,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_62"
+  },
+  "79": {
+    "ID": 79,
+    "cluPassiveId": 400104,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_63"
+  },
+  "80": {
+    "ID": 80,
+    "cluPassiveId": 400104,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "dodge",
+    "cluPassiveAbilityValue": 0.05,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_64"
+  },
+  "81": {
+    "ID": 81,
+    "cluPassiveId": 500101,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.005,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_65"
+  },
+  "82": {
+    "ID": 82,
+    "cluPassiveId": 500101,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.01,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_66"
+  },
+  "83": {
+    "ID": 83,
+    "cluPassiveId": 500101,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.015,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_67"
+  },
+  "84": {
+    "ID": 84,
+    "cluPassiveId": 500101,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.0225,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_68"
+  },
+  "85": {
+    "ID": 85,
+    "cluPassiveId": 500101,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.03,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_69"
+  },
+  "86": {
+    "ID": 86,
+    "cluPassiveId": 500102,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.014999999999999998,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_67"
+  },
+  "87": {
+    "ID": 87,
+    "cluPassiveId": 500102,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.02,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_70"
+  },
+  "88": {
+    "ID": 88,
+    "cluPassiveId": 500102,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.029999999999999995,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_69"
+  },
+  "89": {
+    "ID": 89,
+    "cluPassiveId": 500102,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_71"
+  },
+  "90": {
+    "ID": 90,
+    "cluPassiveId": 500102,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.05,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_72"
+  },
+  "91": {
+    "ID": 91,
+    "cluPassiveId": 500103,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.025,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_73"
+  },
+  "92": {
+    "ID": 92,
+    "cluPassiveId": 500103,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.035,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_74"
+  },
+  "93": {
+    "ID": 93,
+    "cluPassiveId": 500103,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.045,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_75"
+  },
+  "94": {
+    "ID": 94,
+    "cluPassiveId": 500103,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.055,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_76"
+  },
+  "95": {
+    "ID": 95,
+    "cluPassiveId": 500103,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.06999999999999999,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_77"
+  },
+  "96": {
+    "ID": 96,
+    "cluPassiveId": 500104,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_71"
+  },
+  "97": {
+    "ID": 97,
+    "cluPassiveId": 500104,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.05,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_72"
+  },
+  "98": {
+    "ID": 98,
+    "cluPassiveId": 500104,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.065,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_78"
+  },
+  "99": {
+    "ID": 99,
+    "cluPassiveId": 500104,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.08,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_79"
+  },
+  "100": {
+    "ID": 100,
+    "cluPassiveId": 500104,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "critical",
+    "cluPassiveAbilityValue": 0.1,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_80"
+  },
+  "101": {
+    "ID": 101,
+    "cluPassiveId": 600101,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.005,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_81"
+  },
+  "102": {
+    "ID": 102,
+    "cluPassiveId": 600101,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.01,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_82"
+  },
+  "103": {
+    "ID": 103,
+    "cluPassiveId": 600101,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.015,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_83"
+  },
+  "104": {
+    "ID": 104,
+    "cluPassiveId": 600101,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.0225,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_84"
+  },
+  "105": {
+    "ID": 105,
+    "cluPassiveId": 600101,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.03,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_85"
+  },
+  "106": {
+    "ID": 106,
+    "cluPassiveId": 600102,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.014999999999999998,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_83"
+  },
+  "107": {
+    "ID": 107,
+    "cluPassiveId": 600102,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.02,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_86"
+  },
+  "108": {
+    "ID": 108,
+    "cluPassiveId": 600102,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.029999999999999995,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_85"
+  },
+  "109": {
+    "ID": 109,
+    "cluPassiveId": 600102,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_87"
+  },
+  "110": {
+    "ID": 110,
+    "cluPassiveId": 600102,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.05,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_88"
+  },
+  "111": {
+    "ID": 111,
+    "cluPassiveId": 600103,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.025,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_89"
+  },
+  "112": {
+    "ID": 112,
+    "cluPassiveId": 600103,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.035,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_90"
+  },
+  "113": {
+    "ID": 113,
+    "cluPassiveId": 600103,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.045,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_91"
+  },
+  "114": {
+    "ID": 114,
+    "cluPassiveId": 600103,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.055,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_92"
+  },
+  "115": {
+    "ID": 115,
+    "cluPassiveId": 600103,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.06999999999999999,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_93"
+  },
+  "116": {
+    "ID": 116,
+    "cluPassiveId": 600104,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_87"
+  },
+  "117": {
+    "ID": 117,
+    "cluPassiveId": 600104,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.05,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_88"
+  },
+  "118": {
+    "ID": 118,
+    "cluPassiveId": 600104,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.065,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_94"
+  },
+  "119": {
+    "ID": 119,
+    "cluPassiveId": 600104,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.08,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_95"
+  },
+  "120": {
+    "ID": 120,
+    "cluPassiveId": 600104,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "criticalResist",
+    "cluPassiveAbilityValue": 0.1,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_96"
+  },
+  "121": {
+    "ID": 121,
+    "cluPassiveId": 700101,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.007499999999999999,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_97"
+  },
+  "122": {
+    "ID": 122,
+    "cluPassiveId": 700101,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.015,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_98"
+  },
+  "123": {
+    "ID": 123,
+    "cluPassiveId": 700101,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.0225,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_99"
+  },
+  "124": {
+    "ID": 124,
+    "cluPassiveId": 700101,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.03375,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_100"
+  },
+  "125": {
+    "ID": 125,
+    "cluPassiveId": 700101,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.045,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_101"
+  },
+  "126": {
+    "ID": 126,
+    "cluPassiveId": 700102,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.0225,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_99"
+  },
+  "127": {
+    "ID": 127,
+    "cluPassiveId": 700102,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.03,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_102"
+  },
+  "128": {
+    "ID": 128,
+    "cluPassiveId": 700102,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.045,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_101"
+  },
+  "129": {
+    "ID": 129,
+    "cluPassiveId": 700102,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.06,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_103"
+  },
+  "130": {
+    "ID": 130,
+    "cluPassiveId": 700102,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.075,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_104"
+  },
+  "131": {
+    "ID": 131,
+    "cluPassiveId": 700103,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.037500000000000006,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_105"
+  },
+  "132": {
+    "ID": 132,
+    "cluPassiveId": 700103,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.05250000000000001,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_106"
+  },
+  "133": {
+    "ID": 133,
+    "cluPassiveId": 700103,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.0675,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_107"
+  },
+  "134": {
+    "ID": 134,
+    "cluPassiveId": 700103,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.0825,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_108"
+  },
+  "135": {
+    "ID": 135,
+    "cluPassiveId": 700103,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.105,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_109"
+  },
+  "136": {
+    "ID": 136,
+    "cluPassiveId": 700104,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.06,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_103"
+  },
+  "137": {
+    "ID": 137,
+    "cluPassiveId": 700104,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.075,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_104"
+  },
+  "138": {
+    "ID": 138,
+    "cluPassiveId": 700104,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.09749999999999999,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_110"
+  },
+  "139": {
+    "ID": 139,
+    "cluPassiveId": 700104,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.12,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_111"
+  },
+  "140": {
+    "ID": 140,
+    "cluPassiveId": 700104,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "block",
+    "cluPassiveAbilityValue": 0.15,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_112"
+  },
+  "141": {
+    "ID": 141,
+    "cluPassiveId": 800101,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.007499999999999999,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_113"
+  },
+  "142": {
+    "ID": 142,
+    "cluPassiveId": 800101,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.015,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_114"
+  },
+  "143": {
+    "ID": 143,
+    "cluPassiveId": 800101,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.0225,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_115"
+  },
+  "144": {
+    "ID": 144,
+    "cluPassiveId": 800101,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.03375,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_116"
+  },
+  "145": {
+    "ID": 145,
+    "cluPassiveId": 800101,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.045,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_117"
+  },
+  "146": {
+    "ID": 146,
+    "cluPassiveId": 800102,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.0225,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_115"
+  },
+  "147": {
+    "ID": 147,
+    "cluPassiveId": 800102,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.03,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_118"
+  },
+  "148": {
+    "ID": 148,
+    "cluPassiveId": 800102,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.045,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_117"
+  },
+  "149": {
+    "ID": 149,
+    "cluPassiveId": 800102,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.06,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_119"
+  },
+  "150": {
+    "ID": 150,
+    "cluPassiveId": 800102,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.075,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_120"
+  },
+  "151": {
+    "ID": 151,
+    "cluPassiveId": 800103,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.037500000000000006,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_121"
+  },
+  "152": {
+    "ID": 152,
+    "cluPassiveId": 800103,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.05250000000000001,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_122"
+  },
+  "153": {
+    "ID": 153,
+    "cluPassiveId": 800103,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.0675,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_123"
+  },
+  "154": {
+    "ID": 154,
+    "cluPassiveId": 800103,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.0825,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_124"
+  },
+  "155": {
+    "ID": 155,
+    "cluPassiveId": 800103,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.105,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_125"
+  },
+  "156": {
+    "ID": 156,
+    "cluPassiveId": 800104,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.06,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_119"
+  },
+  "157": {
+    "ID": 157,
+    "cluPassiveId": 800104,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.075,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_120"
+  },
+  "158": {
+    "ID": 158,
+    "cluPassiveId": 800104,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.09749999999999999,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_126"
+  },
+  "159": {
+    "ID": 159,
+    "cluPassiveId": 800104,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.12,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_127"
+  },
+  "160": {
+    "ID": 160,
+    "cluPassiveId": 800104,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "blockThrough",
+    "cluPassiveAbilityValue": 0.15,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_128"
+  },
+  "161": {
+    "ID": 161,
+    "cluPassiveId": 900101,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.004,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_129"
+  },
+  "162": {
+    "ID": 162,
+    "cluPassiveId": 900101,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.008,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_130"
+  },
+  "163": {
+    "ID": 163,
+    "cluPassiveId": 900101,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.012,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_131"
+  },
+  "164": {
+    "ID": 164,
+    "cluPassiveId": 900101,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.018000000000000002,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_132"
+  },
+  "165": {
+    "ID": 165,
+    "cluPassiveId": 900101,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.024,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_133"
+  },
+  "166": {
+    "ID": 166,
+    "cluPassiveId": 900102,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.012,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_131"
+  },
+  "167": {
+    "ID": 167,
+    "cluPassiveId": 900102,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.016,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_134"
+  },
+  "168": {
+    "ID": 168,
+    "cluPassiveId": 900102,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.024,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_133"
+  },
+  "169": {
+    "ID": 169,
+    "cluPassiveId": 900102,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.032,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_135"
+  },
+  "170": {
+    "ID": 170,
+    "cluPassiveId": 900102,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_136"
+  },
+  "171": {
+    "ID": 171,
+    "cluPassiveId": 900103,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.02,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_137"
+  },
+  "172": {
+    "ID": 172,
+    "cluPassiveId": 900103,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.028,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_138"
+  },
+  "173": {
+    "ID": 173,
+    "cluPassiveId": 900103,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.036,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_139"
+  },
+  "174": {
+    "ID": 174,
+    "cluPassiveId": 900103,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.044000000000000004,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_140"
+  },
+  "175": {
+    "ID": 175,
+    "cluPassiveId": 900103,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.055999999999999994,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_141"
+  },
+  "176": {
+    "ID": 176,
+    "cluPassiveId": 900104,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.032,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_135"
+  },
+  "177": {
+    "ID": 177,
+    "cluPassiveId": 900104,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_136"
+  },
+  "178": {
+    "ID": 178,
+    "cluPassiveId": 900104,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.052000000000000005,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_142"
+  },
+  "179": {
+    "ID": 179,
+    "cluPassiveId": 900104,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.064,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_143"
+  },
+  "180": {
+    "ID": 180,
+    "cluPassiveId": 900104,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageUp",
+    "cluPassiveAbilityValue": 0.08,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_144"
+  },
+  "181": {
+    "ID": 181,
+    "cluPassiveId": 1000101,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.004,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_145"
+  },
+  "182": {
+    "ID": 182,
+    "cluPassiveId": 1000101,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.008,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_146"
+  },
+  "183": {
+    "ID": 183,
+    "cluPassiveId": 1000101,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.012,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_147"
+  },
+  "184": {
+    "ID": 184,
+    "cluPassiveId": 1000101,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.018000000000000002,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_148"
+  },
+  "185": {
+    "ID": 185,
+    "cluPassiveId": 1000101,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.024,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_149"
+  },
+  "186": {
+    "ID": 186,
+    "cluPassiveId": 1000102,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.012,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_147"
+  },
+  "187": {
+    "ID": 187,
+    "cluPassiveId": 1000102,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.016,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_150"
+  },
+  "188": {
+    "ID": 188,
+    "cluPassiveId": 1000102,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.024,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_149"
+  },
+  "189": {
+    "ID": 189,
+    "cluPassiveId": 1000102,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.032,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_151"
+  },
+  "190": {
+    "ID": 190,
+    "cluPassiveId": 1000102,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_152"
+  },
+  "191": {
+    "ID": 191,
+    "cluPassiveId": 1000103,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.02,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_153"
+  },
+  "192": {
+    "ID": 192,
+    "cluPassiveId": 1000103,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.028,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_154"
+  },
+  "193": {
+    "ID": 193,
+    "cluPassiveId": 1000103,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.036,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_155"
+  },
+  "194": {
+    "ID": 194,
+    "cluPassiveId": 1000103,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.044000000000000004,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_156"
+  },
+  "195": {
+    "ID": 195,
+    "cluPassiveId": 1000103,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.055999999999999994,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_157"
+  },
+  "196": {
+    "ID": 196,
+    "cluPassiveId": 1000104,
+    "cluPassiveLevel": 1,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.032,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_151"
+  },
+  "197": {
+    "ID": 197,
+    "cluPassiveId": 1000104,
+    "cluPassiveLevel": 2,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.04,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_152"
+  },
+  "198": {
+    "ID": 198,
+    "cluPassiveId": 1000104,
+    "cluPassiveLevel": 3,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.052000000000000005,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_158"
+  },
+  "199": {
+    "ID": 199,
+    "cluPassiveId": 1000104,
+    "cluPassiveLevel": 4,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.064,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_159"
+  },
+  "200": {
+    "ID": 200,
+    "cluPassiveId": 1000104,
+    "cluPassiveLevel": 5,
+    "cluPassiveUPWeight": 1000,
+    "cluPassiveAbilityTpye": "damageDown",
+    "cluPassiveAbilityValue": 0.08,
+    "cluPassiveDes": "clutchShotPassiveLevel_cluPassiveDes_160"
+  }
+}
