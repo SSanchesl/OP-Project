@@ -32,5 +32,48 @@
       }
     },
     "hasEnteredGame": true
+  },
+  "jogador1": {
+    "userId": "jogador1",
+    "loginToken": "local-jogador1",
+    "serverId": 1,
+    "createdAt": 1787882060272,
+    "progress": {
+      "curLess": 10101,
+      "maxPassLesson": 0,
+      "maxPassChapter": 0
+    },
+    "heroes": {
+      "hero_1": {
+        "_heroId": "hero_1",
+        "_heroDisplayId": 1315,
+        "_heroStar": 1,
+        "_connectStar": 0,
+        "_expeditionMaxLevel": 0,
+        "_heroTag": [],
+        "_fragment": 0,
+        "_superSkillResetCount": 0,
+        "_potentialResetCount": 0,
+        "_heroBaseAttr": {
+          "_level": 1,
+          "_evolveLevel": 0
+        },
+        "_superSkillLevel": {},
+        "_potentialLevel": {},
+        "_qigong": {},
+        "_qigongTmp": {},
+        "_qigongStage": 1
+      }
+    },
+    "guideSteps": {
+      "1": 2101
+    },
+    "headImage": 1,
+    "nickName": "jogador1",
+    "hasEnteredGame": true,
+    "auth": {
+      "salt": "c509eab42136553f",
+      "hash": "915ec41cd8b177cce4e5e3c16fdb874534ebd10c3a4dfb2129ab312b7eeb6a23"
+    }
   }
 }
