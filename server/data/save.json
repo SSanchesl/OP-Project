@@ -31,7 +31,10 @@
         "_qigongStage": 1
       }
     },
-    "hasEnteredGame": true
+    "hasEnteredGame": true,
+    "guideSteps": {
+      "1": 2101
+    }
   },
   "jogador1": {
     "userId": "jogador1",

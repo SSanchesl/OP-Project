@@ -1,0 +1,17 @@
+{"file":"main1.png","frames":{
+"0":{"x":55,"y":28,"w":23,"h":27,"offX":2,"offY":2,"sourceW":27,"sourceH":30},
+"1":{"x":30,"y":59,"w":18,"h":28,"offX":2,"offY":1,"sourceW":22,"sourceH":30},
+"2":{"x":22,"y":87,"w":21,"h":26,"offX":2,"offY":3,"sourceW":25,"sourceH":30},
+"3":{"x":100,"y":28,"w":22,"h":26,"offX":2,"offY":2,"sourceW":26,"sourceH":30},
+"4":{"x":62,"y":0,"w":23,"h":28,"offX":2,"offY":1,"sourceW":27,"sourceH":30},
+"5":{"x":31,"y":28,"w":24,"h":28,"offX":2,"offY":1,"sourceW":28,"sourceH":30},
+"6":{"x":0,"y":87,"w":22,"h":29,"offX":2,"offY":1,"sourceW":26,"sourceH":30},
+"7":{"x":107,"y":0,"w":21,"h":28,"offX":2,"offY":2,"sourceW":25,"sourceH":30},
+"8":{"x":85,"y":0,"w":22,"h":28,"offX":2,"offY":1,"sourceW":26,"sourceH":30},
+"9":{"x":78,"y":28,"w":22,"h":28,"offX":2,"offY":2,"sourceW":26,"sourceH":30},
+"-":{"x":0,"y":116,"w":23,"h":10,"offX":2,"offY":10,"sourceW":27,"sourceH":30},
+"章":{"x":31,"y":0,"w":31,"h":28,"offX":2,"offY":1,"sourceW":35,"sourceH":30},
+"节":{"x":0,"y":0,"w":31,"h":30,"offX":2,"offY":0,"sourceW":35,"sourceH":30},
+"第":{"x":0,"y":30,"w":31,"h":29,"offX":2,"offY":0,"sourceW":35,"sourceH":30},
+"关":{"x":0,"y":59,"w":30,"h":28,"offX":2,"offY":1,"sourceW":34,"sourceH":30},
+" ":{"x":122,"y":28,"w":5,"h":5,"offX":0,"offY":0,"sourceW":7,"sourceH":30}}}

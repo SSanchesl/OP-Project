@@ -1,0 +1,17 @@
+{"file":"common7.png","frames":{
+"+":{"x":0,"y":69,"w":22,"h":21,"offX":2,"offY":6,"sourceW":26,"sourceH":36},
+"-":{"x":22,"y":69,"w":15,"h":11,"offX":2,"offY":13,"sourceW":19,"sourceH":36},
+"0":{"x":80,"y":32,"w":24,"h":33,"offX":2,"offY":0,"sourceW":28,"sourceH":36},
+"1":{"x":48,"y":68,"w":18,"h":32,"offX":2,"offY":0,"sourceW":22,"sourceH":36},
+"2":{"x":80,"y":0,"w":25,"h":32,"offX":2,"offY":0,"sourceW":29,"sourceH":36},
+"3":{"x":95,"y":65,"w":23,"h":33,"offX":2,"offY":0,"sourceW":27,"sourceH":36},
+"4":{"x":48,"y":36,"w":24,"h":32,"offX":2,"offY":0,"sourceW":28,"sourceH":36},
+"5":{"x":24,"y":36,"w":24,"h":33,"offX":2,"offY":0,"sourceW":28,"sourceH":36},
+"6":{"x":0,"y":36,"w":24,"h":33,"offX":2,"offY":0,"sourceW":28,"sourceH":36},
+"7":{"x":105,"y":0,"w":21,"h":32,"offX":2,"offY":0,"sourceW":25,"sourceH":36},
+"8":{"x":72,"y":65,"w":23,"h":33,"offX":2,"offY":0,"sourceW":27,"sourceH":36},
+"9":{"x":104,"y":32,"w":24,"h":33,"offX":2,"offY":0,"sourceW":28,"sourceH":36},
+".":{"x":22,"y":80,"w":12,"h":12,"offX":2,"offY":20,"sourceW":16,"sourceH":36},
+"万":{"x":40,"y":0,"w":40,"h":36,"offX":2,"offY":0,"sourceW":44,"sourceH":36},
+"亿":{"x":0,"y":0,"w":40,"h":36,"offX":2,"offY":0,"sourceW":44,"sourceH":36},
+" ":{"x":72,"y":36,"w":5,"h":5,"offX":0,"offY":0,"sourceW":7,"sourceH":36}}}

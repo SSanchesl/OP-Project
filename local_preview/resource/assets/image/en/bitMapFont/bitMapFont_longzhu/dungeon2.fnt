@@ -1,0 +1,13 @@
+{"file":"dungeon2.png","frames":{
+"0":{"x":53,"y":51,"w":38,"h":50,"offX":2,"offY":4,"sourceW":42,"sourceH":55},
+"1":{"x":95,"y":0,"w":25,"h":51,"offX":2,"offY":2,"sourceW":29,"sourceH":55},
+"2":{"x":69,"y":154,"w":34,"h":48,"offX":2,"offY":5,"sourceW":38,"sourceH":55},
+"3":{"x":34,"y":152,"w":35,"h":48,"offX":2,"offY":4,"sourceW":39,"sourceH":55},
+"4":{"x":53,"y":0,"w":42,"h":51,"offX":2,"offY":2,"sourceW":46,"sourceH":55},
+"5":{"x":36,"y":101,"w":36,"h":51,"offX":2,"offY":2,"sourceW":40,"sourceH":55},
+"6":{"x":91,"y":51,"w":36,"h":52,"offX":2,"offY":3,"sourceW":40,"sourceH":55},
+"7":{"x":0,"y":54,"w":36,"h":52,"offX":2,"offY":3,"sourceW":40,"sourceH":55},
+"8":{"x":72,"y":103,"w":36,"h":51,"offX":2,"offY":3,"sourceW":40,"sourceH":55},
+"9":{"x":0,"y":106,"w":34,"h":52,"offX":2,"offY":3,"sourceW":38,"sourceH":55},
+"关":{"x":0,"y":0,"w":53,"h":54,"offX":2,"offY":0,"sourceW":57,"sourceH":55},
+" ":{"x":120,"y":0,"w":5,"h":5,"offX":0,"offY":0,"sourceW":12,"sourceH":55}}}
